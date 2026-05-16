@@ -1,413 +1,389 @@
 window.CROWN_GAMES = [
   {
-    "id": "class6x-12-mini-battles-2",
+    "id": "crown-12-mini-battles-2",
     "title": "12 Mini Battles 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/12-mini-battles-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-12-mini-battles-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/12-mini-battles-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-12-minibattles",
+    "id": "crown-12-minibattles",
     "title": "12 Minibattles",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/12-minibattles.html",
     "thumbnail": "assets/thumbs/class6x/class6x-12-minibattles.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/12-minibattles/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-8bit-fiesta",
+    "id": "crown-8bit-fiesta",
     "title": "8bit Fiesta",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/8bit-fiesta.html",
     "thumbnail": "assets/thumbs/class6x/class6x-8bit-fiesta.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/8bit-fiesta/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-animal-arena",
+    "id": "crown-animal-arena",
     "title": "Animal Arena",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/animal-arena.html",
     "thumbnail": "assets/thumbs/class6x/class6x-animal-arena.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/animal-arena/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "bacon-may-die-https-sites-google-com-lindberghschools-ws-crown-official-bacon-ma",
+    "id": "crown-bacon-may-die",
     "title": "Bacon May Die",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/bacon-may-die.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bacon-may-die.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/bacon-may-die/",
     "class6xPage": "https://class6x.gitlab.io/game/bacon-may-die.html"
   },
   {
-    "id": "class6x-bad-ice-cream-2",
+    "id": "crown-bad-ice-cream-2",
     "title": "Bad Ice-Cream 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/bad-ice-cream-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bad-ice-cream-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bad-ice-cream-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bad-ice-cream-3",
+    "id": "crown-bad-ice-cream-3",
     "title": "Bad Ice-Cream 3",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/bad-ice-cream-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bad-ice-cream-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bad-ice-cream-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-basket-bros",
+    "id": "crown-basket-bros",
     "title": "Basket Bros",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/basket-bros.html",
     "thumbnail": "assets/thumbs/class6x/class6x-basket-bros.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/basket-bros/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-basket-random",
+    "id": "crown-basket-random",
     "title": "Basket Random",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/basket-random.html",
     "thumbnail": "assets/thumbs/class6x/class6x-basket-random.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/basket-random/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-basket-swooshes",
+    "id": "crown-basket-swooshes",
     "title": "Basket Swooshes",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/basket-swooshes.html",
     "thumbnail": "assets/thumbs/class6x/class6x-basket-swooshes.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/basket-swooshes/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "basket-ball-stars-https-sites-google-com-lindberghschools-ws-crown-official-bask",
+    "id": "crown-basket-ball-stars",
     "title": "Basket-Ball Stars",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/basketball-stars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-basketball-stars.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/basketball-stars/",
     "class6xPage": "https://class6x.gitlab.io/game/basketball-stars.html"
   },
   {
-    "id": "class6x-basketball-legends",
+    "id": "crown-basketball-legends",
     "title": "Basketball Legends",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/basketball-legends.html",
     "thumbnail": "assets/thumbs/class6x/class6x-basketball-legends.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/basketball-legends/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-battle-golf",
+    "id": "crown-battle-golf",
     "title": "Battle golf",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/battle-golf.html",
     "thumbnail": "assets/thumbs/class6x/class6x-battle-golf.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/battle-golf/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-battle-wheels",
+    "id": "crown-battle-wheels",
     "title": "Battle Wheels",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/battle-wheels.html",
     "thumbnail": "assets/thumbs/class6x/class6x-battle-wheels.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/battle-wheels/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bearsus",
+    "id": "crown-bearsus",
     "title": "Bearsus",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/bearsus.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bearsus.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bearsus/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blumgi-castle",
+    "id": "crown-blumgi-castle",
     "title": "Blumgi Castle",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/blumgi-castle.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blumgi-castle.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blumgi-castle/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blumgi-dragon",
+    "id": "crown-blumgi-dragon",
     "title": "Blumgi Dragon",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/blumgi-dragon.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blumgi-dragon.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blumgi-dragon/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blumgi-slime",
+    "id": "crown-blumgi-slime",
     "title": "Blumgi Slime",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/blumgi-slime.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blumgi-slime.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blumgi-slime/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bouncy-basketball",
+    "id": "crown-bouncy-basketball",
     "title": "Bouncy basketball",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/bouncy-basketball.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bouncy-basketball.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bouncy-basketball/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-boxing-physics-2",
+    "id": "crown-boxing-physics-2",
     "title": "Boxing Physics 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/boxing-physics-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-boxing-physics-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/boxing-physics-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-boxing-random",
+    "id": "crown-boxing-random",
     "title": "Boxing Random",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/boxing-random.html",
     "thumbnail": "assets/thumbs/class6x/class6x-boxing-random.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/boxing-random/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bubble-trouble",
+    "id": "crown-bubble-trouble",
     "title": "Bubble Trouble",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/bubble-trouble.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bubble-trouble.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bubble-trouble/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Shooting",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bubble-trouble-3",
+    "id": "crown-bubble-trouble-3",
     "title": "Bubble Trouble 3",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/bubble-trouble-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bubble-trouble-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bubble-trouble-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Shooting",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bumper-cars-soccer",
+    "id": "crown-bumper-cars-soccer",
     "title": "Bumper Cars Soccer",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/bumper-cars-soccer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bumper-cars-soccer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bumper-cars-soccer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "3D",
@@ -415,55 +391,52 @@ window.CROWN_GAMES = [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-castle-of-chaos",
+    "id": "crown-castle-of-chaos",
     "title": "Castle of Chaos",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/castle-of-chaos.html",
     "thumbnail": "assets/thumbs/class6x/class6x-castle-of-chaos.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/castle-of-chaos/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-court-kings-3d",
+    "id": "crown-court-kings-3d",
     "title": "Court Kings 3D",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/court-kings-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-court-kings-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/court-kings-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "3D",
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-crazy-cars-unblocked",
-    "title": "Crazy Cars Unblocked",
+    "id": "crown-crazy-cars",
+    "title": "Crazy Cars",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/crazy-cars.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-crazy-cars-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-crazy-cars-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/crazy-cars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
@@ -472,37 +445,35 @@ window.CROWN_GAMES = [
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cubies",
+    "id": "crown-cubies",
     "title": "Cubies",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/cubies.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cubies.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cubies/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "3D",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cyber-cars-punk-racing",
+    "id": "crown-cyber-cars-punk-racing",
     "title": "Cyber Cars Punk Racing",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/cyber-cars-punk-racing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cyber-cars-punk-racing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cyber-cars-punk-racing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "3D",
@@ -511,70 +482,66 @@ window.CROWN_GAMES = [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-darts-pro",
+    "id": "crown-darts-pro",
     "title": "Darts Pro",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/darts-pro.html",
     "thumbnail": "assets/thumbs/class6x/class6x-darts-pro.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/darts-pro/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dunkers",
+    "id": "crown-dunkers",
     "title": "Dunkers",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/dunkers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dunkers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dunkers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-farm-battles",
+    "id": "crown-farm-battles",
     "title": "Farm Battles",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/farm-battles.html",
     "thumbnail": "assets/thumbs/class6x/class6x-farm-battles.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/farm-battles/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fireboy-and-watergirl-1-forest-temple",
+    "id": "crown-fireboy-and-watergirl-1-forest-temple",
     "title": "Fireboy and Watergirl 1: Forest Temple",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/fireboy-and-watergirl-1-forest-temple.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fireboy-and-watergirl-1-forest-temple.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fireboy-and-watergirl-1-forest-temple/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
@@ -582,618 +549,582 @@ window.CROWN_GAMES = [
       "Skill",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fireboy-and-watergirl-2-light-temple",
+    "id": "crown-fireboy-and-watergirl-2-light-temple",
     "title": "Fireboy and Watergirl 2: Light Temple",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/fireboy-and-watergirl-2-light-temple.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fireboy-and-watergirl-2-light-temple.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fireboy-and-watergirl-2-light-temple/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fireboy-and-watergirl-3-ice-temple",
+    "id": "crown-fireboy-and-watergirl-3-ice-temple",
     "title": "Fireboy and Watergirl 3: Ice Temple",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/fireboy-and-watergirl-3-ice-temple.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fireboy-and-watergirl-3-ice-temple.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fireboy-and-watergirl-3-ice-temple/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fireboy-and-watergirl-4-crystal-temple",
+    "id": "crown-fireboy-and-watergirl-4-crystal-temple",
     "title": "Fireboy and Watergirl 4: Crystal Temple",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/fireboy-and-watergirl-4-crystal-temple.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fireboy-and-watergirl-4-crystal-temple.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fireboy-and-watergirl-4-crystal-temple/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fireboy-and-watergirl-5-elements",
+    "id": "crown-fireboy-and-watergirl-5-elements",
     "title": "Fireboy and Watergirl 5: Elements",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/fireboy-and-watergirl-5-elements.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fireboy-and-watergirl-5-elements.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fireboy-and-watergirl-5-elements/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fireboy-and-watergirl-6-fairy-tales",
+    "id": "crown-fireboy-and-watergirl-6-fairy-tales",
     "title": "Fireboy and Watergirl 6: Fairy Tales",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/fireboy-and-watergirl-6-fairy-tales.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fireboy-and-watergirl-6-fairy-tales.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fireboy-and-watergirl-6-fairy-tales/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-football-blitz",
+    "id": "crown-football-blitz",
     "title": "Football Blitz",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/football-blitz.html",
     "thumbnail": "assets/thumbs/class6x/class6x-football-blitz.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/football-blitz/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-football-legends",
+    "id": "crown-football-legends",
     "title": "Football Legends",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/football-legends.html",
     "thumbnail": "assets/thumbs/class6x/class6x-football-legends.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/football-legends/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-football-masters",
+    "id": "crown-football-masters",
     "title": "Football Masters",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/football-masters.html",
     "thumbnail": "assets/thumbs/class6x/class6x-football-masters.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/football-masters/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fortz",
+    "id": "crown-fortz",
     "title": "Fortz",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/fortz.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fortz.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fortz/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-four-in-a-row",
+    "id": "crown-four-in-a-row",
     "title": "Four in a Row",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/four-in-a-row.html",
     "thumbnail": "assets/thumbs/class6x/class6x-four-in-a-row.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/four-in-a-row/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-g-switch-3",
+    "id": "crown-g-switch-3",
     "title": "G Switch 3",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/g-switch-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-g-switch-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/g-switch-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-g-switch-4",
+    "id": "crown-g-switch-4",
     "title": "G-switch 4",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/g-switch-4.html",
     "thumbnail": "assets/thumbs/class6x/class6x-g-switch-4.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/g-switch-4/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "get-away-shoot-out-https-sites-google-com-lindberghschools-ws-crown-official-get",
+    "id": "crown-get-away-shoot-out",
     "title": "Get Away Shoot Out",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/getaway-shootout.html",
     "thumbnail": "assets/thumbs/class6x/class6x-getaway-shootout.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/getaway-shootout/",
     "class6xPage": "https://class6x.gitlab.io/game/getaway-shootout.html"
   },
   {
-    "id": "class6x-go-kart-go-ultra",
+    "id": "crown-go-kart-go-ultra",
     "title": "Go Kart Go Ultra",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/go-kart-go-ultra.html",
     "thumbnail": "assets/thumbs/class6x/class6x-go-kart-go-ultra.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/go-kart-go-ultra/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "gun-mayhem-2-https-sites-google-com-lindberghschools-ws-crown-official-gun-mayhe",
+    "id": "crown-gun-mayhem-2",
     "title": "Gun Mayhem 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/gun-mayhem-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gun-mayhem-2.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/gun-mayhem-2/",
     "class6xPage": "https://class6x.gitlab.io/game/gun-mayhem-2.html"
   },
   {
-    "id": "class6x-head-soccer-2023",
+    "id": "crown-head-soccer-2023",
     "title": "Head Soccer 2023",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/head-soccer-2023.html",
     "thumbnail": "assets/thumbs/class6x/class6x-head-soccer-2023.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/head-soccer-2023/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-heads-arena-soccer-all-stars",
+    "id": "crown-heads-arena-soccer-all-stars",
     "title": "Heads Arena Soccer All Stars",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/heads-arena-soccer-all-stars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-heads-arena-soccer-all-stars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/heads-arena-soccer-all-stars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-heart-star",
+    "id": "crown-heart-star",
     "title": "Heart Star",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/heart-star.html",
     "thumbnail": "assets/thumbs/class6x/class6x-heart-star.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/heart-star/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-heart-star-unblocked",
-    "title": "Heart Star Unblocked",
+    "id": "crown-heart-star-2",
+    "title": "Heart Star",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/heart-star-html5.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-heart-star-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-heart-star-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/heart-star-html5/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-house-of-hazards",
+    "id": "crown-house-of-hazards",
     "title": "House Of Hazards",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/house-of-hazards.html",
     "thumbnail": "assets/thumbs/class6x/class6x-house-of-hazards.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/house-of-hazards/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Skill",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-last-warriors",
+    "id": "crown-last-warriors",
     "title": "Last Warriors",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/last-warriors.html",
     "thumbnail": "assets/thumbs/class6x/class6x-last-warriors.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/last-warriors/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "level-devil-https-sites-google-com-lindberghschools-ws-crown-official-level-devi",
+    "id": "crown-level-devil",
     "title": "level devil",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/level-devil.html",
     "thumbnail": "assets/thumbs/class6x/class6x-level-devil.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/level-devil/",
     "class6xPage": "https://class6x.gitlab.io/game/level-devil.html"
   },
   {
-    "id": "class6x-lords-of-gomoku",
+    "id": "crown-lords-of-gomoku",
     "title": "Lords Of Gomoku",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/lords-of-gomoku.html",
     "thumbnail": "assets/thumbs/class6x/class6x-lords-of-gomoku.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/lords-of-gomoku/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ludo-multiplayer",
+    "id": "crown-ludo-multiplayer",
     "title": "Ludo Multiplayer",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/ludo-multiplayer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ludo-multiplayer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ludo-multiplayer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-master-checkers",
+    "id": "crown-master-checkers",
     "title": "Master Checkers",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/master-checkers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-master-checkers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/master-checkers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-master-chess",
+    "id": "crown-master-chess",
     "title": "Master Chess",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/master-chess.html",
     "thumbnail": "assets/thumbs/class6x/class6x-master-chess.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/master-chess/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-minibattles",
+    "id": "crown-minibattles",
     "title": "Minibattles",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/minibattles.html",
     "thumbnail": "assets/thumbs/class6x/class6x-minibattles.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/minibattles/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-space-racing-2-player",
+    "id": "crown-moto-space-racing-2-player",
     "title": "Moto Space Racing: 2 Player",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/moto-space-racing-2-player.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-space-racing-2-player.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-space-racing-2-player/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-trial-racing-2-unblocked",
-    "title": "Moto Trial Racing 2 Unblocked",
+    "id": "crown-moto-trial-racing-2",
+    "title": "Moto Trial Racing 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/moto-trial-racing-2.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-moto-trial-racing-2-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-moto-trial-racing-2-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-trial-racing-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-nugget-royale",
+    "id": "crown-nugget-royale",
     "title": "Nugget Royale",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/nugget-royale.html",
     "thumbnail": "assets/thumbs/class6x/class6x-nugget-royale.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/nugget-royale/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ooze-odyssey",
+    "id": "crown-ooze-odyssey",
     "title": "Ooze Odyssey",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/ooze-odyssey.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ooze-odyssey.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ooze-odyssey/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-paper-fighter-3d",
+    "id": "crown-paper-fighter-3d",
     "title": "Paper Fighter 3D",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/paper-fighter-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-paper-fighter-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/paper-fighter-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ping-pong-chaos",
+    "id": "crown-ping-pong-chaos",
     "title": "Ping Pong Chaos",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/ping-pong-chaos.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ping-pong-chaos.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ping-pong-chaos/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-poor-bunny",
+    "id": "crown-poor-bunny",
     "title": "Poor Bunny",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/poor-bunny.html",
     "thumbnail": "assets/thumbs/class6x/class6x-poor-bunny.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/poor-bunny/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Skill",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ragdoll-hit",
+    "id": "crown-ragdoll-hit",
     "title": "Ragdoll Hit",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/ragdoll-hit.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ragdoll-hit.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ragdoll-hit/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-real-cars-in-city",
+    "id": "crown-real-cars-in-city",
     "title": "Real Cars In City",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/real-cars-in-city.html",
     "thumbnail": "assets/thumbs/class6x/class6x-real-cars-in-city.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/real-cars-in-city/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "3D",
@@ -1201,164 +1132,155 @@ window.CROWN_GAMES = [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rooftop-snipers-2",
+    "id": "crown-rooftop-snipers-2",
     "title": "Rooftop Snipers 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/rooftop-snipers-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rooftop-snipers-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rooftop-snipers-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Shooting",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rowdy-wrestling",
+    "id": "crown-rowdy-wrestling",
     "title": "Rowdy Wrestling",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/rowdy-wrestling.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rowdy-wrestling.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rowdy-wrestling/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-shady-bears",
+    "id": "crown-shady-bears",
     "title": "Shady Bears",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/shady-bears.html",
     "thumbnail": "assets/thumbs/class6x/class6x-shady-bears.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/shady-bears/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Skill",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sink-it",
+    "id": "crown-sink-it",
     "title": "Sink It",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/sink-it.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sink-it.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sink-it/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Shooting",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-snakes-and-ladders",
+    "id": "crown-snakes-and-ladders",
     "title": "Snakes and Ladders",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/snakes-and-ladders.html",
     "thumbnail": "assets/thumbs/class6x/class6x-snakes-and-ladders.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/snakes-and-ladders/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-soccer-random",
+    "id": "crown-soccer-random",
     "title": "Soccer Random",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/soccer-random.html",
     "thumbnail": "assets/thumbs/class6x/class6x-soccer-random.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/soccer-random/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-squish-run",
+    "id": "crown-squish-run",
     "title": "Squish Run",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/squish-run.html",
     "thumbnail": "assets/thumbs/class6x/class6x-squish-run.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/squish-run/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stick-fighter",
+    "id": "crown-stick-fighter",
     "title": "Stick Fighter",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/stick-fighter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stick-fighter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stick-fighter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
       "Multiplayer",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-climb-2",
+    "id": "crown-stickman-climb-2",
     "title": "Stickman Climb 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-climb-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-climb-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-climb-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
@@ -1366,38 +1288,36 @@ window.CROWN_GAMES = [
       "Stickman",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-crazy-box",
+    "id": "crown-stickman-crazy-box",
     "title": "Stickman crazy box",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-crazy-box.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-crazy-box.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-crazy-box/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Skill",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-fight-ragdoll",
+    "id": "crown-stickman-fight-ragdoll",
     "title": "Stickman fight ragdoll",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-fight-ragdoll.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-fight-ragdoll.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-fight-ragdoll/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
@@ -1406,74 +1326,70 @@ window.CROWN_GAMES = [
       "Stickman",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-striker-dummies",
+    "id": "crown-striker-dummies",
     "title": "Striker Dummies",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/striker-dummies.html",
     "thumbnail": "assets/thumbs/class6x/class6x-striker-dummies.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/striker-dummies/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "3D",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sumo-party",
+    "id": "crown-sumo-party",
     "title": "Sumo Party",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/sumo-party.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sumo-party.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sumo-party/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-superbattle-2",
+    "id": "crown-superbattle-2",
     "title": "Superbattle 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/superbattle-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-superbattle-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/superbattle-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tag",
+    "id": "crown-tag",
     "title": "Tag",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/tag.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tag.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tag/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Running",
@@ -1481,19 +1397,18 @@ window.CROWN_GAMES = [
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tag-2",
+    "id": "crown-tag-2",
     "title": "Tag 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/tag-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tag-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tag-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "2 Player",
@@ -1503,387 +1418,365 @@ window.CROWN_GAMES = [
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tank-trouble-2",
+    "id": "crown-tank-trouble-2",
     "title": "Tank Trouble 2",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/tank-trouble-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tank-trouble-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tank-trouble-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tennis-masters-unblocked",
-    "title": "Tennis Masters Unblocked",
+    "id": "crown-tennis-masters",
+    "title": "Tennis Masters",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/tennis-masters.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-tennis-masters-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-tennis-masters-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tennis-masters/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-thumb-fighter",
+    "id": "crown-thumb-fighter",
     "title": "Thumb Fighter",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/thumb-fighter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-thumb-fighter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/thumb-fighter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-thumb-fighter-christmas",
+    "id": "crown-thumb-fighter-christmas",
     "title": "Thumb Fighter Christmas",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/thumb-fighter-christmas.html",
     "thumbnail": "assets/thumbs/class6x/class6x-thumb-fighter-christmas.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/thumb-fighter-christmas/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tictactoe",
+    "id": "crown-tictactoe",
     "title": "Tictactoe",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/tictactoe.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tictactoe.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tictactoe/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-touchdowners",
+    "id": "crown-touchdowners",
     "title": "Touchdowners",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/touchdowners.html",
     "thumbnail": "assets/thumbs/class6x/class6x-touchdowners.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/touchdowners/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-two-ball-3d-dark",
+    "id": "crown-two-ball-3d-dark",
     "title": "Two Ball 3d Dark",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/two-ball-3d-dark.html",
     "thumbnail": "assets/thumbs/class6x/class6x-two-ball-3d-dark.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/two-ball-3d-dark/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-two-button-bounce",
+    "id": "crown-two-button-bounce",
     "title": "Two Button Bounce",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/two-button-bounce.html",
     "thumbnail": "assets/thumbs/class6x/class6x-two-button-bounce.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/two-button-bounce/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-two-neon-boxes",
+    "id": "crown-two-neon-boxes",
     "title": "Two Neon Boxes",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/two-neon-boxes.html",
     "thumbnail": "assets/thumbs/class6x/class6x-two-neon-boxes.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/two-neon-boxes/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-volley-random",
+    "id": "crown-volley-random",
     "title": "Volley Random",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/volley-random.html",
     "thumbnail": "assets/thumbs/class6x/class6x-volley-random.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/volley-random/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-volleyball-challenge",
+    "id": "crown-volleyball-challenge",
     "title": "Volleyball Challenge",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/volleyball-challenge.html",
     "thumbnail": "assets/thumbs/class6x/class6x-volleyball-challenge.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/volleyball-challenge/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-water-polo-ragdoll",
+    "id": "crown-water-polo-ragdoll",
     "title": "Water Polo Ragdoll",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/water-polo-ragdoll.html",
     "thumbnail": "assets/thumbs/class6x/class6x-water-polo-ragdoll.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/water-polo-ragdoll/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-wrassling",
+    "id": "crown-wrassling",
     "title": "Wrassling",
     "category": "2 Player",
-    "originalPage": "https://class6x.gitlab.io/game/wrassling.html",
     "thumbnail": "assets/thumbs/class6x/class6x-wrassling.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/wrassling/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "2 Player",
       "Multiplayer",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-2-minute-football",
+    "id": "crown-2-minute-football",
     "title": "2 minute football",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/2-minute-football.html",
     "thumbnail": "assets/thumbs/class6x/class6x-2-minute-football.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/2-minute-football/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-3d-car-simulator",
+    "id": "crown-3d-car-simulator",
     "title": "3d Car Simulator",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/3d-car-simulator.html",
     "thumbnail": "assets/thumbs/class6x/class6x-3d-car-simulator.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/3d-car-simulator/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-3d-moto-simulator-2",
+    "id": "crown-3d-moto-simulator-2",
     "title": "3d Moto Simulator 2",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/3d-moto-simulator-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-3d-moto-simulator-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/3d-moto-simulator-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-a-dance-of-fire-and-ice",
+    "id": "crown-a-dance-of-fire-and-ice",
     "title": "A Dance Of Fire And Ice",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/a-dance-of-fire-and-ice.html",
     "thumbnail": "assets/thumbs/class6x/class6x-a-dance-of-fire-and-ice.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/a-dance-of-fire-and-ice/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
       "Skill",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-athletics-hero",
+    "id": "crown-athletics-hero",
     "title": "Athletics Hero",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/athletics-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-athletics-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/athletics-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blocky-cars",
+    "id": "crown-blocky-cars",
     "title": "Blocky Cars",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/blocky-cars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blocky-cars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blocky-cars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Racing",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bomber-royale",
+    "id": "crown-bomber-royale",
     "title": "Bomber Royale",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/bomber-royale.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bomber-royale.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bomber-royale/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bowling-stars",
+    "id": "crown-bowling-stars",
     "title": "Bowling Stars",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/bowling-stars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bowling-stars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bowling-stars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bullet-force",
+    "id": "crown-bullet-force",
     "title": "Bullet Force",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/bullet-force.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bullet-force.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bullet-force/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
@@ -1891,773 +1784,728 @@ window.CROWN_GAMES = [
       "Shooting",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-burger-bounty",
+    "id": "crown-burger-bounty",
     "title": "Burger Bounty",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/burger-bounty.html",
     "thumbnail": "assets/thumbs/class6x/class6x-burger-bounty.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/burger-bounty/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-burnin-rubber-crash-n-burn",
+    "id": "crown-burnin-rubber-crash-n-burn",
     "title": "Burnin' Rubber Crash n' Burn",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/burnin-rubber-crash-n-burn.html",
     "thumbnail": "assets/thumbs/class6x/class6x-burnin-rubber-crash-n-burn.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/burnin-rubber-crash-n-burn/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cars-thief",
+    "id": "crown-cars-thief",
     "title": "Cars Thief",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/cars-thief.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cars-thief.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cars-thief/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cat-room-blast",
+    "id": "crown-cat-room-blast",
     "title": "Cat Room Blast",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/cat-room-blast.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cat-room-blast.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cat-room-blast/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-city-rider",
+    "id": "crown-city-rider",
     "title": "City Rider",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/city-rider.html",
     "thumbnail": "assets/thumbs/class6x/class6x-city-rider.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/city-rider/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "cluster-rush-https-sites-google-com-lindberghschools-ws-crown-official-cluster-r",
+    "id": "crown-cluster-rush",
     "title": "Cluster rush",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/cluster-rush.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cluster-rush.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/cluster-rush/",
     "class6xPage": "https://class6x.gitlab.io/game/cluster-rush.html"
   },
   {
-    "id": "class6x-colorup",
+    "id": "crown-colorup",
     "title": "ColorUp",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/colorup.html",
     "thumbnail": "assets/thumbs/class6x/class6x-colorup.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/colorup/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cozy-room-design",
+    "id": "crown-cozy-room-design",
     "title": "Cozy Room Design",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/cozy-room-design.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cozy-room-design.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cozy-room-design/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-crazy-tunnel-3d",
+    "id": "crown-crazy-tunnel-3d",
     "title": "Crazy Tunnel 3d",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/crazy-tunnel-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-crazy-tunnel-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/crazy-tunnel-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-curve-ball-3d",
+    "id": "crown-curve-ball-3d",
     "title": "Curve Ball 3D",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/curve-ball-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-curve-ball-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/curve-ball-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-death-run-3d",
+    "id": "crown-death-run-3d",
     "title": "Death Run 3d",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/death-run-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-death-run-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/death-run-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-deer-simulator",
+    "id": "crown-deer-simulator",
     "title": "Deer Simulator",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/deer-simulator.html",
     "thumbnail": "assets/thumbs/class6x/class6x-deer-simulator.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/deer-simulator/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dog-simulator-3d",
+    "id": "crown-dog-simulator-3d",
     "title": "Dog Simulator 3D",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/dog-simulator-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dog-simulator-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dog-simulator-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drift-boss-https-sites-google-com-lindberghschools-ws-crown-official-drift-boss",
+    "id": "crown-drift-boss",
     "title": "Drift Boss",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/drift-boss.html",
     "thumbnail": "assets/thumbs/class6x/class6x-drift-boss.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/drift-boss/",
     "class6xPage": "https://class6x.gitlab.io/game/drift-boss.html"
   },
   {
-    "id": "class6x-driftwave",
+    "id": "crown-driftwave",
     "title": "Driftwave",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/driftwave.html",
     "thumbnail": "assets/thumbs/class6x/class6x-driftwave.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/driftwave/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-mad-https-sites-google-com-lindberghschools-ws-crown-official-drive-mad",
+    "id": "crown-drive-mad",
     "title": "Drive Mad",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/drive-mad.html",
     "thumbnail": "assets/thumbs/class6x/class6x-drive-mad.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/drive-mad/",
     "class6xPage": "https://class6x.gitlab.io/game/drive-mad.html"
   },
   {
-    "id": "class6x-dunk-perfect",
+    "id": "crown-dunk-perfect",
     "title": "Dunk perfect",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/dunk-perfect.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dunk-perfect.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dunk-perfect/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-flying-car-simulator-unblocked",
-    "title": "Flying Car Simulator Unblocked",
+    "id": "crown-flying-car-simulator",
+    "title": "Flying Car Simulator",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/flying-car-simulator.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-flying-car-simulator-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-flying-car-simulator-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/flying-car-simulator/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Skill",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fox-simulator-3d",
+    "id": "crown-fox-simulator-3d",
     "title": "Fox Simulator 3D",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/fox-simulator-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fox-simulator-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fox-simulator-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-free-kick-shooter",
+    "id": "crown-free-kick-shooter",
     "title": "Free Kick Shooter",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/free-kick-shooter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-free-kick-shooter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/free-kick-shooter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-funny-shooter-2",
+    "id": "crown-funny-shooter-2",
     "title": "Funny Shooter 2",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/funny-shooter-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-funny-shooter-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/funny-shooter-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
       "Shooting",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fury-wars",
+    "id": "crown-fury-wars",
     "title": "Fury wars",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/fury-wars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fury-wars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fury-wars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-gladiator-true-story",
+    "id": "crown-gladiator-true-story",
     "title": "Gladiator True Story",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/gladiator-true-story.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gladiator-true-story.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/gladiator-true-story/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-goat-vs-zombies",
+    "id": "crown-goat-vs-zombies",
     "title": "Goat vs Zombies",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/goat-vs-zombies.html",
     "thumbnail": "assets/thumbs/class6x/class6x-goat-vs-zombies.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/goat-vs-zombies/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-gobdun",
+    "id": "crown-gobdun",
     "title": "Gobdun",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/gobdun.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gobdun.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/gobdun/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-golf-champions",
+    "id": "crown-golf-champions",
     "title": "Golf Champions",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/golf-champions.html",
     "thumbnail": "assets/thumbs/class6x/class6x-golf-champions.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/golf-champions/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-grand-prix-hero",
+    "id": "crown-grand-prix-hero",
     "title": "Grand Prix Hero",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/grand-prix-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-grand-prix-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/grand-prix-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hammer-2-reloaded",
+    "id": "crown-hammer-2-reloaded",
     "title": "Hammer 2 Reloaded",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/hammer-2-reloaded.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hammer-2-reloaded.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hammer-2-reloaded/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hide-and-smash",
+    "id": "crown-hide-and-smash",
     "title": "Hide and Smash",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/hide-and-smash.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hide-and-smash.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hide-and-smash/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Skill",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-highway-racer-3d",
+    "id": "crown-highway-racer-3d",
     "title": "Highway Racer 3d",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/highway-racer-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-highway-racer-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/highway-racer-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-highway-rider-extreme",
+    "id": "crown-highway-rider-extreme",
     "title": "Highway Rider Extreme",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/highway-rider-extreme.html",
     "thumbnail": "assets/thumbs/class6x/class6x-highway-rider-extreme.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/highway-rider-extreme/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-horse-shoeing",
+    "id": "crown-horse-shoeing",
     "title": "Horse Shoeing",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/horse-shoeing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-horse-shoeing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/horse-shoeing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-horse-simulator-3d",
+    "id": "crown-horse-simulator-3d",
     "title": "Horse Simulator 3D",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/horse-simulator-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-horse-simulator-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/horse-simulator-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hover-racer-drive",
+    "id": "crown-hover-racer-drive",
     "title": "Hover Racer Drive",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/hover-racer-drive.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hover-racer-drive.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hover-racer-drive/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-idle-ants",
+    "id": "crown-idle-ants",
     "title": "Idle Ants",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/idle-ants.html",
     "thumbnail": "assets/thumbs/class6x/class6x-idle-ants.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/idle-ants/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-idle-digging-tycoon",
+    "id": "crown-idle-digging-tycoon",
     "title": "Idle Digging Tycoon",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/idle-digging-tycoon.html",
     "thumbnail": "assets/thumbs/class6x/class6x-idle-digging-tycoon.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/idle-digging-tycoon/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-idle-lumber-inc",
+    "id": "crown-idle-lumber-inc",
     "title": "Idle Lumber Inc",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/idle-lumber-inc.html",
     "thumbnail": "assets/thumbs/class6x/class6x-idle-lumber-inc.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/idle-lumber-inc/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-infinite-soccer",
+    "id": "crown-infinite-soccer",
     "title": "Infinite Soccer",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/infinite-soccer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-infinite-soccer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/infinite-soccer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jamming-car-escape",
+    "id": "crown-jamming-car-escape",
     "title": "Jamming Car Escape",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/jamming-car-escape.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jamming-car-escape.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jamming-car-escape/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-kubi-pets",
+    "id": "crown-kubi-pets",
     "title": "Kubi Pets",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/kubi-pets.html",
     "thumbnail": "assets/thumbs/class6x/class6x-kubi-pets.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/kubi-pets/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-madalin-stunt-cars-2",
+    "id": "crown-madalin-stunt-cars-2",
     "title": "Madalin Stunt Cars 2",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/madalin-stunt-cars-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-madalin-stunt-cars-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/madalin-stunt-cars-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-madalin-stunt-cars-3",
+    "id": "crown-madalin-stunt-cars-3",
     "title": "Madalin Stunt Cars 3",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/madalin-stunt-cars-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-madalin-stunt-cars-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/madalin-stunt-cars-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-masked-forces",
+    "id": "crown-masked-forces",
     "title": "Masked Forces",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/masked-forces.html",
     "thumbnail": "assets/thumbs/class6x/class6x-masked-forces.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/masked-forces/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-midnight-drive",
+    "id": "crown-midnight-drive",
     "title": "Midnight Drive",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/midnight-drive.html",
     "thumbnail": "assets/thumbs/class6x/class6x-midnight-drive.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/midnight-drive/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-monster-tracks",
+    "id": "crown-monster-tracks",
     "title": "Monster Tracks",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/monster-tracks.html",
     "thumbnail": "assets/thumbs/class6x/class6x-monster-tracks.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/monster-tracks/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
@@ -2665,198 +2513,187 @@ window.CROWN_GAMES = [
       "Skill",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-narrow-one",
+    "id": "crown-narrow-one",
     "title": "Narrow one",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/narrow-one.html",
     "thumbnail": "assets/thumbs/class6x/class6x-narrow-one.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/narrow-one/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-offroader-v5",
+    "id": "crown-offroader-v5",
     "title": "Offroader V5",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/offroader-v5.html",
     "thumbnail": "assets/thumbs/class6x/class6x-offroader-v5.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/offroader-v5/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-paint-strike",
+    "id": "crown-paint-strike",
     "title": "Paint Strike",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/paint-strike.html",
     "thumbnail": "assets/thumbs/class6x/class6x-paint-strike.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/paint-strike/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-panda-simulator-3d",
+    "id": "crown-panda-simulator-3d",
     "title": "Panda Simulator 3D",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/panda-simulator-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-panda-simulator-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/panda-simulator-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parking-fury",
+    "id": "crown-parking-fury",
     "title": "Parking Fury",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/parking-fury.html",
     "thumbnail": "assets/thumbs/class6x/class6x-parking-fury.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parking-fury/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parking-fury-2",
+    "id": "crown-parking-fury-2",
     "title": "Parking Fury 2",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/parking-fury-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-parking-fury-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parking-fury-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-perfect-peel",
+    "id": "crown-perfect-peel",
     "title": "Perfect Peel",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/perfect-peel.html",
     "thumbnail": "assets/thumbs/class6x/class6x-perfect-peel.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/perfect-peel/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pixwars-2",
+    "id": "crown-pixwars-2",
     "title": "Pixwars 2",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/pixwars-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pixwars-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pixwars-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-puppet-master",
+    "id": "crown-puppet-master",
     "title": "Puppet Master",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/puppet-master.html",
     "thumbnail": "assets/thumbs/class6x/class6x-puppet-master.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/puppet-master/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Shooting",
       "Skill",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rally-point",
+    "id": "crown-rally-point",
     "title": "Rally Point",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/rally-point.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rally-point.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rally-point/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rally-point-2",
+    "id": "crown-rally-point-2",
     "title": "Rally Point 2",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/rally-point-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rally-point-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rally-point-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
@@ -2864,262 +2701,247 @@ window.CROWN_GAMES = [
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rally-point-3",
+    "id": "crown-rally-point-3",
     "title": "Rally Point 3",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/rally-point-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rally-point-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rally-point-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-real-simulator-monster-truck",
+    "id": "crown-real-simulator-monster-truck",
     "title": "Real Simulator Monster Truck",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/real-simulator-monster-truck.html",
     "thumbnail": "assets/thumbs/class6x/class6x-real-simulator-monster-truck.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/real-simulator-monster-truck/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rebels-clash",
+    "id": "crown-rebels-clash",
     "title": "Rebels Clash",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/rebels-clash.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rebels-clash.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rebels-clash/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-running-fred",
+    "id": "crown-running-fred",
     "title": "Running Fred",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/running-fred.html",
     "thumbnail": "assets/thumbs/class6x/class6x-running-fred.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/running-fred/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-school-bus-demolition-derby",
+    "id": "crown-school-bus-demolition-derby",
     "title": "School Bus Demolition Derby",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/school-bus-demolition-derby.html",
     "thumbnail": "assets/thumbs/class6x/class6x-school-bus-demolition-derby.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/school-bus-demolition-derby/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-simply-prop-hunt",
+    "id": "crown-simply-prop-hunt",
     "title": "Simply Prop Hunt",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/simply-prop-hunt.html",
     "thumbnail": "assets/thumbs/class6x/class6x-simply-prop-hunt.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/simply-prop-hunt/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-skiing-fred",
+    "id": "crown-skiing-fred",
     "title": "Skiing Fred",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/skiing-fred.html",
     "thumbnail": "assets/thumbs/class6x/class6x-skiing-fred.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/skiing-fred/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slalom-hero",
+    "id": "crown-slalom-hero",
     "title": "Slalom Hero",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/slalom-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slalom-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slalom-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "slope-https-sites-google-com-lindberghschools-ws-crown-official-slope",
+    "id": "crown-slope",
     "title": "Slope",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/slope.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slope.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/slope/",
     "class6xPage": "https://class6x.gitlab.io/game/slope.html"
   },
   {
-    "id": "class6x-slope-2",
+    "id": "crown-slope-2",
     "title": "Slope 2",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/slope-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slope-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slope-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slope-3",
+    "id": "crown-slope-3",
     "title": "Slope 3",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/slope-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slope-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slope-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slope-city",
+    "id": "crown-slope-city",
     "title": "Slope City",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/slope-city.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slope-city.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slope-city/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slope-tunnel",
+    "id": "crown-slope-tunnel",
     "title": "Slope Tunnel",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/slope-tunnel.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slope-tunnel.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slope-tunnel/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-smash-karts-unblocked",
-    "title": "Smash Karts Unblocked",
+    "id": "crown-smash-karts",
+    "title": "Smash Karts",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/smash-karts.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-smash-karts-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-smash-karts-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/smash-karts/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-soccer-skills-champions-league",
+    "id": "crown-soccer-skills-champions-league",
     "title": "Soccer Skills Champions League",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/soccer-skills-champions-league.html",
     "thumbnail": "assets/thumbs/class6x/class6x-soccer-skills-champions-league.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/soccer-skills-champions-league/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
@@ -3128,38 +2950,36 @@ window.CROWN_GAMES = [
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-soccer-skills-euro-cup",
+    "id": "crown-soccer-skills-euro-cup",
     "title": "Soccer Skills Euro Cup",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/soccer-skills-euro-cup.html",
     "thumbnail": "assets/thumbs/class6x/class6x-soccer-skills-euro-cup.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/soccer-skills-euro-cup/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Multiplayer",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-soccer-skills-world-cup",
+    "id": "crown-soccer-skills-world-cup",
     "title": "Soccer Skills World Cup",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/soccer-skills-world-cup.html",
     "thumbnail": "assets/thumbs/class6x/class6x-soccer-skills-world-cup.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/soccer-skills-world-cup/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
@@ -3167,104 +2987,98 @@ window.CROWN_GAMES = [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stack-ball",
+    "id": "crown-stack-ball",
     "title": "Stack Ball",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/stack-ball.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stack-ball.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stack-ball/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stack-bump-3d",
+    "id": "crown-stack-bump-3d",
     "title": "Stack Bump 3D",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/stack-bump-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stack-bump-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stack-bump-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stack-city",
+    "id": "crown-stack-city",
     "title": "Stack City",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/stack-city.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stack-city.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stack-city/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stair-race-3d",
+    "id": "crown-stair-race-3d",
     "title": "Stair Race 3d",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/stair-race-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stair-race-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stair-race-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stock-car-hero",
+    "id": "crown-stock-car-hero",
     "title": "Stock Car Hero",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/stock-car-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stock-car-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stock-car-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-bike-the-champion",
+    "id": "crown-super-bike-the-champion",
     "title": "Super Bike The Champion",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/super-bike-the-champion.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-bike-the-champion.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-bike-the-champion/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
@@ -3272,38 +3086,36 @@ window.CROWN_GAMES = [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-liquid-soccer",
+    "id": "crown-super-liquid-soccer",
     "title": "Super Liquid Soccer",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/super-liquid-soccer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-liquid-soccer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-liquid-soccer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "3D",
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-star-car",
+    "id": "crown-super-star-car",
     "title": "Super Star Car",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/super-star-car.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-star-car.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-star-car/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
@@ -3311,87 +3123,82 @@ window.CROWN_GAMES = [
       "Sports",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-tunnel-rush",
+    "id": "crown-super-tunnel-rush",
     "title": "Super Tunnel Rush",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/super-tunnel-rush.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-tunnel-rush.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-tunnel-rush/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-superbike-hero",
+    "id": "crown-superbike-hero",
     "title": "Superbike Hero",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/superbike-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-superbike-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/superbike-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "tanuki-sunset-https-sites-google-com-lindberghschools-ws-crown-official-tanuki-s",
+    "id": "crown-tanuki-sunset",
     "title": "Tanuki Sunset",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/tanuki-sunset.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tanuki-sunset.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/tanuki-sunset/",
     "class6xPage": "https://class6x.gitlab.io/game/tanuki-sunset.html"
   },
   {
-    "id": "class6x-tiger-simulator-3d",
+    "id": "crown-tiger-simulator-3d",
     "title": "Tiger Simulator 3d",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/tiger-simulator-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tiger-simulator-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tiger-simulator-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tiny-town-racing",
+    "id": "crown-tiny-town-racing",
     "title": "Tiny Town Racing",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/tiny-town-racing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tiny-town-racing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tiny-town-racing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
@@ -3399,259 +3206,241 @@ window.CROWN_GAMES = [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tricks",
+    "id": "crown-tricks",
     "title": "Tricks",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/tricks.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tricks.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tricks/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-turbo-moto-racer",
+    "id": "crown-turbo-moto-racer",
     "title": "Turbo Moto Racer",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/turbo-moto-racer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-turbo-moto-racer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/turbo-moto-racer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zen-blocks",
+    "id": "crown-zen-blocks",
     "title": "Zen Blocks",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/zen-blocks.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zen-blocks.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zen-blocks/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zombie-derby-pixel-survival",
+    "id": "crown-zombie-derby-pixel-survival",
     "title": "Zombie Derby Pixel Survival",
     "category": "3D",
-    "originalPage": "https://class6x.gitlab.io/game/zombie-derby-pixel-survival.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zombie-derby-pixel-survival.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zombie-derby-pixel-survival/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "3D",
       "Racing",
       "Shooting",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "1-v-1-soccer-https-sites-google-com-lindberghschools-ws-crown-official-1-v-1-soc",
+    "id": "crown-1-v-1-soccer",
     "title": "1 V 1 Soccer",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/1-v-1-soccer",
-    "thumbnail": "assets/thumbs/captures/1-v-1-soccer-https-sites-google-com-lindberghschools-ws-crown-official-1-v-1-soc.png",
+    "thumbnail": "assets/thumbs/logos/1-v-1-soccer-https-sites-google-com-lindberghschools-ws-crown-official-1-v-1-soc.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/1-v-1-soccer-https-sites-google-com-lindberghschools-ws-crown-official-1-v-1-soc.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "60-second-burger-run-https-sites-google-com-lindberghschools-ws-crown-official-6",
+    "id": "crown-60-second-burger-run",
     "title": "60 Second Burger Run",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/60-second-burger-run",
-    "thumbnail": "assets/thumbs/generated/60-second-burger-run-https-sites-google-com-lindberghschools-ws-crown-official-6.svg",
+    "thumbnail": "assets/thumbs/logos/60-second-burger-run-https-sites-google-com-lindberghschools-ws-crown-official-6.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/60-second-burger-run-https-sites-google-com-lindberghschools-ws-crown-official-6.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "cyberbung-racing-https-sites-google-com-lindberghschools-ws-crown-official-cyber",
+    "id": "crown-cyberbung-racing",
     "title": "Cyberbung Racing",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/cyberbung-racing",
-    "thumbnail": "assets/thumbs/generated/cyberbung-racing-https-sites-google-com-lindberghschools-ws-crown-official-cyber.svg",
+    "thumbnail": "assets/thumbs/logos/cyberbung-racing-https-sites-google-com-lindberghschools-ws-crown-official-cyber.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/cyberbung-racing-https-sites-google-com-lindberghschools-ws-crown-official-cyber.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "deltarune-https-sites-google-com-lindberghschools-ws-crown-official-deltarune",
+    "id": "crown-deltarune",
     "title": "Deltarune",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/deltarune",
-    "thumbnail": "assets/thumbs/generated/deltarune-https-sites-google-com-lindberghschools-ws-crown-official-deltarune.svg",
+    "thumbnail": "assets/thumbs/logos/deltarune-https-sites-google-com-lindberghschools-ws-crown-official-deltarune.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/deltarune-https-sites-google-com-lindberghschools-ws-crown-official-deltarune.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "diddy-kong-racing-https-sites-google-com-lindberghschools-ws-crown-official-didd",
+    "id": "crown-diddy-kong-racing",
     "title": "Diddy Kong Racing",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/diddy-kong-racing",
-    "thumbnail": "assets/thumbs/generated/diddy-kong-racing-https-sites-google-com-lindberghschools-ws-crown-official-didd.svg",
+    "thumbnail": "assets/thumbs/logos/diddy-kong-racing-https-sites-google-com-lindberghschools-ws-crown-official-didd.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/diddy-kong-racing-https-sites-google-com-lindberghschools-ws-crown-official-didd.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "helix-jump-https-sites-google-com-lindberghschools-ws-crown-official-helix-jump",
+    "id": "crown-helix-jump",
     "title": "Helix Jump",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/helix-jump",
-    "thumbnail": "assets/thumbs/generated/helix-jump-https-sites-google-com-lindberghschools-ws-crown-official-helix-jump.svg",
+    "thumbnail": "assets/thumbs/logos/helix-jump-https-sites-google-com-lindberghschools-ws-crown-official-helix-jump.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/helix-jump-https-sites-google-com-lindberghschools-ws-crown-official-helix-jump.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "indian-truck-sim-https-sites-google-com-lindberghschools-ws-crown-official-india",
+    "id": "crown-indian-truck-sim",
     "title": "Indian Truck Sim",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/indian-truck-sim",
-    "thumbnail": "assets/thumbs/generated/indian-truck-sim-https-sites-google-com-lindberghschools-ws-crown-official-india.svg",
+    "thumbnail": "assets/thumbs/logos/indian-truck-sim-https-sites-google-com-lindberghschools-ws-crown-official-india.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/indian-truck-sim-https-sites-google-com-lindberghschools-ws-crown-official-india.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "madelyn-stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-mad",
+    "id": "crown-madelyn-stunt-cars",
     "title": "Madelyn Stunt Cars",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/madelyn-stunt-cars",
-    "thumbnail": "assets/thumbs/generated/madelyn-stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-mad.svg",
+    "thumbnail": "assets/thumbs/logos/madelyn-stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-mad.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/madelyn-stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-mad.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "mini-world-cup-https-sites-google-com-lindberghschools-ws-crown-official-mini-wo",
+    "id": "crown-mini-world-cup",
     "title": "Mini World Cup",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/mini-world-cup",
-    "thumbnail": "assets/thumbs/generated/mini-world-cup-https-sites-google-com-lindberghschools-ws-crown-official-mini-wo.svg",
+    "thumbnail": "assets/thumbs/logos/mini-world-cup-https-sites-google-com-lindberghschools-ws-crown-official-mini-wo.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mini-world-cup-https-sites-google-com-lindberghschools-ws-crown-official-mini-wo.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "pixel-speedrun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-s",
+    "id": "crown-pixel-speedrun",
     "title": "Pixel Speedrun",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/pixel-speedrun",
-    "thumbnail": "assets/thumbs/generated/pixel-speedrun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-s.svg",
+    "thumbnail": "assets/thumbs/logos/pixel-speedrun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-s.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pixel-speedrun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-s.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "skate-it-https-sites-google-com-lindberghschools-ws-crown-official-skate-it",
+    "id": "crown-skate-it",
     "title": "Skate It",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/skate-it",
-    "thumbnail": "assets/thumbs/generated/skate-it-https-sites-google-com-lindberghschools-ws-crown-official-skate-it.svg",
+    "thumbnail": "assets/thumbs/logos/skate-it-https-sites-google-com-lindberghschools-ws-crown-official-skate-it.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/skate-it-https-sites-google-com-lindberghschools-ws-crown-official-skate-it.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "soccer-legends-https-sites-google-com-lindberghschools-ws-crown-official-soccer-",
+    "id": "crown-soccer-legends",
     "title": "Soccer Legends",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/soccer-legends",
-    "thumbnail": "assets/thumbs/captures/soccer-legends-https-sites-google-com-lindberghschools-ws-crown-official-soccer.png",
+    "thumbnail": "assets/thumbs/logos/soccer-legends-https-sites-google-com-lindberghschools-ws-crown-official-soccer.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/soccer-legends-https-sites-google-com-lindberghschools-ws-crown-official-soccer-.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-stunt-cars",
+    "id": "crown-stunt-cars",
     "title": "Stunt Cars",
     "category": "Action",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/stunt-cars",
-    "thumbnail": "assets/thumbs/generated/stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-stunt-cars.svg",
+    "thumbnail": "assets/thumbs/logos/stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-stunt-cars.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-stunt-cars.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "class6x-3d-monster-truck-skyroads",
+    "id": "crown-3d-monster-truck-skyroads",
     "title": "3D Monster Truck: Skyroads",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/3d-monster-truck-skyroads.html",
     "thumbnail": "assets/thumbs/class6x/class6x-3d-monster-truck-skyroads.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/3d-monster-truck-skyroads/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
@@ -3659,373 +3448,351 @@ window.CROWN_GAMES = [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-adventure-drivers",
+    "id": "crown-adventure-drivers",
     "title": "Adventure Drivers",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/adventure-drivers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-adventure-drivers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/adventure-drivers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-aqua-thrills",
+    "id": "crown-aqua-thrills",
     "title": "Aqua Thrills",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/aqua-thrills.html",
     "thumbnail": "assets/thumbs/class6x/class6x-aqua-thrills.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/aqua-thrills/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-archer-master-3d-castle-defense",
+    "id": "crown-archer-master-3d-castle-defense",
     "title": "Archer Master 3D Castle Defense",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/archer-master-3d-castle-defense.html",
     "thumbnail": "assets/thumbs/class6x/class6x-archer-master-3d-castle-defense.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/archer-master-3d-castle-defense/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-become-a-dentist",
+    "id": "crown-become-a-dentist",
     "title": "Become a Dentist",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/become-a-dentist.html",
     "thumbnail": "assets/thumbs/class6x/class6x-become-a-dentist.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/become-a-dentist/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bottle-flip",
+    "id": "crown-bottle-flip",
     "title": "Bottle Flip",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/bottle-flip.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bottle-flip.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bottle-flip/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-breaking-the-bank",
+    "id": "crown-breaking-the-bank",
     "title": "Breaking The Bank",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/breaking-the-bank.html",
     "thumbnail": "assets/thumbs/class6x/class6x-breaking-the-bank.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/breaking-the-bank/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-car-eats-car-winter-adventure",
+    "id": "crown-car-eats-car-winter-adventure",
     "title": "Car Eats Car: Winter Adventure",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/car-eats-car-winter-adventure.html",
     "thumbnail": "assets/thumbs/class6x/class6x-car-eats-car-winter-adventure.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/car-eats-car-winter-adventure/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cat-gunner-super-zombie-shoot",
+    "id": "crown-cat-gunner-super-zombie-shoot",
     "title": "Cat Gunner: Super Zombie Shoot",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/cat-gunner-super-zombie-shoot.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cat-gunner-super-zombie-shoot.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cat-gunner-super-zombie-shoot/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cats",
+    "id": "crown-cats",
     "title": "Cats",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/cats.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cats.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cats/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-chicken-sword-ninja-master",
+    "id": "crown-chicken-sword-ninja-master",
     "title": "Chicken Sword Ninja Master",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/chicken-sword-ninja-master.html",
     "thumbnail": "assets/thumbs/class6x/class6x-chicken-sword-ninja-master.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/chicken-sword-ninja-master/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cooking-fast-halloween",
+    "id": "crown-cooking-fast-halloween",
     "title": "Cooking Fast Halloween",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/cooking-fast-halloween.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cooking-fast-halloween.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cooking-fast-halloween/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-daddy-long-legs",
+    "id": "crown-daddy-long-legs",
     "title": "Daddy Long Legs",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/daddy-long-legs.html",
     "thumbnail": "assets/thumbs/class6x/class6x-daddy-long-legs.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/daddy-long-legs/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dadish",
+    "id": "crown-dadish",
     "title": "Dadish",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/dadish.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dadish.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dadish/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dadish-3d",
+    "id": "crown-dadish-3d",
     "title": "Dadish 3D",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/dadish-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dadish-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dadish-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dana-relics-for-sale",
+    "id": "crown-dana-relics-for-sale",
     "title": "Dana Relics For Sale",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/dana-relics-for-sale.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dana-relics-for-sale.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dana-relics-for-sale/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-deepest-sword",
+    "id": "crown-deepest-sword",
     "title": "Deepest Sword",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/deepest-sword.html",
     "thumbnail": "assets/thumbs/class6x/class6x-deepest-sword.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/deepest-sword/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-detective-loupe-puzzle",
+    "id": "crown-detective-loupe-puzzle",
     "title": "Detective Loupe Puzzle",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/detective-loupe-puzzle.html",
     "thumbnail": "assets/thumbs/class6x/class6x-detective-loupe-puzzle.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/detective-loupe-puzzle/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-double-panda",
+    "id": "crown-double-panda",
     "title": "Double panda",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/double-panda.html",
     "thumbnail": "assets/thumbs/class6x/class6x-double-panda.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/double-panda/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dragon-simulator-3d",
+    "id": "crown-dragon-simulator-3d",
     "title": "Dragon Simulator 3D",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/dragon-simulator-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dragon-simulator-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dragon-simulator-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "duck-life-https-sites-google-com-lindberghschools-ws-crown-official-duck-life",
+    "id": "crown-duck-life",
     "title": "Duck Life",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duck-life.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duck-life.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/duck-life/",
     "class6xPage": "https://class6x.gitlab.io/game/duck-life.html"
   },
   {
-    "id": "duck-life-2-https-sites-google-com-lindberghschools-ws-crown-official-duck-life-",
+    "id": "crown-duck-life-2",
     "title": "Duck Life 2",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duck-life-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duck-life-2.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/duck-life-2/",
     "class6xPage": "https://class6x.gitlab.io/game/duck-life-2.html"
   },
   {
-    "id": "duck-life-3-https-sites-google-com-lindberghschools-ws-crown-official-duck-life-",
+    "id": "crown-duck-life-3",
     "title": "Duck Life 3",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duck-life-3-evolution.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duck-life-3-evolution.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/duck-life-3-evolution/",
     "class6xPage": "https://class6x.gitlab.io/game/duck-life-3-evolution.html",
     "tags": [
@@ -4034,632 +3801,595 @@ window.CROWN_GAMES = [
     ]
   },
   {
-    "id": "duck-life-4-https-sites-google-com-lindberghschools-ws-crown-official-duck-life-",
+    "id": "crown-duck-life-4",
     "title": "Duck Life 4",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duck-life-4.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duck-life-4.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/duck-life-4/",
     "class6xPage": "https://class6x.gitlab.io/game/duck-life-4.html"
   },
   {
-    "id": "class6x-duck-life-battle",
+    "id": "crown-duck-life-battle",
     "title": "Duck Life Battle",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duck-life-battle.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duck-life-battle.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/duck-life-battle/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-duo-survival",
+    "id": "crown-duo-survival",
     "title": "Duo Survival",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duo-survival.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duo-survival.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/duo-survival/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-duo-survival-2",
+    "id": "crown-duo-survival-2",
     "title": "Duo Survival 2",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duo-survival-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duo-survival-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/duo-survival-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-duo-survival-3",
+    "id": "crown-duo-survival-3",
     "title": "Duo Survival 3",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duo-survival-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duo-survival-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/duo-survival-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-duo-vikings",
+    "id": "crown-duo-vikings",
     "title": "Duo Vikings",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duo-vikings.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duo-vikings.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/duo-vikings/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-duo-vikings-2",
+    "id": "crown-duo-vikings-2",
     "title": "Duo Vikings 2",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duo-vikings-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duo-vikings-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/duo-vikings-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-duo-vikings-3",
+    "id": "crown-duo-vikings-3",
     "title": "Duo Vikings 3",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/duo-vikings-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-duo-vikings-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/duo-vikings-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dyna-boy",
+    "id": "crown-dyna-boy",
     "title": "Dyna Boy",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/dyna-boy.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dyna-boy.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dyna-boy/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-eggbot-vs-zombies",
+    "id": "crown-eggbot-vs-zombies",
     "title": "Eggbot vs Zombies",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/eggbot-vs-zombies.html",
     "thumbnail": "assets/thumbs/class6x/class6x-eggbot-vs-zombies.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/eggbot-vs-zombies/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-eggy-car",
+    "id": "crown-eggy-car",
     "title": "Eggy Car",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/eggy-car.html",
     "thumbnail": "assets/thumbs/class6x/class6x-eggy-car.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/eggy-car/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-escaping-the-prison",
+    "id": "crown-escaping-the-prison",
     "title": "Escaping The Prison",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/escaping-the-prison.html",
     "thumbnail": "assets/thumbs/class6x/class6x-escaping-the-prison.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/escaping-the-prison/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Adventure",
       "Stickman",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-eugenes-life",
+    "id": "crown-eugenes-life",
     "title": "Eugenes Life",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/eugenes-life.html",
     "thumbnail": "assets/thumbs/class6x/class6x-eugenes-life.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/eugenes-life/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fancy-pants",
+    "id": "crown-fancy-pants",
     "title": "Fancy Pants",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/fancy-pants.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fancy-pants.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fancy-pants/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fancy-pants-2",
+    "id": "crown-fancy-pants-2",
     "title": "Fancy Pants 2",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/fancy-pants-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fancy-pants-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fancy-pants-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fancy-pants-3",
+    "id": "crown-fancy-pants-3",
     "title": "Fancy Pants 3",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/fancy-pants-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fancy-pants-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fancy-pants-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fast-food-dumpster-adventure",
+    "id": "crown-fast-food-dumpster-adventure",
     "title": "Fast Food Dumpster Adventure",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/fast-food-dumpster-adventure.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fast-food-dumpster-adventure.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fast-food-dumpster-adventure/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-final-ninja-html5",
+    "id": "crown-final-ninja-html5",
     "title": "Final Ninja Html5",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/final-ninja-html5.html",
     "thumbnail": "assets/thumbs/class6x/class6x-final-ninja-html5.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/final-ninja-html5/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-finger-cook",
+    "id": "crown-finger-cook",
     "title": "Finger Cook",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/finger-cook.html",
     "thumbnail": "assets/thumbs/class6x/class6x-finger-cook.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/finger-cook/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fleeing-the-complex",
+    "id": "crown-fleeing-the-complex",
     "title": "Fleeing The Complex",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/fleeing-the-complex.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fleeing-the-complex.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fleeing-the-complex/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-flip-bros",
+    "id": "crown-flip-bros",
     "title": "Flip Bros",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/flip-bros.html",
     "thumbnail": "assets/thumbs/class6x/class6x-flip-bros.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/flip-bros/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-forgotten-hill-the-wardrobe-3",
+    "id": "crown-forgotten-hill-the-wardrobe-3",
     "title": "Forgotten Hill The Wardrobe 3",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/forgotten-hill-the-wardrobe-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-forgotten-hill-the-wardrobe-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/forgotten-hill-the-wardrobe-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-gold-digger-frvr",
+    "id": "crown-gold-digger-frvr",
     "title": "Gold Digger Frvr",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/gold-digger-frvr.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gold-digger-frvr.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/gold-digger-frvr/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hills-of-steel",
+    "id": "crown-hills-of-steel",
     "title": "Hills Of Steel",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/hills-of-steel.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hills-of-steel.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hills-of-steel/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hoppenhelm",
+    "id": "crown-hoppenhelm",
     "title": "Hoppenhelm",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/hoppenhelm.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hoppenhelm.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hoppenhelm/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-into-the-pit",
+    "id": "crown-into-the-pit",
     "title": "Into The Pit",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/into-the-pit.html",
     "thumbnail": "assets/thumbs/class6x/class6x-into-the-pit.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/into-the-pit/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-iron-snout",
+    "id": "crown-iron-snout",
     "title": "Iron Snout",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/iron-snout.html",
     "thumbnail": "assets/thumbs/class6x/class6x-iron-snout.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/iron-snout/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-kart-wars",
+    "id": "crown-kart-wars",
     "title": "Kart Wars",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/kart-wars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-kart-wars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/kart-wars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Multiplayer",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-la-petite-avril",
+    "id": "crown-la-petite-avril",
     "title": "La Petite Avril",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/la-petite-avril.html",
     "thumbnail": "assets/thumbs/class6x/class6x-la-petite-avril.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/la-petite-avril/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-lava-bird",
+    "id": "crown-lava-bird",
     "title": "Lava Bird",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/lava-bird.html",
     "thumbnail": "assets/thumbs/class6x/class6x-lava-bird.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/lava-bird/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-life-the-game",
+    "id": "crown-life-the-game",
     "title": "Life The Game",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/life-the-game.html",
     "thumbnail": "assets/thumbs/class6x/class6x-life-the-game.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/life-the-game/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mimelet",
+    "id": "crown-mimelet",
     "title": "Mimelet",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/mimelet.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mimelet.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mimelet/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mini-guardians-castle-defense",
+    "id": "crown-mini-guardians-castle-defense",
     "title": "Mini Guardians Castle Defense",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/mini-guardians-castle-defense.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mini-guardians-castle-defense.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mini-guardians-castle-defense/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-misland",
+    "id": "crown-misland",
     "title": "Misland",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/misland.html",
     "thumbnail": "assets/thumbs/class6x/class6x-misland.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/misland/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-murder",
+    "id": "crown-murder",
     "title": "Murder",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/murder.html",
     "thumbnail": "assets/thumbs/class6x/class6x-murder.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/murder/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-odd-bot-out",
+    "id": "crown-odd-bot-out",
     "title": "Odd Bot Out",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/odd-bot-out.html",
     "thumbnail": "assets/thumbs/class6x/class6x-odd-bot-out.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/odd-bot-out/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parking-fury-3d",
+    "id": "crown-parking-fury-3d",
     "title": "Parking Fury 3D",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/parking-fury-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-parking-fury-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parking-fury-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
@@ -4668,7265 +4398,8057 @@ window.CROWN_GAMES = [
       "Skill",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pizzafall",
+    "id": "crown-pizzafall",
     "title": "Pizzafall",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/pizzafall.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pizzafall.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pizzafall/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Shooting",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-raft-wars-multiplayer-unblocked",
-    "title": "Raft Wars Multiplayer Unblocked",
+    "id": "crown-raft-wars-multiplayer",
+    "title": "Raft Wars Multiplayer",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/raft-wars-multiplayer.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-raft-wars-multiplayer-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-raft-wars-multiplayer-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/raft-wars-multiplayer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-retro-highway",
+    "id": "crown-retro-highway",
     "title": "Retro Highway",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/retro-highway.html",
     "thumbnail": "assets/thumbs/class6x/class6x-retro-highway.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/retro-highway/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rodeo-stampede-savannah",
+    "id": "crown-rodeo-stampede-savannah",
     "title": "Rodeo Stampede Savannah",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/rodeo-stampede-savannah.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rodeo-stampede-savannah.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rodeo-stampede-savannah/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rooftop-snipers",
+    "id": "crown-rooftop-snipers",
     "title": "Rooftop Snipers",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/rooftop-snipers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rooftop-snipers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rooftop-snipers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-runman-race-around-the-world",
+    "id": "crown-runman-race-around-the-world",
     "title": "RunMan: Race Around the World",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/runman-race-around-the-world.html",
     "thumbnail": "assets/thumbs/class6x/class6x-runman-race-around-the-world.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/runman-race-around-the-world/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-scrap-divers",
+    "id": "crown-scrap-divers",
     "title": "Scrap Divers",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/scrap-divers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-scrap-divers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/scrap-divers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-short-life",
+    "id": "crown-short-life",
     "title": "Short Life",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/short-life.html",
     "thumbnail": "assets/thumbs/class6x/class6x-short-life.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/short-life/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-short-ride",
+    "id": "crown-short-ride",
     "title": "Short Ride",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/short-ride.html",
     "thumbnail": "assets/thumbs/class6x/class6x-short-ride.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/short-ride/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slime-laboratory",
+    "id": "crown-slime-laboratory",
     "title": "Slime Laboratory",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/slime-laboratory.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slime-laboratory.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slime-laboratory/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slime-laboratory-3",
+    "id": "crown-slime-laboratory-3",
     "title": "Slime Laboratory 3",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/slime-laboratory-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slime-laboratory-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slime-laboratory-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stealing-the-diamond",
+    "id": "crown-stealing-the-diamond",
     "title": "Stealing The Diamond",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/stealing-the-diamond.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stealing-the-diamond.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stealing-the-diamond/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-parkour-3",
+    "id": "crown-stickman-parkour-3",
     "title": "Stickman Parkour 3",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-parkour-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-parkour-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-parkour-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-survival-express",
+    "id": "crown-survival-express",
     "title": "Survival Express",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/survival-express.html",
     "thumbnail": "assets/thumbs/class6x/class6x-survival-express.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/survival-express/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-temple-of-boom",
+    "id": "crown-temple-of-boom",
     "title": "Temple Of Boom",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/temple-of-boom.html",
     "thumbnail": "assets/thumbs/class6x/class6x-temple-of-boom.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/temple-of-boom/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-temple-run-2",
+    "id": "crown-temple-run-2",
     "title": "Temple Run 2",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/temple-run-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-temple-run-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/temple-run-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-temple-run-2-frozen-festival",
+    "id": "crown-temple-run-2-frozen-festival",
     "title": "Temple Run 2 Frozen Festival",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/temple-run-2-frozen-festival.html",
     "thumbnail": "assets/thumbs/class6x/class6x-temple-run-2-frozen-festival.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/temple-run-2-frozen-festival/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-temple-run-2-holi-festival",
+    "id": "crown-temple-run-2-holi-festival",
     "title": "Temple Run 2 Holi Festival",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/temple-run-2-holi-festival.html",
     "thumbnail": "assets/thumbs/class6x/class6x-temple-run-2-holi-festival.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/temple-run-2-holi-festival/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-temple-run-2-jungle-fall",
+    "id": "crown-temple-run-2-jungle-fall",
     "title": "Temple Run 2 Jungle Fall",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/temple-run-2-jungle-fall.html",
     "thumbnail": "assets/thumbs/class6x/class6x-temple-run-2-jungle-fall.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/temple-run-2-jungle-fall/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-temple-run-2-frozen-shadows",
+    "id": "crown-temple-run-2-frozen-shadows",
     "title": "Temple Run 2: Frozen Shadows",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/temple-run-2-frozen-shadows.html",
     "thumbnail": "assets/thumbs/class6x/class6x-temple-run-2-frozen-shadows.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/temple-run-2-frozen-shadows/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-there-is-no-game",
+    "id": "crown-there-is-no-game",
     "title": "There Is No Game",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/there-is-no-game.html",
     "thumbnail": "assets/thumbs/class6x/class6x-there-is-no-game.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/there-is-no-game/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-towntopia",
+    "id": "crown-towntopia",
     "title": "Towntopia",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/towntopia.html",
     "thumbnail": "assets/thumbs/class6x/class6x-towntopia.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/towntopia/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tube-jumpers",
+    "id": "crown-tube-jumpers",
     "title": "Tube Jumpers",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/tube-jumpers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tube-jumpers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tube-jumpers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-vectaria-io",
+    "id": "crown-vectaria-io",
     "title": "Vectaria io",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/vectaria-io.html",
     "thumbnail": "assets/thumbs/class6x/class6x-vectaria-io.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vectaria-io/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-vex-4",
+    "id": "crown-vex-4",
     "title": "Vex 4",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/vex-4.html",
     "thumbnail": "assets/thumbs/class6x/class6x-vex-4.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-4/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Running",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-vex-5",
+    "id": "crown-vex-5",
     "title": "Vex 5",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/vex-5.html",
     "thumbnail": "assets/thumbs/class6x/class6x-vex-5.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-5/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Running",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-vex-6",
+    "id": "crown-vex-6",
     "title": "Vex 6",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/vex-6.html",
     "thumbnail": "assets/thumbs/class6x/class6x-vex-6.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-6/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Running",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-vex-7",
+    "id": "crown-vex-7",
     "title": "Vex 7",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/vex-7.html",
     "thumbnail": "assets/thumbs/class6x/class6x-vex-7.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-7/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Running",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-village-craft",
+    "id": "crown-village-craft",
     "title": "Village Craft",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/village-craft.html",
     "thumbnail": "assets/thumbs/class6x/class6x-village-craft.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/village-craft/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "3D"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-war-of-caribbean-pirates",
+    "id": "crown-war-of-caribbean-pirates",
     "title": "War of Caribbean Pirates",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/war-of-caribbean-pirates.html",
     "thumbnail": "assets/thumbs/class6x/class6x-war-of-caribbean-pirates.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/war-of-caribbean-pirates/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-we-become-what-we-behold",
+    "id": "crown-we-become-what-we-behold",
     "title": "We Become What We Behold",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/we-become-what-we-behold.html",
     "thumbnail": "assets/thumbs/class6x/class6x-we-become-what-we-behold.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/we-become-what-we-behold/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-yohoho-io",
+    "id": "crown-yohoho-io",
     "title": "Yohoho.io",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/yohohoio.html",
     "thumbnail": "assets/thumbs/class6x/class6x-yohoho-io.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/yohohoio/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-yokai-dungeon",
+    "id": "crown-yokai-dungeon",
     "title": "Yokai Dungeon",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/yokai-dungeon.html",
     "thumbnail": "assets/thumbs/class6x/class6x-yokai-dungeon.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/yokai-dungeon/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zombie-siege-outbreak",
+    "id": "crown-zombie-siege-outbreak",
     "title": "Zombie Siege Outbreak",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/zombie-siege-outbreak.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zombie-siege-outbreak.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zombie-siege-outbreak/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "Shooting",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zoom-be",
+    "id": "crown-zoom-be",
     "title": "ZOOM-BE",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/zoom-be.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zoom-be.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zoom-be/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zoom-be-2",
+    "id": "crown-zoom-be-2",
     "title": "ZOOM-BE 2",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/zoom-be-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zoom-be-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zoom-be-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zoom-be-3",
+    "id": "crown-zoom-be-3",
     "title": "ZOOM-BE 3",
     "category": "Adventure",
-    "originalPage": "https://class6x.gitlab.io/game/zoom-be-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zoom-be-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zoom-be-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Adventure",
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "awesome-pirates-https-sites-google-com-lindberghschools-ws-crown-official-awesom",
+    "id": "crown-awesome-pirates",
     "title": "Awesome Pirates",
-    "category": "Awesome Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/awesome-games/awesome-pirates",
-    "thumbnail": "assets/thumbs/captures/awesome-pirates-https-sites-google-com-lindberghschools-ws-crown-official-awesom.png",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/awesome-pirates-https-sites-google-com-lindberghschools-ws-crown-official-awesom.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/awesome-pirates-https-sites-google-com-lindberghschools-ws-crown-official-awesom.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "awesome-planes-https-sites-google-com-lindberghschools-ws-crown-official-awesome",
+    "id": "crown-awesome-planes",
     "title": "Awesome Planes",
-    "category": "Awesome Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/awesome-games/awesome-planes",
-    "thumbnail": "assets/thumbs/captures/awesome-planes-https-sites-google-com-lindberghschools-ws-crown-official-awesome.png",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/awesome-planes-https-sites-google-com-lindberghschools-ws-crown-official-awesome.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/awesome-planes-https-sites-google-com-lindberghschools-ws-crown-official-awesome.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "awesome-tanks-https-sites-google-com-lindberghschools-ws-crown-official-awesome-",
+    "id": "crown-awesome-tanks",
     "title": "Awesome Tanks",
-    "category": "Awesome Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/awesome-games/awesome-tanks",
-    "thumbnail": "assets/thumbs/generated/awesome-tanks-https-sites-google-com-lindberghschools-ws-crown-official-awesome.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/awesome-tanks-https-sites-google-com-lindberghschools-ws-crown-official-awesome.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/awesome-tanks-https-sites-google-com-lindberghschools-ws-crown-official-awesome-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "awesome-tanks-2-https-sites-google-com-lindberghschools-ws-crown-official-awesom",
+    "id": "crown-awesome-tanks-2",
     "title": "Awesome Tanks 2",
-    "category": "Awesome Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/awesome-games/awesome-tanks-2",
-    "thumbnail": "assets/thumbs/captures/awesome-tanks-2-https-sites-google-com-lindberghschools-ws-crown-official-awesom.png",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/awesome-tanks-2-https-sites-google-com-lindberghschools-ws-crown-official-awesom.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/awesome-tanks-2-https-sites-google-com-lindberghschools-ws-crown-official-awesom.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ben-10-alien-force-https-sites-google-com-lindberghschools-ws-crown-official-ben",
+    "id": "crown-ben-10-alien-force",
     "title": "Ben 10 Alien Force",
-    "category": "Ben 10 Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ben-10-games/ben-10-alien-force",
-    "thumbnail": "assets/thumbs/generated/ben-10-alien-force-https-sites-google-com-lindberghschools-ws-crown-official-ben.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/ben-10-alien-force-https-sites-google-com-lindberghschools-ws-crown-official-ben.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-alien-force-https-sites-google-com-lindberghschools-ws-crown-official-ben.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ben-10-galactic-racing-https-sites-google-com-lindberghschools-ws-crown-official",
+    "id": "crown-ben-10-galactic-racing",
     "title": "Ben 10 Galactic Racing",
-    "category": "Ben 10 Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ben-10-games/ben-10-galactic-racing",
-    "thumbnail": "assets/thumbs/generated/ben-10-galactic-racing-https-sites-google-com-lindberghschools-ws-crown-official.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/ben-10-galactic-racing-https-sites-google-com-lindberghschools-ws-crown-official.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-galactic-racing-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ben-10-omniverse-https-sites-google-com-lindberghschools-ws-crown-official-ben-1",
+    "id": "crown-ben-10-omniverse",
     "title": "Ben 10 Omniverse",
-    "category": "Ben 10 Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ben-10-games/ben-10-omniverse",
-    "thumbnail": "assets/thumbs/generated/ben-10-omniverse-https-sites-google-com-lindberghschools-ws-crown-official-ben-1.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/ben-10-omniverse-https-sites-google-com-lindberghschools-ws-crown-official-ben-1.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-omniverse-https-sites-google-com-lindberghschools-ws-crown-official-ben-1.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ben-10-protector-of-earth-https-sites-google-com-lindberghschools-ws-crown-offic",
+    "id": "crown-ben-10-protector-of-earth",
     "title": "Ben 10 Protector of Earth",
-    "category": "Ben 10 Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ben-10-games/ben-10-protector-of-earth",
-    "thumbnail": "assets/thumbs/generated/ben-10-protector-of-earth-https-sites-google-com-lindberghschools-ws-crown-offic.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/ben-10-protector-of-earth-https-sites-google-com-lindberghschools-ws-crown-offic.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-protector-of-earth-https-sites-google-com-lindberghschools-ws-crown-offic.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ben-10-ultimate-alien-https-sites-google-com-lindberghschools-ws-crown-official-",
+    "id": "crown-ben-10-ultimate-alien",
     "title": "Ben 10 Ultimate Alien",
-    "category": "Ben 10 Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ben-10-games/ben-10-ultimate-alien",
-    "thumbnail": "assets/thumbs/generated/ben-10-ultimate-alien-https-sites-google-com-lindberghschools-ws-crown-official.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/ben-10-ultimate-alien-https-sites-google-com-lindberghschools-ws-crown-official.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-ultimate-alien-https-sites-google-com-lindberghschools-ws-crown-official-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "drive-1-on-1-soccer-1cxoawvu",
+    "id": "crown-1-on-1-soccer",
     "title": "1 On 1 Soccer",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1cXOAwvU-ylOtdf1KrDNDHWqEGKWgGSJC/view",
     "thumbnail": "assets/thumbs/drive/1-on-1-soccer-1cxoawvu.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/1-on-1-soccer-1cxoawvu.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1cXOAwvU-ylOtdf1KrDNDHWqEGKWgGSJC",
     "driveFileName": "cl1on1soccer.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-1v1-tennis-1zp9a0jg",
+    "id": "crown-1v1-tennis",
     "title": "1v1 Tennis",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1zp9A0jghV7xZKlAcNhP4uFwR-dAuBWW1/view",
     "thumbnail": "assets/thumbs/drive/1v1-tennis-1zp9a0jg.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/1v1-tennis-1zp9a0jg.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1zp9A0jghV7xZKlAcNhP4uFwR-dAuBWW1",
     "driveFileName": "cl1v1tennis.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-2d-shooting-1d4qxvdo",
+    "id": "crown-2d-shooting",
     "title": "2D Shooting",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1d4qxVdowbLnJ34kLE_u0r9Rnxj_ijsYV/view",
     "thumbnail": "assets/thumbs/drive/2d-shooting-1d4qxvdo.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/2d-shooting-1d4qxvdo.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1d4qxVdowbLnJ34kLE_u0r9Rnxj_ijsYV",
     "driveFileName": "cl2Dshooting.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3-pandas-166vn2n4",
+    "id": "crown-3-pandas",
     "title": "3 Pandas",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/166vN2N4eK9rO5tPzMqv9qFVpTivcaVX9/view",
     "thumbnail": "assets/thumbs/drive/3-pandas-166vn2n4.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-166vn2n4.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "166vN2N4eK9rO5tPzMqv9qFVpTivcaVX9",
     "driveFileName": "cl3pandas.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3-pandas-brazil-1o7jdlmh",
+    "id": "crown-3-pandas-brazil",
     "title": "3 Pandas Brazil",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1O7JDlmh3G-4bt7yxoUdUJUjIwMCA2MO4/view",
     "thumbnail": "assets/thumbs/drive/3-pandas-brazil-1o7jdlmh.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-brazil-1o7jdlmh.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1O7JDlmh3G-4bt7yxoUdUJUjIwMCA2MO4",
     "driveFileName": "cl3pandasbrazil.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3-pandas-fantasy-1mho2syj",
+    "id": "crown-3-pandas-fantasy",
     "title": "3 Pandas Fantasy",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1mho2syJYRIn2wZZZPkjV_mQfJ_p-Y-n4/view",
     "thumbnail": "assets/thumbs/drive/3-pandas-fantasy-1mho2syj.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-fantasy-1mho2syj.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1mho2syJYRIn2wZZZPkjV_mQfJ_p-Y-n4",
     "driveFileName": "cl3pandasfantasy.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3-pandas-japan-1gvfnfy4",
+    "id": "crown-3-pandas-japan",
     "title": "3 Pandas Japan",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1GvfnFY4iCDU6KOj13hzODHQK2bDPWfHw/view",
     "thumbnail": "assets/thumbs/drive/3-pandas-japan-1gvfnfy4.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-japan-1gvfnfy4.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1GvfnFY4iCDU6KOj13hzODHQK2bDPWfHw",
     "driveFileName": "cl3pandasjapan.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3-pandas-night-1phl-3yo",
+    "id": "crown-3-pandas-night",
     "title": "3 Pandas Night",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1phl_3yofGgiDdT6-y2hbJ4Wk3mMXE-ox/view",
     "thumbnail": "assets/thumbs/drive/3-pandas-night-1phl-3yo.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-night-1phl-3yo.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1phl_3yofGgiDdT6-y2hbJ4Wk3mMXE-ox",
     "driveFileName": "cl3pandasnight.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3-slices-2-1857d3ar",
+    "id": "crown-3-slices-2",
     "title": "3 Slices 2",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1857d3Ar39g8qcn4iM21XCV6_KCEV5Ilr/view",
     "thumbnail": "assets/thumbs/drive/3-slices-2-1857d3ar.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-slices-2-1857d3ar.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1857d3Ar39g8qcn4iM21XCV6_KCEV5Ilr",
     "driveFileName": "cl3slices2.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3d-dash-1yqclrmi",
+    "id": "crown-3d-dash",
     "title": "3D Dash",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1yQclRMII5l-C_8hKY1W2EjdlYkyasm9N/view",
     "thumbnail": "assets/thumbs/drive/3d-dash-1yqclrmi.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3d-dash-1yqclrmi.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1yQclRMII5l-C_8hKY1W2EjdlYkyasm9N",
     "driveFileName": "cl3dash.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3d-dash-editor-14fwtngk",
+    "id": "crown-3d-dash-editor",
     "title": "3D Dash Editor",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/14fwtngK-vE6fT3LBmcmyAhpTPruyLkpB/view",
     "thumbnail": "assets/thumbs/drive/3d-dash-editor-14fwtngk.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3d-dash-editor-14fwtngk.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "14fwtngK-vE6fT3LBmcmyAhpTPruyLkpB",
     "driveFileName": "cl3dasheditor.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-3d-pinball-space-cadet-11vimxj",
+    "id": "crown-3d-pinball-space-cadet",
     "title": "3D Pinball Space Cadet",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/11Vimxj_TcyjiPu4AOXCEZ5WH6KuFU7Bo/view",
     "thumbnail": "assets/thumbs/drive/3d-pinball-space-cadet-11vimxj.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3d-pinball-space-cadet-11vimxj.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "11Vimxj_TcyjiPu4AOXCEZ5WH6KuFU7Bo",
     "driveFileName": "cl3dpinballspacecadet.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-4th-and-goal-1thh-pow",
+    "id": "crown-4th-and-goal",
     "title": "4th and Goal",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1ThH-powjmyAQ82qHSYr-u13NiEEuud2a/view",
     "thumbnail": "assets/thumbs/drive/4th-and-goal-1thh-pow.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/4th-and-goal-1thh-pow.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1ThH-powjmyAQ82qHSYr-u13NiEEuud2a",
     "driveFileName": "cl4thandgoal.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-bank-robbery-16y-r-x5",
+    "id": "crown-bank-robbery",
     "title": "Bank Robbery",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/16Y-r_X5wxD8gSvxX6esXOAVnQTaJb361/view",
     "thumbnail": "assets/thumbs/drive/bank-robbery-16y-r-x5.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/bank-robbery-16y-r-x5.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "16Y-r_X5wxD8gSvxX6esXOAVnQTaJb361",
     "driveFileName": "Bank Robbery.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-cheese-rolling-18unkdrz",
+    "id": "crown-cheese-rolling",
     "title": "Cheese Rolling",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/18UnKdrZ6zeqHynTRefXtIIaoLji2Ig7r/view",
     "thumbnail": "assets/thumbs/drive/cheese-rolling-18unkdrz.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/cheese-rolling-18unkdrz.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "18UnKdrZ6zeqHynTRefXtIIaoLji2Ig7r",
     "driveFileName": "cheeserolling.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-cl-1-19ra-g4u",
+    "id": "crown-cl-1",
     "title": "CL 1",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/19ra_g4UHw5HAsZKjcP1jyG5CqoAnMp-o/view",
     "thumbnail": "assets/thumbs/drive/cl-1-19ra-g4u.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-1-19ra-g4u.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "19ra_g4UHw5HAsZKjcP1jyG5CqoAnMp-o",
     "driveFileName": "cl1.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-cl-3-1euee1bc",
+    "id": "crown-cl-3",
     "title": "CL 3",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1EuEe1bCm9nzgvRBkGbO8i-8gwsmH-K6a/view",
     "thumbnail": "assets/thumbs/drive/cl-3-1euee1bc.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-3-1euee1bc.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1EuEe1bCm9nzgvRBkGbO8i-8gwsmH-K6a",
     "driveFileName": "cl-3.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-cl-b-1vnphevh",
+    "id": "crown-cl-b",
     "title": "CL B",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1vnpHevhDDNNiVbJx0m75dMBE5s015lgC/view",
     "thumbnail": "assets/thumbs/drive/cl-b-1vnphevh.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-b-1vnphevh.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1vnpHevhDDNNiVbJx0m75dMBE5s015lgC",
     "driveFileName": "cl-b.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-doom-1vfeu3gp",
+    "id": "crown-doom",
     "title": "Doom",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1vfeu3GpafbQBfrv_l_ql72qDlT26OXj1/view",
     "thumbnail": "assets/thumbs/drive/doom-1vfeu3gp.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/doom-1vfeu3gp.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1vfeu3GpafbQBfrv_l_ql72qDlT26OXj1",
     "driveFileName": "cl2doom.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "drive-mixed-with-files-altsingle-1bsflpix",
+    "id": "crown-mixed-with-files-altsingle",
     "title": "Mixed With Files Altsingle",
     "category": "Bonus Games",
-    "originalPage": "https://drive.google.com/file/d/1BsflPIXTnFDycvbS56Oa_rElBTMq9wyo/view",
     "thumbnail": "assets/thumbs/drive/mixed-with-files-altsingle-1bsflpix.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/mixed-with-files-altsingle-1bsflpix.html",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "drive-folder",
+    "source": "crown",
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1BsflPIXTnFDycvbS56Oa_rElBTMq9wyo",
     "driveFileName": "Mixed with files altsingle.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "cod-4-https-sites-google-com-lindberghschools-ws-crown-official-call-of-duty-gam",
+    "id": "crown-cod-4",
     "title": "COD 4",
-    "category": "Call Of Duty Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/call-of-duty-games/cod-4",
-    "thumbnail": "assets/thumbs/generated/cod-4-https-sites-google-com-lindberghschools-ws-crown-official-call-of-duty-gam.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/cod-4-https-sites-google-com-lindberghschools-ws-crown-official-call-of-duty-gam.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/cod-4-https-sites-google-com-lindberghschools-ws-crown-official-call-of-duty-gam.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "modern-warfare-https-sites-google-com-lindberghschools-ws-crown-official-call-of",
+    "id": "crown-modern-warfare",
     "title": "Modern Warfare",
-    "category": "Call Of Duty Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/call-of-duty-games/modern-warfare",
-    "thumbnail": "assets/thumbs/generated/modern-warfare-https-sites-google-com-lindberghschools-ws-crown-official-call-of.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/modern-warfare-https-sites-google-com-lindberghschools-ws-crown-official-call-of.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/modern-warfare-https-sites-google-com-lindberghschools-ws-crown-official-call-of.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "modern-warfare-3-https-sites-google-com-lindberghschools-ws-crown-official-call-",
+    "id": "crown-modern-warfare-3",
     "title": "Modern Warfare 3",
-    "category": "Call Of Duty Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/call-of-duty-games/modern-warfare-3",
-    "thumbnail": "assets/thumbs/generated/modern-warfare-3-https-sites-google-com-lindberghschools-ws-crown-official-call.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/modern-warfare-3-https-sites-google-com-lindberghschools-ws-crown-official-call.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/modern-warfare-3-https-sites-google-com-lindberghschools-ws-crown-official-call-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "world-at-war-https-sites-google-com-lindberghschools-ws-crown-official-call-of-d",
+    "id": "crown-world-at-war",
     "title": "World at War",
-    "category": "Call Of Duty Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/call-of-duty-games/world-at-war",
-    "thumbnail": "assets/thumbs/generated/world-at-war-https-sites-google-com-lindberghschools-ws-crown-official-call-of-d.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/world-at-war-https-sites-google-com-lindberghschools-ws-crown-official-call-of-d.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/world-at-war-https-sites-google-com-lindberghschools-ws-crown-official-call-of-d.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "mario-kart-64-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka",
+    "id": "crown-mario-kart-64",
     "title": "Mario Kart 64",
-    "category": "Collections",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/mario-kart-64",
-    "thumbnail": "assets/thumbs/generated/mario-kart-64-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/mario-kart-64-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mario-kart-64-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "mario-kart-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka",
+    "id": "crown-mario-kart-ds",
     "title": "Mario Kart DS",
-    "category": "Collections",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/mario-kart-ds",
-    "thumbnail": "assets/thumbs/generated/mario-kart-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/mario-kart-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mario-kart-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "mario-party-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-p",
+    "id": "crown-mario-party-ds",
     "title": "Mario Party DS",
-    "category": "Collections",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/mario-party-ds",
-    "thumbnail": "assets/thumbs/generated/mario-party-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-p.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/mario-party-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-p.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mario-party-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-p.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "new-super-mario-bros-https-sites-google-com-lindberghschools-ws-crown-official-n",
+    "id": "crown-new-super-mario-bros",
     "title": "New Super Mario Bros",
-    "category": "Collections",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/new-super-mario-bros",
-    "thumbnail": "assets/thumbs/generated/new-super-mario-bros-https-sites-google-com-lindberghschools-ws-crown-official-n.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/new-super-mario-bros-https-sites-google-com-lindberghschools-ws-crown-official-n.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/new-super-mario-bros-https-sites-google-com-lindberghschools-ws-crown-official-n.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "sonic-https-sites-google-com-lindberghschools-ws-crown-official-sonic",
+    "id": "crown-sonic",
     "title": "Sonic",
-    "category": "Collections",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/sonic",
-    "thumbnail": "assets/thumbs/generated/sonic-https-sites-google-com-lindberghschools-ws-crown-official-sonic.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/sonic-https-sites-google-com-lindberghschools-ws-crown-official-sonic.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/sonic-https-sites-google-com-lindberghschools-ws-crown-official-sonic.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "sonic-r-https-sites-google-com-lindberghschools-ws-crown-official-sonic-r",
+    "id": "crown-sonic-r",
     "title": "Sonic R",
-    "category": "Collections",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/sonic-r",
-    "thumbnail": "assets/thumbs/generated/sonic-r-https-sites-google-com-lindberghschools-ws-crown-official-sonic-r.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/sonic-r-https-sites-google-com-lindberghschools-ws-crown-official-sonic-r.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/sonic-r-https-sites-google-com-lindberghschools-ws-crown-official-sonic-r.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "gun-knight-https-sites-google-com-lindberghschools-ws-crown-official-gun-knight",
+    "id": "crown-gun-knight",
     "title": "Gun Knight",
-    "category": "Combat",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/gun-knight",
-    "thumbnail": "assets/thumbs/generated/gun-knight-https-sites-google-com-lindberghschools-ws-crown-official-gun-knight.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/gun-knight-https-sites-google-com-lindberghschools-ws-crown-official-gun-knight.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/gun-knight-https-sites-google-com-lindberghschools-ws-crown-official-gun-knight.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "pixel-gun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-gun",
+    "id": "crown-pixel-gun",
     "title": "Pixel Gun",
-    "category": "Combat",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/pixel-gun",
-    "thumbnail": "assets/thumbs/generated/pixel-gun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-gun.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/pixel-gun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-gun.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pixel-gun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-gun.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ragdoll-archers-https-sites-google-com-lindberghschools-ws-crown-official-ragdol",
+    "id": "crown-ragdoll-archers",
     "title": "Ragdoll Archers",
-    "category": "Combat",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ragdoll-archers",
-    "thumbnail": "assets/thumbs/embedded/ragdoll-archers-https-sites-google-com-lindberghschools-ws-crown-official-ragdol.jpeg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/ragdoll-archers-https-sites-google-com-lindberghschools-ws-crown-official-ragdol.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ragdoll-archers-https-sites-google-com-lindberghschools-ws-crown-official-ragdol.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "stick-man-duel-https-sites-google-com-lindberghschools-ws-crown-official-stick-m",
+    "id": "crown-stick-man-duel",
     "title": "Stick Man Duel",
-    "category": "Combat",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/stick-man-duel",
-    "thumbnail": "assets/thumbs/generated/stick-man-duel-https-sites-google-com-lindberghschools-ws-crown-official-stick-m.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/stick-man-duel-https-sites-google-com-lindberghschools-ws-crown-official-stick-m.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/stick-man-duel-https-sites-google-com-lindberghschools-ws-crown-official-stick-m.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "stick-war-https-sites-google-com-lindberghschools-ws-crown-official-stick-war",
+    "id": "crown-stick-war",
     "title": "Stick War",
-    "category": "Combat",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/stick-war",
-    "thumbnail": "assets/thumbs/captures/stick-war-https-sites-google-com-lindberghschools-ws-crown-official-stick-war.png",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/stick-war-https-sites-google-com-lindberghschools-ws-crown-official-stick-war.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/stick-war-https-sites-google-com-lindberghschools-ws-crown-official-stick-war.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "10-minutes-till-dawn-https-sites-google-com-lindberghschools-ws-crown-official-1",
+    "id": "crown-10-minutes-till-dawn",
     "title": "10 Minutes till dawn",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/10-minutes-till-dawn.html",
     "thumbnail": "assets/thumbs/class6x/class6x-10-minutes-till-dawn.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/10-minutes-till-dawn/",
     "class6xPage": "https://class6x.gitlab.io/game/10-minutes-till-dawn.html"
   },
   {
-    "id": "class6x-bitlife",
+    "id": "crown-bitlife",
     "title": "Bitlife",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/bitlife.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bitlife.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bitlife/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cookie-clicker",
+    "id": "crown-cookie-clicker",
     "title": "Cookie Clicker",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/cookie-clicker.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cookie-clicker.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cookie-clicker/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cover-orange-gangsters-unblocked",
-    "title": "Cover Orange Gangsters Unblocked",
+    "id": "crown-cover-orange-gangsters",
+    "title": "Cover Orange Gangsters",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/cover-orange-gangsters.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-cover-orange-gangsters-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-cover-orange-gangsters-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cover-orange-gangsters/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fun-water-sorting-unblocked",
-    "title": "Fun Water Sorting Unblocked",
+    "id": "crown-fun-water-sorting",
+    "title": "Fun Water Sorting",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/forgotten-hill-the-wardrobe.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-fun-water-sorting-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-fun-water-sorting-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/forgotten-hill-the-wardrobe/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-idle-mining-empire",
+    "id": "crown-idle-mining-empire",
     "title": "Idle Mining Empire",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/idle-mining-empire.html",
     "thumbnail": "assets/thumbs/class6x/class6x-idle-mining-empire.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/idle-mining-empire/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-iidle-cowshed",
+    "id": "crown-iidle-cowshed",
     "title": "Iidle Cowshed",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/iidle-cowshed.html",
     "thumbnail": "assets/thumbs/class6x/class6x-iidle-cowshed.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/iidle-cowshed/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-magic-bridge-unblocked",
-    "title": "Magic Bridge Unblocked",
+    "id": "crown-magic-bridge",
+    "title": "Magic Bridge",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/magic-bridge.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-magic-bridge-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-magic-bridge-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/magic-bridge/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-onion-boy",
+    "id": "crown-onion-boy",
     "title": "Onion Boy",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/onion-boy.html",
     "thumbnail": "assets/thumbs/class6x/class6x-onion-boy.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/onion-boy/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pond-rrace-unblocked",
-    "title": "Pond Rrace Unblocked",
+    "id": "crown-pond-rrace",
+    "title": "Pond Rrace",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/pond-race.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-pond-rrace-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-pond-rrace-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pond-race/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-shape-fold-unblocked",
-    "title": "Shape Fold Unblocked",
+    "id": "crown-shape-fold",
+    "title": "Shape Fold",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/shape-fold-html5.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-shape-fold-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-shape-fold-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/shape-fold-html5/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-snake-unblocked",
-    "title": "Snake Unblocked",
+    "id": "crown-snake",
+    "title": "Snake",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/snake-cool.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-snake-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-snake-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/snake-cool/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-spot-the-differences-unblocked",
-    "title": "Spot The Differences Unblocked",
+    "id": "crown-spot-the-differences",
+    "title": "Spot The Differences",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/spot-the-differences.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-spot-the-differences-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-spot-the-differences-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/spot-the-differences/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sudoku-calendar",
+    "id": "crown-sudoku-calendar",
     "title": "Sudoku Calendar",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/sudoku-calendar.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sudoku-calendar.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sudoku-calendar/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tumble-wrestling",
+    "id": "crown-tumble-wrestling",
     "title": "Tumble Wrestling",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/tumble-wrestling.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tumble-wrestling.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tumble-wrestling/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-yummy-toast",
+    "id": "crown-yummy-toast",
     "title": "Yummy Toast",
     "category": "Featured",
-    "originalPage": "https://class6x.gitlab.io/game/yummy-toast.html",
     "thumbnail": "assets/thumbs/class6x/class6x-yummy-toast.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/yummy-toast/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "100-rooms-of-enemies-https-sites-google-com-lindberghschools-ws-crown-official-1",
+    "id": "crown-100-rooms-of-enemies",
     "title": "100 Rooms Of Enemies",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/100-rooms-of-enemies",
-    "thumbnail": "assets/thumbs/generated/100-rooms-of-enemies-https-sites-google-com-lindberghschools-ws-crown-official-1.svg",
+    "thumbnail": "assets/thumbs/logos/100-rooms-of-enemies-https-sites-google-com-lindberghschools-ws-crown-official-1.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/100-rooms-of-enemies-https-sites-google-com-lindberghschools-ws-crown-official-1.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "99-nights-in-the-forest-https-sites-google-com-lindberghschools-ws-crown-officia",
+    "id": "crown-99-nights-in-the-forest",
     "title": "99 Nights In The Forest",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/99-nights-in-the-forest",
-    "thumbnail": "assets/thumbs/generated/99-nights-in-the-forest-https-sites-google-com-lindberghschools-ws-crown-officia.svg",
+    "thumbnail": "assets/thumbs/logos/99-nights-in-the-forest-https-sites-google-com-lindberghschools-ws-crown-officia.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/99-nights-in-the-forest-https-sites-google-com-lindberghschools-ws-crown-officia.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "angry-birds-https-sites-google-com-lindberghschools-ws-crown-official-angry-bird",
+    "id": "crown-angry-birds",
     "title": "Angry Birds",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/angry-birds_1",
-    "thumbnail": "assets/thumbs/generated/angry-birds-https-sites-google-com-lindberghschools-ws-crown-official-angry-bird.svg",
+    "thumbnail": "assets/thumbs/logos/angry-birds-https-sites-google-com-lindberghschools-ws-crown-official-angry-bird.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/angry-birds-https-sites-google-com-lindberghschools-ws-crown-official-angry-bird.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "animal-crossing-https-sites-google-com-lindberghschools-ws-crown-official-animal",
+    "id": "crown-animal-crossing",
     "title": "Animal Crossing",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/animal-crossing",
-    "thumbnail": "assets/thumbs/generated/animal-crossing-https-sites-google-com-lindberghschools-ws-crown-official-animal.svg",
+    "thumbnail": "assets/thumbs/logos/animal-crossing-https-sites-google-com-lindberghschools-ws-crown-official-animal.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/animal-crossing-https-sites-google-com-lindberghschools-ws-crown-official-animal.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "asteroids-https-sites-google-com-lindberghschools-ws-crown-official-asteroids",
+    "id": "crown-asteroids",
     "title": "Asteroids",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/asteroids",
-    "thumbnail": "assets/thumbs/generated/asteroids-https-sites-google-com-lindberghschools-ws-crown-official-asteroids.svg",
+    "thumbnail": "assets/thumbs/logos/asteroids-https-sites-google-com-lindberghschools-ws-crown-official-asteroids.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/asteroids-https-sites-google-com-lindberghschools-ws-crown-official-asteroids.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "baby-sniper-in-vietnam-https-sites-google-com-lindberghschools-ws-crown-official",
+    "id": "crown-baby-sniper-in-vietnam",
     "title": "Baby Sniper In Vietnam",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/baby-sniper-in-vietnam",
-    "thumbnail": "assets/thumbs/generated/baby-sniper-in-vietnam-https-sites-google-com-lindberghschools-ws-crown-official.svg",
+    "thumbnail": "assets/thumbs/logos/baby-sniper-in-vietnam-https-sites-google-com-lindberghschools-ws-crown-official.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baby-sniper-in-vietnam-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "backrooms-https-sites-google-com-lindberghschools-ws-crown-official-backrooms",
+    "id": "crown-backrooms",
     "title": "Backrooms",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/backrooms",
-    "thumbnail": "assets/thumbs/embedded/backrooms-https-sites-google-com-lindberghschools-ws-crown-official-backrooms.jpg",
+    "thumbnail": "assets/thumbs/logos/backrooms-https-sites-google-com-lindberghschools-ws-crown-official-backrooms.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/backrooms-https-sites-google-com-lindberghschools-ws-crown-official-backrooms.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "backyard-baseball-https-sites-google-com-lindberghschools-ws-crown-official-back",
+    "id": "crown-backyard-baseball",
     "title": "Backyard Baseball",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/backyard-baseball",
-    "thumbnail": "assets/thumbs/captures/backyard-baseball-https-sites-google-com-lindberghschools-ws-crown-official-back.png",
+    "thumbnail": "assets/thumbs/logos/backyard-baseball-https-sites-google-com-lindberghschools-ws-crown-official-back.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/backyard-baseball-https-sites-google-com-lindberghschools-ws-crown-official-back.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "baldie-caesoh-https-sites-google-com-lindberghschools-ws-crown-official-baldie-c",
+    "id": "crown-baldie-caesoh",
     "title": "Baldie Caesoh",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/baldie-caesoh",
-    "thumbnail": "assets/thumbs/generated/baldie-caesoh-https-sites-google-com-lindberghschools-ws-crown-official-baldie-c.svg",
+    "thumbnail": "assets/thumbs/logos/baldie-caesoh-https-sites-google-com-lindberghschools-ws-crown-official-baldie-c.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baldie-caesoh-https-sites-google-com-lindberghschools-ws-crown-official-baldie-c.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "baldie-epstien-https-sites-google-com-lindberghschools-ws-crown-official-baldie-",
+    "id": "crown-baldie-epstien",
     "title": "Baldie Epstien",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/baldie-epstien",
-    "thumbnail": "assets/thumbs/captures/baldie-epstien-https-sites-google-com-lindberghschools-ws-crown-official-baldie.png",
+    "thumbnail": "assets/thumbs/logos/baldie-epstien-https-sites-google-com-lindberghschools-ws-crown-official-baldie.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baldie-epstien-https-sites-google-com-lindberghschools-ws-crown-official-baldie-.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "baldy-s-basics-https-sites-google-com-lindberghschools-ws-crown-official-baldys-",
+    "id": "crown-baldy-s-basics",
     "title": "Baldy's Basics",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/baldys-basics",
-    "thumbnail": "assets/thumbs/generated/baldy-s-basics-https-sites-google-com-lindberghschools-ws-crown-official-baldys.svg",
+    "thumbnail": "assets/thumbs/logos/baldy-s-basics-https-sites-google-com-lindberghschools-ws-crown-official-baldys.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baldy-s-basics-https-sites-google-com-lindberghschools-ws-crown-official-baldys-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ballon-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official",
+    "id": "crown-ballon-tower-defense-4",
     "title": "Ballon Tower Defense 4",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ballon-tower-defense-4",
-    "thumbnail": "assets/thumbs/generated/ballon-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.svg",
+    "thumbnail": "assets/thumbs/logos/ballon-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ballon-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "baseball-bros-https-sites-google-com-lindberghschools-ws-crown-official-baseball",
+    "id": "crown-baseball-bros",
     "title": "BaseBall Bros",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/baseball-bros",
-    "thumbnail": "assets/thumbs/embedded/baseball-bros-https-sites-google-com-lindberghschools-ws-crown-official-baseball.png",
+    "thumbnail": "assets/thumbs/logos/baseball-bros-https-sites-google-com-lindberghschools-ws-crown-official-baseball.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baseball-bros-https-sites-google-com-lindberghschools-ws-crown-official-baseball.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "binding-of-isacc-https-sites-google-com-lindberghschools-ws-crown-official-bindi",
+    "id": "crown-binding-of-isacc",
     "title": "Binding of Isacc",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/binding-of-isacc",
-    "thumbnail": "assets/thumbs/generated/binding-of-isacc-https-sites-google-com-lindberghschools-ws-crown-official-bindi.svg",
+    "thumbnail": "assets/thumbs/logos/binding-of-isacc-https-sites-google-com-lindberghschools-ws-crown-official-bindi.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/binding-of-isacc-https-sites-google-com-lindberghschools-ws-crown-official-bindi.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "bitlife-1-chance-of-loading-https-sites-google-com-lindberghschools-ws-crown-off",
+    "id": "crown-bitlife-1-chance-of-loading",
     "title": "Bitlife (1% chance of loading)",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/bitlife-1-chance-of-loading",
     "thumbnail": "assets/thumbs/bitlife-1-chance-of-loading-https-sites-google-com-lindberghschools-ws-crown-off.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/bitlife-1-chance-of-loading-https-sites-google-com-lindberghschools-ws-crown-off.html",
-    "thumbnailSource": "class6x",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "bloons-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official",
+    "id": "crown-bloons-tower-defense-4",
     "title": "Bloons Tower Defense 4",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/bloons-tower-defense-4",
-    "thumbnail": "assets/thumbs/generated/bloons-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.svg",
+    "thumbnail": "assets/thumbs/logos/bloons-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/bloons-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "bmx2-https-sites-google-com-lindberghschools-ws-crown-official-bmx2",
+    "id": "crown-bmx2",
     "title": "BMX2",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/bmx2",
-    "thumbnail": "assets/thumbs/generated/bmx2-https-sites-google-com-lindberghschools-ws-crown-official-bmx2.svg",
+    "thumbnail": "assets/thumbs/logos/bmx2-https-sites-google-com-lindberghschools-ws-crown-official-bmx2.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/bmx2-https-sites-google-com-lindberghschools-ws-crown-official-bmx2.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "car-king-arena-best-car-game-https-sites-google-com-lindberghschools-ws-crown-of",
+    "id": "crown-car-king-arena-best-car-game",
     "title": "Car King Arena (BEST CAR GAME)",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/car-king-arena-best-car-game",
-    "thumbnail": "assets/thumbs/generated/car-king-arena-best-car-game-https-sites-google-com-lindberghschools-ws-crown-of.svg",
+    "thumbnail": "assets/thumbs/logos/car-king-arena-best-car-game-https-sites-google-com-lindberghschools-ws-crown-of.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/car-king-arena-best-car-game-https-sites-google-com-lindberghschools-ws-crown-of.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "core-ball-https-sites-google-com-lindberghschools-ws-crown-official-core-ball",
+    "id": "crown-core-ball",
     "title": "Core Ball",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/core-ball",
-    "thumbnail": "assets/thumbs/embedded/core-ball-https-sites-google-com-lindberghschools-ws-crown-official-core-ball.png",
+    "thumbnail": "assets/thumbs/logos/core-ball-https-sites-google-com-lindberghschools-ws-crown-official-core-ball.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/core-ball-https-sites-google-com-lindberghschools-ws-crown-official-core-ball.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "crazy-cattle-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cat",
+    "id": "crown-crazy-cattle",
     "title": "Crazy Cattle",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/crazy-cattle",
-    "thumbnail": "assets/thumbs/embedded/crazy-cattle-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cat.png",
+    "thumbnail": "assets/thumbs/logos/crazy-cattle-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cat.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/crazy-cattle-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cat.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "crazy-climber-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cl",
+    "id": "crown-crazy-climber",
     "title": "Crazy Climber",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/crazy-climber",
-    "thumbnail": "assets/thumbs/generated/crazy-climber-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cl.svg",
+    "thumbnail": "assets/thumbs/logos/crazy-climber-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cl.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/crazy-climber-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cl.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "curve-ball-v1-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba",
+    "id": "crown-curve-ball-v1",
     "title": "Curve Ball V1",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/curve-ball-v1",
-    "thumbnail": "assets/thumbs/generated/curve-ball-v1-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.svg",
+    "thumbnail": "assets/thumbs/logos/curve-ball-v1-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/curve-ball-v1-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "curve-ball-v2-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba",
+    "id": "crown-curve-ball-v2",
     "title": "Curve Ball V2",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/curve-ball-v2",
-    "thumbnail": "assets/thumbs/captures/curve-ball-v2-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.png",
+    "thumbnail": "assets/thumbs/logos/curve-ball-v2-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/curve-ball-v2-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "cut-the-rope-https-sites-google-com-lindberghschools-ws-crown-official-cut-the-r",
+    "id": "crown-cut-the-rope",
     "title": "Cut the Rope",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/cut-the-rope",
-    "thumbnail": "assets/thumbs/embedded/cut-the-rope-https-sites-google-com-lindberghschools-ws-crown-official-cut-the-r.png",
+    "thumbnail": "assets/thumbs/logos/cut-the-rope-https-sites-google-com-lindberghschools-ws-crown-official-cut-the-r.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/cut-the-rope-https-sites-google-com-lindberghschools-ws-crown-official-cut-the-r.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "diablo-https-sites-google-com-lindberghschools-ws-crown-official-diablo",
+    "id": "crown-diablo",
     "title": "Diablo",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/diablo",
-    "thumbnail": "assets/thumbs/generated/diablo-https-sites-google-com-lindberghschools-ws-crown-official-diablo.svg",
+    "thumbnail": "assets/thumbs/logos/diablo-https-sites-google-com-lindberghschools-ws-crown-official-diablo.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/diablo-https-sites-google-com-lindberghschools-ws-crown-official-diablo.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "dig-to-china-https-sites-google-com-lindberghschools-ws-crown-official-dig-to-ch",
+    "id": "crown-dig-to-china",
     "title": "Dig To China",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/dig-to-china",
-    "thumbnail": "assets/thumbs/generated/dig-to-china-https-sites-google-com-lindberghschools-ws-crown-official-dig-to-ch.svg",
+    "thumbnail": "assets/thumbs/logos/dig-to-china-https-sites-google-com-lindberghschools-ws-crown-official-dig-to-ch.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/dig-to-china-https-sites-google-com-lindberghschools-ws-crown-official-dig-to-ch.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "dodge-miner-https-sites-google-com-lindberghschools-ws-crown-official-dodge-mine",
+    "id": "crown-dodge-miner",
     "title": "Dodge Miner",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/dodge-miner",
-    "thumbnail": "assets/thumbs/embedded/dodge-miner-https-sites-google-com-lindberghschools-ws-crown-official-dodge-mine.png",
+    "thumbnail": "assets/thumbs/logos/dodge-miner-https-sites-google-com-lindberghschools-ws-crown-official-dodge-mine.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/dodge-miner-https-sites-google-com-lindberghschools-ws-crown-official-dodge-mine.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "doom-64-https-sites-google-com-lindberghschools-ws-crown-official-doom-64",
+    "id": "crown-doom-64",
     "title": "Doom 64",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/doom-64",
-    "thumbnail": "assets/thumbs/generated/doom-64-https-sites-google-com-lindberghschools-ws-crown-official-doom-64.svg",
+    "thumbnail": "assets/thumbs/logos/doom-64-https-sites-google-com-lindberghschools-ws-crown-official-doom-64.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/doom-64-https-sites-google-com-lindberghschools-ws-crown-official-doom-64.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "edge-surf-https-sites-google-com-lindberghschools-ws-crown-official-edge-surf",
+    "id": "crown-edge-surf",
     "title": "Edge Surf",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/edge-surf",
-    "thumbnail": "assets/thumbs/generated/edge-surf-https-sites-google-com-lindberghschools-ws-crown-official-edge-surf.svg",
+    "thumbnail": "assets/thumbs/logos/edge-surf-https-sites-google-com-lindberghschools-ws-crown-official-edge-surf.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/edge-surf-https-sites-google-com-lindberghschools-ws-crown-official-edge-surf.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "escape-road-https-sites-google-com-lindberghschools-ws-crown-official-escape-roa",
+    "id": "crown-escape-road",
     "title": "Escape Road",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/escape-road",
-    "thumbnail": "assets/thumbs/embedded/escape-road-https-sites-google-com-lindberghschools-ws-crown-official-escape-roa.png",
+    "thumbnail": "assets/thumbs/logos/escape-road-https-sites-google-com-lindberghschools-ws-crown-official-escape-roa.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/escape-road-https-sites-google-com-lindberghschools-ws-crown-official-escape-roa.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "fallout-https-sites-google-com-lindberghschools-ws-crown-official-fallout",
+    "id": "crown-fallout",
     "title": "Fallout",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/fallout",
-    "thumbnail": "assets/thumbs/generated/fallout-https-sites-google-com-lindberghschools-ws-crown-official-fallout.svg",
+    "thumbnail": "assets/thumbs/logos/fallout-https-sites-google-com-lindberghschools-ws-crown-official-fallout.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/fallout-https-sites-google-com-lindberghschools-ws-crown-official-fallout.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "fifa-2k-https-sites-google-com-lindberghschools-ws-crown-official-fifa-2k",
+    "id": "crown-fifa-2k",
     "title": "FIFA 2k",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/fifa-2k",
-    "thumbnail": "assets/thumbs/generated/fifa-2k-https-sites-google-com-lindberghschools-ws-crown-official-fifa-2k.svg",
+    "thumbnail": "assets/thumbs/logos/fifa-2k-https-sites-google-com-lindberghschools-ws-crown-official-fifa-2k.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/fifa-2k-https-sites-google-com-lindberghschools-ws-crown-official-fifa-2k.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "five-nights-at-freedy-s-https-sites-google-com-lindberghschools-ws-crown-officia",
+    "id": "crown-five-nights-at-freedy-s",
     "title": "Five Nights At Freedy's",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/five-nights-at-freedys",
-    "thumbnail": "assets/thumbs/generated/five-nights-at-freedy-s-https-sites-google-com-lindberghschools-ws-crown-officia.svg",
+    "thumbnail": "assets/thumbs/logos/five-nights-at-freedy-s-https-sites-google-com-lindberghschools-ws-crown-officia.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/five-nights-at-freedy-s-https-sites-google-com-lindberghschools-ws-crown-officia.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "fnaf-https-sites-google-com-lindberghschools-ws-crown-official-fnaf",
+    "id": "crown-fnaf",
     "title": "FNAF",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/fnaf",
-    "thumbnail": "assets/thumbs/generated/fnaf-https-sites-google-com-lindberghschools-ws-crown-official-fnaf.svg",
+    "thumbnail": "assets/thumbs/logos/fnaf-https-sites-google-com-lindberghschools-ws-crown-official-fnaf.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/fnaf-https-sites-google-com-lindberghschools-ws-crown-official-fnaf.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "fnf-https-sites-google-com-lindberghschools-ws-crown-official-fnf",
+    "id": "crown-fnf",
     "title": "FNF",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/fnf",
-    "thumbnail": "assets/thumbs/embedded/fnf-https-sites-google-com-lindberghschools-ws-crown-official-fnf.png",
+    "thumbnail": "assets/thumbs/logos/fnf-https-sites-google-com-lindberghschools-ws-crown-official-fnf.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/fnf-https-sites-google-com-lindberghschools-ws-crown-official-fnf.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "gorilla-tag-https-sites-google-com-lindberghschools-ws-crown-official-gorilla-ta",
+    "id": "crown-gorilla-tag",
     "title": "Gorilla tag",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/gorilla-tag",
-    "thumbnail": "assets/thumbs/generated/gorilla-tag-https-sites-google-com-lindberghschools-ws-crown-official-gorilla-ta.svg",
+    "thumbnail": "assets/thumbs/logos/gorilla-tag-https-sites-google-com-lindberghschools-ws-crown-official-gorilla-ta.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/gorilla-tag-https-sites-google-com-lindberghschools-ws-crown-official-gorilla-ta.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "granny-https-sites-google-com-lindberghschools-ws-crown-official-granny",
+    "id": "crown-granny",
     "title": "Granny",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/granny",
-    "thumbnail": "assets/thumbs/generated/granny-https-sites-google-com-lindberghschools-ws-crown-official-granny.svg",
+    "thumbnail": "assets/thumbs/logos/granny-https-sites-google-com-lindberghschools-ws-crown-official-granny.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/granny-https-sites-google-com-lindberghschools-ws-crown-official-granny.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "gta-https-sites-google-com-lindberghschools-ws-crown-official-gta",
+    "id": "crown-gta",
     "title": "GTA",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/gta",
-    "thumbnail": "assets/thumbs/generated/gta-https-sites-google-com-lindberghschools-ws-crown-official-gta.svg",
+    "thumbnail": "assets/thumbs/logos/gta-https-sites-google-com-lindberghschools-ws-crown-official-gta.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/gta-https-sites-google-com-lindberghschools-ws-crown-official-gta.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "happy-wheels-https-sites-google-com-lindberghschools-ws-crown-official-happy-whe",
+    "id": "crown-happy-wheels",
     "title": "Happy Wheels",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/happy-wheels",
-    "thumbnail": "assets/thumbs/generated/happy-wheels-https-sites-google-com-lindberghschools-ws-crown-official-happy-whe.svg",
+    "thumbnail": "assets/thumbs/logos/happy-wheels-https-sites-google-com-lindberghschools-ws-crown-official-happy-whe.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/happy-wheels-https-sites-google-com-lindberghschools-ws-crown-official-happy-whe.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "hobo-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-hobo-v",
+    "id": "crown-hobo-vs-zombies",
     "title": "Hobo vs. zombies",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/hobo-vs-zombies",
-    "thumbnail": "assets/thumbs/generated/hobo-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-hobo-v.svg",
+    "thumbnail": "assets/thumbs/logos/hobo-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-hobo-v.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/hobo-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-hobo-v.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "hole-io-https-sites-google-com-lindberghschools-ws-crown-official-hole-io",
+    "id": "crown-hole-io",
     "title": "Hole.io",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/hole-io",
-    "thumbnail": "assets/thumbs/generated/hole-io-https-sites-google-com-lindberghschools-ws-crown-official-hole-io.svg",
+    "thumbnail": "assets/thumbs/logos/hole-io-https-sites-google-com-lindberghschools-ws-crown-official-hole-io.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/hole-io-https-sites-google-com-lindberghschools-ws-crown-official-hole-io.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "hollow-knight-https-sites-google-com-lindberghschools-ws-crown-official-hollow-k",
+    "id": "crown-hollow-knight",
     "title": "Hollow knight",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/hollow-knight",
-    "thumbnail": "assets/thumbs/generated/hollow-knight-https-sites-google-com-lindberghschools-ws-crown-official-hollow-k.svg",
+    "thumbnail": "assets/thumbs/logos/hollow-knight-https-sites-google-com-lindberghschools-ws-crown-official-hollow-k.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/hollow-knight-https-sites-google-com-lindberghschools-ws-crown-official-hollow-k.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ice-dodo-https-sites-google-com-lindberghschools-ws-crown-official-ice-dodo",
+    "id": "crown-ice-dodo",
     "title": "Ice Dodo",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ice-dodo",
-    "thumbnail": "assets/thumbs/embedded/ice-dodo-https-sites-google-com-lindberghschools-ws-crown-official-ice-dodo.png",
+    "thumbnail": "assets/thumbs/logos/ice-dodo-https-sites-google-com-lindberghschools-ws-crown-official-ice-dodo.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ice-dodo-https-sites-google-com-lindberghschools-ws-crown-official-ice-dodo.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "kirby-64-https-sites-google-com-lindberghschools-ws-crown-official-kirby-64",
+    "id": "crown-kirby-64",
     "title": "Kirby 64",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/kirby-64",
-    "thumbnail": "assets/thumbs/generated/kirby-64-https-sites-google-com-lindberghschools-ws-crown-official-kirby-64.svg",
+    "thumbnail": "assets/thumbs/logos/kirby-64-https-sites-google-com-lindberghschools-ws-crown-official-kirby-64.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/kirby-64-https-sites-google-com-lindberghschools-ws-crown-official-kirby-64.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "kirby-adventure-remake-katam-https-sites-google-com-lindberghschools-ws-crown-of",
+    "id": "crown-kirby-adventure-remake-katam",
     "title": "Kirby Adventure Remake/Katam",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/kirby-adventure-remakekatam",
-    "thumbnail": "assets/thumbs/generated/kirby-adventure-remake-katam-https-sites-google-com-lindberghschools-ws-crown-of.svg",
+    "thumbnail": "assets/thumbs/logos/kirby-adventure-remake-katam-https-sites-google-com-lindberghschools-ws-crown-of.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/kirby-adventure-remake-katam-https-sites-google-com-lindberghschools-ws-crown-of.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "kirby-squeak-squad-https-sites-google-com-lindberghschools-ws-crown-official-kir",
+    "id": "crown-kirby-squeak-squad",
     "title": "Kirby Squeak Squad",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/kirby-squeak-squad",
-    "thumbnail": "assets/thumbs/generated/kirby-squeak-squad-https-sites-google-com-lindberghschools-ws-crown-official-kir.svg",
+    "thumbnail": "assets/thumbs/logos/kirby-squeak-squad-https-sites-google-com-lindberghschools-ws-crown-official-kir.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/kirby-squeak-squad-https-sites-google-com-lindberghschools-ws-crown-official-kir.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "koopas-revenge-https-sites-google-com-lindberghschools-ws-crown-official-koopas-",
+    "id": "crown-koopas-revenge",
     "title": "Koopas Revenge",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/koopas-revenge",
-    "thumbnail": "assets/thumbs/captures/koopas-revenge-https-sites-google-com-lindberghschools-ws-crown-official-koopas.png",
+    "thumbnail": "assets/thumbs/logos/koopas-revenge-https-sites-google-com-lindberghschools-ws-crown-official-koopas.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/koopas-revenge-https-sites-google-com-lindberghschools-ws-crown-official-koopas-.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "koopas-revenge-2-https-sites-google-com-lindberghschools-ws-crown-official-koopa",
+    "id": "crown-koopas-revenge-2",
     "title": "Koopas Revenge 2",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/koopas-revenge-2",
-    "thumbnail": "assets/thumbs/generated/koopas-revenge-2-https-sites-google-com-lindberghschools-ws-crown-official-koopa.svg",
+    "thumbnail": "assets/thumbs/logos/koopas-revenge-2-https-sites-google-com-lindberghschools-ws-crown-official-koopa.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/koopas-revenge-2-https-sites-google-com-lindberghschools-ws-crown-official-koopa.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "last-horizon-https-sites-google-com-lindberghschools-ws-crown-official-last-hori",
+    "id": "crown-last-horizon",
     "title": "Last Horizon",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/last-horizon",
-    "thumbnail": "assets/thumbs/generated/last-horizon-https-sites-google-com-lindberghschools-ws-crown-official-last-hori.svg",
+    "thumbnail": "assets/thumbs/logos/last-horizon-https-sites-google-com-lindberghschools-ws-crown-official-last-hori.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/last-horizon-https-sites-google-com-lindberghschools-ws-crown-official-last-hori.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "low-knight-https-sites-google-com-lindberghschools-ws-crown-official-low-knight",
+    "id": "crown-low-knight",
     "title": "Low Knight",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/low-knight",
-    "thumbnail": "assets/thumbs/generated/low-knight-https-sites-google-com-lindberghschools-ws-crown-official-low-knight.svg",
+    "thumbnail": "assets/thumbs/logos/low-knight-https-sites-google-com-lindberghschools-ws-crown-official-low-knight.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/low-knight-https-sites-google-com-lindberghschools-ws-crown-official-low-knight.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "melon-playground-https-sites-google-com-lindberghschools-ws-crown-official-melon",
+    "id": "crown-melon-playground",
     "title": "Melon Playground",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/melon-playground",
-    "thumbnail": "assets/thumbs/generated/melon-playground-https-sites-google-com-lindberghschools-ws-crown-official-melon.svg",
+    "thumbnail": "assets/thumbs/logos/melon-playground-https-sites-google-com-lindberghschools-ws-crown-official-melon.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/melon-playground-https-sites-google-com-lindberghschools-ws-crown-official-melon.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "mimic-https-sites-google-com-lindberghschools-ws-crown-official-mimic",
+    "id": "crown-mimic",
     "title": "Mimic",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/mimic",
-    "thumbnail": "assets/thumbs/generated/mimic-https-sites-google-com-lindberghschools-ws-crown-official-mimic.svg",
+    "thumbnail": "assets/thumbs/logos/mimic-https-sites-google-com-lindberghschools-ws-crown-official-mimic.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mimic-https-sites-google-com-lindberghschools-ws-crown-official-mimic.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "monkey-mart-https-sites-google-com-lindberghschools-ws-crown-official-monkey-mar",
+    "id": "crown-monkey-mart",
     "title": "Monkey Mart",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/monkey-mart",
-    "thumbnail": "assets/thumbs/embedded/monkey-mart-https-sites-google-com-lindberghschools-ws-crown-official-monkey-mar.png",
+    "thumbnail": "assets/thumbs/logos/monkey-mart-https-sites-google-com-lindberghschools-ws-crown-official-monkey-mar.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/monkey-mart-https-sites-google-com-lindberghschools-ws-crown-official-monkey-mar.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "my-friend-pedro-https-sites-google-com-lindberghschools-ws-crown-official-my-fri",
+    "id": "crown-my-friend-pedro",
     "title": "My Friend Pedro",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/my-friend-pedro",
-    "thumbnail": "assets/thumbs/generated/my-friend-pedro-https-sites-google-com-lindberghschools-ws-crown-official-my-fri.svg",
+    "thumbnail": "assets/thumbs/logos/my-friend-pedro-https-sites-google-com-lindberghschools-ws-crown-official-my-fri.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/my-friend-pedro-https-sites-google-com-lindberghschools-ws-crown-official-my-fri.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "one-piece-https-sites-google-com-lindberghschools-ws-crown-official-one-piece",
+    "id": "crown-one-piece",
     "title": "One Piece",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/one-piece",
-    "thumbnail": "assets/thumbs/generated/one-piece-https-sites-google-com-lindberghschools-ws-crown-official-one-piece.svg",
+    "thumbnail": "assets/thumbs/logos/one-piece-https-sites-google-com-lindberghschools-ws-crown-official-one-piece.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/one-piece-https-sites-google-com-lindberghschools-ws-crown-official-one-piece.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "papa-s-freezeria-https-sites-google-com-lindberghschools-ws-crown-official-papas",
+    "id": "crown-papa-s-freezeria",
     "title": "Papa's Freezeria",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/papas-freezeria",
-    "thumbnail": "assets/thumbs/generated/papa-s-freezeria-https-sites-google-com-lindberghschools-ws-crown-official-papas.svg",
+    "thumbnail": "assets/thumbs/logos/papa-s-freezeria-https-sites-google-com-lindberghschools-ws-crown-official-papas.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/papa-s-freezeria-https-sites-google-com-lindberghschools-ws-crown-official-papas.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "pizza-tower-https-sites-google-com-lindberghschools-ws-crown-official-pizza-towe",
+    "id": "crown-pizza-tower",
     "title": "Pizza Tower",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/pizza-tower",
-    "thumbnail": "assets/thumbs/generated/pizza-tower-https-sites-google-com-lindberghschools-ws-crown-official-pizza-towe.svg",
+    "thumbnail": "assets/thumbs/logos/pizza-tower-https-sites-google-com-lindberghschools-ws-crown-official-pizza-towe.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pizza-tower-https-sites-google-com-lindberghschools-ws-crown-official-pizza-towe.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "plants-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-plan",
+    "id": "crown-plants-vs-zombies",
     "title": "Plants VS Zombies",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/plants-vs-zombies",
-    "thumbnail": "assets/thumbs/generated/plants-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-plan.svg",
+    "thumbnail": "assets/thumbs/logos/plants-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-plan.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/plants-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-plan.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "quake-arena-https-sites-google-com-lindberghschools-ws-crown-official-quake-aren",
+    "id": "crown-quake-arena",
     "title": "Quake Arena",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/quake-arena",
-    "thumbnail": "assets/thumbs/generated/quake-arena-https-sites-google-com-lindberghschools-ws-crown-official-quake-aren.svg",
+    "thumbnail": "assets/thumbs/logos/quake-arena-https-sites-google-com-lindberghschools-ws-crown-official-quake-aren.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/quake-arena-https-sites-google-com-lindberghschools-ws-crown-official-quake-aren.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "rainbow-tower-https-sites-google-com-lindberghschools-ws-crown-official-rainbow-",
+    "id": "crown-rainbow-tower",
     "title": "Rainbow Tower",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/rainbow-tower",
-    "thumbnail": "assets/thumbs/generated/rainbow-tower-https-sites-google-com-lindberghschools-ws-crown-official-rainbow.svg",
+    "thumbnail": "assets/thumbs/logos/rainbow-tower-https-sites-google-com-lindberghschools-ws-crown-official-rainbow.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/rainbow-tower-https-sites-google-com-lindberghschools-ws-crown-official-rainbow-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "rocket-league-https-sites-google-com-lindberghschools-ws-crown-official-rocket-l",
+    "id": "crown-rocket-league",
     "title": "Rocket League",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/rocket-league",
-    "thumbnail": "assets/thumbs/generated/rocket-league-https-sites-google-com-lindberghschools-ws-crown-official-rocket-l.svg",
+    "thumbnail": "assets/thumbs/logos/rocket-league-https-sites-google-com-lindberghschools-ws-crown-official-rocket-l.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/rocket-league-https-sites-google-com-lindberghschools-ws-crown-official-rocket-l.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "russian-car-driver-https-sites-google-com-lindberghschools-ws-crown-official-rus",
+    "id": "crown-russian-car-driver",
     "title": "Russian Car Driver",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/russian-car-driver",
-    "thumbnail": "assets/thumbs/generated/russian-car-driver-https-sites-google-com-lindberghschools-ws-crown-official-rus.svg",
+    "thumbnail": "assets/thumbs/logos/russian-car-driver-https-sites-google-com-lindberghschools-ws-crown-official-rus.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/russian-car-driver-https-sites-google-com-lindberghschools-ws-crown-official-rus.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "skibidi-in-the-backround-https-sites-google-com-lindberghschools-ws-crown-offici",
+    "id": "crown-skibidi-in-the-backround",
     "title": "Skibidi In The Backround",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/skibidi-in-the-backround",
-    "thumbnail": "assets/thumbs/generated/skibidi-in-the-backround-https-sites-google-com-lindberghschools-ws-crown-offici.svg",
+    "thumbnail": "assets/thumbs/logos/skibidi-in-the-backround-https-sites-google-com-lindberghschools-ws-crown-offici.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/skibidi-in-the-backround-https-sites-google-com-lindberghschools-ws-crown-offici.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "skibidi-toilet-sim-https-sites-google-com-lindberghschools-ws-crown-official-ski",
+    "id": "crown-skibidi-toilet-sim",
     "title": "Skibidi Toilet Sim",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/skibidi-toilet-sim",
-    "thumbnail": "assets/thumbs/generated/skibidi-toilet-sim-https-sites-google-com-lindberghschools-ws-crown-official-ski.svg",
+    "thumbnail": "assets/thumbs/logos/skibidi-toilet-sim-https-sites-google-com-lindberghschools-ws-crown-official-ski.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/skibidi-toilet-sim-https-sites-google-com-lindberghschools-ws-crown-official-ski.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "slither-io-https-sites-google-com-lindberghschools-ws-crown-official-slither-io",
+    "id": "crown-slither-io",
     "title": "Slither.io",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/slither-io",
-    "thumbnail": "assets/thumbs/generated/slither-io-https-sites-google-com-lindberghschools-ws-crown-official-slither-io.svg",
+    "thumbnail": "assets/thumbs/logos/slither-io-https-sites-google-com-lindberghschools-ws-crown-official-slither-io.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/slither-io-https-sites-google-com-lindberghschools-ws-crown-official-slither-io.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "slow-roads-https-sites-google-com-lindberghschools-ws-crown-official-slow-roads",
+    "id": "crown-slow-roads",
     "title": "Slow Roads",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/slow-roads",
-    "thumbnail": "assets/thumbs/embedded/slow-roads-https-sites-google-com-lindberghschools-ws-crown-official-slow-roads.svg",
+    "thumbnail": "assets/thumbs/logos/slow-roads-https-sites-google-com-lindberghschools-ws-crown-official-slow-roads.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/slow-roads-https-sites-google-com-lindberghschools-ws-crown-official-slow-roads.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "sniper-shot-https-sites-google-com-lindberghschools-ws-crown-official-sniper-sho",
+    "id": "crown-sniper-shot",
     "title": "Sniper Shot",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/sniper-shot",
-    "thumbnail": "assets/thumbs/generated/sniper-shot-https-sites-google-com-lindberghschools-ws-crown-official-sniper-sho.svg",
+    "thumbnail": "assets/thumbs/logos/sniper-shot-https-sites-google-com-lindberghschools-ws-crown-official-sniper-sho.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/sniper-shot-https-sites-google-com-lindberghschools-ws-crown-official-sniper-sho.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "snowball-io-https-sites-google-com-lindberghschools-ws-crown-official-snowball-i",
+    "id": "crown-snowball-io",
     "title": "SnowBall.io",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/snowball-io",
-    "thumbnail": "assets/thumbs/generated/snowball-io-https-sites-google-com-lindberghschools-ws-crown-official-snowball-i.svg",
+    "thumbnail": "assets/thumbs/logos/snowball-io-https-sites-google-com-lindberghschools-ws-crown-official-snowball-i.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/snowball-io-https-sites-google-com-lindberghschools-ws-crown-official-snowball-i.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "spunky-remixed-https-sites-google-com-lindberghschools-ws-crown-official-spunky-",
+    "id": "crown-spunky-remixed",
     "title": "Spunky Remixed",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/spunky-remixed",
-    "thumbnail": "assets/thumbs/generated/spunky-remixed-https-sites-google-com-lindberghschools-ws-crown-official-spunky.svg",
+    "thumbnail": "assets/thumbs/logos/spunky-remixed-https-sites-google-com-lindberghschools-ws-crown-official-spunky.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/spunky-remixed-https-sites-google-com-lindberghschools-ws-crown-official-spunky-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "subways-surfers-beijing-https-sites-google-com-lindberghschools-ws-crown-officia",
+    "id": "crown-subways-surfers-beijing",
     "title": "Subways Surfers Beijing",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/subways-surfers-beijing",
-    "thumbnail": "assets/thumbs/embedded/subways-surfers-beijing-https-sites-google-com-lindberghschools-ws-crown-officia.png",
+    "thumbnail": "assets/thumbs/logos/subways-surfers-beijing-https-sites-google-com-lindberghschools-ws-crown-officia.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/subways-surfers-beijing-https-sites-google-com-lindberghschools-ws-crown-officia.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "the-impossible-quiz-2-https-sites-google-com-lindberghschools-ws-crown-official-",
+    "id": "crown-the-impossible-quiz-2",
     "title": "The Impossible Quiz 2",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/the-impossible-quiz-2",
-    "thumbnail": "assets/thumbs/generated/the-impossible-quiz-2-https-sites-google-com-lindberghschools-ws-crown-official.svg",
+    "thumbnail": "assets/thumbs/logos/the-impossible-quiz-2-https-sites-google-com-lindberghschools-ws-crown-official.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/the-impossible-quiz-2-https-sites-google-com-lindberghschools-ws-crown-official-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "trigger-ralley-https-sites-google-com-lindberghschools-ws-crown-official-trigger",
+    "id": "crown-trigger-ralley",
     "title": "Trigger Ralley",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/trigger-ralley",
-    "thumbnail": "assets/thumbs/captures/trigger-ralley-https-sites-google-com-lindberghschools-ws-crown-official-trigger.png",
+    "thumbnail": "assets/thumbs/logos/trigger-ralley-https-sites-google-com-lindberghschools-ws-crown-official-trigger.svg",
     "embedType": "iframe",
     "embedUrl": "https://codeartemis.github.io/TriggerRally/server/public/",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "ultimate-mortal-combat-https-sites-google-com-lindberghschools-ws-crown-official",
+    "id": "crown-ultimate-mortal-combat",
     "title": "Ultimate Mortal Combat",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/ultimate-mortal-combat",
-    "thumbnail": "assets/thumbs/generated/ultimate-mortal-combat-https-sites-google-com-lindberghschools-ws-crown-official.svg",
+    "thumbnail": "assets/thumbs/logos/ultimate-mortal-combat-https-sites-google-com-lindberghschools-ws-crown-official.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ultimate-mortal-combat-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "wolf-enstien-https-sites-google-com-lindberghschools-ws-crown-official-wolf-enst",
+    "id": "crown-wolf-enstien",
     "title": "WOLF Enstien",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/wolf-enstien",
-    "thumbnail": "assets/thumbs/generated/wolf-enstien-https-sites-google-com-lindberghschools-ws-crown-official-wolf-enst.svg",
+    "thumbnail": "assets/thumbs/logos/wolf-enstien-https-sites-google-com-lindberghschools-ws-crown-official-wolf-enst.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/wolf-enstien-https-sites-google-com-lindberghschools-ws-crown-official-wolf-enst.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "zelda-ocarino-of-time-https-sites-google-com-lindberghschools-ws-crown-official-",
+    "id": "crown-zelda-ocarino-of-time",
     "title": "Zelda Ocarino Of Time",
     "category": "Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/zelda-ocarino-of-time",
-    "thumbnail": "assets/thumbs/generated/zelda-ocarino-of-time-https-sites-google-com-lindberghschools-ws-crown-official.svg",
+    "thumbnail": "assets/thumbs/logos/zelda-ocarino-of-time-https-sites-google-com-lindberghschools-ws-crown-official.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/zelda-ocarino-of-time-https-sites-google-com-lindberghschools-ws-crown-official-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "henry-stickman-part-2-sorry-others-don-t-work-https-sites-google-com-lindberghsc",
+    "id": "crown-henry-stickman-part-2-sorry-others-don-t-work",
     "title": "Henry Stickman Part 2 (sorry others don't work)",
-    "category": "Henry Stickmin Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/henry-stickmin-games/henry-stickman-part-2-sorry-others-dont-work",
-    "thumbnail": "assets/thumbs/generated/henry-stickman-part-2-sorry-others-don-t-work-https-sites-google-com-lindberghsc.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/henry-stickman-part-2-sorry-others-don-t-work-https-sites-google-com-lindberghsc.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/henry-stickman-part-2-sorry-others-don-t-work-https-sites-google-com-lindberghsc.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "henry-stickmin-breaking-the-bank-https-sites-google-com-lindberghschools-ws-crow",
+    "id": "crown-henry-stickmin-breaking-the-bank",
     "title": "Henry stickmin breaking the bank",
-    "category": "Henry Stickmin Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/henry-stickmin-games/henry-stickmin-breaking-the-bank",
-    "thumbnail": "assets/thumbs/generated/henry-stickmin-breaking-the-bank-https-sites-google-com-lindberghschools-ws-crow.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/henry-stickmin-breaking-the-bank-https-sites-google-com-lindberghschools-ws-crow.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/henry-stickmin-breaking-the-bank-https-sites-google-com-lindberghschools-ws-crow.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "henry-stickmin-fleeing-the-complex-https-sites-google-com-lindberghschools-ws-cr",
+    "id": "crown-henry-stickmin-fleeing-the-complex",
     "title": "Henry stickmin fleeing the complex",
-    "category": "Henry Stickmin Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/henry-stickmin-games/henry-stickmin-fleeing-the-complex",
-    "thumbnail": "assets/thumbs/generated/henry-stickmin-fleeing-the-complex-https-sites-google-com-lindberghschools-ws-cr.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/henry-stickmin-fleeing-the-complex-https-sites-google-com-lindberghschools-ws-cr.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/henry-stickmin-fleeing-the-complex-https-sites-google-com-lindberghschools-ws-cr.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "henry-stickmin-infiltrating-the-airship-https-sites-google-com-lindberghschools-",
+    "id": "crown-henry-stickmin-infiltrating-the-airship",
     "title": "Henry stickmin infiltrating the airship",
-    "category": "Henry Stickmin Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/henry-stickmin-games/henry-stickmin-infiltrating-the-airship",
-    "thumbnail": "assets/thumbs/generated/henry-stickmin-infiltrating-the-airship-https-sites-google-com-lindberghschools.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/henry-stickmin-infiltrating-the-airship-https-sites-google-com-lindberghschools.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/henry-stickmin-infiltrating-the-airship-https-sites-google-com-lindberghschools-.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "csgo-clicker-https-sites-google-com-lindberghschools-ws-crown-official-csgo-clic",
+    "id": "crown-csgo-clicker",
     "title": "CSGO Clicker",
-    "category": "Idle",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/csgo-clicker",
-    "thumbnail": "assets/thumbs/captures/csgo-clicker-https-sites-google-com-lindberghschools-ws-crown-official-csgo-clic.png",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/csgo-clicker-https-sites-google-com-lindberghschools-ws-crown-official-csgo-clic.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/csgo-clicker-https-sites-google-com-lindberghschools-ws-crown-official-csgo-clic.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "idle-miner-https-sites-google-com-lindberghschools-ws-crown-official-idle-miner",
+    "id": "crown-idle-miner",
     "title": "Idle Miner",
-    "category": "Idle",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/idle-miner",
-    "thumbnail": "assets/thumbs/generated/idle-miner-https-sites-google-com-lindberghschools-ws-crown-official-idle-miner.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/idle-miner-https-sites-google-com-lindberghschools-ws-crown-official-idle-miner.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/idle-miner-https-sites-google-com-lindberghschools-ws-crown-official-idle-miner.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "learn-to-fly-idle-https-sites-google-com-lindberghschools-ws-crown-official-lear",
+    "id": "crown-learn-to-fly-idle",
     "title": "Learn To Fly Idle",
-    "category": "Idle",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/learn-to-fly-idle",
-    "thumbnail": "assets/thumbs/captures/learn-to-fly-idle-https-sites-google-com-lindberghschools-ws-crown-official-lear.png",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/learn-to-fly-idle-https-sites-google-com-lindberghschools-ws-crown-official-lear.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/learn-to-fly-idle-https-sites-google-com-lindberghschools-ws-crown-official-lear.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "omega-nugget-clicker-https-sites-google-com-lindberghschools-ws-crown-official-o",
+    "id": "crown-omega-nugget-clicker",
     "title": "Omega Nugget Clicker",
-    "category": "Idle",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/omega-nugget-clicker",
-    "thumbnail": "assets/thumbs/generated/omega-nugget-clicker-https-sites-google-com-lindberghschools-ws-crown-official-o.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/omega-nugget-clicker-https-sites-google-com-lindberghschools-ws-crown-official-o.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/omega-nugget-clicker-https-sites-google-com-lindberghschools-ws-crown-official-o.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "prank-call-tung-tung-tung-sahur-clicker-https-sites-google-com-lindberghschools-",
+    "id": "crown-prank-call-tung-tung-tung-sahur-clicker",
     "title": "Prank Call Tung Tung Tung Sahur Clicker",
-    "category": "Idle",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/prank-call-tung-tung-tung-sahur-clicker",
-    "thumbnail": "assets/thumbs/captures/prank-call-tung-tung-tung-sahur-clicker-https-sites-google-com-lindberghschools.png",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/prank-call-tung-tung-tung-sahur-clicker-https-sites-google-com-lindberghschools.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/prank-call-tung-tung-tung-sahur-clicker-https-sites-google-com-lindberghschools-.html",
-    "thumbnailSource": "capture",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "space-bar-clicker-https-sites-google-com-lindberghschools-ws-crown-official-spac",
+    "id": "crown-space-bar-clicker",
     "title": "Space Bar Clicker",
-    "category": "Idle",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/space-bar-clicker",
-    "thumbnail": "assets/thumbs/generated/space-bar-clicker-https-sites-google-com-lindberghschools-ws-crown-official-spac.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/space-bar-clicker-https-sites-google-com-lindberghschools-ws-crown-official-spac.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/space-bar-clicker-https-sites-google-com-lindberghschools-ws-crown-official-spac.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "class6x-mermaid-dress-up",
+    "id": "crown-mermaid-dress-up",
     "title": "Mermaid Dress Up",
-    "category": "Latest",
-    "originalPage": "https://class6x.gitlab.io/game/mermaid-dress-up.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-mermaid-dress-up.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mermaid-dress-up/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pony-dressup-2",
+    "id": "crown-pony-dressup-2",
     "title": "Pony DressUp 2",
-    "category": "Latest",
-    "originalPage": "https://class6x.gitlab.io/game/pony-dressup-2.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-pony-dressup-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pony-dressup-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-princess-room-cleaning",
+    "id": "crown-princess-room-cleaning",
     "title": "Princess Room Cleaning",
-    "category": "Latest",
-    "originalPage": "https://class6x.gitlab.io/game/princess-room-cleaning.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-princess-room-cleaning.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/princess-room-cleaning/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rio-rex",
+    "id": "crown-rio-rex",
     "title": "Rio Rex",
-    "category": "Latest",
-    "originalPage": "https://class6x.gitlab.io/game/rio-rex.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-rio-rex.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rio-rex/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-girl-story",
+    "id": "crown-super-girl-story",
     "title": "Super Girl Story",
-    "category": "Latest",
-    "originalPage": "https://class6x.gitlab.io/game/super-girl-story.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-super-girl-story.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-girl-story/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tank-ball-monster-battle",
+    "id": "crown-tank-ball-monster-battle",
     "title": "Tank Ball: Monster Battle",
-    "category": "Latest",
-    "originalPage": "https://class6x.gitlab.io/game/tank-ball-monster-battle.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-tank-ball-monster-battle.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tank-ball-monster-battle/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-thunderdogs-io",
+    "id": "crown-thunderdogs-io",
     "title": "Thunderdogs io",
-    "category": "Latest",
-    "originalPage": "https://class6x.gitlab.io/game/thunderdogs-io.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-thunderdogs-io.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/thunderdogs-io/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-villain-quinn-my-drawing-portfolio",
+    "id": "crown-villain-quinn-my-drawing-portfolio",
     "title": "Villain Quinn My Drawing Portfolio",
-    "category": "Latest",
-    "originalPage": "https://class6x.gitlab.io/game/villain-quinn-my-drawing-portfolio.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-villain-quinn-my-drawing-portfolio.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/villain-quinn-my-drawing-portfolio/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "lego-batman-1-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam",
+    "id": "crown-lego-batman-1",
     "title": "Lego Batman 1",
-    "category": "Lego Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/lego-games/lego-batman-1",
-    "thumbnail": "assets/thumbs/generated/lego-batman-1-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/lego-batman-1-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-batman-1-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "lego-batman-2-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam",
+    "id": "crown-lego-batman-2",
     "title": "Lego Batman 2",
-    "category": "Lego Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/lego-games/lego-batman-2",
-    "thumbnail": "assets/thumbs/generated/lego-batman-2-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/lego-batman-2-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-batman-2-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "lego-indiana-jones-https-sites-google-com-lindberghschools-ws-crown-official-leg",
+    "id": "crown-lego-indiana-jones",
     "title": "Lego Indiana Jones",
-    "category": "Lego Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/lego-games/lego-indiana-jones",
-    "thumbnail": "assets/thumbs/generated/lego-indiana-jones-https-sites-google-com-lindberghschools-ws-crown-official-leg.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/lego-indiana-jones-https-sites-google-com-lindberghschools-ws-crown-official-leg.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-indiana-jones-https-sites-google-com-lindberghschools-ws-crown-official-leg.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "lego-indiana-jones-2-https-sites-google-com-lindberghschools-ws-crown-official-l",
+    "id": "crown-lego-indiana-jones-2",
     "title": "Lego Indiana Jones 2",
-    "category": "Lego Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/lego-games/lego-indiana-jones-2",
-    "thumbnail": "assets/thumbs/generated/lego-indiana-jones-2-https-sites-google-com-lindberghschools-ws-crown-official-l.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/lego-indiana-jones-2-https-sites-google-com-lindberghschools-ws-crown-official-l.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-indiana-jones-2-https-sites-google-com-lindberghschools-ws-crown-official-l.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "lego-ninjago-https-sites-google-com-lindberghschools-ws-crown-official-lego-game",
+    "id": "crown-lego-ninjago",
     "title": "Lego Ninjago",
-    "category": "Lego Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/lego-games/lego-ninjago",
-    "thumbnail": "assets/thumbs/generated/lego-ninjago-https-sites-google-com-lindberghschools-ws-crown-official-lego-game.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/lego-ninjago-https-sites-google-com-lindberghschools-ws-crown-official-lego-game.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-ninjago-https-sites-google-com-lindberghschools-ws-crown-official-lego-game.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "lego-starwars-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam",
+    "id": "crown-lego-starwars",
     "title": "Lego Starwars",
-    "category": "Lego Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/lego-games/lego-starwars",
-    "thumbnail": "assets/thumbs/generated/lego-starwars-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/lego-starwars-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-starwars-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "class6x-clash-of-tanks",
+    "id": "crown-clash-of-tanks",
     "title": "Clash Of Tanks",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/clash-of-tanks.html",
     "thumbnail": "assets/thumbs/class6x/class6x-clash-of-tanks.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/clash-of-tanks/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ducklings-io",
+    "id": "crown-ducklings-io",
     "title": "Ducklings.io",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/ducklingsio.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ducklings-io.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ducklingsio/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-goose-game",
+    "id": "crown-goose-game",
     "title": "Goose Game",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/goose-game.html",
     "thumbnail": "assets/thumbs/class6x/class6x-goose-game.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/goose-game/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-leader-strike",
+    "id": "crown-leader-strike",
     "title": "Leader Strike",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/leader-strike.html",
     "thumbnail": "assets/thumbs/class6x/class6x-leader-strike.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/leader-strike/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ludo-hero",
+    "id": "crown-ludo-hero",
     "title": "Ludo Hero",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/ludo-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ludo-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ludo-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-make-it-meme",
+    "id": "crown-make-it-meme",
     "title": "Make it meme",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/make-it-meme.html",
     "thumbnail": "assets/thumbs/class6x/class6x-make-it-meme.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/make-it-meme/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-paper-io-2",
+    "id": "crown-paper-io-2",
     "title": "Paper Io 2",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/paper-io-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-paper-io-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/paper-io-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pixel-gun-survival",
+    "id": "crown-pixel-gun-survival",
     "title": "Pixel Gun Survival",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/pixel-gun-survival.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pixel-gun-survival.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pixel-gun-survival/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Shooting",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-power-badminton",
+    "id": "crown-power-badminton",
     "title": "Power Badminton",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/power-badminton.html",
     "thumbnail": "assets/thumbs/class6x/class6x-power-badminton.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/power-badminton/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sharkio",
+    "id": "crown-sharkio",
     "title": "Sharkio",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/sharkio.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sharkio.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sharkio/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-snake-is-mlg-edition",
+    "id": "crown-snake-is-mlg-edition",
     "title": "Snake.is MLG Edition",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/snakeis-mlg-edition.html",
     "thumbnail": "assets/thumbs/class6x/class6x-snake-is-mlg-edition.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/snakeis-mlg-edition/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-superbrawl",
+    "id": "crown-superbrawl",
     "title": "Superbrawl",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/superbrawl.html",
     "thumbnail": "assets/thumbs/class6x/class6x-superbrawl.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/superbrawl/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-toon-off",
+    "id": "crown-toon-off",
     "title": "Toon Off",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/toon-off.html",
     "thumbnail": "assets/thumbs/class6x/class6x-toon-off.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/toon-off/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-trivia-crack",
+    "id": "crown-trivia-crack",
     "title": "Trivia Crack",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/trivia-crack.html",
     "thumbnail": "assets/thumbs/class6x/class6x-trivia-crack.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/trivia-crack/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-westoon",
+    "id": "crown-westoon",
     "title": "Westoon",
     "category": "Multiplayer",
-    "originalPage": "https://class6x.gitlab.io/game/westoon.html",
     "thumbnail": "assets/thumbs/class6x/class6x-westoon.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/westoon/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "pokemon-emerald-https-sites-google-com-lindberghschools-ws-crown-official-pokemo",
+    "id": "crown-pokemon-emerald",
     "title": "Pokemon Emerald",
-    "category": "Pokemon Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/pokemon-games/pokemon-emerald",
-    "thumbnail": "assets/thumbs/generated/pokemon-emerald-https-sites-google-com-lindberghschools-ws-crown-official-pokemo.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/pokemon-emerald-https-sites-google-com-lindberghschools-ws-crown-official-pokemo.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pokemon-emerald-https-sites-google-com-lindberghschools-ws-crown-official-pokemo.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "pokemon-randomizer-https-sites-google-com-lindberghschools-ws-crown-official-pok",
+    "id": "crown-pokemon-randomizer",
     "title": "Pokemon Randomizer",
-    "category": "Pokemon Games",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/pokemon-games/pokemon-randomizer",
-    "thumbnail": "assets/thumbs/generated/pokemon-randomizer-https-sites-google-com-lindberghschools-ws-crown-official-pok.svg",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/logos/pokemon-randomizer-https-sites-google-com-lindberghschools-ws-crown-official-pok.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pokemon-randomizer-https-sites-google-com-lindberghschools-ws-crown-official-pok.html",
-    "thumbnailSource": "generated",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "class6x-11-11",
+    "id": "crown-11-11",
     "title": "11-11",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/11-11.html",
     "thumbnail": "assets/thumbs/class6x/class6x-11-11.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/11-11/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Puzzle",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "2048-https-sites-google-com-lindberghschools-ws-crown-official-2048",
+    "id": "crown-2048",
     "title": "2048",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/2048.html",
     "thumbnail": "assets/thumbs/class6x/class6x-2048.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/2048/",
     "class6xPage": "https://class6x.gitlab.io/game/2048.html"
   },
   {
-    "id": "class6x-2048-multitask",
+    "id": "crown-2048-multitask",
     "title": "2048 Multitask",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/2048-multitask.html",
     "thumbnail": "assets/thumbs/class6x/class6x-2048-multitask.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/2048-multitask/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-a-pretty-odd-bunny",
+    "id": "crown-a-pretty-odd-bunny",
     "title": "A Pretty Odd Bunny",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/a-pretty-odd-bunny.html",
     "thumbnail": "assets/thumbs/class6x/class6x-a-pretty-odd-bunny.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/a-pretty-odd-bunny/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-a-pretty-odd-bunny-roast-it",
+    "id": "crown-a-pretty-odd-bunny-roast-it",
     "title": "A Pretty Odd Bunny: Roast it!",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/a-pretty-odd-bunny-roast-it.html",
     "thumbnail": "assets/thumbs/class6x/class6x-a-pretty-odd-bunny-roast-it.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/a-pretty-odd-bunny-roast-it/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-amazing-bubble-breaker",
+    "id": "crown-amazing-bubble-breaker",
     "title": "Amazing Bubble Breaker",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/amazing-bubble-breaker.html",
     "thumbnail": "assets/thumbs/class6x/class6x-amazing-bubble-breaker.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/amazing-bubble-breaker/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-amazing-bubble-connect",
+    "id": "crown-amazing-bubble-connect",
     "title": "Amazing Bubble Connect",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/amazing-bubble-connect.html",
     "thumbnail": "assets/thumbs/class6x/class6x-amazing-bubble-connect.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/amazing-bubble-connect/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "amongus-https-sites-google-com-lindberghschools-ws-crown-official-amongus",
+    "id": "crown-amongus",
     "title": "Amongus",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/among-us.html",
     "thumbnail": "assets/thumbs/class6x/class6x-among-us.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/among-us/",
     "class6xPage": "https://class6x.gitlab.io/game/among-us.html"
   },
   {
-    "id": "class6x-arithmetica",
+    "id": "crown-arithmetica",
     "title": "Arithmetica",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/arithmetica.html",
     "thumbnail": "assets/thumbs/class6x/class6x-arithmetica.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/arithmetica/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-arrow-pathway",
+    "id": "crown-arrow-pathway",
     "title": "Arrow Pathway",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/arrow-pathway.html",
     "thumbnail": "assets/thumbs/class6x/class6x-arrow-pathway.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/arrow-pathway/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-b-cubed",
+    "id": "crown-b-cubed",
     "title": "B-Cubed",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/b-cubed.html",
     "thumbnail": "assets/thumbs/class6x/class6x-b-cubed.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/b-cubed/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-big-tall-small",
+    "id": "crown-big-tall-small",
     "title": "Big Tall Small",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/big-tall-small.html",
     "thumbnail": "assets/thumbs/class6x/class6x-big-tall-small.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/big-tall-small/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-block-the-pig",
+    "id": "crown-block-the-pig",
     "title": "Block The Pig",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/block-the-pig.html",
     "thumbnail": "assets/thumbs/class6x/class6x-block-the-pig.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/block-the-pig/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blockins",
+    "id": "crown-blockins",
     "title": "Blockins",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/blockins.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blockins.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blockins/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blue",
+    "id": "crown-blue",
     "title": "Blue",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/blue.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blue.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blue/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blumgi-bloom",
+    "id": "crown-blumgi-bloom",
     "title": "Blumgi Bloom",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/blumgi-bloom.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blumgi-bloom.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blumgi-bloom/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-box-kid-puzzles",
+    "id": "crown-box-kid-puzzles",
     "title": "Box Kid Puzzles",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/box-kid-puzzles.html",
     "thumbnail": "assets/thumbs/class6x/class6x-box-kid-puzzles.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/box-kid-puzzles/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-brain-dozer",
+    "id": "crown-brain-dozer",
     "title": "Brain Dozer",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/brain-dozer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-brain-dozer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/brain-dozer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-brain-test-2-tricky-stories",
+    "id": "crown-brain-test-2-tricky-stories",
     "title": "Brain Test 2: Tricky Stories",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/brain-test-2-tricky-stories.html",
     "thumbnail": "assets/thumbs/class6x/class6x-brain-test-2-tricky-stories.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/brain-test-2-tricky-stories/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-brain-test-3-tricky-quests",
+    "id": "crown-brain-test-3-tricky-quests",
     "title": "Brain Test 3: Tricky Quests",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/brain-test-3-tricky-quests.html",
     "thumbnail": "assets/thumbs/class6x/class6x-brain-test-3-tricky-quests.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/brain-test-3-tricky-quests/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-brain-test-4-tricky-friends",
+    "id": "crown-brain-test-4-tricky-friends",
     "title": "Brain Test 4: Tricky Friends",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/brain-test-4-tricky-friends.html",
     "thumbnail": "assets/thumbs/class6x/class6x-brain-test-4-tricky-friends.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/brain-test-4-tricky-friends/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-brain-test-tricky-puzzles",
+    "id": "crown-brain-test-tricky-puzzles",
     "title": "Brain Test: Tricky Puzzles",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/brain-test-tricky-puzzles.html",
     "thumbnail": "assets/thumbs/class6x/class6x-brain-test-tricky-puzzles.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/brain-test-tricky-puzzles/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-casual-chess",
+    "id": "crown-casual-chess",
     "title": "Casual Chess",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/casual-chess.html",
     "thumbnail": "assets/thumbs/class6x/class6x-casual-chess.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/casual-chess/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cat-trap",
+    "id": "crown-cat-trap",
     "title": "Cat Trap",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/cat-trap.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cat-trap.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cat-trap/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-catch-the-candy-html5",
+    "id": "crown-catch-the-candy-html5",
     "title": "Catch The Candy Html5",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/catch-the-candy-html5.html",
     "thumbnail": "assets/thumbs/class6x/class6x-catch-the-candy-html5.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/catch-the-candy-html5/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-chess-grandmaster",
+    "id": "crown-chess-grandmaster",
     "title": "Chess Grandmaster",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/chess-grandmaster.html",
     "thumbnail": "assets/thumbs/class6x/class6x-chess-grandmaster.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/chess-grandmaster/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-circloo-2",
+    "id": "crown-circloo-2",
     "title": "CircloO 2",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/circloo-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-circloo-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/circloo-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-classic-mahjong",
+    "id": "crown-classic-mahjong",
     "title": "Classic Mahjong",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/classic-mahjong.html",
     "thumbnail": "assets/thumbs/class6x/class6x-classic-mahjong.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/classic-mahjong/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-combo-crusader",
+    "id": "crown-combo-crusader",
     "title": "Combo Crusader",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/combo-crusader.html",
     "thumbnail": "assets/thumbs/class6x/class6x-combo-crusader.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/combo-crusader/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-connect-248",
+    "id": "crown-connect-248",
     "title": "Connect 248",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/connect-248.html",
     "thumbnail": "assets/thumbs/class6x/class6x-connect-248.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/connect-248/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cosmos-lines",
+    "id": "crown-cosmos-lines",
     "title": "Cosmos Lines",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/cosmos-lines.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cosmos-lines.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cosmos-lines/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cover-orange-journey",
+    "id": "crown-cover-orange-journey",
     "title": "Cover Orange Journey",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/cover-orange-journey.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cover-orange-journey.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cover-orange-journey/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cover-orange-wild-west",
+    "id": "crown-cover-orange-wild-west",
     "title": "Cover Orange Wild West",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/cover-orange-wild-west.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cover-orange-wild-west.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cover-orange-wild-west/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-craftomation-1",
+    "id": "crown-craftomation-1",
     "title": "Craftomation 1",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/craftomation-1.html",
     "thumbnail": "assets/thumbs/class6x/class6x-craftomation-1.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/craftomation-1/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cubes-king",
+    "id": "crown-cubes-king",
     "title": "Cubes King",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/cubes-king.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cubes-king.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cubes-king/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cubinko",
+    "id": "crown-cubinko",
     "title": "Cubinko",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/cubinko.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cubinko.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cubinko/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cute-puzzle-witch",
+    "id": "crown-cute-puzzle-witch",
     "title": "Cute Puzzle Witch",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/cute-puzzle-witch.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cute-puzzle-witch.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cute-puzzle-witch/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-detective-dan",
+    "id": "crown-detective-dan",
     "title": "Detective Dan",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/detective-dan.html",
     "thumbnail": "assets/thumbs/class6x/class6x-detective-dan.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/detective-dan/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dino-bros",
+    "id": "crown-dino-bros",
     "title": "Dino Bros",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/dino-bros.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dino-bros.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dino-bros/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-doctor-acorn-3",
+    "id": "crown-doctor-acorn-3",
     "title": "Doctor Acorn 3",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/doctor-acorn-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-doctor-acorn-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/doctor-acorn-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-element-bblocks",
+    "id": "crown-element-bblocks",
     "title": "Element Bblocks",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/element-bblocks.html",
     "thumbnail": "assets/thumbs/class6x/class6x-element-bblocks.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/element-bblocks/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-energy-unblocked",
-    "title": "Energy Unblocked",
+    "id": "crown-energy",
+    "title": "Energy",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/energy.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-energy-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-energy-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/energy/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-factory-balls-forever",
+    "id": "crown-factory-balls-forever",
     "title": "Factory Balls Forever",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/factory-balls-forever.html",
     "thumbnail": "assets/thumbs/class6x/class6x-factory-balls-forever.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/factory-balls-forever/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-flags-maniac",
+    "id": "crown-flags-maniac",
     "title": "Flags Maniac",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/flags-maniac.html",
     "thumbnail": "assets/thumbs/class6x/class6x-flags-maniac.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/flags-maniac/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-flags-quiz",
+    "id": "crown-flags-quiz",
     "title": "Flags Quiz",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/flags-quiz.html",
     "thumbnail": "assets/thumbs/class6x/class6x-flags-quiz.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/flags-quiz/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-forgotten-hill-memento-love-beyond",
+    "id": "crown-forgotten-hill-memento-love-beyond",
     "title": "Forgotten Hill Memento Love Beyond",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/forgotten-hill-memento-love-beyond.html",
     "thumbnail": "assets/thumbs/class6x/class6x-forgotten-hill-memento-love-beyond.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/forgotten-hill-memento-love-beyond/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-forgotten-hill-the-wardrobe-4",
+    "id": "crown-forgotten-hill-the-wardrobe-4",
     "title": "Forgotten Hill The Wardrobe 4",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/forgotten-hill-the-wardrobe-4.html",
     "thumbnail": "assets/thumbs/class6x/class6x-forgotten-hill-the-wardrobe-4.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/forgotten-hill-the-wardrobe-4/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-free-the-key",
+    "id": "crown-free-the-key",
     "title": "Free The Key",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/free-the-key.html",
     "thumbnail": "assets/thumbs/class6x/class6x-free-the-key.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/free-the-key/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fun-water-sorting",
+    "id": "crown-fun-water-sorting-2",
     "title": "Fun Water Sorting",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/fun-water-sorting.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fun-water-sorting.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fun-water-sorting/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-gem-11",
+    "id": "crown-gem-11",
     "title": "Gem 11",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/gem-11.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gem-11.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/gem-11/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-genie-quest",
+    "id": "crown-genie-quest",
     "title": "Genie Quest",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/genie-quest.html",
     "thumbnail": "assets/thumbs/class6x/class6x-genie-quest.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/genie-quest/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-google-feud",
+    "id": "crown-google-feud",
     "title": "Google Feud",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/google-feud.html",
     "thumbnail": "assets/thumbs/class6x/class6x-google-feud.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/google-feud/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-growmi",
+    "id": "crown-growmi",
     "title": "Growmi",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/growmi.html",
     "thumbnail": "assets/thumbs/class6x/class6x-growmi.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/growmi/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hangman",
+    "id": "crown-hangman",
     "title": "Hangman",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/hangman.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hangman.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hangman/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hop-warp",
+    "id": "crown-hop-warp",
     "title": "Hop Warp",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/hop-warp.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hop-warp.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hop-warp/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-icy-purple-head-3",
+    "id": "crown-icy-purple-head-3",
     "title": "Icy Purple Head 3",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/icy-purple-head-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-icy-purple-head-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/icy-purple-head-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-impossible-13",
+    "id": "crown-impossible-13",
     "title": "Impossible 13",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/impossible-13.html",
     "thumbnail": "assets/thumbs/class6x/class6x-impossible-13.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/impossible-13/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-impossible-tic-tac-toe",
+    "id": "crown-impossible-tic-tac-toe",
     "title": "Impossible Tic Tac Toe",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/impossible-tic-tac-toe.html",
     "thumbnail": "assets/thumbs/class6x/class6x-impossible-tic-tac-toe.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/impossible-tic-tac-toe/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-infinity-loop",
+    "id": "crown-infinity-loop",
     "title": "Infinity Loop",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/infinity-loop.html",
     "thumbnail": "assets/thumbs/class6x/class6x-infinity-loop.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/infinity-loop/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-its-story-time",
+    "id": "crown-its-story-time",
     "title": "Its Story Time",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/its-story-time.html",
     "thumbnail": "assets/thumbs/class6x/class6x-its-story-time.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/its-story-time/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jigsaw-photo-puzzle-christmas",
+    "id": "crown-jigsaw-photo-puzzle-christmas",
     "title": "Jigsaw Photo Puzzle Christmas",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/jigsaw-photo-puzzle-christmas.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jigsaw-photo-puzzle-christmas.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jigsaw-photo-puzzle-christmas/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jigsaw-photo-puzzle-summer",
+    "id": "crown-jigsaw-photo-puzzle-summer",
     "title": "Jigsaw Photo Puzzle Summer",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/jigsaw-photo-puzzle-summer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jigsaw-photo-puzzle-summer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jigsaw-photo-puzzle-summer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jigsaw-photo-puzzle-winter",
+    "id": "crown-jigsaw-photo-puzzle-winter",
     "title": "Jigsaw Photo Puzzle Winter",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/jigsaw-photo-puzzle-winter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jigsaw-photo-puzzle-winter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jigsaw-photo-puzzle-winter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jr-chess",
+    "id": "crown-jr-chess",
     "title": "Jr Chess",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/jr-chess.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jr-chess.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jr-chess/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jump-and-hover",
+    "id": "crown-jump-and-hover",
     "title": "Jump And Hover",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/jump-and-hover.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jump-and-hover.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jump-and-hover/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jumping-shell",
+    "id": "crown-jumping-shell",
     "title": "Jumping Shell",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/jumping-shell.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jumping-shell.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jumping-shell/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ledge-throw",
+    "id": "crown-ledge-throw",
     "title": "Ledge Throw",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/ledge-throw.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ledge-throw.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ledge-throw/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-light-the-lamp",
+    "id": "crown-light-the-lamp",
     "title": "Light The Lamp",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/light-the-lamp.html",
     "thumbnail": "assets/thumbs/class6x/class6x-light-the-lamp.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/light-the-lamp/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-lines-to-fill",
+    "id": "crown-lines-to-fill",
     "title": "Lines To Fill",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/lines-to-fill.html",
     "thumbnail": "assets/thumbs/class6x/class6x-lines-to-fill.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/lines-to-fill/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-logic-master-1",
+    "id": "crown-logic-master-1",
     "title": "Logic Master 1",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/logic-master-1.html",
     "thumbnail": "assets/thumbs/class6x/class6x-logic-master-1.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/logic-master-1/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-madzoong",
+    "id": "crown-madzoong",
     "title": "MadZOOng",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/madzoong.html",
     "thumbnail": "assets/thumbs/class6x/class6x-madzoong.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/madzoong/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mahjong",
+    "id": "crown-mahjong",
     "title": "Mahjong",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/mahjong.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mahjong.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mahjong/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mahjong-linker-kyodai-game",
+    "id": "crown-mahjong-linker-kyodai-game",
     "title": "Mahjong Linker Kyodai Game",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/mahjong-linker-kyodai-game.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mahjong-linker-kyodai-game.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mahjong-linker-kyodai-game/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-marble-dash",
+    "id": "crown-marble-dash",
     "title": "Marble Dash",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/marble-dash.html",
     "thumbnail": "assets/thumbs/class6x/class6x-marble-dash.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/marble-dash/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-math-mahjong-relax",
+    "id": "crown-math-mahjong-relax",
     "title": "Math Mahjong Relax",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/math-mahjong-relax.html",
     "thumbnail": "assets/thumbs/class6x/class6x-math-mahjong-relax.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/math-mahjong-relax/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-maze-path-of-light",
+    "id": "crown-maze-path-of-light",
     "title": "Maze Path Of Light",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/maze-path-of-light.html",
     "thumbnail": "assets/thumbs/class6x/class6x-maze-path-of-light.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/maze-path-of-light/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-maze-planet-3d",
+    "id": "crown-maze-planet-3d",
     "title": "Maze Planet 3D",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/maze-planet-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-maze-planet-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/maze-planet-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-merge-to-million",
+    "id": "crown-merge-to-million",
     "title": "Merge To Million",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/merge-to-million.html",
     "thumbnail": "assets/thumbs/class6x/class6x-merge-to-million.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/merge-to-million/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-minesweeper",
+    "id": "crown-minesweeper",
     "title": "Minesweeper",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/minesweeper.html",
     "thumbnail": "assets/thumbs/class6x/class6x-minesweeper.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/minesweeper/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mini-train",
+    "id": "crown-mini-train",
     "title": "Mini Train",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/mini-train.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mini-train.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mini-train/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-monster-merge",
+    "id": "crown-monster-merge",
     "title": "Monster Merge",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/monster-merge.html",
     "thumbnail": "assets/thumbs/class6x/class6x-monster-merge.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/monster-merge/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mosaic-puzzle-art-unblocked",
-    "title": "Mosaic Puzzle Art Unblocked",
+    "id": "crown-mosaic-puzzle-art",
+    "title": "Mosaic Puzzle Art",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/mosaic-puzzle-art.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-mosaic-puzzle-art-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-mosaic-puzzle-art-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mosaic-puzzle-art/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Puzzle",
       "Skill",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mowing-mazes",
+    "id": "crown-mowing-mazes",
     "title": "Mowing Mazes",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/mowing-mazes.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mowing-mazes.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mowing-mazes/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mummys-path-deluxe",
+    "id": "crown-mummys-path-deluxe",
     "title": "Mummys Path Deluxe",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/mummys-path-deluxe.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mummys-path-deluxe.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mummys-path-deluxe/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mystical-birdlink",
+    "id": "crown-mystical-birdlink",
     "title": "Mystical Birdlink",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/mystical-birdlink.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mystical-birdlink.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mystical-birdlink/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-one-button-bounce",
+    "id": "crown-one-button-bounce",
     "title": "One Button Bounce",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/one-button-bounce.html",
     "thumbnail": "assets/thumbs/class6x/class6x-one-button-bounce.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/one-button-bounce/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-onet-fruit-classic",
+    "id": "crown-onet-fruit-classic",
     "title": "Onet Fruit Classic",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/onet-fruit-classic.html",
     "thumbnail": "assets/thumbs/class6x/class6x-onet-fruit-classic.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/onet-fruit-classic/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-orange",
+    "id": "crown-orange",
     "title": "Orange",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/orange.html",
     "thumbnail": "assets/thumbs/class6x/class6x-orange.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/orange/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pack-a-bag",
+    "id": "crown-pack-a-bag",
     "title": "Pack a bag",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/pack-a-bag.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pack-a-bag.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pack-a-bag/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-panda-bubble-shooter",
+    "id": "crown-panda-bubble-shooter",
     "title": "Panda Bubble Shooter",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/panda-bubble-shooter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-panda-bubble-shooter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/panda-bubble-shooter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-photo-puzzle-slide-edition",
+    "id": "crown-photo-puzzle-slide-edition",
     "title": "Photo Puzzle Slide Edition",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/photo-puzzle-slide-edition.html",
     "thumbnail": "assets/thumbs/class6x/class6x-photo-puzzle-slide-edition.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/photo-puzzle-slide-edition/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pink",
+    "id": "crown-pink",
     "title": "Pink",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/pink.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pink.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pink/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pixel-puzzles",
+    "id": "crown-pixel-puzzles",
     "title": "Pixel Puzzles",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/pixel-puzzles.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pixel-puzzles.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pixel-puzzles/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-plactions",
+    "id": "crown-plactions",
     "title": "Plactions",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/plactions.html",
     "thumbnail": "assets/thumbs/class6x/class6x-plactions.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/plactions/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-platform-countdown",
+    "id": "crown-platform-countdown",
     "title": "Platform Countdown",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/platform-countdown.html",
     "thumbnail": "assets/thumbs/class6x/class6x-platform-countdown.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/platform-countdown/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pop-it-master",
+    "id": "crown-pop-it-master",
     "title": "Pop It Master",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/pop-it-master.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pop-it-master.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pop-it-master/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-popit-vs-spinner",
+    "id": "crown-popit-vs-spinner",
     "title": "Popit vs Spinner",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/popit-vs-spinner.html",
     "thumbnail": "assets/thumbs/class6x/class6x-popit-vs-spinner.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/popit-vs-spinner/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-prismo-puzzles",
+    "id": "crown-prismo-puzzles",
     "title": "Prismo Puzzles",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/prismo-puzzles.html",
     "thumbnail": "assets/thumbs/class6x/class6x-prismo-puzzles.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/prismo-puzzles/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-puffy-cat",
+    "id": "crown-puffy-cat",
     "title": "Puffy Cat",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/puffy-cat.html",
     "thumbnail": "assets/thumbs/class6x/class6x-puffy-cat.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/puffy-cat/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-puffy-cat-2",
+    "id": "crown-puffy-cat-2",
     "title": "Puffy Cat 2",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/puffy-cat-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-puffy-cat-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/puffy-cat-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pull-my-tongue",
+    "id": "crown-pull-my-tongue",
     "title": "Pull My Tongue",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/pull-my-tongue.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pull-my-tongue.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pull-my-tongue/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-refuge-solitaire",
+    "id": "crown-refuge-solitaire",
     "title": "Refuge Solitaire",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/refuge-solitaire.html",
     "thumbnail": "assets/thumbs/class6x/class6x-refuge-solitaire.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/refuge-solitaire/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rhomb",
+    "id": "crown-rhomb",
     "title": "Rhomb",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/rhomb.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rhomb.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rhomb/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-riddle-school",
+    "id": "crown-riddle-school",
     "title": "Riddle School",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/riddle-school.html",
     "thumbnail": "assets/thumbs/class6x/class6x-riddle-school.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/riddle-school/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-roly-poly-monsters",
+    "id": "crown-roly-poly-monsters",
     "title": "Roly Poly Monsters",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/roly-poly-monsters.html",
     "thumbnail": "assets/thumbs/class6x/class6x-roly-poly-monsters.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/roly-poly-monsters/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-shape-fold",
+    "id": "crown-shape-fold-2",
     "title": "Shape Fold",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/shape-fold.html",
     "thumbnail": "assets/thumbs/class6x/class6x-shape-fold.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/shape-fold/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-shape-fold-animals",
+    "id": "crown-shape-fold-animals",
     "title": "Shape Fold Animals",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/shape-fold-animals.html",
     "thumbnail": "assets/thumbs/class6x/class6x-shape-fold-animals.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/shape-fold-animals/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-shape-fold-nature",
+    "id": "crown-shape-fold-nature",
     "title": "Shape Fold Nature",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/shape-fold-nature.html",
     "thumbnail": "assets/thumbs/class6x/class6x-shape-fold-nature.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/shape-fold-nature/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-snake-solver",
+    "id": "crown-snake-solver",
     "title": "Snake Solver",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/snake-solver.html",
     "thumbnail": "assets/thumbs/class6x/class6x-snake-solver.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/snake-solver/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-solitaire-reverse",
+    "id": "crown-solitaire-reverse",
     "title": "Solitaire Reverse",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/solitaire-reverse.html",
     "thumbnail": "assets/thumbs/class6x/class6x-solitaire-reverse.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/solitaire-reverse/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-spider-solitaire",
+    "id": "crown-spider-solitaire",
     "title": "Spider Solitaire",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/spider-solitaire.html",
     "thumbnail": "assets/thumbs/class6x/class6x-spider-solitaire.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/spider-solitaire/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sudoku",
+    "id": "crown-sudoku",
     "title": "Sudoku",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/sudoku.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sudoku.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sudoku/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sudoku-village",
+    "id": "crown-sudoku-village",
     "title": "Sudoku Village",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/sudoku-village.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sudoku-village.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sudoku-village/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-hexbee-merger",
+    "id": "crown-super-hexbee-merger",
     "title": "Super Hexbee Merger",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/super-hexbee-merger.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-hexbee-merger.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-hexbee-merger/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sweety-mahjong",
+    "id": "crown-sweety-mahjong",
     "title": "Sweety Mahjong",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/sweety-mahjong.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sweety-mahjong.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sweety-mahjong/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-teleport-jumper",
+    "id": "crown-teleport-jumper",
     "title": "Teleport Jumper",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/teleport-jumper.html",
     "thumbnail": "assets/thumbs/class6x/class6x-teleport-jumper.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/teleport-jumper/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "tetris-https-sites-google-com-lindberghschools-ws-crown-official-tetris",
+    "id": "crown-tetris",
     "title": "Tetris",
     "category": "Puzzle",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/tetris",
     "thumbnail": "assets/thumbs/tetris-https-sites-google-com-lindberghschools-ws-crown-official-tetris.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/tetris-https-sites-google-com-lindberghschools-ws-crown-official-tetris.html",
-    "thumbnailSource": "class6x",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "class6x-tetris-99",
+    "id": "crown-tetris-99",
     "title": "Tetris 99",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/tetris-99.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tetris-99.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tetris-99/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tetris-flash",
+    "id": "crown-tetris-flash",
     "title": "Tetris Flash",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/tetris-flash.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tetris-flash.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tetris-flash/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tetris-unblocked",
-    "title": "Tetris Unblocked",
+    "id": "crown-tetris-2",
+    "title": "Tetris",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/tetris.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-tetris-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-tetris-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tetris/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "the-impossible-quiz-https-sites-google-com-lindberghschools-ws-crown-official-th",
+    "id": "crown-the-impossible-quiz",
     "title": "The Impossible Quiz",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/the-impossible-quiz.html",
     "thumbnail": "assets/thumbs/class6x/class6x-the-impossible-quiz.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/the-impossible-quiz/",
     "class6xPage": "https://class6x.gitlab.io/game/the-impossible-quiz.html"
   },
   {
-    "id": "class6x-time-clones",
+    "id": "crown-time-clones",
     "title": "Time Clones",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/time-clones.html",
     "thumbnail": "assets/thumbs/class6x/class6x-time-clones.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/time-clones/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tingly-ppyramid-solitaire",
+    "id": "crown-tingly-ppyramid-solitaire",
     "title": "Tingly Ppyramid Solitaire",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/tingly-ppyramid-solitaire.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tingly-ppyramid-solitaire.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tingly-ppyramid-solitaire/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-twice",
+    "id": "crown-twice",
     "title": "Twice",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/twice.html",
     "thumbnail": "assets/thumbs/class6x/class6x-twice.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/twice/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ultimate-sudoku",
+    "id": "crown-ultimate-sudoku",
     "title": "Ultimate Sudoku",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/ultimate-sudoku.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ultimate-sudoku.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ultimate-sudoku/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ultimate-tic-tac-toe",
+    "id": "crown-ultimate-tic-tac-toe",
     "title": "Ultimate Tic Tac Toe",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/ultimate-tic-tac-toe.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ultimate-tic-tac-toe.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ultimate-tic-tac-toe/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-unpuzzler",
+    "id": "crown-unpuzzler",
     "title": "Unpuzzler",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/unpuzzler.html",
     "thumbnail": "assets/thumbs/class6x/class6x-unpuzzler.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/unpuzzler/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-water-color-sort",
+    "id": "crown-water-color-sort",
     "title": "Water Color Sort",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/water-color-sort.html",
     "thumbnail": "assets/thumbs/class6x/class6x-water-color-sort.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/water-color-sort/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-where-is-my-cat",
+    "id": "crown-where-is-my-cat",
     "title": "Where Is My Cat",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/where-is-my-cat.html",
     "thumbnail": "assets/thumbs/class6x/class6x-where-is-my-cat.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/where-is-my-cat/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-who-is",
+    "id": "crown-who-is",
     "title": "Who Is",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/who-is.html",
     "thumbnail": "assets/thumbs/class6x/class6x-who-is.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/who-is/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-wood-blocks-3d",
+    "id": "crown-wood-blocks-3d",
     "title": "Wood Blocks 3D",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/wood-blocks-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-wood-blocks-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/wood-blocks-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-word-boss",
+    "id": "crown-word-boss",
     "title": "Word Boss",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/word-boss.html",
     "thumbnail": "assets/thumbs/class6x/class6x-word-boss.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/word-boss/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-word-city-crossed",
+    "id": "crown-word-city-crossed",
     "title": "Word City Crossed",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/word-city-crossed.html",
     "thumbnail": "assets/thumbs/class6x/class6x-word-city-crossed.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/word-city-crossed/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-word-city-uncrossed",
+    "id": "crown-word-city-uncrossed",
     "title": "Word City Uncrossed",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/word-city-uncrossed.html",
     "thumbnail": "assets/thumbs/class6x/class6x-word-city-uncrossed.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/word-city-uncrossed/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-word-monsters",
+    "id": "crown-word-monsters",
     "title": "Word Monsters",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/word-monsters.html",
     "thumbnail": "assets/thumbs/class6x/class6x-word-monsters.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/word-monsters/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "wordle-probably-glitchy-https-sites-google-com-lindberghschools-ws-crown-officia",
+    "id": "crown-wordle-probably-glitchy",
     "title": "Wordle (probably glitchy)",
     "category": "Puzzle",
-    "originalPage": "https://sites.google.com/lindberghschools.ws/crown-official/wordle-probably-glitchy",
-    "thumbnail": "assets/thumbs/embedded/wordle-probably-glitchy-https-sites-google-com-lindberghschools-ws-crown-officia.png",
+    "thumbnail": "assets/thumbs/logos/wordle-probably-glitchy-https-sites-google-com-lindberghschools-ws-crown-officia.svg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/wordle-probably-glitchy-https-sites-google-com-lindberghschools-ws-crown-officia.html",
-    "thumbnailSource": "embed",
-    "source": "google-site"
+    "thumbnailSource": "crown",
+    "source": "crown"
   },
   {
-    "id": "class6x-wordle-unlimited",
+    "id": "crown-wordle-unlimited",
     "title": "Wordle Unlimited",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/wordle-unlimited.html",
     "thumbnail": "assets/thumbs/class6x/class6x-wordle-unlimited.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/wordle-unlimited/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-wordoku",
+    "id": "crown-wordoku",
     "title": "Wordoku",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/wordoku.html",
     "thumbnail": "assets/thumbs/class6x/class6x-wordoku.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/wordoku/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-words-search-classic-edition",
+    "id": "crown-words-search-classic-edition",
     "title": "Words Search Classic Edition",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/words-search-classic-edition.html",
     "thumbnail": "assets/thumbs/class6x/class6x-words-search-classic-edition.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/words-search-classic-edition/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-wordy-pop",
+    "id": "crown-wordy-pop",
     "title": "Wordy Pop",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/wordy-pop.html",
     "thumbnail": "assets/thumbs/class6x/class6x-wordy-pop.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/wordy-pop/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-yarn-untangle",
+    "id": "crown-yarn-untangle",
     "title": "Yarn Untangle",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/yarn-untangle.html",
     "thumbnail": "assets/thumbs/class6x/class6x-yarn-untangle.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/yarn-untangle/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zooplop",
+    "id": "crown-zooplop",
     "title": "Zooplop",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/zooplop.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zooplop.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zooplop/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zuma-boom",
+    "id": "crown-zuma-boom",
     "title": "Zuma Boom",
     "category": "Puzzle",
-    "originalPage": "https://class6x.gitlab.io/game/zuma-boom.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zuma-boom.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zuma-boom/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-18-wheeler-cargo-simulator",
+    "id": "crown-18-wheeler-cargo-simulator",
     "title": "18 Wheeler Cargo Simulator",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/18-wheeler-cargo-simulator.html",
     "thumbnail": "assets/thumbs/class6x/class6x-18-wheeler-cargo-simulator.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/18-wheeler-cargo-simulator/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-4x4-drive-offroad",
+    "id": "crown-4x4-drive-offroad",
     "title": "4x4 Drive Offroad",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/4x4-drive-offroad.html",
     "thumbnail": "assets/thumbs/class6x/class6x-4x4-drive-offroad.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/4x4-drive-offroad/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bike-trials-offroad-1",
+    "id": "crown-bike-trials-offroad-1",
     "title": "Bike Trials Offroad 1",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/bike-trials-offroad-1.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bike-trials-offroad-1.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bike-trials-offroad-1/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bike-trials-winter-1",
+    "id": "crown-bike-trials-winter-1",
     "title": "Bike Trials Winter 1",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/bike-trials-winter-1.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bike-trials-winter-1.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bike-trials-winter-1/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bike-trials-winter-2",
+    "id": "crown-bike-trials-winter-2",
     "title": "Bike Trials Winter 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/bike-trials-winter-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bike-trials-winter-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bike-trials-winter-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blocky-trials",
+    "id": "crown-blocky-trials",
     "title": "Blocky Trials",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/blocky-trials.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blocky-trials.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blocky-trials/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blood-drift",
+    "id": "crown-blood-drift",
     "title": "Blood Drift",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/blood-drift.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blood-drift.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blood-drift/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blumgi-rocket",
+    "id": "crown-blumgi-rocket",
     "title": "Blumgi Rocket",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/blumgi-rocket.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blumgi-rocket.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blumgi-rocket/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-boxrob",
+    "id": "crown-boxrob",
     "title": "Boxrob",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/boxrob.html",
     "thumbnail": "assets/thumbs/class6x/class6x-boxrob.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/boxrob/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-boxrob-2",
+    "id": "crown-boxrob-2",
     "title": "BoxRob 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/boxrob-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-boxrob-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/boxrob-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-boxrob-3",
+    "id": "crown-boxrob-3",
     "title": "BoxRob 3",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/boxrob-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-boxrob-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/boxrob-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-burnin-rubber-5-xs",
+    "id": "crown-burnin-rubber-5-xs",
     "title": "Burnin' Rubber 5 Xs",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/burnin-rubber-5-xs.html",
     "thumbnail": "assets/thumbs/class6x/class6x-burnin-rubber-5-xs.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/burnin-rubber-5-xs/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-burnout-drift-seaport-max",
+    "id": "crown-burnout-drift-seaport-max",
     "title": "Burnout Drift Seaport Max",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/burnout-drift-seaport-max.html",
     "thumbnail": "assets/thumbs/class6x/class6x-burnout-drift-seaport-max.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/burnout-drift-seaport-max/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-burnout-extreme-drift-2",
+    "id": "crown-burnout-extreme-drift-2",
     "title": "Burnout Extreme Drift 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/burnout-extreme-drift-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-burnout-extreme-drift-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/burnout-extreme-drift-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-car-climb-racing",
+    "id": "crown-car-climb-racing",
     "title": "Car Climb Racing",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/car-climb-racing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-car-climb-racing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/car-climb-racing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-car-drift-racers-2",
+    "id": "crown-car-drift-racers-2",
     "title": "Car Drift Racers 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/car-drift-racers-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-car-drift-racers-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/car-drift-racers-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-car-rush",
+    "id": "crown-car-rush",
     "title": "Car Rush",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/car-rush.html",
     "thumbnail": "assets/thumbs/class6x/class6x-car-rush.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/car-rush/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-car-simulator-arena",
+    "id": "crown-car-simulator-arena",
     "title": "Car Simulator Arena",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/car-simulator-arena.html",
     "thumbnail": "assets/thumbs/class6x/class6x-car-simulator-arena.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/car-simulator-arena/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cars-thief-tank-edition",
+    "id": "crown-cars-thief-tank-edition",
     "title": "Cars Thief Tank Edition",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/cars-thief-tank-edition.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cars-thief-tank-edition.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cars-thief-tank-edition/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-city-bike-stunt-2",
+    "id": "crown-city-bike-stunt-2",
     "title": "City Bike Stunt 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/city-bike-stunt-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-city-bike-stunt-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/city-bike-stunt-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-city-car-driving-stunt-master",
+    "id": "crown-city-car-driving-stunt-master",
     "title": "City Car Driving: Stunt Master",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/city-car-driving-stunt-master.html",
     "thumbnail": "assets/thumbs/class6x/class6x-city-car-driving-stunt-master.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/city-car-driving-stunt-master/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dead-paradise-race-shooter-unblocked",
-    "title": "Dead Paradise: Race Shooter Unblocked",
+    "id": "crown-dead-paradise-race-shooter",
+    "title": "Dead Paradise: Race Shooter",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/dead-paradise-race-shooter.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-dead-paradise-race-shooter-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-dead-paradise-race-shooter-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dead-paradise-race-shooter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-death-chase",
+    "id": "crown-death-chase",
     "title": "Death Chase",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/death-chase.html",
     "thumbnail": "assets/thumbs/class6x/class6x-death-chase.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/death-chase/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-demolition-derby-crash-racing",
+    "id": "crown-demolition-derby-crash-racing",
     "title": "Demolition Derby Crash Racing",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/demolition-derby-crash-racing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-demolition-derby-crash-racing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/demolition-derby-crash-racing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-draw-the-hill",
+    "id": "crown-draw-the-hill",
     "title": "Draw The Hill",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/draw-the-hill.html",
     "thumbnail": "assets/thumbs/class6x/class6x-draw-the-hill.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/draw-the-hill/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-drift-hunters",
+    "id": "crown-drift-hunters",
     "title": "Drift Hunters",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/drift-hunters.html",
     "thumbnail": "assets/thumbs/class6x/class6x-drift-hunters.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/drift-hunters/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dubai-police-parking-2",
+    "id": "crown-dubai-police-parking-2",
     "title": "Dubai Police Parking 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/dubai-police-parking-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dubai-police-parking-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dubai-police-parking-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-earn-to-die",
+    "id": "crown-earn-to-die",
     "title": "Earn To Die",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/earn-to-die.html",
     "thumbnail": "assets/thumbs/class6x/class6x-earn-to-die.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/earn-to-die/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-evo-city-driving",
+    "id": "crown-evo-city-driving",
     "title": "Evo City Driving",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/evo-city-driving.html",
     "thumbnail": "assets/thumbs/class6x/class6x-evo-city-driving.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/evo-city-driving/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-extreme-car-driving-simulator",
+    "id": "crown-extreme-car-driving-simulator",
     "title": "Extreme Car Driving Simulator",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/extreme-car-driving-simulator.html",
     "thumbnail": "assets/thumbs/class6x/class6x-extreme-car-driving-simulator.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/extreme-car-driving-simulator/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-extreme-off-road-cars",
+    "id": "crown-extreme-off-road-cars",
     "title": "Extreme Off Road Cars",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/extreme-off-road-cars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-extreme-off-road-cars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/extreme-off-road-cars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-extreme-off-road-cars-3-cargo",
+    "id": "crown-extreme-off-road-cars-3-cargo",
     "title": "Extreme Off Road Cars 3: Cargo",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/extreme-off-road-cars-3-cargo.html",
     "thumbnail": "assets/thumbs/class6x/class6x-extreme-off-road-cars-3-cargo.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/extreme-off-road-cars-3-cargo/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fortride-open-world",
+    "id": "crown-fortride-open-world",
     "title": "Fortride: Open World",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/fortride-open-world.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fortride-open-world.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fortride-open-world/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-freeway-fury",
+    "id": "crown-freeway-fury",
     "title": "Freeway Fury",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/freeway-fury.html",
     "thumbnail": "assets/thumbs/class6x/class6x-freeway-fury.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/freeway-fury/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-furious-racing-3d",
+    "id": "crown-furious-racing-3d",
     "title": "Furious Racing 3D",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/furious-racing-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-furious-racing-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/furious-racing-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Racing",
       "Racing",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-highway-bike-simulator",
+    "id": "crown-highway-bike-simulator",
     "title": "Highway Bike Simulator",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/highway-bike-simulator.html",
     "thumbnail": "assets/thumbs/class6x/class6x-highway-bike-simulator.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/highway-bike-simulator/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-highway-traffic",
+    "id": "crown-highway-traffic",
     "title": "Highway Traffic",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/highway-traffic.html",
     "thumbnail": "assets/thumbs/class6x/class6x-highway-traffic.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/highway-traffic/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hover-racer",
+    "id": "crown-hover-racer",
     "title": "Hover Racer",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/hover-racer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hover-racer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hover-racer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-impossible-monster-truck-race",
+    "id": "crown-impossible-monster-truck-race",
     "title": "Impossible Monster Truck Race",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/impossible-monster-truck-race.html",
     "thumbnail": "assets/thumbs/class6x/class6x-impossible-monster-truck-race.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/impossible-monster-truck-race/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jelly-truck",
+    "id": "crown-jelly-truck",
     "title": "Jelly Truck",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/jelly-truck.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jelly-truck.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jelly-truck/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-jollyworld",
+    "id": "crown-jollyworld",
     "title": "Jollyworld",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/jollyworld.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jollyworld.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jollyworld/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-just-park-it-11",
+    "id": "crown-just-park-it-11",
     "title": "Just Park It 11",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/just-park-it-11.html",
     "thumbnail": "assets/thumbs/class6x/class6x-just-park-it-11.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/just-park-it-11/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-just-park-it-12",
+    "id": "crown-just-park-it-12",
     "title": "Just Park It 12",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/just-park-it-12.html",
     "thumbnail": "assets/thumbs/class6x/class6x-just-park-it-12.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/just-park-it-12/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-kart-race-3d",
+    "id": "crown-kart-race-3d",
     "title": "Kart Race 3D",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/kart-race-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-kart-race-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/kart-race-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mad-day",
+    "id": "crown-mad-day",
     "title": "Mad Day",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/mad-day.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mad-day.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mad-day/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mad-truck-challenge-special",
+    "id": "crown-mad-truck-challenge-special",
     "title": "Mad Truck Challenge Special",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/mad-truck-challenge-special.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mad-truck-challenge-special.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mad-truck-challenge-special/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-merge-cyber-racers",
+    "id": "crown-merge-cyber-racers",
     "title": "Merge Cyber Racers",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/merge-cyber-racers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-merge-cyber-racers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/merge-cyber-racers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-merge-round-racers",
+    "id": "crown-merge-round-racers",
     "title": "Merge Round Racers",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/merge-round-racers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-merge-round-racers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/merge-round-racers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-monster-truck-racing-arena",
+    "id": "crown-monster-truck-racing-arena",
     "title": "Monster Truck Racing Arena",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/monster-truck-racing-arena.html",
     "thumbnail": "assets/thumbs/class6x/class6x-monster-truck-racing-arena.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/monster-truck-racing-arena/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-monsters-wheels-special",
+    "id": "crown-monsters-wheels-special",
     "title": "Monsters Wheels Special",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/monsters-wheels-special.html",
     "thumbnail": "assets/thumbs/class6x/class6x-monsters-wheels-special.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/monsters-wheels-special/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-maniac",
+    "id": "crown-moto-maniac",
     "title": "Moto Maniac",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moto-maniac.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-maniac.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-maniac/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-maniac-2",
+    "id": "crown-moto-maniac-2",
     "title": "Moto Maniac 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moto-maniac-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-maniac-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-maniac-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-road-rash-3d",
+    "id": "crown-moto-road-rash-3d",
     "title": "Moto Road Rash 3D",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moto-road-rash-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-road-rash-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-road-rash-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-x3m",
+    "id": "crown-moto-x3m",
     "title": "Moto X3m",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moto-x3m.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-x3m.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-x3m/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing",
       "Skill",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-x3m-2",
+    "id": "crown-moto-x3m-2",
     "title": "Moto X3m 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moto-x3m-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-x3m-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-x3m-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-x3m-pool-party",
+    "id": "crown-moto-x3m-pool-party",
     "title": "Moto X3m Pool Party",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moto-x3m-pool-party.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-x3m-pool-party.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-x3m-pool-party/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-x3m-spooky-land",
+    "id": "crown-moto-x3m-spooky-land",
     "title": "Moto X3m Spooky Land",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moto-x3m-spooky-land.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-x3m-spooky-land.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-x3m-spooky-land/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moto-x3m-winter",
+    "id": "crown-moto-x3m-winter",
     "title": "Moto X3m Winter",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moto-x3m-winter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moto-x3m-winter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moto-x3m-winter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-moving-truck-bounty",
+    "id": "crown-moving-truck-bounty",
     "title": "Moving Truck: Bounty",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/moving-truck-bounty.html",
     "thumbnail": "assets/thumbs/class6x/class6x-moving-truck-bounty.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/moving-truck-bounty/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-my-pony-my-little-race",
+    "id": "crown-my-pony-my-little-race",
     "title": "My Pony My Little Race",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/my-pony-my-little-race.html",
     "thumbnail": "assets/thumbs/class6x/class6x-my-pony-my-little-race.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/my-pony-my-little-race/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-n-gon",
+    "id": "crown-n-gon",
     "title": "N Gon",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/n-gon.html",
     "thumbnail": "assets/thumbs/class6x/class6x-n-gon.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/n-gon/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-noob-drive",
+    "id": "crown-noob-drive",
     "title": "Noob Drive",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/noob-drive.html",
     "thumbnail": "assets/thumbs/class6x/class6x-noob-drive.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/noob-drive/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-off-road-rain-cargo-simulator",
+    "id": "crown-off-road-rain-cargo-simulator",
     "title": "Off-Road Rain Cargo Simulator",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/off-road-rain-cargo-simulator.html",
     "thumbnail": "assets/thumbs/class6x/class6x-off-road-rain-cargo-simulator.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/off-road-rain-cargo-simulator/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-one-hundred-castles-solitaire",
+    "id": "crown-one-hundred-castles-solitaire",
     "title": "One Hundred Castles Solitaire",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/one-hundred-castles-solitaire.html",
     "thumbnail": "assets/thumbs/class6x/class6x-one-hundred-castles-solitaire.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/one-hundred-castles-solitaire/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parking-fury-3d-beach-city",
+    "id": "crown-parking-fury-3d-beach-city",
     "title": "Parking Fury 3D Beach City",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/parking-fury-3d-beach-city.html",
     "thumbnail": "assets/thumbs/class6x/class6x-parking-fury-3d-beach-city.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parking-fury-3d-beach-city/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parking-fury-3d-bounty-hunter",
+    "id": "crown-parking-fury-3d-bounty-hunter",
     "title": "Parking Fury 3D Bounty Hunter",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/parking-fury-3d-bounty-hunter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-parking-fury-3d-bounty-hunter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parking-fury-3d-bounty-hunter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parking-fury-3d-night-thief",
+    "id": "crown-parking-fury-3d-night-thief",
     "title": "Parking Fury 3D: Night Thief",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/parking-fury-3d-night-thief.html",
     "thumbnail": "assets/thumbs/class6x/class6x-parking-fury-3d-night-thief.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parking-fury-3d-night-thief/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parkmania-unblocked",
-    "title": "Parkmania Unblocked",
+    "id": "crown-parkmania",
+    "title": "Parkmania",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/parkmania.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-parkmania-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-parkmania-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parkmania/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rally-champion-unblocked",
-    "title": "Rally Champion Unblocked",
+    "id": "crown-rally-champion",
+    "title": "Rally Champion",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/rally-champion.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-rally-champion-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-rally-champion-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rally-champion/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rally-point-5",
+    "id": "crown-rally-point-5",
     "title": "Rally Point 5",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/rally-point-5.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rally-point-5.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rally-point-5/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-real-city-driving-2",
+    "id": "crown-real-city-driving-2",
     "title": "Real City Driving 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/real-city-driving-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-real-city-driving-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/real-city-driving-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rocket-pult",
+    "id": "crown-rocket-pult",
     "title": "Rocket Pult",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/rocket-pult.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rocket-pult.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rocket-pult/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Racing",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rocket-soccer-derby",
+    "id": "crown-rocket-soccer-derby",
     "title": "Rocket Soccer Derby",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/rocket-soccer-derby.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rocket-soccer-derby.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rocket-soccer-derby/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rush-race-motocross",
+    "id": "crown-rush-race-motocross",
     "title": "Rush Race Motocross",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/rush-race-motocross.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rush-race-motocross.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rush-race-motocross/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-scrap-metal",
+    "id": "crown-scrap-metal",
     "title": "Scrap Metal",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/scrap-metal.html",
     "thumbnail": "assets/thumbs/class6x/class6x-scrap-metal.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/scrap-metal/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Racing",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-skateboard-hero",
+    "id": "crown-skateboard-hero",
     "title": "Skateboard Hero",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/skateboard-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-skateboard-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/skateboard-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sky-mad",
+    "id": "crown-sky-mad",
     "title": "Sky Mad",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/sky-mad.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sky-mad.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sky-mad/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sling-drift-unblocked",
-    "title": "Sling Drift Unblocked",
+    "id": "crown-sling-drift",
+    "title": "Sling Drift",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/sling-drift.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-sling-drift-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-sling-drift-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sling-drift/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slot-car-racing",
+    "id": "crown-slot-car-racing",
     "title": "Slot Car Racing",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/slot-car-racing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slot-car-racing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slot-car-racing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-soccar",
+    "id": "crown-soccar",
     "title": "Soccar",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/soccar.html",
     "thumbnail": "assets/thumbs/class6x/class6x-soccar.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/soccar/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-solitaire",
+    "id": "crown-solitaire",
     "title": "Solitaire",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/solitaire.html",
     "thumbnail": "assets/thumbs/class6x/class6x-solitaire.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/solitaire/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-speed-boat-extreme-racing",
+    "id": "crown-speed-boat-extreme-racing",
     "title": "Speed Boat Extreme Racing",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/speed-boat-extreme-racing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-speed-boat-extreme-racing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/speed-boat-extreme-racing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-bike-pr",
+    "id": "crown-stickman-bike-pr",
     "title": "Stickman Bike Pr",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-bike-pr.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-bike-pr.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-bike-pr/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Sports",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stunt-car-challenge-3",
+    "id": "crown-stunt-car-challenge-3",
     "title": "Stunt Car Challenge 3",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/stunt-car-challenge-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stunt-car-challenge-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stunt-car-challenge-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-mx-the-champion",
+    "id": "crown-super-mx-the-champion",
     "title": "Super Mx The Champion",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/super-mx-the-champion.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-mx-the-champion.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-mx-the-champion/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-racing-gt-drag-pro",
+    "id": "crown-super-racing-gt-drag-pro",
     "title": "Super Racing Gt Drag Pro",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/super-racing-gt-drag-pro.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-racing-gt-drag-pro.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-racing-gt-drag-pro/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-top-speed-3d",
+    "id": "crown-top-speed-3d",
     "title": "Top Speed 3d",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/top-speed-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-top-speed-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/top-speed-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Racing",
       "Racing",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-top-speed-racing-3d",
+    "id": "crown-top-speed-racing-3d",
     "title": "Top Speed Racing 3d",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/top-speed-racing-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-top-speed-racing-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/top-speed-racing-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-traffic-escape",
+    "id": "crown-traffic-escape",
     "title": "Traffic Escape",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/traffic-escape.html",
     "thumbnail": "assets/thumbs/class6x/class6x-traffic-escape.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/traffic-escape/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-traffic-mania",
+    "id": "crown-traffic-mania",
     "title": "Traffic Mania",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/traffic-mania.html",
     "thumbnail": "assets/thumbs/class6x/class6x-traffic-mania.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/traffic-mania/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-traffic-rider",
+    "id": "crown-traffic-rider",
     "title": "Traffic Rider",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/traffic-rider.html",
     "thumbnail": "assets/thumbs/class6x/class6x-traffic-rider.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/traffic-rider/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-traffic-rush",
+    "id": "crown-traffic-rush",
     "title": "Traffic Rush",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/traffic-rush.html",
     "thumbnail": "assets/thumbs/class6x/class6x-traffic-rush.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/traffic-rush/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-truck-loader",
+    "id": "crown-truck-loader",
     "title": "Truck Loader",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/truck-loader.html",
     "thumbnail": "assets/thumbs/class6x/class6x-truck-loader.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/truck-loader/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-truck-loader-2",
+    "id": "crown-truck-loader-2",
     "title": "Truck Loader 2",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/truck-loader-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-truck-loader-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/truck-loader-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-truck-loader-3",
+    "id": "crown-truck-loader-3",
     "title": "Truck Loader 3",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/truck-loader-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-truck-loader-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/truck-loader-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-truck-loader-4",
+    "id": "crown-truck-loader-4",
     "title": "Truck Loader 4",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/truck-loader-4.html",
     "thumbnail": "assets/thumbs/class6x/class6x-truck-loader-4.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/truck-loader-4/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-truck-loader-5",
+    "id": "crown-truck-loader-5",
     "title": "Truck Loader 5",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/truck-loader-5.html",
     "thumbnail": "assets/thumbs/class6x/class6x-truck-loader-5.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/truck-loader-5/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ultimate-car-driving",
+    "id": "crown-ultimate-car-driving",
     "title": "Ultimate Car Driving",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/ultimate-car-driving.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ultimate-car-driving.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ultimate-car-driving/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zeepkist-crash-2d",
+    "id": "crown-zeepkist-crash-2d",
     "title": "Zeepkist: Crash 2D",
     "category": "Racing",
-    "originalPage": "https://class6x.gitlab.io/game/zeepkist-crash-2d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zeepkist-crash-2d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zeepkist-crash-2d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Racing",
       "Stickman",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-color-tunnel-2",
+    "id": "crown-barry-prison-hide-and-seek",
+    "title": "Barry Prison Hide And Seek",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/barry-prison-hide-and-seek.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/057358bc81a04fcf964a3bd7dbb7a2d3/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fbarry-prison-hide-and-seek&width=1336&height=540&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-battle-royale-noob-vs-pro",
+    "title": "Battle Royale Noob vs Pro",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/battle-royale-noob-vs-pro.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/ab052df5478e46f3b8907dce6799a88f/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fbattle-royale-noob-vs-pro&width=1920&height=1080&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-block-parkour-trials",
+    "title": "Block Parkour Trials",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/block-parkour-trials.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/6f38d609768747a692974c6ef97b2514/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fblock-parkour-trials&width=854&height=480&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-br-br-patapim-obby-challenge",
+    "title": "Br Br Patapim: Obby Challenge",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/br-br-patapim-obby-challenge.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/c2c539077905410bb2114297cf24255b/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fbr-br-patapim%253A-obby-challenge&width=960&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-building-mods-for-minecraft",
+    "title": "Building Mods For Minecraft",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/building-mods-for-minecraft.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/2691c4b1c55a417bb620c7ce1e662be1/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fbuilding-mods-for-minecraft&width=1920&height=1080&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-color-race-obby",
+    "title": "Color Race Obby",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/color-race-obby.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/7503d2eb0f044c0ba76a6360230c32bb/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fcolor-race-obby&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-crazy-motorcycle",
+    "title": "Crazy Motorcycle",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/crazy-motorcycle.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/30637801603e46ec82b342b77f539cf3/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fcrazy-motorcycle&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-cross-the-road",
+    "title": "Cross the Road",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/cross-the-road.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/888abfd4058149059db1e1e778d6bfa6/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fcross-the-road&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-don-t-wake-the-brainrots",
+    "title": "Don't Wake the Brainrots!",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/free-idle.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://playhop.com/dist-app/465915/?utm_source=distrib&utm_medium=yyg-games&clid=11165391",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-egg-wars",
+    "title": "Egg Wars",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/egg-wars.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/851bce8bb62243eb92dd8b8f7f7b774a/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fegg-wars&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-escape-evil-granny-obby",
+    "title": "Escape Evil Granny Obby!",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/escape-evil-granny-obby.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://playhop.com/dist-app/425012/?utm_source=distrib&utm_medium=yyg-games&clid=11225812",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-fun-obby-extreme",
+    "title": "Fun Obby Extreme",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/fun-obby-extreme.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/0dbdd15e5a884c1faefc4eda167a4182/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Ffun-obby-extreme&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-grow-a-obby-garden",
+    "title": "Grow A Obby Garden",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/roblox-obby-garden-farm-games-online.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://playhop.com/dist-app/437622/?utm_source=distrib&utm_medium=yyg-games&clid=11165391",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-herobrine-vs-monster-school",
+    "title": "Herobrine vs Monster School",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/herobrine-vs-monster-school.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/fd17a4f4e71949b98692e9c5ae9e7acd/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fherobrine-vs-monster-school&width=337.5&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-impostor-vs-noob",
+    "title": "Impostor vs Noob",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/impostor-vs-noob.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/41ab1d642b6e4f318b6dc5b86b0ebf06/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fimpostor-vs-noob&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-italian-brainrot-obby-parkour",
+    "title": "Italian Brainrot Obby Parkour",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/italian-brainrot-obby-parkour.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/ad14e488375b4e41af52a4617f6837d0/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fitalian-brainrot-obby-parkour&width=900&height=560&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-jailbreak-escape-from-prison",
+    "title": "JailBreak: Escape from Prison",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/jailbreak-escape-from-prison.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/e5c41772e13f49d891a9bff3ea726943/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fjailbreak-%253A-escape-from-prison&width=900&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-jigsaw-puzzle-obby-parkour",
+    "title": "Jigsaw Puzzle: Obby Parkour",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/roblox-obby-game-free-online.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://www.kidsgame.com/games/Jigsaw-Puzzle/index.html?pic=Obby-Parkour",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-knockout",
+    "title": "Knockout!",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/knockout-roblox-obby-party-game-online.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://playhop.com/dist-app/501043/?utm_source=distrib&utm_medium=yyg-games&clid=11165391",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-kogama-parkour-25-levels",
+    "title": "KOGAMA Parkour 25 Levels",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/kogama-parkour-25-levels.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/ddbfa3ed2eb8465ca21ded89977f74c0/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fkogama-parkour-25-levels&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-last-to-leave-circle-obby",
+    "title": "Last to leave circle Obby",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/last-to-leave-circle-obby.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/44cdf08900984b67a0b6573902b7439b/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Flast-to-leave-circle-obby&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-math-obby",
+    "title": "Math Obby",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/math-obby.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/fe6a3730ae9d47babee7a2a5b26562c8/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fmath-obby&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-math-wall-simulator",
+    "title": "Math Wall Simulator",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/math-wall-simulator.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/05a3746787c943669531c4241f7df085/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fmath-wall-simulator&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-mine-2d-survival-herobrine",
+    "title": "Mine 2D Survival Herobrine",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/mine-2d-survival-herobrine.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/277110e6e6c542c5a2911293ba63389e/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fmine-2d-survival-herobrine&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-monster-school-challenge-2",
+    "title": "Monster School Challenge 2",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/monster-school-challenge-2.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/6c017b19490948c59984da732a60cea4/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fmonster-school-challenge-2&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-monster-school-challenge-3",
+    "title": "Monster School Challenge 3",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/monster-school-challenge-3.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/62587f248fb443889d22622651114871/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fmonster-school-challenge-3&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-monster-school-vs-siren-head",
+    "title": "Monster School vs Siren Head",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/monster-school-vs-siren-head.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/8df213175612407f85ed8f91ae08f55f/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fmonster-school-vs-siren-head&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-mr-noob-vs-zombies",
+    "title": "Mr Noob Vs Zombies",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/mr-noob-vs-zombies.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/1f388c1598cb4a3fa730147ecaddf2f5/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fmr-noob-vs-zombies&width=337.5&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-natural-disaster-survival-obby",
+    "title": "Natural disaster survival Obby",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/natural-disaster-survival-obby.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/2c98c9a7a3774dcfb5e716f8e2f908e4/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnatural-disaster-survival-obby&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-fuse",
+    "title": "Noob Fuse",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-fuse.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/3bb81a06ef66459ba7e97d7b93c546d9/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-fuse&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-huggy",
+    "title": "Noob Huggy",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-huggy.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/dcfd32f0b8e44028b053b545073d3151/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-huggy&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-in-geometry-dash",
+    "title": "Noob in Geometry Dash",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-in-geometry-dash.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/4d0faf326d03466baf7c0987d612c1a4/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-in-geometry-dash&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-miner-escape-from-prison",
+    "title": "Noob Miner: Escape From Prison",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-miner-escape-from-prison.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/456206a4b00445128fd624fc4def4e43/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-miner%3A-escape-from-prison&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-shooter-gun-battle-3d",
+    "title": "Noob Shooter: Gun Battle 3D",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-shooter-gun-battle-3d.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/7de4f2b6d2cf4ab587087c8649a1f8bb/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-shooter%3A-gun-battle-3d&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-vs-hacker-diver-suit",
+    "title": "Noob vs Hacker Diver Suit",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-vs-hacker-diver-suit.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/d49574934e754819a4b3a8c96ddab37d/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-vs-hacker-diver-suit&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-vs-pro-3",
+    "title": "Noob Vs Pro 3",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-vs-pro-3.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/98435ce886ef4d7f975a9712529c3ad7/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-vs-pro-3&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-vs-pro-4-lucky-block",
+    "title": "Noob Vs Pro 4 Lucky Block",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-vs-pro-4-lucky-block.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/afd212a4dbdd4541897b7c3667138507/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-vs-pro-4-lucky-block&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-vs-pro-challenge",
+    "title": "Noob vs Pro Challenge",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-vs-pro-challenge.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/ec9330dab4f84a3a8cfcfe6338e9ec87/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-vs-pro-challenge&width=1920&height=1080&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-vs-pro-challenge-samsung",
+    "title": "Noob vs Pro Challenge Samsung",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-vs-pro-challenge-samsung.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/942109a090e84504a0a6e872002c1c1c/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob-vs-pro-challenge-samsung&width=1920&height=1080&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-noob-zombie-prison-escape",
+    "title": "Noob: Zombie Prison Escape",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/noob-zombie-prison-escape.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/b56adab8c63e42459be0c12e1245c1de/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fnoob%253A-zombie-prison-escape&width=960&height=540&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-3d-sprunki-parkour",
+    "title": "Obby 3D Sprunki Parkour",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-3d-sprunki-parkour.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/7ed6f14336f94414a38f89da673bbfa7/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fobby-3d-sprunki-parkour&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-blox-parkour",
+    "title": "Obby Blox Parkour",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-blox-parkour.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/a84c47e70e024eedac6cd9982718f6ab/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fobby-blox-parkour&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-halloween-danger-skate",
+    "title": "Obby Halloween Danger Skate",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-halloween-danger-skate.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/e7a5d8f1c4f2488685f7ca892201c672/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fobby-halloween-danger-skate&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-on-a-bike",
+    "title": "Obby On a Bike",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-on-a-bike.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/bc2f52c2d9d04e41aee48bef01075d22/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fobby-on-a-bike&width=900&height=560&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-parkour-ultimate",
+    "title": "Obby Parkour Ultimate",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-parkour-ultimate.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/a166eaf96ab74f85816462d8cc02184b/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fobby-parkour-ultimate&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-prison-craft-escape",
+    "title": "Obby Prison: Craft Escape",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-prison-craft-escape.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/3159912d079e47639b9d633ea7511895/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fobby-prison%253A-craft-escape&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-snake-io",
+    "title": "Obby Snake.io",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/snake-doodle-worm-io-game.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://cdn.freegames.com/Obby-Snake-Io/index.html",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-tower",
+    "title": "Obby Tower",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-tower-roblox-parkour-game-.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/62e8b351034b46129fedb50065e06680/?gd_sdk_referrer_url=https://www.freegames.com/game/Obby-Tower",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-tower-parkour-climb",
+    "title": "Obby Tower Parkour Climb",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-tower-parkour-climb.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/5532111b774e4ca18238b41c029617e0/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fobby-tower-parkour-climb&width=960&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-dragon-training",
+    "title": "Obby: Dragon Training",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/play-roblox-obby-dragon-training.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://playhop.com/dist-app/421788/?utm_source=distrib&utm_medium=yyg-games&clid=11165391",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-gym-simulator-escape",
+    "title": "Obby: Gym Simulator, Escape",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/obby-gym-simulator-escape.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/4a198f856f07451bb7418eae9a0c4112/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fobby%253A-gym-simulator%252C-escape&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-obby-squid-jump-rope",
+    "title": "Obby: Squid Jump Rope",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/roblox-obby-squid-game-jump-rope-game.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://playhop.com/dist-app/458689/?utm_source=distrib&utm_medium=yyg-games&clid=11165391",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-only-up",
+    "title": "Only Up",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/only-up.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/ec5a0aa39f5c4cd19d1e6153de22650d/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fonly-up&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-only-up-3d-parkour-go-ascend",
+    "title": "Only Up 3D Parkour Go Ascend",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/only-up-3d-parkour-go-ascend.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/c7a11f86eeda4a2b88e8d5ad2ba2f41d/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fonly-up-3d-parkour-go-ascend&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-parkour-block-5",
+    "title": "Parkour Block 5",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/parkour-block-5.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/e18b34214db742c4a97cc80650fc02dd/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fparkour-block-5&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-parkour-block-6",
+    "title": "Parkour Block 6",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/parkour-block-6.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/221eb9b1a6714da1a7bdb8346e6e4515/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fparkour-block-6&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-parkour-block-7",
+    "title": "Parkour Block 7",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/parkour-block-7.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/13215160b460481492b582a5081b49a1/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fparkour-block-7&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-parkour-world-2",
+    "title": "Parkour World 2",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/parkour-world-2.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/fc1829831bb6415b802ab992589bb549/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fparkour-world-2&width=960&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-red-stickman-vs-monster-school",
+    "title": "Red Stickman vs Monster School",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/red-stickman-vs-monster-school.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/d1dde7ae11fa4cf7a6c08126c9118f09/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fred-stickman-vs-monster-school&width=800&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-roblox-obby-escape-the-school",
+    "title": "Roblox Obby Escape The School",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/project-escape-room-roblox-school-adventure-game.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://playhop.com/dist-app/417396/?utm_source=distrib&utm_medium=yyg-games&clid=11165391",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-square-world-3d",
+    "title": "Square World 3D",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/square-world-3d.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/ac7ad1f9637d4de8aa62f985947f713b/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fsquare-world-3d&width=1920&height=1080&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-stickman-vs-huggy-wuggy",
+    "title": "Stickman vs Huggy Wuggy",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/stickman-vs-huggy-wuggy.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/827e0530549348738f295997d074c30e/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Fstickman-vs-huggy-wuggy&width=1280&height=720&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-the-exit-8-roblox",
+    "title": "The Exit 8: Roblox",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/the-exit-8-roblox-obby-game-.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://playhop.com/dist-app/443771/?utm_source=distrib&utm_medium=yyg-games&clid=11165391",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-trap-craft-samsung",
+    "title": "Trap Craft Samsung",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/trap-craft-samsung.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/18a1cfe6a3274a3d814593f5569cf7c7/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Ftrap-craft-samsung&width=1920&height=1080&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-tung-tung-sahur-obby-run",
+    "title": "Tung Tung Sahur Obby Run",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/have-fun-with-tung-tung-tung-sahur-and-roblox-obby.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://www.kidsgame.com/games/Jigsaw-Puzzle/index.html?pic=Tung-Tung-Sahur-Obby-Run",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-tung-tung-sahur-obby-challenge",
+    "title": "Tung Tung Sahur: Obby Challenge",
+    "category": "Roblox-Style",
+    "thumbnail": "assets/thumbs/roblox-style/tung-tung-sahur-obby-challenge.jpg",
+    "playable": true,
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/5663a7467cf441d9b4604a890ed0f1ed/?gd_sdk_referrer_url=https%3A%2F%2Fgamexgames.com%2Fgame%2Ftung-tung-sahur%253A-obby-challenge&width=960&height=600&language=en&gdpr-tracking=1&gdpr-targeting=1",
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown",
+    "tags": [
+      "roblox-style",
+      "obby",
+      "blocky",
+      "parkour",
+      "crown"
+    ]
+  },
+  {
+    "id": "crown-color-tunnel-2",
     "title": "Color Tunnel 2",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/color-tunnel-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-color-tunnel-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/color-tunnel-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-crossy-road",
+    "id": "crown-crossy-road",
     "title": "Crossy Road",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/crossy-road.html",
     "thumbnail": "assets/thumbs/class6x/class6x-crossy-road.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/crossy-road/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dark-runner-unblocked",
-    "title": "Dark Runner Unblocked",
+    "id": "crown-dark-runner",
+    "title": "Dark Runner",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/dark-runner.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-dark-runner-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-dark-runner-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dark-runner/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-electron-dash",
+    "id": "crown-electron-dash",
     "title": "Electron Dash",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/electron-dash.html",
     "thumbnail": "assets/thumbs/class6x/class6x-electron-dash.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/electron-dash/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-flip-runner",
+    "id": "crown-flip-runner",
     "title": "Flip Runner",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/flip-runner.html",
     "thumbnail": "assets/thumbs/class6x/class6x-flip-runner.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/flip-runner/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running",
       "Skill",
       "Sports",
       "Featured"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "geometry-dash-https-sites-google-com-lindberghschools-ws-crown-official-geometry",
+    "id": "crown-geometry-dash",
     "title": "Geometry Dash",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/geometry-dash.html",
     "thumbnail": "assets/thumbs/class6x/class6x-geometry-dash.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/geometry-dash/",
     "class6xPage": "https://class6x.gitlab.io/game/geometry-dash.html"
   },
   {
-    "id": "google-dino-https-sites-google-com-lindberghschools-ws-crown-official-google-din",
+    "id": "crown-google-dino",
     "title": "Google Dino",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/dinosaur-game.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dinosaur-game.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/dinosaur-game/",
     "class6xPage": "https://class6x.gitlab.io/game/dinosaur-game.html",
     "tags": [
@@ -11935,2278 +12457,2138 @@ window.CROWN_GAMES = [
     ]
   },
   {
-    "id": "ovo-https-sites-google-com-lindberghschools-ws-crown-official-ovo",
+    "id": "crown-ovo",
     "title": "OVO",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/ovo.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ovo.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/ovo/",
     "class6xPage": "https://class6x.gitlab.io/game/ovo.html"
   },
   {
-    "id": "class6x-ovo-dimensions",
+    "id": "crown-ovo-dimensions",
     "title": "OvO Dimensions",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/ovo-dimensions.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ovo-dimensions.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ovo-dimensions/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parkour-block-3d",
+    "id": "crown-parkour-block-3d",
     "title": "Parkour Block 3d",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/parkour-block-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-parkour-block-3d.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parkour-block-3d/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-parkour-race",
+    "id": "crown-parkour-race",
     "title": "Parkour Race",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/parkour-race.html",
     "thumbnail": "assets/thumbs/class6x/class6x-parkour-race.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/parkour-race/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-run-3-editor",
+    "id": "crown-run-3-editor",
     "title": "Run 3 Editor",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/run-3-editor.html",
     "thumbnail": "assets/thumbs/class6x/class6x-run-3-editor.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/run-3-editor/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-shortcut-race",
+    "id": "crown-shortcut-race",
     "title": "Shortcut Race",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/shortcut-race.html",
     "thumbnail": "assets/thumbs/class6x/class6x-shortcut-race.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/shortcut-race/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running",
       "Racing"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slope-2-multiplayer",
+    "id": "crown-slope-2-multiplayer",
     "title": "Slope 2 Multiplayer",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/slope-2-multiplayer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slope-2-multiplayer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slope-2-multiplayer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-school-run",
+    "id": "crown-stickman-school-run",
     "title": "Stickman School Run",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-school-run.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-school-run.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-school-run/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running",
       "Sports",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-subway-runner",
+    "id": "crown-subway-runner",
     "title": "Subway Runner",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/subway-runner.html",
     "thumbnail": "assets/thumbs/class6x/class6x-subway-runner.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/subway-runner/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-subway-surfers-beijing",
+    "id": "crown-subway-surfers-beijing",
     "title": "Subway Surfers Beijing",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/subway-surfers-beijing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-subway-surfers-beijing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/subway-surfers-beijing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-subway-surfers-houston",
+    "id": "crown-subway-surfers-houston",
     "title": "Subway Surfers Houston",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/subway-surfers-houston.html",
     "thumbnail": "assets/thumbs/class6x/class6x-subway-surfers-houston.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/subway-surfers-houston/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Running",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-subway-surfers-monaco",
+    "id": "crown-subway-surfers-monaco",
     "title": "Subway Surfers Monaco",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/subway-surfers-monaco.html",
     "thumbnail": "assets/thumbs/class6x/class6x-subway-surfers-monaco.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/subway-surfers-monaco/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-subway-surfers-newyork",
+    "id": "crown-subway-surfers-newyork",
     "title": "Subway Surfers Newyork",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/subway-surfers-newyork.html",
     "thumbnail": "assets/thumbs/class6x/class6x-subway-surfers-newyork.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/subway-surfers-newyork/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-subway-surfers-sanfransisco",
+    "id": "crown-subway-surfers-sanfransisco",
     "title": "Subway Surfers Sanfransisco",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/subway-surfers-sanfransisco.html",
     "thumbnail": "assets/thumbs/class6x/class6x-subway-surfers-sanfransisco.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/subway-surfers-sanfransisco/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-subway-surfers-sanfransisco-unblocked",
-    "title": "Subway Surfers Sanfransisco Unblocked",
+    "id": "crown-subway-surfers-sanfransisco-2",
+    "title": "Subway Surfers Sanfransisco",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/subway-surfers.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-subway-surfers-sanfransisco-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-subway-surfers-sanfransisco-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/subway-surfers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-mario-bros",
+    "id": "crown-super-mario-bros",
     "title": "Super Mario Bros",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/super-mario-bros.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-mario-bros.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-mario-bros/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-vex-8",
+    "id": "crown-vex-8",
     "title": "Vex 8",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/vex-8.html",
     "thumbnail": "assets/thumbs/class6x/class6x-vex-8.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-8/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running",
       "Skill",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-we-skate",
+    "id": "crown-we-skate",
     "title": "We Skate",
     "category": "Running",
-    "originalPage": "https://class6x.gitlab.io/game/we-skate.html",
     "thumbnail": "assets/thumbs/class6x/class6x-we-skate.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/we-skate/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Running",
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "1-v-1-lol-https-sites-google-com-lindberghschools-ws-crown-official-1-v-1-lol",
+    "id": "crown-1-v-1-lol",
     "title": "1 V 1 .lol",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/1v1-lol.html",
     "thumbnail": "assets/thumbs/class6x/class6x-1v1-lol.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/1v1-lol/",
     "class6xPage": "https://class6x.gitlab.io/game/1v1-lol.html"
   },
   {
-    "id": "class6x-1v1-lol-offline",
+    "id": "crown-1v1-lol-offline",
     "title": "1v1 LOL Offline",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/1v1-lol-offline.html",
     "thumbnail": "assets/thumbs/class6x/class6x-1v1-lol-offline.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/1v1-lol-offline/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-aliens-nest",
+    "id": "crown-aliens-nest",
     "title": "Aliens Nest",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/aliens-nest.html",
     "thumbnail": "assets/thumbs/class6x/class6x-aliens-nest.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/aliens-nest/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-archery-world-tour",
+    "id": "crown-archery-world-tour",
     "title": "Archery World Tour",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/archery-world-tour.html",
     "thumbnail": "assets/thumbs/class6x/class6x-archery-world-tour.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/archery-world-tour/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bullet-bro",
+    "id": "crown-bullet-bro",
     "title": "Bullet Bro",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/bullet-bro.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bullet-bro.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bullet-bro/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cave-blast",
+    "id": "crown-cave-blast",
     "title": "Cave Blast",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/cave-blast.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cave-blast.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cave-blast/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cubito-mayhem",
+    "id": "crown-cubito-mayhem",
     "title": "Cubito Mayhem",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/cubito-mayhem.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cubito-mayhem.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cubito-mayhem/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-drunken-duel",
+    "id": "crown-drunken-duel",
     "title": "Drunken Duel",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/drunken-duel.html",
     "thumbnail": "assets/thumbs/class6x/class6x-drunken-duel.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/drunken-duel/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-gangster-contract-mafia-wars",
+    "id": "crown-gangster-contract-mafia-wars",
     "title": "Gangster Contract Mafia Wars",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/gangster-contract-mafia-wars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gangster-contract-mafia-wars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/gangster-contract-mafia-wars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-gun-mayhem",
+    "id": "crown-gun-mayhem",
     "title": "Gun Mayhem",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/gun-mayhem.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gun-mayhem.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/gun-mayhem/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-gun-mayhem-3",
+    "id": "crown-gun-mayhem-3",
     "title": "Gun Mayhem 3",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/gun-mayhem-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gun-mayhem-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/gun-mayhem-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Shooting",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "gun-spin-https-sites-google-com-lindberghschools-ws-crown-official-gun-spin",
+    "id": "crown-gun-spin",
     "title": "Gun Spin",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/gunspin.html",
     "thumbnail": "assets/thumbs/class6x/class6x-gunspin.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/gunspin/",
     "class6xPage": "https://class6x.gitlab.io/game/gunspin.html"
   },
   {
-    "id": "class6x-jetpack-joyride",
+    "id": "crown-jetpack-joyride",
     "title": "Jetpack Joyride",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/jetpack-joyride.html",
     "thumbnail": "assets/thumbs/class6x/class6x-jetpack-joyride.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jetpack-joyride/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-lethal-sniper-3d-army-soldier",
+    "id": "crown-lethal-sniper-3d-army-soldier",
     "title": "Lethal Sniper 3D: Army Soldier",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/lethal-sniper-3d-army-soldier.html",
     "thumbnail": "assets/thumbs/class6x/class6x-lethal-sniper-3d-army-soldier.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/lethal-sniper-3d-army-soldier/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mafia-wars",
+    "id": "crown-mafia-wars",
     "title": "Mafia Wars",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/mafia-wars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mafia-wars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mafia-wars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-mob-city",
+    "id": "crown-mob-city",
     "title": "Mob City",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/mob-city.html",
     "thumbnail": "assets/thumbs/class6x/class6x-mob-city.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/mob-city/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-orbital-survival",
+    "id": "crown-orbital-survival",
     "title": "Orbital Survival",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/orbital-survival.html",
     "thumbnail": "assets/thumbs/class6x/class6x-orbital-survival.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/orbital-survival/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-raft-wars",
+    "id": "crown-raft-wars",
     "title": "Raft Wars",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/raft-wars.html",
     "thumbnail": "assets/thumbs/class6x/class6x-raft-wars.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/raft-wars/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-raft-wars-2",
+    "id": "crown-raft-wars-2",
     "title": "Raft Wars 2",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/raft-wars-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-raft-wars-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/raft-wars-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-recoil",
+    "id": "crown-recoil",
     "title": "Recoil",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/recoil.html",
     "thumbnail": "assets/thumbs/class6x/class6x-recoil.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/recoil/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Puzzle"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rusher-crusher-unblocked",
-    "title": "Rusher Crusher Unblocked",
+    "id": "crown-rusher-crusher",
+    "title": "Rusher Crusher",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/rusher-crusher.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-rusher-crusher-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-rusher-crusher-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rusher-crusher/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-shoot-stickman",
+    "id": "crown-shoot-stickman",
     "title": "Shoot Stickman",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/shoot-stickman.html",
     "thumbnail": "assets/thumbs/class6x/class6x-shoot-stickman.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/shoot-stickman/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-shootz",
+    "id": "crown-shootz",
     "title": "Shootz",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/shootz.html",
     "thumbnail": "assets/thumbs/class6x/class6x-shootz.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/shootz/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-skibidi-shooter",
+    "id": "crown-skibidi-shooter",
     "title": "Skibidi Shooter",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/skibidi-shooter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-skibidi-shooter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/skibidi-shooter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sniper-gun-shooting",
+    "id": "crown-sniper-gun-shooting",
     "title": "Sniper Gun Shooting",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/sniper-gun-shooting.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sniper-gun-shooting.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sniper-gun-shooting/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-space-major-miner",
+    "id": "crown-space-major-miner",
     "title": "Space Major Miner",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/space-major-miner.html",
     "thumbnail": "assets/thumbs/class6x/class6x-space-major-miner.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/space-major-miner/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stick-defenders",
+    "id": "crown-stick-defenders",
     "title": "Stick Defenders",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/stick-defenders.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stick-defenders.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stick-defenders/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stick-merge",
+    "id": "crown-stick-merge",
     "title": "Stick Merge",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/stick-merge.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stick-merge.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stick-merge/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stupid-zombies",
+    "id": "crown-stupid-zombies",
     "title": "Stupid Zombies",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/stupid-zombies.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stupid-zombies.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stupid-zombies/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stupid-zombies-2",
+    "id": "crown-stupid-zombies-2",
     "title": "Stupid Zombies 2",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/stupid-zombies-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stupid-zombies-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stupid-zombies-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-hot",
+    "id": "crown-super-hot",
     "title": "Super Hot",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/super-hot.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-hot.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-hot/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-total-recoil",
+    "id": "crown-total-recoil",
     "title": "Total Recoil",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/total-recoil.html",
     "thumbnail": "assets/thumbs/class6x/class6x-total-recoil.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/total-recoil/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-wizard-mike",
+    "id": "crown-wizard-mike",
     "title": "Wizard Mike",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/wizard-mike.html",
     "thumbnail": "assets/thumbs/class6x/class6x-wizard-mike.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/wizard-mike/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Shooting",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-zombie-outbreak-arena",
+    "id": "crown-zombie-outbreak-arena",
     "title": "Zombie Outbreak Arena",
     "category": "Shooting",
-    "originalPage": "https://class6x.gitlab.io/game/zombie-outbreak-arena.html",
     "thumbnail": "assets/thumbs/class6x/class6x-zombie-outbreak-arena.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/zombie-outbreak-arena/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-9-balls-pool",
+    "id": "crown-9-balls-pool",
     "title": "9 Balls Pool",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/9-balls-pool.html",
     "thumbnail": "assets/thumbs/class6x/class6x-9-balls-pool.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/9-balls-pool/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-ape-sling",
+    "id": "crown-ape-sling",
     "title": "Ape Sling",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/ape-sling.html",
     "thumbnail": "assets/thumbs/class6x/class6x-ape-sling.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ape-sling/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-avalanche",
+    "id": "crown-avalanche",
     "title": "Avalanche",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/avalanche.html",
     "thumbnail": "assets/thumbs/class6x/class6x-avalanche.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/avalanche/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-basketball-frvr",
+    "id": "crown-basketball-frvr",
     "title": "Basketball Frvr",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/basketball-frvr.html",
     "thumbnail": "assets/thumbs/class6x/class6x-basketball-frvr.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/basketball-frvr/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bird-jumper",
+    "id": "crown-bird-jumper",
     "title": "Bird Jumper",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/bird-jumper.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bird-jumper.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bird-jumper/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-blumgi-ball",
+    "id": "crown-blumgi-ball",
     "title": "Blumgi Ball",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/blumgi-ball.html",
     "thumbnail": "assets/thumbs/class6x/class6x-blumgi-ball.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/blumgi-ball/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "bubble-shooter-https-sites-google-com-lindberghschools-ws-crown-official-bubble-",
+    "id": "crown-bubble-shooter",
     "title": "Bubble Shooter",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/bubble-shooter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bubble-shooter.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/bubble-shooter/",
     "class6xPage": "https://class6x.gitlab.io/game/bubble-shooter.html"
   },
   {
-    "id": "class6x-bubbles-cool",
+    "id": "crown-bubbles-cool",
     "title": "Bubbles cool",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/bubbles-cool.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bubbles-cool.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bubbles-cool/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bumpy-jumpy",
+    "id": "crown-bumpy-jumpy",
     "title": "Bumpy Jumpy",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/bumpy-jumpy.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bumpy-jumpy.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bumpy-jumpy/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-bunny-hop",
+    "id": "crown-bunny-hop",
     "title": "Bunny Hop",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/bunny-hop.html",
     "thumbnail": "assets/thumbs/class6x/class6x-bunny-hop.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/bunny-hop/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "burrito-bison-https-sites-google-com-lindberghschools-ws-crown-official-burrito-",
+    "id": "crown-burrito-bison",
     "title": "Burrito Bison",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/burrito-bison.html",
     "thumbnail": "assets/thumbs/class6x/class6x-burrito-bison.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/burrito-bison/",
     "class6xPage": "https://class6x.gitlab.io/game/burrito-bison.html"
   },
   {
-    "id": "class6x-candy-jump",
+    "id": "crown-candy-jump",
     "title": "Candy Jump",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/candy-jump.html",
     "thumbnail": "assets/thumbs/class6x/class6x-candy-jump.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/candy-jump/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-catpad",
+    "id": "crown-catpad",
     "title": "Catpad",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/catpad.html",
     "thumbnail": "assets/thumbs/class6x/class6x-catpad.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/catpad/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cats-love-cake",
+    "id": "crown-cats-love-cake",
     "title": "Cats Love Cake",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/cats-love-cake.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cats-love-cake.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cats-love-cake/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cats-love-cake-2",
+    "id": "crown-cats-love-cake-2",
     "title": "Cats Love Cake 2",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/cats-love-cake-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cats-love-cake-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cats-love-cake-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-color-switch",
+    "id": "crown-color-switch",
     "title": "Color Switch",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/color-switch.html",
     "thumbnail": "assets/thumbs/class6x/class6x-color-switch.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/color-switch/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-descent",
+    "id": "crown-descent",
     "title": "Descent",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/descent.html",
     "thumbnail": "assets/thumbs/class6x/class6x-descent.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/descent/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-doctor-hero",
+    "id": "crown-doctor-hero",
     "title": "Doctor Hero",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/doctor-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-doctor-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/doctor-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-doctor-teeth",
+    "id": "crown-doctor-teeth",
     "title": "Doctor Teeth",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/doctor-teeth.html",
     "thumbnail": "assets/thumbs/class6x/class6x-doctor-teeth.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/doctor-teeth/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-doge-miner",
+    "id": "crown-doge-miner",
     "title": "Doge Miner",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/doge-miner.html",
     "thumbnail": "assets/thumbs/class6x/class6x-doge-miner.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/doge-miner/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-doodle-champion-island",
+    "id": "crown-doodle-champion-island",
     "title": "Doodle Champion Island",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/doodle-champion-island.html",
     "thumbnail": "assets/thumbs/class6x/class6x-doodle-champion-island.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/doodle-champion-island/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "doodle-jump-https-sites-google-com-lindberghschools-ws-crown-official-doodle-jum",
+    "id": "crown-doodle-jump",
     "title": "Doodle Jump",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/doodle-jump.html",
     "thumbnail": "assets/thumbs/class6x/class6x-doodle-jump.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/doodle-jump/",
     "class6xPage": "https://class6x.gitlab.io/game/doodle-jump.html"
   },
   {
-    "id": "class6x-dreadhead-parkour",
+    "id": "crown-dreadhead-parkour",
     "title": "Dreadhead Parkour",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/dreadhead-parkour.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dreadhead-parkour.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dreadhead-parkour/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-duck-life-2-unblocked",
-    "title": "Duck Life 2 Unblocked",
+    "id": "crown-duck-life-2-2",
+    "title": "Duck Life 2",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/duck-life-2-world-champion.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-duck-life-2-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-duck-life-2-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/duck-life-2-world-champion/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-dunkbrush",
+    "id": "crown-dunkbrush",
     "title": "Dunkbrush",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/dunkbrush.html",
     "thumbnail": "assets/thumbs/class6x/class6x-dunkbrush.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/dunkbrush/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-elastic-man",
+    "id": "crown-elastic-man",
     "title": "Elastic Man",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/elastic-man.html",
     "thumbnail": "assets/thumbs/class6x/class6x-elastic-man.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/elastic-man/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-flappy-bird-origin",
+    "id": "crown-flappy-bird-origin",
     "title": "Flappy Bird Origin",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/flappy-bird-origin.html",
     "thumbnail": "assets/thumbs/class6x/class6x-flappy-bird-origin.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/flappy-bird-origin/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-footyzag",
+    "id": "crown-footyzag",
     "title": "Footyzag",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/footyzag.html",
     "thumbnail": "assets/thumbs/class6x/class6x-footyzag.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/footyzag/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-freefall-apart",
+    "id": "crown-freefall-apart",
     "title": "Freefall Apart",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/freefall-apart.html",
     "thumbnail": "assets/thumbs/class6x/class6x-freefall-apart.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/freefall-apart/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-friday-night-funkin-b-sides",
+    "id": "crown-friday-night-funkin-b-sides",
     "title": "Friday Night Funkin B-Sides",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/friday-night-funkin-b-sides.html",
     "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-b-sides.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/friday-night-funkin-b-sides/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-friday-night-funkin-b-sides-unblocked",
-    "title": "Friday Night Funkin B-Sides Unblocked",
+    "id": "crown-friday-night-funkin-b-sides-2",
+    "title": "Friday Night Funkin B-Sides",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/fnf-b-sides.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-b-sides-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-b-sides-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fnf-b-sides/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-friday-night-funkin-vs-hatsune-miku",
+    "id": "crown-friday-night-funkin-vs-hatsune-miku",
     "title": "Friday Night Funkin vs Hatsune Miku",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/friday-night-funkin-vs-hatsune-miku.html",
     "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-hatsune-miku.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/friday-night-funkin-vs-hatsune-miku/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-friday-night-funkin-vs-hatsune-miku-unblocked",
-    "title": "Friday Night Funkin vs Hatsune Miku Unblocked",
+    "id": "crown-friday-night-funkin-vs-hatsune-miku-2",
+    "title": "Friday Night Funkin vs Hatsune Miku",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/fnf-hatsune-miku.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-hatsune-miku-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-hatsune-miku-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fnf-hatsune-miku/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-friday-night-funkin-vs-shaggy-x-matt",
+    "id": "crown-friday-night-funkin-vs-shaggy-x-matt",
     "title": "Friday Night Funkin vs Shaggy x Matt",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/friday-night-funkin-vs-shaggy-x-matt.html",
     "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-shaggy-x-matt.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/friday-night-funkin-vs-shaggy-x-matt/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-friday-night-funkin-vs-shaggy-x-matt-unblocked",
-    "title": "Friday Night Funkin vs Shaggy x Matt Unblocked",
+    "id": "crown-friday-night-funkin-vs-shaggy-x-matt-2",
+    "title": "Friday Night Funkin vs Shaggy x Matt",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/fnf-shaggy-matt.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-shaggy-x-matt-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-shaggy-x-matt-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fnf-shaggy-matt/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-friday-night-funkin-vs-xe",
+    "id": "crown-friday-night-funkin-vs-xe",
     "title": "Friday Night Funkin vs XE",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/friday-night-funkin-vs-xe.html",
     "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-xe.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/friday-night-funkin-vs-xe/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-friday-night-funkin-vs-xe-unblocked",
-    "title": "Friday Night Funkin vs XE Unblocked",
+    "id": "crown-friday-night-funkin-vs-xe-2",
+    "title": "Friday Night Funkin vs XE",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/fnf-xe.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-xe-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-friday-night-funkin-vs-xe-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fnf-xe/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-fruit-ninja",
+    "id": "crown-fruit-ninja",
     "title": "Fruit Ninja",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/fruit-ninja.html",
     "thumbnail": "assets/thumbs/class6x/class6x-fruit-ninja.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/fruit-ninja/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-golfinity",
+    "id": "crown-golfinity",
     "title": "Golfinity",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/golfinity.html",
     "thumbnail": "assets/thumbs/class6x/class6x-golfinity.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/golfinity/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-grindcraft",
+    "id": "crown-grindcraft",
     "title": "Grindcraft",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/grindcraft.html",
     "thumbnail": "assets/thumbs/class6x/class6x-grindcraft.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/grindcraft/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hextris-unblocked",
-    "title": "Hextris Unblocked",
+    "id": "crown-hextris",
+    "title": "Hextris",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/hextris.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-hextris-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-hextris-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hextris/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hop-chop",
+    "id": "crown-hop-chop",
     "title": "Hop Chop",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/hop-chop.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hop-chop.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hop-chop/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-hypersnake",
+    "id": "crown-hypersnake",
     "title": "Hypersnake",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/hypersnake.html",
     "thumbnail": "assets/thumbs/class6x/class6x-hypersnake.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/hypersnake/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-james-gun",
+    "id": "crown-james-gun",
     "title": "James Gun",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/james-gun.html",
     "thumbnail": "assets/thumbs/class6x/class6x-james-gun.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/james-gun/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-minecraft-builder",
+    "id": "crown-minecraft-builder",
     "title": "Minecraft Builder",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/minecraft-builder.html",
     "thumbnail": "assets/thumbs/class6x/class6x-minecraft-builder.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/minecraft-builder/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-noob-hook",
+    "id": "crown-noob-hook",
     "title": "Noob Hook",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/noob-hook.html",
     "thumbnail": "assets/thumbs/class6x/class6x-noob-hook.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/noob-hook/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-paper-minecraft",
+    "id": "crown-paper-minecraft",
     "title": "Paper Minecraft",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/paper-minecraft.html",
     "thumbnail": "assets/thumbs/class6x/class6x-paper-minecraft.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/paper-minecraft/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pizzapunk",
+    "id": "crown-pizzapunk",
     "title": "Pizzapunk",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/pizzapunk.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pizzapunk.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pizzapunk/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pond-rrace",
+    "id": "crown-pond-rrace-2",
     "title": "Pond Rrace",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/pond-rrace.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pond-rrace.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pond-rrace/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Skill",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-pool-club",
+    "id": "crown-pool-club",
     "title": "Pool Club",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/pool-club.html",
     "thumbnail": "assets/thumbs/class6x/class6x-pool-club.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/pool-club/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rabbit-samurai",
+    "id": "crown-rabbit-samurai",
     "title": "Rabbit Samurai",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/rabbit-samurai.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rabbit-samurai.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rabbit-samurai/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rainbow-star-pinball",
+    "id": "crown-rainbow-star-pinball",
     "title": "Rainbow Star Pinball",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/rainbow-star-pinball.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rainbow-star-pinball.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rainbow-star-pinball/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-restaurant-aand-cooking",
+    "id": "crown-restaurant-aand-cooking",
     "title": "Restaurant Aand Cooking",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/restaurant-aand-cooking.html",
     "thumbnail": "assets/thumbs/class6x/class6x-restaurant-aand-cooking.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/restaurant-aand-cooking/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Skill",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rolling-sky",
+    "id": "crown-rolling-sky",
     "title": "Rolling Sky",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/rolling-sky.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rolling-sky.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rolling-sky/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rolly-vortex",
+    "id": "crown-rolly-vortex",
     "title": "Rolly Vortex",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/rolly-vortex.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rolly-vortex.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rolly-vortex/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sausage-flip",
+    "id": "crown-sausage-flip",
     "title": "Sausage Flip",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/sausage-flip.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sausage-flip.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sausage-flip/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sketchbook-04",
+    "id": "crown-sketchbook-04",
     "title": "Sketchbook 04",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/sketchbook-04.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sketchbook-04.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sketchbook-04/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slime-road",
+    "id": "crown-slime-road",
     "title": "Slime Road",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/slime-road.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slime-road.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slime-road/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-sling-kong",
+    "id": "crown-sling-kong",
     "title": "Sling Kong",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/sling-kong.html",
     "thumbnail": "assets/thumbs/class6x/class6x-sling-kong.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/sling-kong/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-slopey",
+    "id": "crown-slopey",
     "title": "Slopey",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/slopey.html",
     "thumbnail": "assets/thumbs/class6x/class6x-slopey.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/slopey/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Skill",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-snail-bob-6",
+    "id": "crown-snail-bob-6",
     "title": "Snail Bob 6",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/snail-bob-6.html",
     "thumbnail": "assets/thumbs/class6x/class6x-snail-bob-6.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/snail-bob-6/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-snake",
+    "id": "crown-snake-2",
     "title": "Snake",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/snake.html",
     "thumbnail": "assets/thumbs/class6x/class6x-snake.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/snake/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "snow-rider-3d-https-sites-google-com-lindberghschools-ws-crown-official-snow-rid",
+    "id": "crown-snow-rider-3d",
     "title": "Snow Rider 3D",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/snow-rider-3d.html",
     "thumbnail": "assets/thumbs/class6x/class6x-snow-rider-3d.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/snow-rider-3d/",
     "class6xPage": "https://class6x.gitlab.io/game/snow-rider-3d.html"
   },
   {
-    "id": "class6x-space-thing",
+    "id": "crown-space-thing",
     "title": "Space Thing",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/space-thing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-space-thing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/space-thing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-speed-pool-king",
+    "id": "crown-speed-pool-king",
     "title": "Speed Pool King",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/speed-pool-king.html",
     "thumbnail": "assets/thumbs/class6x/class6x-speed-pool-king.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/speed-pool-king/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stack",
+    "id": "crown-stack",
     "title": "Stack",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/stack.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stack.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stack/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stacktris",
+    "id": "crown-stacktris",
     "title": "Stacktris",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/stacktris.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stacktris.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stacktris/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-bike",
+    "id": "crown-stickman-bike",
     "title": "Stickman Bike",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-bike.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-bike.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-bike/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports",
       "Stickman",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-bridge-constructor",
+    "id": "crown-stickman-bridge-constructor",
     "title": "Stickman Bridge Constructor",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-bridge-constructor.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-bridge-constructor.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-bridge-constructor/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-hook",
+    "id": "crown-stickman-hook",
     "title": "Stickman Hook",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-hook.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-hook.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-hook/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Skill",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-run",
+    "id": "crown-stickman-run",
     "title": "Stickman Run",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-run.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-run.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-run/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-street-ball-jam",
+    "id": "crown-street-ball-jam",
     "title": "Street Ball Jam",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/street-ball-jam.html",
     "thumbnail": "assets/thumbs/class6x/class6x-street-ball-jam.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/street-ball-jam/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-fowlst-2",
+    "id": "crown-super-fowlst-2",
     "title": "Super Fowlst 2",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/super-fowlst-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-fowlst-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-fowlst-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-super-speeder",
+    "id": "crown-super-speeder",
     "title": "Super Speeder",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/super-speeder.html",
     "thumbnail": "assets/thumbs/class6x/class6x-super-speeder.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/super-speeder/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-supernova",
+    "id": "crown-supernova",
     "title": "Supernova",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/supernova.html",
     "thumbnail": "assets/thumbs/class6x/class6x-supernova.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/supernova/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-swingo",
+    "id": "crown-swingo",
     "title": "Swingo",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/swingo.html",
     "thumbnail": "assets/thumbs/class6x/class6x-swingo.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/swingo/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tetra-blocks",
+    "id": "crown-tetra-blocks",
     "title": "Tetra Blocks",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/tetra-blocks.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tetra-blocks.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tetra-blocks/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-the-little-giant",
+    "id": "crown-the-little-giant",
     "title": "The Little Giant",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/the-little-giant.html",
     "thumbnail": "assets/thumbs/class6x/class6x-the-little-giant.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/the-little-giant/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-three-goblets",
+    "id": "crown-three-goblets",
     "title": "Three Goblets",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/three-goblets.html",
     "thumbnail": "assets/thumbs/class6x/class6x-three-goblets.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/three-goblets/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-throw-it-higher",
+    "id": "crown-throw-it-higher",
     "title": "Throw it higher",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/throw-it-higher.html",
     "thumbnail": "assets/thumbs/class6x/class6x-throw-it-higher.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/throw-it-higher/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-toaster-dash",
+    "id": "crown-toaster-dash",
     "title": "Toaster Dash",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/toaster-dash.html",
     "thumbnail": "assets/thumbs/class6x/class6x-toaster-dash.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/toaster-dash/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tomb-of-the-mask",
+    "id": "crown-tomb-of-the-mask",
     "title": "Tomb Of The Mask",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/tomb-of-the-mask.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tomb-of-the-mask.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tomb-of-the-mask/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tomb-of-the-mask-color",
+    "id": "crown-tomb-of-the-mask-color",
     "title": "Tomb of The Mask Color",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/tomb-of-the-mask-color.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tomb-of-the-mask-color.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tomb-of-the-mask-color/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tower-of-destiny-unblocked",
-    "title": "Tower Of Destiny Unblocked",
+    "id": "crown-tower-of-destiny",
+    "title": "Tower Of Destiny",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/tower-of-destiny.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-tower-of-destiny-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-tower-of-destiny-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tower-of-destiny/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-tunnel-rush",
+    "id": "crown-tunnel-rush",
     "title": "Tunnel Rush",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/tunnel-rush.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tunnel-rush.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/tunnel-rush/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-twirl",
+    "id": "crown-twirl",
     "title": "Twirl",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/twirl.html",
     "thumbnail": "assets/thumbs/class6x/class6x-twirl.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/twirl/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-typing-fighter",
+    "id": "crown-typing-fighter",
     "title": "Typing Fighter",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/typing-fighter.html",
     "thumbnail": "assets/thumbs/class6x/class6x-typing-fighter.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/typing-fighter/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-unicycle-hero",
+    "id": "crown-unicycle-hero",
     "title": "Unicycle Hero",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/unicycle-hero.html",
     "thumbnail": "assets/thumbs/class6x/class6x-unicycle-hero.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/unicycle-hero/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Skill",
@@ -14214,85 +14596,80 @@ window.CROWN_GAMES = [
       "Stickman",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-unicycle-legend",
+    "id": "crown-unicycle-legend",
     "title": "Unicycle Legend",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/unicycle-legend.html",
     "thumbnail": "assets/thumbs/class6x/class6x-unicycle-legend.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/unicycle-legend/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill",
       "Sports",
       "Latest"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-worlds-hardest-game-2",
+    "id": "crown-worlds-hardest-game-2",
     "title": "Worlds Hardest Game 2",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/worlds-hardest-game-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-worlds-hardest-game-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/worlds-hardest-game-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-worlds-hardest-game-3",
+    "id": "crown-worlds-hardest-game-3",
     "title": "Worlds Hardest Game 3",
     "category": "Skill",
-    "originalPage": "https://class6x.gitlab.io/game/worlds-hardest-game-3.html",
     "thumbnail": "assets/thumbs/class6x/class6x-worlds-hardest-game-3.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/worlds-hardest-game-3/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-4th-and-goal-2022",
+    "id": "crown-4th-and-goal-2022",
     "title": "4th And Goal 2022",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/4th-and-goal-2022.html",
     "thumbnail": "assets/thumbs/class6x/class6x-4th-and-goal-2022.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/4th-and-goal-2022/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "8-ball-classic-https-sites-google-com-lindberghschools-ws-crown-official-8-ball-",
+    "id": "crown-8-ball-classic",
     "title": "8 ball classic",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/8-ball-pool.html",
     "thumbnail": "assets/thumbs/class6x/class6x-8-ball-pool.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/8-ball-pool/",
     "class6xPage": "https://class6x.gitlab.io/game/8-ball-pool.html",
     "tags": [
@@ -14300,470 +14677,441 @@ window.CROWN_GAMES = [
     ]
   },
   {
-    "id": "class6x-a-small-world-cup",
+    "id": "crown-a-small-world-cup",
     "title": "A Small World Cup",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/a-small-world-cup.html",
     "thumbnail": "assets/thumbs/class6x/class6x-a-small-world-cup.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/a-small-world-cup/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-air-hockey-championship-deluxe",
+    "id": "crown-air-hockey-championship-deluxe",
     "title": "Air Hockey Championship Deluxe",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/air-hockey-championship-deluxe.html",
     "thumbnail": "assets/thumbs/class6x/class6x-air-hockey-championship-deluxe.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/air-hockey-championship-deluxe/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-basket-and-ball",
+    "id": "crown-basket-and-ball",
     "title": "Basket And Ball",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/basket-and-ball.html",
     "thumbnail": "assets/thumbs/class6x/class6x-basket-and-ball.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/basket-and-ball/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-basket-champs",
+    "id": "crown-basket-champs",
     "title": "Basket Champs",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/basket-champs.html",
     "thumbnail": "assets/thumbs/class6x/class6x-basket-champs.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/basket-champs/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-big-shot-boxing",
+    "id": "crown-big-shot-boxing",
     "title": "Big Shot Boxing",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/big-shot-boxing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-big-shot-boxing.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/big-shot-boxing/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-boxing-fighter-shadow-battle",
+    "id": "crown-boxing-fighter-shadow-battle",
     "title": "Boxing Fighter Shadow Battle",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/boxing-fighter-shadow-battle.html",
     "thumbnail": "assets/thumbs/class6x/class6x-boxing-fighter-shadow-battle.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/boxing-fighter-shadow-battle/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-cricket-world-cup",
+    "id": "crown-cricket-world-cup",
     "title": "Cricket World Cup",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/cricket-world-cup.html",
     "thumbnail": "assets/thumbs/class6x/class6x-cricket-world-cup.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cricket-world-cup/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-foot-chinko",
+    "id": "crown-foot-chinko",
     "title": "Foot Chinko",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/foot-chinko.html",
     "thumbnail": "assets/thumbs/class6x/class6x-foot-chinko.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/foot-chinko/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-football-penalty-champions",
+    "id": "crown-football-penalty-champions",
     "title": "Football Penalty Champions",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/football-penalty-champions.html",
     "thumbnail": "assets/thumbs/class6x/class6x-football-penalty-champions.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/football-penalty-champions/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-kix-dream-soccer",
+    "id": "crown-kix-dream-soccer",
     "title": "Kix Dream Soccer",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/kix-dream-soccer.html",
     "thumbnail": "assets/thumbs/class6x/class6x-kix-dream-soccer.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/kix-dream-soccer/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-linebacker-alley-2",
+    "id": "crown-linebacker-alley-2",
     "title": "Linebacker Alley 2",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/linebacker-alley-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-linebacker-alley-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/linebacker-alley-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-little-master-cricket",
+    "id": "crown-little-master-cricket",
     "title": "Little Master Cricket",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/little-master-cricket.html",
     "thumbnail": "assets/thumbs/class6x/class6x-little-master-cricket.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/little-master-cricket/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Featured",
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-penalty-kick-online",
+    "id": "crown-penalty-kick-online",
     "title": "Penalty Kick Online",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/penalty-kick-online.html",
     "thumbnail": "assets/thumbs/class6x/class6x-penalty-kick-online.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/penalty-kick-online/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-penalty-rivals",
+    "id": "crown-penalty-rivals",
     "title": "Penalty Rivals",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/penalty-rivals.html",
     "thumbnail": "assets/thumbs/class6x/class6x-penalty-rivals.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/penalty-rivals/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-penalty-shooters-2",
+    "id": "crown-penalty-shooters-2",
     "title": "Penalty Shooters 2",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/penalty-shooters-2.html",
     "thumbnail": "assets/thumbs/class6x/class6x-penalty-shooters-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/penalty-shooters-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "retro-bowl-https-sites-google-com-lindberghschools-ws-crown-official-retro-bowl",
+    "id": "crown-retro-bowl",
     "title": "Retro Bowl",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/retro-bowl.html",
     "thumbnail": "assets/thumbs/class6x/class6x-retro-bowl.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/retro-bowl/",
     "class6xPage": "https://class6x.gitlab.io/game/retro-bowl.html"
   },
   {
-    "id": "class6x-rowdy-city-wrestling",
+    "id": "crown-rowdy-city-wrestling",
     "title": "Rowdy City Wrestling",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/rowdy-city-wrestling.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rowdy-city-wrestling.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rowdy-city-wrestling/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rree-kick-screamers",
+    "id": "crown-rree-kick-screamers",
     "title": "Rree Kick Screamers",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/rree-kick-screamers.html",
     "thumbnail": "assets/thumbs/class6x/class6x-rree-kick-screamers.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rree-kick-screamers/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-rugby-rush-unblocked",
-    "title": "Rugby rush Unblocked",
+    "id": "crown-rugby-rush",
+    "title": "Rugby rush",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/rugby-rush.html",
-    "thumbnail": "assets/thumbs/class6x/class6x-rugby-rush-unblocked.jpg",
+    "thumbnail": "assets/thumbs/class6x/class6x-rugby-rush-.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/rugby-rush/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-boxing-ko-champion",
+    "id": "crown-stickman-boxing-ko-champion",
     "title": "Stickman Boxing KO Champion",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-boxing-ko-champion.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-boxing-ko-champion.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-boxing-ko-champion/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-golf",
+    "id": "crown-stickman-golf",
     "title": "Stickman Golf",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-golf.html",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-golf.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-golf/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Sports",
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "tiny-fishing-https-sites-google-com-lindberghschools-ws-crown-official-tiny-fish",
+    "id": "crown-tiny-fishing",
     "title": "Tiny Fishing",
     "category": "Sports",
-    "originalPage": "https://class6x.gitlab.io/game/tiny-fishing.html",
     "thumbnail": "assets/thumbs/class6x/class6x-tiny-fishing.jpg",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "class6x",
-    "source": "class6x",
+    "thumbnailSource": "crown",
+    "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/tiny-fishing/",
     "class6xPage": "https://class6x.gitlab.io/game/tiny-fishing.html"
   },
   {
-    "id": "class6x-stickman-archero-fight",
+    "id": "crown-stickman-archero-fight",
     "title": "Stickman Archero Fight",
-    "category": "Stickman",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-archero-fight.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-archero-fight.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-archero-fight/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-army-team-battle",
+    "id": "crown-stickman-army-team-battle",
     "title": "Stickman Army Team Battle",
-    "category": "Stickman",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-army-team-battle.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-army-team-battle.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-army-team-battle/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-army-the-resistance",
+    "id": "crown-stickman-army-the-resistance",
     "title": "Stickman Army The Resistance",
-    "category": "Stickman",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-army-the-resistance.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-army-the-resistance.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-army-the-resistance/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-fighter-epic-battle-2",
+    "id": "crown-stickman-fighter-epic-battle-2",
     "title": "Stickman Fighter Epic Battle 2",
-    "category": "Stickman",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-fighter-epic-battle-2.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-fighter-epic-battle-2.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-fighter-epic-battle-2/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Stickman",
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-fighter-mega-brawl",
+    "id": "crown-stickman-fighter-mega-brawl",
     "title": "Stickman Fighter Mega Brawl",
-    "category": "Stickman",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-fighter-mega-brawl.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-fighter-mega-brawl.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-fighter-mega-brawl/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-stickman-ragdoll-crash-fun",
+    "id": "crown-stickman-ragdoll-crash-fun",
     "title": "Stickman Ragdoll Crash Fun",
-    "category": "Stickman",
-    "originalPage": "https://class6x.gitlab.io/game/stickman-ragdoll-crash-fun.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-stickman-ragdoll-crash-fun.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-ragdoll-crash-fun/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Stickman"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   },
   {
-    "id": "class6x-red-ball-4",
+    "id": "crown-red-ball-4",
     "title": "Red Ball 4",
-    "category": "Trending",
-    "originalPage": "https://class6x.gitlab.io/game/red-ball-4.html",
+    "category": "Games",
     "thumbnail": "assets/thumbs/class6x/class6x-red-ball-4.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/red-ball-4/",
     "playable": true,
     "sourceHadEmbed": true,
-    "source": "class6x",
+    "source": "crown",
     "tags": [
       "Trending"
     ],
-    "thumbnailSource": "class6x"
+    "thumbnailSource": "crown"
   }
 ];

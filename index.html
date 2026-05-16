@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Crown Games</title>
   <meta name="description" content="Crown Games, rebuilt as a fast GitHub Pages game hub with local launch pages.">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=20260516-theme-states">
 </head>
 <body>
   <header class="topbar">
@@ -13,10 +13,11 @@
       <img src="assets/crown-logo.svg" alt="Crown Games">
     </a>
     <label class="search-wrap" aria-label="Search games">
-      <input id="search" type="search" placeholder="Search 906 games..." autocomplete="off">
+      <input id="search" type="search" placeholder="Search 972 games..." autocomplete="off">
       <span class="search-icon">/</span>
     </label>
     <nav class="nav" id="categoryNav" aria-label="Game categories"></nav>
+    <button id="settingsButton" class="settings-button" type="button" aria-haspopup="dialog">Settings</button>
   </header>
 
   <main>
@@ -26,7 +27,7 @@
         <h1>The ultimate Crown game vault.</h1>
         <p>One clean Crown hub where every game launches from the site and stays in the site.</p>
       </div>
-      <div class="stats"><strong id="gameCount">906</strong><span>playable games</span></div>
+      <div class="stats"><strong id="gameCount">972</strong><span>playable games</span></div>
     </section>
 
     <section class="section-block" id="trendingBlock">
@@ -45,11 +46,23 @@
     </section>
   </main>
 
-  <footer>
-    <p>Made by Wes &amp; Mason | Everything opens inside Crown.</p>
+  <footer class="credit-footer">
+    <p>&copy; 2026 Crown Games. Made by Wes &amp; Mason.</p>
   </footer>
 
-  <script src="data/games.js"></script>
-  <script src="script.js"></script>
+  <div id="launchLoader" class="game-loader launch-loader" hidden aria-live="polite" aria-label="Loading game">
+    <div class="loader-card">
+      <span class="loader-ring"></span>
+      <span class="loader-icon">
+        <img id="launchLoaderIcon" src="assets/crown-logo.svg" alt="">
+      </span>
+      <strong id="launchLoaderTitle">Loading Crown Game</strong>
+      <small>getting the game ready</small>
+    </div>
+  </div>
+
+  <script src="settings.js?v=20260516-theme-states"></script>
+  <script src="data/games.js?v=20260516-theme-states"></script>
+  <script src="script.js?v=20260516-theme-states"></script>
 </body>
 </html>

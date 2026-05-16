@@ -1,24 +1,28 @@
-# Crown Games GitHub Pages
+# Crown Games
 
 Made by Wes & Mason.
 
-Static Crown Games hub for GitHub Pages. Cards open a local `play.html` launcher so visitors stay inside Crown instead of being sent somewhere else.
+Static Crown Games hub for approved static hosting. Cards open a local `play.html` launcher so visitors stay inside Crown instead of being sent somewhere else.
 
-## Upload to GitHub Pages
+## Upload to Static Hosting
 
-1. Create a new GitHub repo, for example `crown-games`.
-2. Upload every file in this folder to the repo root.
-3. Go to repo `Settings > Pages`.
-4. Set source to `Deploy from a branch`, branch `main`, folder `/root`.
-5. Open the Pages URL GitHub gives you.
+Upload the live site files from this folder or the deployment zip to any approved static host.
 
 ## What Is Included
 
-- Playable games: 906
-- Crown game cards: 906
+- Playable games: 972
+- Crown game cards: 972
+- Saved favorites: yes, stored in the visitor's browser
+- Player controls: loading screen, favorite, reload, fullscreen, fill/fit
+- Settings: saved themes, compact grid, calm motion, player sizing
+- Themes: Classic, Snowfall, Rain Loop, Neon Arcade, Sunset
 - Missing thumbnails: 0
 - Cards that open away from Crown: 0
 - Offsite-navigation games removed: yes
+
+## Deployment Package
+
+The upload zip includes only live site files. Developer tools stay local.
 
 ## Updating Later
 
