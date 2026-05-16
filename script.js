@@ -3,6 +3,19 @@ const allGames = (window.CROWN_GAMES || []).filter(
 );
 const FAVORITES_KEY = "crownFavoritesV1";
 const THUMB_VERSION = "20260516-cover-icons";
+const LAUNCH_FADE_MS = 520;
+const hotSearches = [
+  "Roblox",
+  "Slope",
+  "Moto X3M",
+  "Subway Surfers",
+  "FNAF",
+  "Basketball",
+  "Minecraft",
+  "2 Player",
+  "Driving",
+  "Clicker",
+];
 
 const categoryPriority = [
   "All",
@@ -108,17 +121,22 @@ function favoriteButton(game) {
   );
 }
 
-function card(game) {
+function card(game, index = 0) {
   const href = "play.html?id=" + encodeURIComponent(game.id);
   const title = escapeHtml(game.title);
   const thumb = game.thumbnail || "";
   const thumbSrc = versionedAsset(thumb);
+  const eager = index < 18;
   const img = thumb
-    ? '<img class="thumb" loading="lazy" decoding="async" src="' +
+    ? '<img class="thumb" loading="' +
+      (eager ? "eager" : "lazy") +
+      '" decoding="async" src="' +
       escapeHtml(thumbSrc) +
       '" alt="' +
       title +
-      ' cover">'
+      ' cover"' +
+      (eager ? ' fetchpriority="high"' : "") +
+      ">"
     : "";
 
   return (
@@ -165,6 +183,15 @@ function showLaunchLoader(link) {
   return true;
 }
 
+function blockExternalNavigation(event) {
+  const link = event.target.closest?.("a[href]");
+  if (!link) return;
+  const url = new URL(link.getAttribute("href"), location.href);
+  if (url.origin === location.origin && !url.protocol.startsWith("javascript")) return;
+  event.preventDefault();
+  event.stopPropagation();
+}
+
 function searchableText(game) {
   return [game.title, displayCategory(game.category), ...(game.tags || [])].join(" ").toLowerCase();
 }
@@ -197,7 +224,7 @@ function emptyMessage() {
 function renderGrid(element, list, limit = list.length) {
   const slice = list.slice(0, limit);
   element.innerHTML = slice.length
-    ? slice.map(card).join("")
+    ? slice.map((game, index) => card(game, index)).join("")
     : '<div class="empty">' + escapeHtml(emptyMessage()) + "</div>";
 }
 
@@ -221,7 +248,55 @@ function render() {
       : displayCategory(activeCategory)
     : "All Games";
   $("#gameCount").textContent = allGames.length;
+  $("#search").placeholder = "Search " + allGames.length + " games...";
   updateFavoriteNavCount();
+}
+
+function buildTrendChips() {
+  const holder = $("#trendChips");
+  if (!holder) return;
+  holder.innerHTML = hotSearches
+    .map((term) => '<button type="button" data-search="' + escapeHtml(term) + '">' + escapeHtml(term) + "</button>")
+    .join("");
+  holder.addEventListener("click", (event) => {
+    const chip = event.target.closest("button[data-search]");
+    if (!chip) return;
+    $("#search").value = chip.dataset.search;
+    if (activeCategory !== "All") activeCategory = "All";
+    document
+      .querySelectorAll(".nav button")
+      .forEach((item) => item.classList.toggle("active", item.dataset.cat === activeCategory));
+    render();
+    document.getElementById("allGamesSection")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
+function buildHeroGallery() {
+  const tracks = document.querySelectorAll(".hero-track");
+  if (!tracks.length) return;
+  const picks = allGames
+    .filter((game) => game.thumbnail)
+    .slice(0, 36);
+  tracks.forEach((track, trackIndex) => {
+    const offset = trackIndex * 8;
+    const list = [...picks.slice(offset, offset + 10), ...picks.slice(offset, offset + 10)];
+    track.innerHTML = list
+      .map((game) => {
+        const href = "play.html?id=" + encodeURIComponent(game.id);
+        return (
+          '<a href="' +
+          href +
+          '" class="hero-tile" aria-label="' +
+          escapeHtml(game.title) +
+          '">' +
+          '<img src="' +
+          escapeHtml(versionedAsset(game.thumbnail)) +
+          '" alt="" loading="eager" decoding="async">' +
+          "</a>"
+        );
+      })
+      .join("");
+  });
 }
 
 function categoryCount(category) {
@@ -298,15 +373,17 @@ document.addEventListener("click", (event) => {
 });
 
 document.addEventListener("click", (event) => {
-  const link = event.target.closest(".card-link");
+  const link = event.target.closest(".card-link, .hero-tile");
   if (!link || event.defaultPrevented) return;
   if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
   event.preventDefault();
   showLaunchLoader(link);
   window.setTimeout(() => {
     window.location.href = link.href;
-  }, 420);
+  }, LAUNCH_FADE_MS);
 });
+
+document.addEventListener("click", blockExternalNavigation, true);
 
 $("#search").addEventListener("input", () => {
   if (activeCategory !== "All") {
@@ -316,5 +393,7 @@ $("#search").addEventListener("input", () => {
   render();
 });
 
+buildTrendChips();
+buildHeroGallery();
 buildNav();
 render();

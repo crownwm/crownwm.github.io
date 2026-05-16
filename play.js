@@ -3,6 +3,8 @@ const games = (window.CROWN_GAMES || []).filter(
 );
 const FAVORITES_KEY = "crownFavoritesV1";
 const THUMB_VERSION = "20260516-cover-icons";
+const MIN_LOADER_MS = 3500;
+const LOADER_FADE_MS = 680;
 const params = new URLSearchParams(location.search);
 const id = params.get("id");
 const game = games.find((entry) => entry.id === id);
@@ -17,7 +19,7 @@ const loaderIcon = document.getElementById("loaderIcon");
 const loaderTitle = document.getElementById("loaderTitle");
 const mobileQuery = window.matchMedia("(max-width: 820px), (pointer: coarse)");
 const frameAllow =
-  "autoplay; fullscreen; gamepad; clipboard-read; clipboard-write; pointer-lock; accelerometer; gyroscope; magnetometer; xr-spatial-tracking";
+  "autoplay; fullscreen; gamepad; pointer-lock; accelerometer; gyroscope; magnetometer; xr-spatial-tracking";
 
 let activeFrame = null;
 let activeSrc = "";
@@ -25,6 +27,8 @@ let loadSlowTimer = 0;
 let loaderFallbackTimer = 0;
 let loaderLeaveTimer = 0;
 let loaderRemoveTimer = 0;
+let loaderAutoHideTimer = 0;
+let loaderShownAt = 0;
 let favoriteIds = loadFavorites();
 let browserFullscreenFallback = false;
 
@@ -36,7 +40,16 @@ document.title = game ? game.title + " - Crown Games" : "Play - Crown Games";
 
 loaderIcon.src = versionedAsset("assets/crown-logo.svg");
 loaderIcon.alt = "";
-loaderTitle.textContent = game ? game.title : "Crown Games";
+loaderTitle.textContent = "Crown Games";
+
+function blockExternalNavigation(event) {
+  const link = event.target.closest?.("a[href]");
+  if (!link) return;
+  const url = new URL(link.getAttribute("href"), location.href);
+  if (url.origin === location.origin && !url.protocol.startsWith("javascript")) return;
+  event.preventDefault();
+  event.stopPropagation();
+}
 
 function sourceLabel() {
   return "Crown Player";
@@ -107,22 +120,30 @@ function showLoader() {
   window.clearTimeout(loaderFallbackTimer);
   window.clearTimeout(loaderLeaveTimer);
   window.clearTimeout(loaderRemoveTimer);
+  window.clearTimeout(loaderAutoHideTimer);
+  loaderShownAt = performance.now();
   gameLoader.hidden = false;
   gameLoader.classList.remove("is-leaving");
   gameLoader.classList.add("is-active");
+  player.setAttribute("aria-busy", "true");
+  loaderAutoHideTimer = window.setTimeout(() => hideLoader(0), MIN_LOADER_MS);
 }
 
 function hideLoader(delay = 0) {
   window.clearTimeout(loaderFallbackTimer);
   window.clearTimeout(loaderLeaveTimer);
   window.clearTimeout(loaderRemoveTimer);
+  window.clearTimeout(loaderAutoHideTimer);
+  const remaining = Math.max(0, MIN_LOADER_MS - (performance.now() - loaderShownAt));
+  const wait = Math.max(delay, remaining);
   loaderLeaveTimer = window.setTimeout(() => {
     gameLoader.classList.add("is-leaving");
     loaderRemoveTimer = window.setTimeout(() => {
       gameLoader.classList.remove("is-active", "is-leaving");
       gameLoader.hidden = true;
-    }, 520);
-  }, delay);
+      player.removeAttribute("aria-busy");
+    }, LOADER_FADE_MS);
+  }, wait);
 }
 
 function armLoaderFallback() {
@@ -196,6 +217,8 @@ function frame(src) {
   iframe.allowFullscreen = true;
   iframe.loading = "eager";
   iframe.referrerPolicy = /^https:\/\/pizzaedition\.win/i.test(src) ? "origin" : "no-referrer-when-downgrade";
+  iframe.sandbox =
+    "allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-orientation-lock allow-presentation";
   iframe.setAttribute("allowfullscreen", "");
   iframe.setAttribute("webkitallowfullscreen", "");
   iframe.setAttribute("mozallowfullscreen", "");
@@ -314,6 +337,7 @@ fitToggle.addEventListener("click", () => {
 favoriteToggle.addEventListener("click", toggleFavorite);
 reloadGame.addEventListener("click", reloadCurrentGame);
 fullscreenToggle.addEventListener("click", toggleFullscreen);
+document.addEventListener("click", blockExternalNavigation, true);
 document.addEventListener("fullscreenchange", () => {
   browserFullscreenFallback = false;
   document.body.classList.remove("browser-fullscreen");

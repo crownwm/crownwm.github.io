@@ -15,12 +15,17 @@
   <link rel="icon" href="favicon.png?v=20260516-favicon" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="assets/site-icon-180.png?v=20260516-favicon">
   <link rel="manifest" href="site.webmanifest?v=20260516-favicon">
+  <link rel="preconnect" href="https://class6x.gitlab.io">
+  <link rel="preconnect" href="https://pizzaedition.win">
+  <link rel="dns-prefetch" href="//class6x.gitlab.io">
+  <link rel="dns-prefetch" href="//pizzaedition.win">
   <link rel="stylesheet" href="styles.css?v=20260516-cover-icons">
 </head>
 <body>
   <header class="topbar">
     <a class="brand" href="index.html" aria-label="Crown Games home">
       <img src="assets/crown-logo.svg" alt="Crown Games">
+      <span>Crown Games</span>
     </a>
     <label class="search-wrap" aria-label="Search games">
       <input id="search" type="search" placeholder="Search 972 games..." autocomplete="off">
@@ -31,27 +36,38 @@
   </header>
 
   <main>
+    <section class="trending-searches" aria-label="Trending searches">
+      <strong>Trending Searches</strong>
+      <div id="trendChips" class="trend-chips"></div>
+    </section>
+
     <section class="hero">
-      <div>
+      <div class="hero-copy">
         <p class="eyebrow">Crown Official</p>
-        <h1>The Crown Edition</h1>
-        <p>Dive into a huge mobile-first game vault with fast loading, clean controls, and every game kept inside Crown.</p>
+        <h1>Crown <span>Games</span></h1>
+        <p>Play a huge mobile-first game vault instantly. Every game stays inside Crown with fast controls, favorites, fullscreen, and cleaner loading.</p>
+        <a class="start-button" href="#allGamesSection">Start Playing</a>
+      </div>
+      <div class="hero-gallery" aria-hidden="true">
+        <div class="hero-column"><div class="hero-track" data-track="0"></div></div>
+        <div class="hero-column"><div class="hero-track reverse" data-track="1"></div></div>
+        <div class="hero-column"><div class="hero-track" data-track="2"></div></div>
       </div>
       <div class="stats"><strong id="gameCount">972</strong><span>playable games</span></div>
     </section>
 
     <section class="section-block" id="trendingBlock">
-      <h2><span></span>Popular Games</h2>
+      <h2><span class="section-marker"></span>Popular Games</h2>
       <div class="grid compact-grid" id="trendingGrid"></div>
     </section>
 
     <section class="section-block" id="latestBlock">
-      <h2><span></span>Fresh Picks</h2>
+      <h2><span class="section-marker"></span>Fresh Picks</h2>
       <div class="grid compact-grid" id="latestGrid"></div>
     </section>
 
     <section class="section-block all-games" id="allGamesSection">
-      <h2><span></span><span id="resultsTitle">All Games</span></h2>
+      <h2><span class="section-marker"></span><span id="resultsTitle">All Games</span></h2>
       <div class="grid" id="allGrid"></div>
     </section>
   </main>
