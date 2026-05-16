@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crown Games</title>
+  <meta name="description" content="Crown Games, rebuilt as a fast GitHub Pages game hub with local launch pages.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html" aria-label="Crown Games home">
+      <img src="assets/crown-logo.svg" alt="Crown Games">
+    </a>
+    <label class="search-wrap" aria-label="Search games">
+      <input id="search" type="search" placeholder="Search 906 games..." autocomplete="off">
+      <span class="search-icon">/</span>
+    </label>
+    <nav class="nav" id="categoryNav" aria-label="Game categories"></nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">Crown Official</p>
+        <h1>The ultimate Crown game vault.</h1>
+        <p>One clean Crown hub where every game launches from the site and stays in the site.</p>
+      </div>
+      <div class="stats"><strong id="gameCount">906</strong><span>playable games</span></div>
+    </section>
+
+    <section class="section-block" id="trendingBlock">
+      <h2><span></span>Featured Games</h2>
+      <div class="grid compact-grid" id="trendingGrid"></div>
+    </section>
+
+    <section class="section-block" id="latestBlock">
+      <h2><span></span>New On Crown</h2>
+      <div class="grid compact-grid" id="latestGrid"></div>
+    </section>
+
+    <section class="section-block all-games" id="allGamesSection">
+      <h2><span></span><span id="resultsTitle">All Games</span></h2>
+      <div class="grid" id="allGrid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Made by Wes &amp; Mason | Everything opens inside Crown.</p>
+  </footer>
+
+  <script src="data/games.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

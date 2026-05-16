@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Play - Crown Games</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@latest/ruffle.min.js"></script>
+</head>
+<body class="play-page">
+  <header class="playbar">
+    <a href="index.html" class="back">&lt; Crown Games</a>
+    <div><strong id="playTitle">Loading...</strong><span id="playMeta"></span></div>
+    <button id="fitToggle" class="fit-toggle" type="button">Fit</button>
+  </header>
+  <main class="player-shell">
+    <div id="player" class="player fit-mode"></div>
+  </main>
+  <script src="data/games.js"></script>
+  <script src="play.js"></script>
+</body>
+</html>
