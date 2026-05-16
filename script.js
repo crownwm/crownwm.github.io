@@ -2,6 +2,7 @@ const allGames = (window.CROWN_GAMES || []).filter(
   (game) => game.playable && (game.embedPath || game.embedUrl)
 );
 const FAVORITES_KEY = "crownFavoritesV1";
+const THUMB_VERSION = "20260516-cover-icons";
 
 const categoryPriority = [
   "All",
@@ -36,6 +37,11 @@ function escapeHtml(value = "") {
       "'": "&#039;",
     }[ch];
   });
+}
+
+function versionedAsset(url = "") {
+  if (!url || /^(?:https?:|data:|blob:)/i.test(url)) return url;
+  return url + (url.includes("?") ? "&" : "?") + "v=" + THUMB_VERSION;
 }
 
 function sourceLabel() {
@@ -106,9 +112,10 @@ function card(game) {
   const href = "play.html?id=" + encodeURIComponent(game.id);
   const title = escapeHtml(game.title);
   const thumb = game.thumbnail || "";
+  const thumbSrc = versionedAsset(thumb);
   const img = thumb
     ? '<img class="thumb" loading="lazy" decoding="async" src="' +
-      escapeHtml(thumb) +
+      escapeHtml(thumbSrc) +
       '" alt="' +
       title +
       ' cover">'
@@ -128,7 +135,7 @@ function card(game) {
     '" data-game-title="' +
     title +
     '" data-game-thumbnail="' +
-    escapeHtml(thumb) +
+    escapeHtml(thumbSrc) +
     '">' +
     '<span class="thumb-wrap">' +
     img +
@@ -150,8 +157,9 @@ function showLaunchLoader(link) {
   if (!loader) return false;
   const icon = document.getElementById("launchLoaderIcon");
   const title = document.getElementById("launchLoaderTitle");
-  const thumbnail = link.dataset.gameThumbnail || "assets/crown-logo.svg";
-  if (icon) icon.src = thumbnail || "assets/crown-logo.svg";
+  const fallback = versionedAsset("assets/crown-logo.svg");
+  const thumbnail = link.dataset.gameThumbnail || fallback;
+  if (icon) icon.src = thumbnail || fallback;
   if (title) title.textContent = link.dataset.gameTitle || "Loading Crown Game";
   loader.removeAttribute("hidden");
   requestAnimationFrame(() => loader.classList.add("is-active"));

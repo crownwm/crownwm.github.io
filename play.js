@@ -2,6 +2,7 @@ const games = (window.CROWN_GAMES || []).filter(
   (entry) => entry.playable && (entry.embedPath || entry.embedUrl)
 );
 const FAVORITES_KEY = "crownFavoritesV1";
+const THUMB_VERSION = "20260516-cover-icons";
 const params = new URLSearchParams(location.search);
 const id = params.get("id");
 const game = games.find((entry) => entry.id === id);
@@ -34,7 +35,7 @@ document.getElementById("playMeta").textContent = game
 document.title = game ? game.title + " - Crown Games" : "Play - Crown Games";
 
 if (game?.thumbnail) {
-  loaderIcon.src = game.thumbnail;
+  loaderIcon.src = versionedAsset(game.thumbnail);
   loaderIcon.alt = "";
 }
 loaderTitle.textContent = game ? game.title : "Crown Games";
@@ -57,6 +58,11 @@ function escapeHtml(value = "") {
       "'": "&#039;",
     }[ch];
   });
+}
+
+function versionedAsset(url = "") {
+  if (!url || /^(?:https?:|data:|blob:)/i.test(url)) return url;
+  return url + (url.includes("?") ? "&" : "?") + "v=" + THUMB_VERSION;
 }
 
 function loadFavorites() {
