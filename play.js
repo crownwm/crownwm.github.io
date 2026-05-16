@@ -34,10 +34,8 @@ document.getElementById("playMeta").textContent = game
   : "Pick a game from the main page";
 document.title = game ? game.title + " - Crown Games" : "Play - Crown Games";
 
-if (game?.thumbnail) {
-  loaderIcon.src = versionedAsset(game.thumbnail);
-  loaderIcon.alt = "";
-}
+loaderIcon.src = versionedAsset("assets/crown-logo.svg");
+loaderIcon.alt = "";
 loaderTitle.textContent = game ? game.title : "Crown Games";
 
 function sourceLabel() {
@@ -109,6 +107,7 @@ function showLoader() {
   window.clearTimeout(loaderFallbackTimer);
   window.clearTimeout(loaderLeaveTimer);
   window.clearTimeout(loaderRemoveTimer);
+  gameLoader.hidden = false;
   gameLoader.classList.remove("is-leaving");
   gameLoader.classList.add("is-active");
 }
@@ -121,13 +120,16 @@ function hideLoader(delay = 0) {
     gameLoader.classList.add("is-leaving");
     loaderRemoveTimer = window.setTimeout(() => {
       gameLoader.classList.remove("is-active", "is-leaving");
+      gameLoader.hidden = true;
     }, 520);
   }, delay);
 }
 
 function armLoaderFallback() {
   window.clearTimeout(loaderFallbackTimer);
-  loaderFallbackTimer = window.setTimeout(() => hideLoader(), 3600);
+  loaderFallbackTimer = window.setTimeout(() => {
+    player.classList.add("load-slow");
+  }, 6500);
 }
 
 function notice(message) {
@@ -192,11 +194,14 @@ function frame(src) {
   iframe.title = game ? game.title : "Crown game";
   iframe.allow = frameAllow;
   iframe.allowFullscreen = true;
-  iframe.referrerPolicy = "no-referrer-when-downgrade";
+  iframe.loading = "eager";
+  iframe.referrerPolicy = /^https:\/\/pizzaedition\.win/i.test(src) ? "origin" : "no-referrer-when-downgrade";
   iframe.setAttribute("allowfullscreen", "");
   iframe.setAttribute("webkitallowfullscreen", "");
   iframe.setAttribute("mozallowfullscreen", "");
   iframe.setAttribute("scrolling", "no");
+  iframe.setAttribute("fetchpriority", "high");
+  iframe.setAttribute("importance", "high");
 
   hint.className = "loading-hint";
   hint.innerHTML = "<strong>Still loading?</strong><span>Mobile browsers can be picky.</span>";
@@ -209,7 +214,7 @@ function frame(src) {
     if (iframe.getAttribute("src") === "about:blank") return;
     loaded = true;
     player.classList.remove("load-slow");
-    hideLoader(350);
+    hideLoader(120);
   });
 
   window.clearTimeout(loadSlowTimer);
@@ -230,41 +235,39 @@ function loadCurrentGame() {
   window.clearTimeout(loadSlowTimer);
   player.classList.remove("load-slow");
 
-  window.setTimeout(() => {
-    if (!game) {
-      notice('Game not found. <a href="index.html">Back to Crown Games</a>');
-    } else if (game.embedType === "html" && game.embedPath) {
-      frame(game.embedPath);
-    } else if (game.embedType === "swf" && game.embedUrl) {
-      loadRuffle()
-        .then(() => {
-          const ruffle = window.RufflePlayer?.newest?.();
-          if (!ruffle) {
-            notice("Ruffle did not load yet. Refresh once, or try another game.");
-            return;
-          }
-          const rufflePlayer = ruffle.createPlayer();
-          activeFrame = rufflePlayer;
-          activeSrc = game.embedUrl;
-          player.innerHTML = "";
-          player.appendChild(rufflePlayer);
-          armLoaderFallback();
-          rufflePlayer
-            .load(game.embedUrl)
-            .then(() => hideLoader(350))
-            .catch(() => {
-              notice("This Flash game failed to load in Ruffle. The rest of Crown is still fine.");
-            });
-        })
-        .catch(() => {
-          notice("Ruffle could not load on this device. Try another Crown game.");
-        });
-    } else if (game.embedUrl) {
-      frame(game.embedUrl);
-    } else {
-      notice('This game does not have a usable embed. <a href="index.html">Back to Crown Games</a>');
-    }
-  }, 520);
+  if (!game) {
+    notice('Game not found. <a href="index.html">Back to Crown Games</a>');
+  } else if (game.embedType === "html" && game.embedPath) {
+    frame(game.embedPath);
+  } else if (game.embedType === "swf" && game.embedUrl) {
+    loadRuffle()
+      .then(() => {
+        const ruffle = window.RufflePlayer?.newest?.();
+        if (!ruffle) {
+          notice("Ruffle did not load yet. Refresh once, or try another game.");
+          return;
+        }
+        const rufflePlayer = ruffle.createPlayer();
+        activeFrame = rufflePlayer;
+        activeSrc = game.embedUrl;
+        player.innerHTML = "";
+        player.appendChild(rufflePlayer);
+        armLoaderFallback();
+        rufflePlayer
+          .load(game.embedUrl)
+          .then(() => hideLoader(120))
+          .catch(() => {
+            notice("This Flash game failed to load in Ruffle. The rest of Crown is still fine.");
+          });
+      })
+      .catch(() => {
+        notice("Ruffle could not load on this device. Try another Crown game.");
+      });
+  } else if (game.embedUrl) {
+    frame(game.embedUrl);
+  } else {
+    notice('This game does not have a usable embed. <a href="index.html">Back to Crown Games</a>');
+  }
 }
 
 function reloadCurrentGame() {

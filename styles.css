@@ -1465,3 +1465,255 @@ html[data-theme="neon"] .setting-choice {
     transition: none;
   }
 }
+
+/* Pizza Edition inspired Crown refresh. Kept as overrides so the theme/settings system still works. */
+html[data-theme="classic"] {
+  --gold: #ffd447;
+  --gold-soft: #fff0a8;
+  --green: #39d98a;
+  --red: #ff5f6d;
+  --ink: #f8f7ff;
+  --muted: #a8a5bf;
+  --line: rgba(255, 255, 255, 0.12);
+  --paper: #080914;
+  --card: rgba(19, 21, 38, 0.9);
+  --shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+  --control-bg: rgba(255, 255, 255, 0.08);
+  --control-border: rgba(255, 255, 255, 0.14);
+  --control-text: #f9f7ff;
+  --control-muted: #b7b3ca;
+  --control-active: #ffd447;
+  --control-active-text: #12110c;
+  --control-active-muted: #5f4a00;
+  --favorite-off-bg: rgba(13, 15, 28, 0.92);
+  --favorite-off-text: #ffffff;
+  --favorite-on-bg: #ffd447;
+  --favorite-on-text: #12110c;
+  --pill-bg: rgba(255, 212, 71, 0.96);
+  --pill-text: #12110c;
+}
+
+html[data-theme="classic"] body:not(.play-page) {
+  background:
+    radial-gradient(circle at 12% -5%, rgba(255, 212, 71, 0.22), transparent 28rem),
+    radial-gradient(circle at 86% 2%, rgba(98, 91, 255, 0.26), transparent 30rem),
+    radial-gradient(circle at 52% 20%, rgba(57, 217, 138, 0.12), transparent 24rem),
+    linear-gradient(180deg, #060712 0%, #101123 52%, #070814 100%);
+}
+
+html[data-theme="classic"] body:not(.play-page)::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image:
+    radial-gradient(circle, rgba(255,255,255,.45) 1px, transparent 1.6px),
+    radial-gradient(circle, rgba(255,212,71,.38) 1px, transparent 1.8px);
+  background-position: 0 0, 32px 44px;
+  background-size: 72px 72px, 118px 118px;
+  opacity: .2;
+}
+
+html[data-theme="classic"] .topbar {
+  grid-template-columns: auto minmax(220px, 430px) minmax(0, 1fr) auto;
+  margin: 14px auto 0;
+  width: min(1420px, calc(100% - 28px));
+  border: 1px solid rgba(255,255,255,.13);
+  border-radius: 24px;
+  background: rgba(9, 11, 24, .86);
+  box-shadow: 0 18px 58px rgba(0,0,0,.28);
+}
+
+html[data-theme="classic"] .brand {
+  min-width: 154px;
+}
+
+html[data-theme="classic"] .brand img {
+  width: 154px;
+  filter: drop-shadow(0 0 18px rgba(255, 212, 71, .24));
+}
+
+html[data-theme="classic"] .search-wrap {
+  border: 1px solid rgba(255,255,255,.13);
+  background: rgba(255,255,255,.08);
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.04), 0 10px 28px rgba(0,0,0,.22);
+}
+
+html[data-theme="classic"] .nav button,
+html[data-theme="classic"] .settings-button {
+  box-shadow: none;
+}
+
+html[data-theme="classic"] .hero {
+  min-height: 330px;
+  border: 1px solid rgba(255,255,255,.13);
+  border-radius: 34px;
+  background:
+    linear-gradient(135deg, rgba(15, 17, 38, .94), rgba(32, 31, 67, .74)),
+    radial-gradient(circle at 78% 8%, rgba(255, 212, 71, .28), transparent 18rem);
+  box-shadow: 0 26px 80px rgba(0,0,0,.32);
+}
+
+html[data-theme="classic"] .hero:after {
+  background:
+    radial-gradient(circle, rgba(255, 212, 71, .62), rgba(255, 212, 71, 0) 62%);
+}
+
+html[data-theme="classic"] main {
+  max-width: 1480px;
+  margin: 0 auto;
+}
+
+html[data-theme="classic"] .section-block h2 {
+  color: #fff;
+}
+
+html[data-theme="classic"] .grid {
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+html[data-theme="classic"] .compact-grid {
+  display: flex;
+  gap: 18px;
+  overflow-x: auto;
+  padding: 4px 2px 14px;
+  scroll-snap-type: x proximity;
+  scrollbar-width: none;
+}
+
+html[data-theme="classic"] .compact-grid::-webkit-scrollbar {
+  display: none;
+}
+
+html[data-theme="classic"] .compact-grid .card {
+  flex: 0 0 clamp(210px, 24vw, 310px);
+  scroll-snap-align: start;
+}
+
+html[data-theme="classic"] .card {
+  padding: 10px;
+  border-radius: 18px;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.025)),
+    rgba(15, 17, 31, .92);
+  box-shadow: 0 20px 54px rgba(0,0,0,.28);
+  contain-intrinsic-size: 260px 230px;
+}
+
+html[data-theme="classic"] .card:hover {
+  border-color: rgba(255, 212, 71, .72);
+  box-shadow: 0 26px 66px rgba(0,0,0,.36), 0 0 0 1px rgba(255, 212, 71, .22);
+}
+
+html[data-theme="classic"] .thumb-wrap {
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 16px;
+  background: #050611;
+}
+
+html[data-theme="classic"] .thumb {
+  border-radius: inherit;
+}
+
+html[data-theme="classic"] .thumb-fallback {
+  border-radius: inherit;
+}
+
+html[data-theme="classic"] .card-title {
+  min-height: auto;
+  margin-top: 11px;
+  font-size: 18px;
+  color: #fff;
+}
+
+html[data-theme="classic"] .card-meta {
+  color: #b7b3ca;
+}
+
+html[data-theme="classic"] .credit-footer {
+  background: rgba(245, 248, 255, .94);
+  color: #12110c;
+}
+
+html[data-theme="classic"] .playbar {
+  background: rgba(6, 7, 18, .96);
+}
+
+html[data-theme="classic"] .player {
+  background:
+    radial-gradient(circle at 50% 0, rgba(255,212,71,.14), transparent 34rem),
+    #000;
+}
+
+html[data-theme="classic"] .player iframe {
+  background: #000;
+  touch-action: manipulation;
+}
+
+html[data-theme="classic"] .loader-icon img {
+  object-fit: contain;
+  padding: 10px;
+}
+
+@media (max-width: 760px) {
+  html[data-theme="classic"] .topbar {
+    position: sticky;
+    top: 8px;
+    width: min(100% - 18px, 620px);
+    margin-top: 8px;
+    border-radius: 20px;
+    gap: 10px;
+    padding: 10px;
+  }
+
+  html[data-theme="classic"] .brand img {
+    width: 132px;
+  }
+
+  html[data-theme="classic"] .grid,
+  html[data-theme="classic"] .compact-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  html[data-theme="classic"] .compact-grid {
+    display: grid;
+    overflow: visible;
+    padding-bottom: 0;
+  }
+
+  html[data-theme="classic"] .compact-grid .card {
+    flex: none;
+  }
+
+  html[data-theme="classic"] .hero {
+    min-height: 230px;
+    padding: 24px;
+    margin-bottom: 26px;
+  }
+
+  html[data-theme="classic"] .hero p {
+    font-size: 14px;
+  }
+
+  html[data-theme="classic"] .card-title {
+    font-size: 14px;
+    line-height: 1.15;
+  }
+
+  .play-page {
+    min-height: var(--app-height);
+  }
+
+  .player.fill-mode iframe,
+  .player.fit-mode iframe,
+  .player.fill-mode ruffle-player,
+  .player.fit-mode ruffle-player {
+    width: 100%;
+    height: 100%;
+    box-shadow: none;
+  }
+}

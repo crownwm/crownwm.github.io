@@ -13,7 +13,7 @@ const settingGroups = [
     title: "Atmosphere",
     help: "Changes the whole site mood.",
     options: [
-      ["classic", "Classic", "Warm Crown colors."],
+      ["classic", "Crown Edition", "Pizza-style dark Crown home."],
       ["snow", "Snowfall", "Black background with falling snow."],
       ["rain", "Rain Loop", "Rain video-style overlay on repeat."],
       ["neon", "Neon Arcade", "Dark arcade glow."],

@@ -158,8 +158,7 @@ function showLaunchLoader(link) {
   const icon = document.getElementById("launchLoaderIcon");
   const title = document.getElementById("launchLoaderTitle");
   const fallback = versionedAsset("assets/crown-logo.svg");
-  const thumbnail = link.dataset.gameThumbnail || fallback;
-  if (icon) icon.src = thumbnail || fallback;
+  if (icon) icon.src = fallback;
   if (title) title.textContent = link.dataset.gameTitle || "Loading Crown Game";
   loader.removeAttribute("hidden");
   requestAnimationFrame(() => loader.classList.add("is-active"));
@@ -306,7 +305,7 @@ document.addEventListener("click", (event) => {
   showLaunchLoader(link);
   window.setTimeout(() => {
     window.location.href = link.href;
-  }, 260);
+  }, 420);
 });
 
 $("#search").addEventListener("input", () => {
