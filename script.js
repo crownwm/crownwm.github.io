@@ -48,8 +48,10 @@ fullGameCatalog.filter((game) => !isIpadReadyGame(game)).forEach((game) => hidde
 const hiddenExternalCount = hiddenGameIds.size;
 const allGames = fullGameCatalog.filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-ipad-local";
-const LAUNCH_FADE_MS = 520;
+const THUMB_VERSION = "20260517-ipad-speed";
+const APPLE_TOUCH_DEVICE = /iPad|iPhone|iPod/i.test(navigator.userAgent) ||
+  (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const LAUNCH_FADE_MS = APPLE_TOUCH_DEVICE ? 180 : 360;
 const hotSearches = [
   "Roblox",
   "Slope",

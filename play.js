@@ -39,9 +39,12 @@ function isMobileFriendlyExternalGame(entry) {
 
 const games = (window.CROWN_GAMES || []).filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-ipad-local";
-const MIN_LOADER_MS = 3500;
-const LOADER_FADE_MS = 680;
+const THUMB_VERSION = "20260517-ipad-speed";
+const APPLE_TOUCH_DEVICE = /iPad|iPhone|iPod/i.test(navigator.userAgent) ||
+  (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const MIN_LOADER_MS = APPLE_TOUCH_DEVICE ? 650 : 950;
+const LOADER_FADE_MS = APPLE_TOUCH_DEVICE ? 320 : 440;
+const SLOW_LOAD_MS = APPLE_TOUCH_DEVICE ? 4200 : 6500;
 const params = new URLSearchParams(location.search);
 const id = params.get("id");
 const game = games.find((entry) => entry.id === id);
@@ -163,7 +166,7 @@ function showLoader() {
   gameLoader.classList.remove("is-leaving");
   gameLoader.classList.add("is-active");
   player.setAttribute("aria-busy", "true");
-  loaderAutoHideTimer = window.setTimeout(() => hideLoader(0), MIN_LOADER_MS);
+  loaderAutoHideTimer = window.setTimeout(() => hideLoader(0), SLOW_LOAD_MS + 2400);
 }
 
 function hideLoader(delay = 0) {
@@ -187,7 +190,7 @@ function armLoaderFallback() {
   window.clearTimeout(loaderFallbackTimer);
   loaderFallbackTimer = window.setTimeout(() => {
     player.classList.add("load-slow");
-  }, 6500);
+  }, SLOW_LOAD_MS);
 }
 
 function notice(message) {
@@ -256,7 +259,12 @@ function frame(src) {
   iframe.setAttribute("importance", "high");
 
   hint.className = "loading-hint";
-  hint.innerHTML = "<strong>Still loading?</strong><span>Mobile browsers can be picky.</span>";
+  hint.innerHTML =
+    "<strong>Still loading?</strong><span>" +
+    (APPLE_TOUCH_DEVICE
+      ? "Managed iPads may block this game host. Try Reload once."
+      : "Mobile browsers can be picky.") +
+    "</span>";
   reload.type = "button";
   reload.textContent = "Reload game";
   reload.addEventListener("click", () => reloadFrame(iframe, src));
@@ -271,12 +279,11 @@ function frame(src) {
 
   window.clearTimeout(loadSlowTimer);
   player.classList.remove("load-slow");
-  player.innerHTML = "";
-  player.append(iframe, hint);
+  player.replaceChildren(iframe, hint);
 
   loadSlowTimer = window.setTimeout(() => {
     if (!loaded) player.classList.add("load-slow");
-  }, 9000);
+  }, SLOW_LOAD_MS + 2800);
 
   armLoaderFallback();
   iframe.src = src;
