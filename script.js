@@ -11,7 +11,12 @@ function isIpadReadyGame(game) {
 }
 
 function isClassroom6xGame(game) {
-  return Boolean(game.classroom6xPage || /^https:\/\/classroom-6x\.io\//i.test(game.embedUrl || ""));
+  return Boolean(
+    game.classrom6xPage ||
+      game.classroom6xPage ||
+      /^https:\/\/(?:classrom6x|ubgwtf)\.gitlab\.io\//i.test(game.embedUrl || "") ||
+      /^https:\/\/classroom-6x\.io\//i.test(game.embedUrl || "")
+  );
 }
 
 function isRobloxStyleGame(game) {
@@ -48,7 +53,7 @@ fullGameCatalog.filter((game) => !isIpadReadyGame(game)).forEach((game) => hidde
 const hiddenExternalCount = hiddenGameIds.size;
 const allGames = fullGameCatalog.filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-ipad-speed";
+const THUMB_VERSION = "20260517-classrom-repair";
 const APPLE_TOUCH_DEVICE = /iPad|iPhone|iPod/i.test(navigator.userAgent) ||
   (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
 const LAUNCH_FADE_MS = APPLE_TOUCH_DEVICE ? 180 : 360;

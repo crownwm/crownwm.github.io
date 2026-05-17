@@ -1,14 +1,17 @@
 const fs = require("fs");
 const path = require("path");
-const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
 const dataFile = path.join(root, "data", "games.js");
-const sandbox = { window: {} };
 
-vm.runInNewContext(fs.readFileSync(dataFile, "utf8"), sandbox);
+function readGames() {
+  const raw = fs.readFileSync(dataFile, "utf8");
+  const start = raw.indexOf("[");
+  const end = raw.lastIndexOf("]");
+  return JSON.parse(raw.slice(start, end + 1));
+}
 
-const games = Array.isArray(sandbox.window.CROWN_GAMES) ? sandbox.window.CROWN_GAMES : [];
+const games = readGames();
 function isVisibleGame(game) {
   return Boolean(
     game.playable &&
@@ -22,7 +25,12 @@ function isVisibleGame(game) {
 }
 
 function isClassroom6xGame(game) {
-  return Boolean(game.classroom6xPage || /^https:\/\/classroom-6x\.io\//i.test(game.embedUrl || ""));
+  return Boolean(
+    game.classrom6xPage ||
+      game.classroom6xPage ||
+      /^https:\/\/(?:classrom6x|ubgwtf)\.gitlab\.io\//i.test(game.embedUrl || "") ||
+      /^https:\/\/classroom-6x\.io\//i.test(game.embedUrl || "")
+  );
 }
 
 function isRobloxStyleGame(game) {

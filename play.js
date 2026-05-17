@@ -11,7 +11,12 @@ function isIpadReadyGame(entry) {
 }
 
 function isClassroom6xGame(entry) {
-  return Boolean(entry.classroom6xPage || /^https:\/\/classroom-6x\.io\//i.test(entry.embedUrl || ""));
+  return Boolean(
+    entry.classrom6xPage ||
+      entry.classroom6xPage ||
+      /^https:\/\/(?:classrom6x|ubgwtf)\.gitlab\.io\//i.test(entry.embedUrl || "") ||
+      /^https:\/\/classroom-6x\.io\//i.test(entry.embedUrl || "")
+  );
 }
 
 function isRobloxStyleGame(entry) {
@@ -39,10 +44,10 @@ function isMobileFriendlyExternalGame(entry) {
 
 const games = (window.CROWN_GAMES || []).filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-ipad-speed";
+const THUMB_VERSION = "20260517-classrom-repair";
 const APPLE_TOUCH_DEVICE = /iPad|iPhone|iPod/i.test(navigator.userAgent) ||
   (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-const MIN_LOADER_MS = APPLE_TOUCH_DEVICE ? 650 : 950;
+const MIN_LOADER_MS = 3500;
 const LOADER_FADE_MS = APPLE_TOUCH_DEVICE ? 320 : 440;
 const SLOW_LOAD_MS = APPLE_TOUCH_DEVICE ? 4200 : 6500;
 const params = new URLSearchParams(location.search);
@@ -262,8 +267,8 @@ function frame(src) {
   hint.innerHTML =
     "<strong>Still loading?</strong><span>" +
     (APPLE_TOUCH_DEVICE
-      ? "Managed iPads may block this game host. Try Reload once."
-      : "Mobile browsers can be picky.") +
+      ? "Tap Reload once if the screen stays blank; some games need a second pass on mobile."
+      : "Tap Reload once if the screen stays blank.") +
     "</span>";
   reload.type = "button";
   reload.textContent = "Reload game";
