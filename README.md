@@ -10,11 +10,12 @@ Upload the live site files from this folder or the deployment zip to any approve
 
 ## What Is Included
 
-- Visible Crown games: 918
-- Visible Class6x games/embeds: 778
+- Visible Crown games: 980
+- Visible Class6x games/embeds: 777
+- Visible Roblox/block/obby-style games: 115
 - Working local Ruffle games: 26
 - Catalog entries with thumbnails: 1341
-- Hidden broken/unsupported entries: 423
+- Hidden broken/unsupported entries: 361
 - Saved favorites: yes, stored in the visitor's browser
 - Player controls: loading screen, favorite, reload, fullscreen, fill/fit
 - Settings: saved themes, compact grid, calm motion, player sizing
@@ -42,6 +43,7 @@ node tools/restore-working-ruffle-games.js
 node tools/flag-unsupported-local-games.js
 node tools/fill-web-logo-thumbnails.js
 node tools/audit-local-playability.js
+node tools/audit-roblox-mobile.js
 ```
 
 The importer only adds games when the actual local HTML exists. It skips missing files, external-only iframe shells, and Ruffle/Flash entries by default so mobile players do not get broken games.

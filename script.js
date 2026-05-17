@@ -4,12 +4,37 @@ function isIpadReadyGame(game) {
       game.mobileReady !== false &&
       !game.unsupportedReason &&
       ((game.embedType === "html" && game.embedPath) ||
-        (game.embedType === "iframe" && game.embedUrl && isClass6xGame(game)))
+        (game.embedType === "iframe" &&
+          game.embedUrl &&
+          (isClass6xGame(game) || isMobileFriendlyExternalGame(game))))
   );
 }
 
 function isClass6xGame(game) {
   return Boolean(game.class6xPage || /^https:\/\/class6x\.gitlab\.io\//i.test(game.embedUrl || ""));
+}
+
+function isRobloxStyleGame(game) {
+  return /roblox|obby|minecraft|eagler|noob|block|parkour|monster school|herobrine|mine/i.test(
+    [game.title, game.category, ...(game.tags || [])].join(" ")
+  );
+}
+
+function isMobileFriendlyExternalGame(game) {
+  if (!isRobloxStyleGame(game)) return false;
+  let host = "";
+  try {
+    host = new URL(game.embedUrl).hostname.toLowerCase();
+  } catch (error) {
+    return false;
+  }
+
+  return (
+    host === "html5.gamedistribution.com" ||
+    host === "cdn.freegames.com" ||
+    host === "www.kidsgame.com" ||
+    host === "pizzaedition.win"
+  );
 }
 
 const rawGameCatalog = window.CROWN_GAMES || [];

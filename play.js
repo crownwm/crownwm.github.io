@@ -4,12 +4,37 @@ function isIpadReadyGame(entry) {
       entry.mobileReady !== false &&
       !entry.unsupportedReason &&
       ((entry.embedType === "html" && entry.embedPath) ||
-        (entry.embedType === "iframe" && entry.embedUrl && isClass6xGame(entry)))
+        (entry.embedType === "iframe" &&
+          entry.embedUrl &&
+          (isClass6xGame(entry) || isMobileFriendlyExternalGame(entry))))
   );
 }
 
 function isClass6xGame(entry) {
   return Boolean(entry.class6xPage || /^https:\/\/class6x\.gitlab\.io\//i.test(entry.embedUrl || ""));
+}
+
+function isRobloxStyleGame(entry) {
+  return /roblox|obby|minecraft|eagler|noob|block|parkour|monster school|herobrine|mine/i.test(
+    [entry.title, entry.category, ...(entry.tags || [])].join(" ")
+  );
+}
+
+function isMobileFriendlyExternalGame(entry) {
+  if (!isRobloxStyleGame(entry)) return false;
+  let host = "";
+  try {
+    host = new URL(entry.embedUrl).hostname.toLowerCase();
+  } catch (error) {
+    return false;
+  }
+
+  return (
+    host === "html5.gamedistribution.com" ||
+    host === "cdn.freegames.com" ||
+    host === "www.kidsgame.com" ||
+    host === "pizzaedition.win"
+  );
 }
 
 const games = (window.CROWN_GAMES || []).filter(isIpadReadyGame);
@@ -266,7 +291,11 @@ function loadCurrentGame() {
     notice('Game not found. <a href="index.html">Back to Crown Games</a>');
   } else if (game.embedType === "html" && game.embedPath) {
     frame(game.embedPath);
-  } else if (game.embedType === "iframe" && game.embedUrl && isClass6xGame(game)) {
+  } else if (
+    game.embedType === "iframe" &&
+    game.embedUrl &&
+    (isClass6xGame(game) || isMobileFriendlyExternalGame(game))
+  ) {
     frame(game.embedUrl);
   } else if (game.embedUrl) {
     notice(
