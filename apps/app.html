@@ -139,6 +139,27 @@
       touch-action: none;
     }
 
+    .web-frame-wrap {
+      display: grid;
+      gap: 12px;
+    }
+
+    .web-app-frame {
+      width: 100%;
+      height: min(72vh, 720px);
+      min-height: 520px;
+      border: 1px solid rgba(255,255,255,.14);
+      border-radius: 18px;
+      background: #050505;
+    }
+
+    .app-warning {
+      color: #c9c2d9;
+      font-size: 13px;
+      font-weight: 800;
+      line-height: 1.35;
+    }
+
     .timer-display {
       font-size: clamp(42px, 14vw, 108px);
       font-weight: 1000;
@@ -177,19 +198,21 @@
     </section>
   </main>
 
+  <script src="catalog.js?v=20260517-apps"></script>
   <script>
     const CUSTOM_APPS_KEY = "crownCustomAppsV1";
     const NOTES_KEY = "crownNotesV1";
     const CHECKLIST_KEY = "crownChecklistV1";
     const params = new URLSearchParams(location.search);
     const appId = params.get("app") || "create";
-    const baseApps = {
-      create: ["+", "Create an App", "Make your own Crown app shortcut on this device."],
-      notes: ["N", "Notes", "A quick saved notes pad."],
-      calculator: ["C", "Calculator", "Simple calculator for fast math."],
-      draw: ["D", "Draw", "Sketch pad with touch support."],
-      timer: ["T", "Timer", "Stopwatch and timer controls."],
-      checklist: ["L", "Checklist", "Save small task lists locally."]
+    const catalogApps = Array.isArray(window.CROWN_APPS) ? window.CROWN_APPS : [];
+    const appById = Object.fromEntries(catalogApps.map((app) => [app.id, app]));
+    const utilityApps = {
+      notes: { id: "notes", icon: "N", title: "Notes", description: "A quick saved notes pad.", localTool: "notes" },
+      calculator: { id: "calculator", icon: "C", title: "Calculator", description: "Simple calculator for fast math.", localTool: "calculator" },
+      draw: { id: "draw", icon: "D", title: "Draw", description: "Sketch pad with touch support.", localTool: "draw" },
+      timer: { id: "timer", icon: "T", title: "Timer", description: "Stopwatch and timer controls.", localTool: "timer" },
+      checklist: { id: "checklist", icon: "L", title: "Checklist", description: "Save small task lists locally.", localTool: "checklist" }
     };
     const tool = document.getElementById("tool");
 
@@ -220,8 +243,14 @@
       })[ch]);
     }
 
-    function setHeader(icon, title, description) {
-      document.getElementById("heroIcon").textContent = String(icon || "C").slice(0, 2).toUpperCase();
+    function setHeader(app) {
+      const colors = app.colors || ["#ffd447", "#8b5cf6"];
+      const icon = app.icon || "C";
+      const title = app.title || "Crown App";
+      const description = app.description || "A local Crown utility.";
+      const heroIcon = document.getElementById("heroIcon");
+      heroIcon.textContent = String(icon).slice(0, 4).toUpperCase();
+      heroIcon.style.background = "linear-gradient(135deg, " + colors[0] + ", " + (colors[1] || colors[0]) + ")";
       document.getElementById("appTitle").textContent = title;
       document.getElementById("appDescription").textContent = description;
       document.title = title + " - Crown Apps";
@@ -233,6 +262,8 @@
         '<input id="newTitle" placeholder="App name">' +
         '<input id="newDescription" placeholder="Short description">' +
         '<input id="newIcon" maxlength="2" placeholder="Icon letters, like TV">' +
+        '<input id="newUrl" inputmode="url" placeholder="Optional web app URL, like https://example.com">' +
+        '<div class="tool-row"><input id="newColorA" placeholder="Color 1, like #8b5cf6"><input id="newColorB" placeholder="Color 2, like #ffd447"></div>' +
         '<div class="tool-row"><button id="saveApp" type="button">Save App</button></div>' +
         '<div class="saved-list" id="savedApps">' +
         (saved.length ? saved.map((app) => '<article><span><strong>' + safeHtml(app.title) + '</strong><br><small>' + safeHtml(app.description) + '</small></span><a href="?app=' + encodeURIComponent(app.id) + '">Open</a></article>').join("") : "No custom apps yet.") +
@@ -242,8 +273,11 @@
         if (!title) return;
         const description = document.getElementById("newDescription").value.trim() || "Custom Crown app.";
         const icon = document.getElementById("newIcon").value.trim() || title.slice(0, 1);
+        const url = document.getElementById("newUrl").value.trim();
+        const colorA = document.getElementById("newColorA").value.trim() || "#8b5cf6";
+        const colorB = document.getElementById("newColorB").value.trim() || "#ffd447";
         const id = "custom-" + Date.now().toString(36);
-        saveJson(CUSTOM_APPS_KEY, [...customApps(), { id, title, description, icon }]);
+        saveJson(CUSTOM_APPS_KEY, [...customApps(), { id, title, description, icon, url, colors: [colorA, colorB] }]);
         renderCreate();
       });
     }
@@ -372,21 +406,47 @@
       paint();
     }
 
+    function renderWebApp(app) {
+      if (!app.url) {
+        tool.innerHTML = '<div class="result">This app is saved as a Crown card, but it does not have a launch URL yet.</div>';
+        return;
+      }
+      let url;
+      try {
+        url = new URL(app.url);
+        if (!/^https?:$/.test(url.protocol)) throw new Error("Bad protocol");
+      } catch (error) {
+        tool.innerHTML = '<div class="result">This app URL is not available.</div>';
+        return;
+      }
+      tool.innerHTML =
+        '<div class="web-frame-wrap">' +
+        '<div class="tool-row"><button id="reloadWebApp" type="button">Reload App</button></div>' +
+        '<p class="app-warning">Crown keeps this inside the app shell. Some services block embedded mode themselves, so if a panel stays blank, that service is refusing iframe loading.</p>' +
+        '<iframe id="webAppFrame" class="web-app-frame" title="' + safeHtml(app.title) + '" src="' + safeHtml(url.href) + '" allow="autoplay; fullscreen; clipboard-write; encrypted-media; gamepad; pointer-lock" sandbox="allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-orientation-lock allow-presentation"></iframe>' +
+        "</div>";
+      document.getElementById("reloadWebApp").addEventListener("click", () => {
+        const frame = document.getElementById("webAppFrame");
+        frame.src = "about:blank";
+        setTimeout(() => frame.src = url.href, 80);
+      });
+    }
+
     function renderCustom(app) {
-      tool.innerHTML = '<div class="result">This custom app is saved on this browser. Use Create an App to make more local Crown shortcuts.</div>';
-      setHeader(app.icon, app.title, app.description);
+      renderWebApp(app);
     }
 
     const custom = customApps().find((app) => app.id === appId);
-    const meta = custom ? [custom.icon, custom.title, custom.description] : baseApps[appId] || baseApps.create;
-    setHeader(meta[0], meta[1], meta[2]);
+    const currentApp = custom || appById[appId] || utilityApps[appId] || appById.create || { id: "create", icon: "+", title: "Create Custom App", description: "Make a local Crown app card.", localTool: "create" };
+    setHeader(currentApp);
     if (custom) renderCustom(custom);
-    else if (appId === "notes") renderNotes();
-    else if (appId === "calculator") renderCalculator();
-    else if (appId === "draw") renderDraw();
-    else if (appId === "timer") renderTimer();
-    else if (appId === "checklist") renderChecklist();
-    else renderCreate();
+    else if (currentApp.localTool === "notes") renderNotes();
+    else if (currentApp.localTool === "calculator") renderCalculator();
+    else if (currentApp.localTool === "draw") renderDraw();
+    else if (currentApp.localTool === "timer") renderTimer();
+    else if (currentApp.localTool === "checklist") renderChecklist();
+    else if (currentApp.localTool === "create") renderCreate();
+    else renderWebApp(currentApp);
 
     document.addEventListener("click", (event) => {
       const link = event.target.closest && event.target.closest("a[href]");

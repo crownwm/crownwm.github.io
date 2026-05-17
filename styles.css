@@ -2499,7 +2499,7 @@ html[data-theme="classic"] .section-block h2 .section-marker {
   border: 1px solid rgba(255,255,255,.1);
   border-radius: 16px;
   background:
-    linear-gradient(135deg, rgba(139,92,246,.2), rgba(255,212,71,.08)),
+    linear-gradient(135deg, color-mix(in srgb, var(--app-color-a, #8b5cf6) 28%, transparent), color-mix(in srgb, var(--app-color-b, #ffd447) 16%, transparent)),
     #151323;
   color: #fff;
   text-decoration: none;
@@ -2518,7 +2518,7 @@ html[data-theme="classic"] .section-block h2 .section-marker {
   height: 54px;
   flex: 0 0 auto;
   border-radius: 16px;
-  background: linear-gradient(135deg, #ffd447, #8b5cf6);
+  background: linear-gradient(135deg, var(--app-color-a, #ffd447), var(--app-color-b, #8b5cf6));
   color: #111;
   font-size: 22px;
   font-weight: 1000;

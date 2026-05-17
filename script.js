@@ -17,7 +17,7 @@ const hotSearches = [
   "Clicker",
 ];
 const CUSTOM_APPS_KEY = "crownCustomAppsV1";
-const crownApps = [
+const fallbackCrownApps = [
   {
     id: "create",
     title: "Create an App",
@@ -174,8 +174,13 @@ function appCard(app) {
   const description = escapeHtml(app.description || "Saved Crown app.");
   const icon = escapeHtml(String(app.icon || title.slice(0, 1) || "C").slice(0, 2).toUpperCase());
   const appId = encodeURIComponent(app.id || app.title || "create");
+  const colors = app.colors || ["#8b5cf6", "#ffd447"];
+  const style =
+    "--app-color-a:" + escapeHtml(colors[0]) + ";--app-color-b:" + escapeHtml(colors[1] || colors[0]) + ";";
   return (
-    '<a class="app-card" href="apps/app.html?app=' +
+    '<a class="app-card" style="' +
+    style +
+    '" href="apps/app.html?app=' +
     appId +
     '">' +
     '<span class="app-icon">' +
@@ -191,7 +196,8 @@ function appCard(app) {
 function buildApps() {
   const holder = $("#appsGrid");
   if (!holder) return;
-  holder.innerHTML = [...crownApps, ...loadCustomApps()].map(appCard).join("");
+  const catalogApps = Array.isArray(window.CROWN_APPS) ? window.CROWN_APPS : fallbackCrownApps;
+  holder.innerHTML = [...catalogApps, ...loadCustomApps()].map(appCard).join("");
 }
 
 function card(game, index = 0) {
