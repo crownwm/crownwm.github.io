@@ -17,7 +17,7 @@ window.CROWN_GAMES = [
     "id": "crown-1-on-1-soccer",
     "title": "1 On 1 Soccer",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/1-on-1-soccer-ca5caf1e.svg",
+    "thumbnail": "assets/thumbs/drive/1-on-1-soccer-1cxoawvu.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/1-on-1-soccer-1cxoawvu.html",
     "playable": true,
@@ -26,7 +26,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1cXOAwvU-ylOtdf1KrDNDHWqEGKWgGSJC",
     "driveFileName": "cl1on1soccer.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-1-v-1-lol",
@@ -45,12 +45,12 @@ window.CROWN_GAMES = [
     "id": "crown-1-v-1-soccer",
     "title": "1 V 1 Soccer",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/1-v-1-soccer-3f9be469.svg",
+    "thumbnail": "assets/thumbs/captures/1-v-1-soccer-https-sites-google-com-lindberghschools-ws-crown-official-1-v-1-soc.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/1-v-1-soccer-https-sites-google-com-lindberghschools-ws-crown-official-1-v-1-soc.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -86,12 +86,12 @@ window.CROWN_GAMES = [
     "id": "crown-100-rooms-of-enemies",
     "title": "100 Rooms Of Enemies",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/100-rooms-of-enemies-8aee94a6.svg",
+    "thumbnail": "assets/thumbs/web-logos/100-rooms-of-enemies.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/100-rooms-of-enemies-https-sites-google-com-lindberghschools-ws-crown-official-1.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -180,7 +180,7 @@ window.CROWN_GAMES = [
     "id": "crown-1v1-tennis",
     "title": "1v1 Tennis",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/1v1-tennis-1184f219.svg",
+    "thumbnail": "assets/thumbs/drive/1v1-tennis-1zp9a0jg.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/1v1-tennis-1zp9a0jg.html",
     "playable": true,
@@ -189,7 +189,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1zp9A0jghV7xZKlAcNhP4uFwR-dAuBWW1",
     "driveFileName": "cl1v1tennis.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-2-minute-football",
@@ -271,7 +271,7 @@ window.CROWN_GAMES = [
     "id": "crown-2d-shooting",
     "title": "2D Shooting",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/2d-shooting-e38620f5.svg",
+    "thumbnail": "assets/thumbs/drive/2d-shooting-1d4qxvdo.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/2d-shooting-1d4qxvdo.html",
     "playable": true,
@@ -280,13 +280,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1d4qxVdowbLnJ34kLE_u0r9Rnxj_ijsYV",
     "driveFileName": "cl2Dshooting.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3-pandas",
     "title": "3 Pandas",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/3-pandas-9cfdd3ce.svg",
+    "thumbnail": "assets/thumbs/drive/3-pandas-166vn2n4.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-166vn2n4.html",
     "playable": true,
@@ -295,13 +295,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "166vN2N4eK9rO5tPzMqv9qFVpTivcaVX9",
     "driveFileName": "cl3pandas.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3-pandas-brazil",
     "title": "3 Pandas Brazil",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/3-pandas-brazil-7a0aabc3.svg",
+    "thumbnail": "assets/thumbs/drive/3-pandas-brazil-1o7jdlmh.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-brazil-1o7jdlmh.html",
     "playable": true,
@@ -310,13 +310,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1O7JDlmh3G-4bt7yxoUdUJUjIwMCA2MO4",
     "driveFileName": "cl3pandasbrazil.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3-pandas-fantasy",
     "title": "3 Pandas Fantasy",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/3-pandas-fantasy-40b70499.svg",
+    "thumbnail": "assets/thumbs/drive/3-pandas-fantasy-1mho2syj.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-fantasy-1mho2syj.html",
     "playable": true,
@@ -325,13 +325,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1mho2syJYRIn2wZZZPkjV_mQfJ_p-Y-n4",
     "driveFileName": "cl3pandasfantasy.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3-pandas-japan",
     "title": "3 Pandas Japan",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/3-pandas-japan-122aa50f.svg",
+    "thumbnail": "assets/thumbs/drive/3-pandas-japan-1gvfnfy4.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-japan-1gvfnfy4.html",
     "playable": true,
@@ -340,13 +340,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1GvfnFY4iCDU6KOj13hzODHQK2bDPWfHw",
     "driveFileName": "cl3pandasjapan.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3-pandas-night",
     "title": "3 Pandas Night",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/3-pandas-night-4a72df65.svg",
+    "thumbnail": "assets/thumbs/drive/3-pandas-night-1phl-3yo.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-night-1phl-3yo.html",
     "playable": true,
@@ -355,7 +355,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1phl_3yofGgiDdT6-y2hbJ4Wk3mMXE-ox",
     "driveFileName": "cl3pandasnight.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3-slices",
@@ -373,7 +373,7 @@ window.CROWN_GAMES = [
     "id": "crown-3-slices-2",
     "title": "3 Slices 2",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/3-slices-2-f1e78ef7.svg",
+    "thumbnail": "assets/thumbs/drive/3-slices-2-1857d3ar.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-slices-2-1857d3ar.html",
     "playable": true,
@@ -382,7 +382,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1857d3Ar39g8qcn4iM21XCV6_KCEV5Ilr",
     "driveFileName": "cl3slices2.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3d-car-simulator",
@@ -406,7 +406,7 @@ window.CROWN_GAMES = [
     "id": "crown-3d-dash",
     "title": "3D Dash",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/3d-dash-4c8bbab3.svg",
+    "thumbnail": "assets/thumbs/drive/3d-dash-1yqclrmi.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3d-dash-1yqclrmi.html",
     "playable": true,
@@ -415,13 +415,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1yQclRMII5l-C_8hKY1W2EjdlYkyasm9N",
     "driveFileName": "cl3dash.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3d-dash-editor",
     "title": "3D Dash Editor",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/3d-dash-editor-e068250b.svg",
+    "thumbnail": "assets/thumbs/drive/3d-dash-editor-14fwtngk.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/3d-dash-editor-14fwtngk.html",
     "playable": true,
@@ -430,7 +430,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "14fwtngK-vE6fT3LBmcmyAhpTPruyLkpB",
     "driveFileName": "cl3dasheditor.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-3d-dino-game",
@@ -499,7 +499,7 @@ window.CROWN_GAMES = [
     "id": "crown-4th-and-goal",
     "title": "4th and Goal",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/4th-and-goal-7e2dd77.svg",
+    "thumbnail": "assets/thumbs/drive/4th-and-goal-1thh-pow.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/4th-and-goal-1thh-pow.html",
     "playable": true,
@@ -508,7 +508,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1ThH-powjmyAQ82qHSYr-u13NiEEuud2a",
     "driveFileName": "cl4thandgoal.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-4th-and-goal-2022",
@@ -556,12 +556,12 @@ window.CROWN_GAMES = [
     "id": "crown-60-second-burger-run",
     "title": "60 Second Burger Run",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/60-second-burger-run-e7defcda.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/60-sec-burger-run.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/60-second-burger-run-https-sites-google-com-lindberghschools-ws-crown-official-6.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -628,12 +628,12 @@ window.CROWN_GAMES = [
     "id": "crown-99-nights-in-the-forest",
     "title": "99 Nights In The Forest",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/99-nights-in-the-forest-a79d5063.svg",
+    "thumbnail": "assets/thumbs/web-logos/99-nights-in-the-forest.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/99-nights-in-the-forest-https-sites-google-com-lindberghschools-ws-crown-officia.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -987,12 +987,12 @@ window.CROWN_GAMES = [
     "id": "crown-angry-birds",
     "title": "Angry Birds",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/angry-birds-eeca9ed5.svg",
+    "thumbnail": "assets/thumbs/web-logos/angry-birds.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/angry-birds-https-sites-google-com-lindberghschools-ws-crown-official-angry-bird.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -1015,12 +1015,12 @@ window.CROWN_GAMES = [
     "id": "crown-animal-crossing",
     "title": "Animal Crossing",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/animal-crossing-3b2c64a6.svg",
+    "thumbnail": "assets/thumbs/web-logos/animal-crossing.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/animal-crossing-https-sites-google-com-lindberghschools-ws-crown-official-animal.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -1195,12 +1195,12 @@ window.CROWN_GAMES = [
     "id": "crown-asteroids",
     "title": "Asteroids",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/asteroids-1d79ee5f.svg",
+    "thumbnail": "assets/thumbs/web-logos/asteroids.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/asteroids-https-sites-google-com-lindberghschools-ws-crown-official-asteroids.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -1255,48 +1255,48 @@ window.CROWN_GAMES = [
     "id": "crown-awesome-pirates",
     "title": "Awesome Pirates",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/awesome-pirates-115be805.svg",
+    "thumbnail": "assets/thumbs/captures/awesome-pirates-https-sites-google-com-lindberghschools-ws-crown-official-awesom.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/awesome-pirates-https-sites-google-com-lindberghschools-ws-crown-official-awesom.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-awesome-planes",
     "title": "Awesome Planes",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/awesome-planes-35fb79ee.svg",
+    "thumbnail": "assets/thumbs/captures/awesome-planes-https-sites-google-com-lindberghschools-ws-crown-official-awesome.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/awesome-planes-https-sites-google-com-lindberghschools-ws-crown-official-awesome.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-awesome-tanks",
     "title": "Awesome Tanks",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/awesome-tanks-d0144c7a.svg",
+    "thumbnail": "assets/thumbs/captures/awesome-tanks-2-https-sites-google-com-lindberghschools-ws-crown-official-awesom.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/awesome-tanks-https-sites-google-com-lindberghschools-ws-crown-official-awesome-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-awesome-tanks-2",
     "title": "Awesome Tanks 2",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/awesome-tanks-2-59627d45.svg",
+    "thumbnail": "assets/thumbs/captures/awesome-tanks-2-https-sites-google-com-lindberghschools-ws-crown-official-awesom.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/awesome-tanks-2-https-sites-google-com-lindberghschools-ws-crown-official-awesom.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -1318,36 +1318,36 @@ window.CROWN_GAMES = [
     "id": "crown-baby-sniper-in-vietnam",
     "title": "Baby Sniper In Vietnam",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/baby-sniper-in-vietnam-dc17619a.svg",
+    "thumbnail": "assets/thumbs/web-logos/baby-sniper-in-vietnam.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baby-sniper-in-vietnam-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-backrooms",
     "title": "Backrooms",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/backrooms-ac5c7560.svg",
+    "thumbnail": "assets/thumbs/embedded/backrooms-https-sites-google-com-lindberghschools-ws-crown-official-backrooms.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/backrooms-https-sites-google-com-lindberghschools-ws-crown-official-backrooms.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-backyard-baseball",
     "title": "Backyard Baseball",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/backyard-baseball-1ca6058b.svg",
+    "thumbnail": "assets/thumbs/captures/backyard-baseball-https-sites-google-com-lindberghschools-ws-crown-official-back.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/backyard-baseball-https-sites-google-com-lindberghschools-ws-crown-official-back.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -1431,24 +1431,24 @@ window.CROWN_GAMES = [
     "id": "crown-baldie-caesoh",
     "title": "Baldie Caesoh",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/baldie-caesoh-d0a023d4.svg",
+    "thumbnail": "assets/thumbs/web-logos/baldie-caesoh.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baldie-caesoh-https-sites-google-com-lindberghschools-ws-crown-official-baldie-c.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-baldie-epstien",
     "title": "Baldie Epstien",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/baldie-epstien-11b913fb.svg",
+    "thumbnail": "assets/thumbs/captures/baldie-epstien-https-sites-google-com-lindberghschools-ws-crown-official-baldie.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baldie-epstien-https-sites-google-com-lindberghschools-ws-crown-official-baldie-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -1470,24 +1470,24 @@ window.CROWN_GAMES = [
     "id": "crown-baldy-s-basics",
     "title": "Baldy's Basics",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/baldy-s-basics-beb191e7.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/five-nights-at-winston-s.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baldy-s-basics-https-sites-google-com-lindberghschools-ws-crown-official-baldys-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-ballon-tower-defense-4",
     "title": "Ballon Tower Defense 4",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ballon-tower-defense-4-db2aed0b.svg",
+    "thumbnail": "assets/thumbs/web-logos/ballon-tower-defense-4.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ballon-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -1508,7 +1508,7 @@ window.CROWN_GAMES = [
     "id": "crown-bank-robbery",
     "title": "Bank Robbery",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/bank-robbery-8466b76b.svg",
+    "thumbnail": "assets/thumbs/drive/bank-robbery-16y-r-x5.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/bank-robbery-16y-r-x5.html",
     "playable": true,
@@ -1517,7 +1517,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "16Y-r_X5wxD8gSvxX6esXOAVnQTaJb361",
     "driveFileName": "Bank Robbery.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-barry-prison-hide-and-seek",
@@ -1542,12 +1542,12 @@ window.CROWN_GAMES = [
     "id": "crown-baseball-bros",
     "title": "BaseBall Bros",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/baseball-bros-530ca9b8.svg",
+    "thumbnail": "assets/thumbs/embedded/baseball-bros-https-sites-google-com-lindberghschools-ws-crown-official-baseball.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baseball-bros-https-sites-google-com-lindberghschools-ws-crown-official-baseball.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -1795,60 +1795,60 @@ window.CROWN_GAMES = [
     "id": "crown-ben-10-alien-force",
     "title": "Ben 10 Alien Force",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ben-10-alien-force-786a171a.svg",
+    "thumbnail": "assets/thumbs/web-logos/ben-10-alien-force.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-alien-force-https-sites-google-com-lindberghschools-ws-crown-official-ben.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-ben-10-galactic-racing",
     "title": "Ben 10 Galactic Racing",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ben-10-galactic-racing-cf9682ae.svg",
+    "thumbnail": "assets/thumbs/web-logos/ben-10-galactic-racing.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-galactic-racing-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-ben-10-omniverse",
     "title": "Ben 10 Omniverse",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ben-10-omniverse-9dae349d.svg",
+    "thumbnail": "assets/thumbs/web-logos/ben-10-omniverse.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-omniverse-https-sites-google-com-lindberghschools-ws-crown-official-ben-1.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-ben-10-protector-of-earth",
     "title": "Ben 10 Protector of Earth",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ben-10-protector-of-earth-9d63ab0.svg",
+    "thumbnail": "assets/thumbs/web-logos/ben-10-protector-of-earth.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-protector-of-earth-https-sites-google-com-lindberghschools-ws-crown-offic.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-ben-10-ultimate-alien",
     "title": "Ben 10 Ultimate Alien",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ben-10-ultimate-alien-4216c6d4.svg",
+    "thumbnail": "assets/thumbs/web-logos/ben-10-ultimate-alien.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ben-10-ultimate-alien-https-sites-google-com-lindberghschools-ws-crown-official-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -1979,12 +1979,12 @@ window.CROWN_GAMES = [
     "id": "crown-binding-of-isacc",
     "title": "Binding of Isacc",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/binding-of-isacc-51584f82.svg",
+    "thumbnail": "assets/thumbs/web-logos/binding-of-isacc.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/binding-of-isacc-https-sites-google-com-lindberghschools-ws-crown-official-bindi.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -2176,12 +2176,12 @@ window.CROWN_GAMES = [
     "id": "crown-bloons-tower-defense-4",
     "title": "Bloons Tower Defense 4",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/bloons-tower-defense-4-6fe22318.svg",
+    "thumbnail": "assets/thumbs/web-logos/bloons-tower-defense-4.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/bloons-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -2359,12 +2359,12 @@ window.CROWN_GAMES = [
     "id": "crown-bmx2",
     "title": "BMX2",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/bmx2-f31a6388.svg",
+    "thumbnail": "assets/thumbs/web-logos/bmx2.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/bmx2-https-sites-google-com-lindberghschools-ws-crown-official-bmx2.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -3159,12 +3159,12 @@ window.CROWN_GAMES = [
     "id": "crown-car-king-arena-best-car-game",
     "title": "Car King Arena (BEST CAR GAME)",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/car-king-arena-best-car-game-f84750bc.svg",
+    "thumbnail": "assets/thumbs/web-logos/car-king-arena-best-car-game.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/car-king-arena-best-car-game-https-sites-google-com-lindberghschools-ws-crown-of.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -3460,7 +3460,7 @@ window.CROWN_GAMES = [
     "id": "crown-cheese-rolling",
     "title": "Cheese Rolling",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/cheese-rolling-f646e42.svg",
+    "thumbnail": "assets/thumbs/drive/cheese-rolling-18unkdrz.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/cheese-rolling-18unkdrz.html",
     "playable": true,
@@ -3469,7 +3469,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "18UnKdrZ6zeqHynTRefXtIIaoLji2Ig7r",
     "driveFileName": "cheeserolling.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-chess",
@@ -3646,7 +3646,7 @@ window.CROWN_GAMES = [
     "id": "crown-cl-1",
     "title": "CL 1",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/cl-1-a1a7b092.svg",
+    "thumbnail": "assets/thumbs/drive/cl-1-19ra-g4u.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-1-19ra-g4u.html",
     "playable": true,
@@ -3655,13 +3655,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "19ra_g4UHw5HAsZKjcP1jyG5CqoAnMp-o",
     "driveFileName": "cl1.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-cl-3",
     "title": "CL 3",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/cl-3-9fa7ad6c.svg",
+    "thumbnail": "assets/thumbs/drive/cl-3-1euee1bc.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-3-1euee1bc.html",
     "playable": true,
@@ -3670,13 +3670,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1EuEe1bCm9nzgvRBkGbO8i-8gwsmH-K6a",
     "driveFileName": "cl-3.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-cl-b",
     "title": "CL B",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/cl-b-70a7636f.svg",
+    "thumbnail": "assets/thumbs/drive/cl-b-1vnphevh.jpg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-b-1vnphevh.html",
     "playable": true,
@@ -3685,7 +3685,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1vnpHevhDDNNiVbJx0m75dMBE5s015lgC",
     "driveFileName": "cl-b.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-clash-of-tanks",
@@ -3746,12 +3746,12 @@ window.CROWN_GAMES = [
     "id": "crown-cod-4",
     "title": "COD 4",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/cod-4-af6097e.svg",
+    "thumbnail": "assets/thumbs/web-logos/cod-4.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/cod-4-https-sites-google-com-lindberghschools-ws-crown-official-call-of-duty-gam.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -3937,12 +3937,12 @@ window.CROWN_GAMES = [
     "id": "crown-core-ball",
     "title": "Core Ball",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/core-ball-a0cf2a66.svg",
+    "thumbnail": "assets/thumbs/embedded/core-ball-https-sites-google-com-lindberghschools-ws-crown-official-core-ball.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/core-ball-https-sites-google-com-lindberghschools-ws-crown-official-core-ball.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -4106,24 +4106,24 @@ window.CROWN_GAMES = [
     "id": "crown-crazy-cattle",
     "title": "Crazy Cattle",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/crazy-cattle-95a73654.svg",
+    "thumbnail": "assets/thumbs/embedded/crazy-cattle-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cat.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/crazy-cattle-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cat.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-crazy-climber",
     "title": "Crazy Climber",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/crazy-climber-1a74689f.svg",
+    "thumbnail": "assets/thumbs/web-logos/crazy-climber.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/crazy-climber-https-sites-google-com-lindberghschools-ws-crown-official-crazy-cl.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -4246,12 +4246,12 @@ window.CROWN_GAMES = [
     "id": "crown-csgo-clicker",
     "title": "CSGO Clicker",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/csgo-clicker-479fadbd.svg",
+    "thumbnail": "assets/thumbs/captures/csgo-clicker-https-sites-google-com-lindberghschools-ws-crown-official-csgo-clic.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/csgo-clicker-https-sites-google-com-lindberghschools-ws-crown-official-csgo-clic.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -4344,7 +4344,7 @@ window.CROWN_GAMES = [
     "id": "crown-cubito-mayhem",
     "title": "Cubito Mayhem",
     "category": "Shooting",
-    "thumbnail": "assets/thumbs/crown-covers/cubito-mayhem-eee4595f.svg",
+    "thumbnail": "assets/thumbs/class6x/class6x-cubito-mayhem.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/cubito-mayhem/",
     "playable": true,
@@ -4353,7 +4353,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-curve-ball-3d",
@@ -4375,36 +4375,36 @@ window.CROWN_GAMES = [
     "id": "crown-curve-ball-v1",
     "title": "Curve Ball V1",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/curve-ball-v1-2ff77796.svg",
+    "thumbnail": "assets/thumbs/web-logos/curve-ball-v1.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/curve-ball-v1-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-curve-ball-v2",
     "title": "Curve Ball V2",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/curve-ball-v2-2ef77603.svg",
+    "thumbnail": "assets/thumbs/captures/curve-ball-v2-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/curve-ball-v2-https-sites-google-com-lindberghschools-ws-crown-official-curve-ba.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-cut-the-rope",
     "title": "Cut the Rope",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/cut-the-rope-f1a780d6.svg",
+    "thumbnail": "assets/thumbs/embedded/cut-the-rope-https-sites-google-com-lindberghschools-ws-crown-official-cut-the-r.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/cut-the-rope-https-sites-google-com-lindberghschools-ws-crown-official-cut-the-r.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -4446,12 +4446,12 @@ window.CROWN_GAMES = [
     "id": "crown-cyberbung-racing",
     "title": "Cyberbung Racing",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/cyberbung-racing-d8e50823.svg",
+    "thumbnail": "assets/thumbs/web-logos/cyberbung-racing.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/cyberbung-racing-https-sites-google-com-lindberghschools-ws-crown-official-cyber.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -4719,12 +4719,12 @@ window.CROWN_GAMES = [
     "id": "crown-deltarune",
     "title": "Deltarune",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/deltarune-544d5197.svg",
+    "thumbnail": "assets/thumbs/web-logos/deltarune.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/deltarune-https-sites-google-com-lindberghschools-ws-crown-official-deltarune.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -4794,24 +4794,24 @@ window.CROWN_GAMES = [
     "id": "crown-diablo",
     "title": "Diablo",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/diablo-e9b57726.svg",
+    "thumbnail": "assets/thumbs/web-logos/diablo.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/diablo-https-sites-google-com-lindberghschools-ws-crown-official-diablo.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-diddy-kong-racing",
     "title": "Diddy Kong Racing",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/diddy-kong-racing-e3449918.svg",
+    "thumbnail": "assets/thumbs/web-logos/diddy-kong-racing.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/diddy-kong-racing-https-sites-google-com-lindberghschools-ws-crown-official-didd.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -4830,12 +4830,12 @@ window.CROWN_GAMES = [
     "id": "crown-dig-to-china",
     "title": "Dig To China",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/dig-to-china-4cb42607.svg",
+    "thumbnail": "assets/thumbs/web-logos/dig-to-china.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/dig-to-china-https-sites-google-com-lindberghschools-ws-crown-official-dig-to-ch.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -4917,12 +4917,12 @@ window.CROWN_GAMES = [
     "id": "crown-dodge-miner",
     "title": "Dodge Miner",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/dodge-miner-1c1f14e0.svg",
+    "thumbnail": "assets/thumbs/embedded/dodge-miner-https-sites-google-com-lindberghschools-ws-crown-official-dodge-mine.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/dodge-miner-https-sites-google-com-lindberghschools-ws-crown-official-dodge-mine.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -5054,12 +5054,12 @@ window.CROWN_GAMES = [
     "id": "crown-doom-64",
     "title": "Doom 64",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/doom-64-1c24eb.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/doom.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/doom-64-https-sites-google-com-lindberghschools-ws-crown-official-doom-64.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -5587,12 +5587,12 @@ window.CROWN_GAMES = [
     "id": "crown-edge-surf",
     "title": "Edge Surf",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/edge-surf-848e6011.svg",
+    "thumbnail": "assets/thumbs/web-logos/edge-surf.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/edge-surf-https-sites-google-com-lindberghschools-ws-crown-official-edge-surf.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -5711,12 +5711,12 @@ window.CROWN_GAMES = [
     "id": "crown-escape-road",
     "title": "Escape Road",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/escape-road-3ede0ebd.svg",
+    "thumbnail": "assets/thumbs/embedded/escape-road-https-sites-google-com-lindberghschools-ws-crown-official-escape-roa.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/escape-road-https-sites-google-com-lindberghschools-ws-crown-official-escape-roa.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -5859,12 +5859,12 @@ window.CROWN_GAMES = [
     "id": "crown-fallout",
     "title": "Fallout",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/fallout-924830ea.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fallout-2.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/fallout-https-sites-google-com-lindberghschools-ws-crown-official-fallout.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -5883,13 +5883,13 @@ window.CROWN_GAMES = [
     "id": "crown-fancade",
     "title": "Fancade",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/fancade-e9a2e4fb.svg",
+    "thumbnail": "assets/thumbs/web-logos/fancade.jpg",
     "embedType": "iframe",
     "embedUrl": "https://play.fancade.com/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "web-logo-local"
   },
   {
     "id": "crown-fancy-pants",
@@ -6025,12 +6025,12 @@ window.CROWN_GAMES = [
     "id": "crown-fifa-2k",
     "title": "FIFA 2k",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/fifa-2k-a53e33c1.svg",
+    "thumbnail": "assets/thumbs/web-logos/fifa-2k.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/fifa-2k-https-sites-google-com-lindberghschools-ws-crown-official-fifa-2k.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -6222,12 +6222,12 @@ window.CROWN_GAMES = [
     "id": "crown-five-nights-at-freedy-s",
     "title": "Five Nights At Freedy's",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/five-nights-at-freedy-s-479e65c5.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/five-nights-at-winston-s.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/five-nights-at-freedy-s-https-sites-google-com-lindberghschools-ws-crown-officia.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -6374,25 +6374,25 @@ window.CROWN_GAMES = [
     "id": "crown-fnaf",
     "title": "FNAF",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/fnaf-9ef6f7c.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnaf-web.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/fnaf-https-sites-google-com-lindberghschools-ws-crown-official-fnaf.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-fnaf-2",
     "title": "FNAF 2",
     "category": "Horror",
-    "thumbnail": "assets/thumbs/crown-covers/fnaf-2-40e38aa3.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnaf-2.webp",
     "embedType": "iframe",
     "embedUrl": "https://sussygamedeveloper.github.io/FNAF2/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-fnaf-2-scratch",
@@ -6410,13 +6410,13 @@ window.CROWN_GAMES = [
     "id": "crown-fnaf-3",
     "title": "FNAF 3",
     "category": "Horror",
-    "thumbnail": "assets/thumbs/crown-covers/fnaf-3-3fe38910.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnaf-3.webp",
     "embedType": "iframe",
     "embedUrl": "https://sussygamedeveloper.github.io/fnaf3/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-fnaf-web",
@@ -6494,12 +6494,12 @@ window.CROWN_GAMES = [
     "id": "crown-fnf",
     "title": "FNF",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/fnf-34256893.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/friday-night-funkin.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/fnf-https-sites-google-com-lindberghschools-ws-crown-official-fnf.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -7576,12 +7576,12 @@ window.CROWN_GAMES = [
     "id": "crown-gorilla-tag",
     "title": "Gorilla tag",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/gorilla-tag-33ff88f6.svg",
+    "thumbnail": "assets/thumbs/web-logos/gorilla-tag.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/gorilla-tag-https-sites-google-com-lindberghschools-ws-crown-official-gorilla-ta.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -7606,12 +7606,12 @@ window.CROWN_GAMES = [
     "id": "crown-granny",
     "title": "Granny",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/granny-3f36bcec.svg",
+    "thumbnail": "assets/thumbs/roblox-style/escape-evil-granny-obby.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/granny-https-sites-google-com-lindberghschools-ws-crown-official-granny.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -7648,24 +7648,24 @@ window.CROWN_GAMES = [
     "id": "crown-gta",
     "title": "GTA",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/gta-f85851e7.svg",
+    "thumbnail": "assets/thumbs/web-logos/gta.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/gta-https-sites-google-com-lindberghschools-ws-crown-official-gta.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-gun-knight",
     "title": "Gun Knight",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/gun-knight-47fc33ab.svg",
+    "thumbnail": "assets/thumbs/web-logos/gun-knight.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/gun-knight-https-sites-google-com-lindberghschools-ws-crown-official-gun-knight.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -7905,12 +7905,12 @@ window.CROWN_GAMES = [
     "id": "crown-henry-stickman-part-2-sorry-others-don-t-work",
     "title": "Henry Stickman Part 2 (sorry others don't work)",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/henry-stickman-part-2-sorry-others-don-t-work-90697f36.svg",
+    "thumbnail": "assets/thumbs/web-logos/henry-stickman-part-2-sorry-others-don-t-work.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/henry-stickman-part-2-sorry-others-don-t-work-https-sites-google-com-lindberghsc.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -7947,36 +7947,36 @@ window.CROWN_GAMES = [
     "id": "crown-henry-stickmin-breaking-the-bank",
     "title": "Henry stickmin breaking the bank",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/henry-stickmin-breaking-the-bank-a937c58b.svg",
+    "thumbnail": "assets/thumbs/web-logos/henry-stickmin-breaking-the-bank.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/henry-stickmin-breaking-the-bank-https-sites-google-com-lindberghschools-ws-crow.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-henry-stickmin-fleeing-the-complex",
     "title": "Henry stickmin fleeing the complex",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/henry-stickmin-fleeing-the-complex-6a73bff8.svg",
+    "thumbnail": "assets/thumbs/web-logos/henry-stickmin-fleeing-the-complex.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/henry-stickmin-fleeing-the-complex-https-sites-google-com-lindberghschools-ws-cr.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-henry-stickmin-infiltrating-the-airship",
     "title": "Henry stickmin infiltrating the airship",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/henry-stickmin-infiltrating-the-airship-3af4cf5b.svg",
+    "thumbnail": "assets/thumbs/web-logos/henry-stickmin-infiltrating-the-airship.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/henry-stickmin-infiltrating-the-airship-https-sites-google-com-lindberghschools-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -8158,12 +8158,12 @@ window.CROWN_GAMES = [
     "id": "crown-hobo-vs-zombies",
     "title": "Hobo vs. zombies",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/hobo-vs-zombies-6d89b95.svg",
+    "thumbnail": "assets/thumbs/web-logos/hobo-vs-zombies.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/hobo-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-hobo-v.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -8182,12 +8182,12 @@ window.CROWN_GAMES = [
     "id": "crown-hollow-knight",
     "title": "Hollow knight",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/hollow-knight-df043316.svg",
+    "thumbnail": "assets/thumbs/web-logos/hollow-knight.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/hollow-knight-https-sites-google-com-lindberghschools-ws-crown-official-hollow-k.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -8362,12 +8362,12 @@ window.CROWN_GAMES = [
     "id": "crown-ice-dodo",
     "title": "Ice Dodo",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ice-dodo-333fe6cd.svg",
+    "thumbnail": "assets/thumbs/embedded/ice-dodo-https-sites-google-com-lindberghschools-ws-crown-official-ice-dodo.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ice-dodo-https-sites-google-com-lindberghschools-ws-crown-official-ice-dodo.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -8466,12 +8466,12 @@ window.CROWN_GAMES = [
     "id": "crown-idle-miner",
     "title": "Idle Miner",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/idle-miner-1fedda13.svg",
+    "thumbnail": "assets/thumbs/web-logos/idle-miner.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/idle-miner-https-sites-google-com-lindberghschools-ws-crown-official-idle-miner.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -8618,12 +8618,12 @@ window.CROWN_GAMES = [
     "id": "crown-indian-truck-sim",
     "title": "Indian Truck Sim",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/indian-truck-sim-708aa24.svg",
+    "thumbnail": "assets/thumbs/web-logos/indian-truck-sim.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/indian-truck-sim-https-sites-google-com-lindberghschools-ws-crown-official-india.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -8647,7 +8647,7 @@ window.CROWN_GAMES = [
     "id": "crown-infinity-loop",
     "title": "Infinity Loop",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/crown-covers/infinity-loop-ca3711c4.svg",
+    "thumbnail": "assets/thumbs/class6x/class6x-infinity-loop.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/infinity-loop/",
     "playable": true,
@@ -8656,7 +8656,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-interactive-buddy",
@@ -9128,24 +9128,24 @@ window.CROWN_GAMES = [
     "id": "crown-kirby-64",
     "title": "Kirby 64",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/kirby-64-ce792337.svg",
+    "thumbnail": "assets/thumbs/web-logos/kirby-64.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/kirby-64-https-sites-google-com-lindberghschools-ws-crown-official-kirby-64.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-kirby-adventure-remake-katam",
     "title": "Kirby Adventure Remake/Katam",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/kirby-adventure-remake-katam-2e95f59e.svg",
+    "thumbnail": "assets/thumbs/web-logos/kirby-adventure-remake-katam.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/kirby-adventure-remake-katam-https-sites-google-com-lindberghschools-ws-crown-of.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -9164,12 +9164,12 @@ window.CROWN_GAMES = [
     "id": "crown-kirby-squeak-squad",
     "title": "Kirby Squeak Squad",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/kirby-squeak-squad-a258da18.svg",
+    "thumbnail": "assets/thumbs/web-logos/kirby-squeak-squad.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/kirby-squeak-squad-https-sites-google-com-lindberghschools-ws-crown-official-kir.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -9252,24 +9252,24 @@ window.CROWN_GAMES = [
     "id": "crown-koopas-revenge",
     "title": "Koopas Revenge",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/koopas-revenge-cecbad65.svg",
+    "thumbnail": "assets/thumbs/captures/koopas-revenge-https-sites-google-com-lindberghschools-ws-crown-official-koopas.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/koopas-revenge-https-sites-google-com-lindberghschools-ws-crown-official-koopas-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
     "id": "crown-koopas-revenge-2",
     "title": "Koopas Revenge 2",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/koopas-revenge-2-feae7ede.svg",
+    "thumbnail": "assets/thumbs/captures/koopas-revenge-https-sites-google-com-lindberghschools-ws-crown-official-koopas.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/koopas-revenge-2-https-sites-google-com-lindberghschools-ws-crown-official-koopa.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -9318,12 +9318,12 @@ window.CROWN_GAMES = [
     "id": "crown-last-horizon",
     "title": "Last Horizon",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/last-horizon-6ed3e001.svg",
+    "thumbnail": "assets/thumbs/web-logos/last-horizon.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/last-horizon-https-sites-google-com-lindberghschools-ws-crown-official-last-hori.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -9473,72 +9473,72 @@ window.CROWN_GAMES = [
     "id": "crown-lego-batman-1",
     "title": "Lego Batman 1",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/lego-batman-1-a2ffe256.svg",
+    "thumbnail": "assets/thumbs/web-logos/lego-batman-1.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-batman-1-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-lego-batman-2",
     "title": "Lego Batman 2",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/lego-batman-2-a1ffe0c3.svg",
+    "thumbnail": "assets/thumbs/web-logos/lego-batman-2.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-batman-2-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-lego-indiana-jones",
     "title": "Lego Indiana Jones",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/lego-indiana-jones-b3da5a37.svg",
+    "thumbnail": "assets/thumbs/web-logos/lego-indiana-jones.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-indiana-jones-https-sites-google-com-lindberghschools-ws-crown-official-leg.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-lego-indiana-jones-2",
     "title": "Lego Indiana Jones 2",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/lego-indiana-jones-2-51b33c54.svg",
+    "thumbnail": "assets/thumbs/web-logos/lego-indiana-jones-2.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-indiana-jones-2-https-sites-google-com-lindberghschools-ws-crown-official-l.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-lego-ninjago",
     "title": "Lego Ninjago",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/lego-ninjago-ea015d51.svg",
+    "thumbnail": "assets/thumbs/web-logos/lego-ninjago.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-ninjago-https-sites-google-com-lindberghschools-ws-crown-official-lego-game.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-lego-starwars",
     "title": "Lego Starwars",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/lego-starwars-528d4db6.svg",
+    "thumbnail": "assets/thumbs/web-logos/lego-starwars.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/lego-starwars-https-sites-google-com-lindberghschools-ws-crown-official-lego-gam.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -9723,12 +9723,12 @@ window.CROWN_GAMES = [
     "id": "crown-low-knight",
     "title": "Low Knight",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/low-knight-c9371687.svg",
+    "thumbnail": "assets/thumbs/web-logos/low-knight.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/low-knight-https-sites-google-com-lindberghschools-ws-crown-official-low-knight.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -9892,12 +9892,12 @@ window.CROWN_GAMES = [
     "id": "crown-madelyn-stunt-cars",
     "title": "Madelyn Stunt Cars",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/madelyn-stunt-cars-b042e418.svg",
+    "thumbnail": "assets/thumbs/web-logos/madelyn-stunt-cars.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/madelyn-stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-mad.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -10047,12 +10047,12 @@ window.CROWN_GAMES = [
     "id": "crown-mario-party-ds",
     "title": "Mario Party DS",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/mario-party-ds-4d2231ee.svg",
+    "thumbnail": "assets/thumbs/web-logos/mario-party-ds.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mario-party-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-p.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -10324,12 +10324,12 @@ window.CROWN_GAMES = [
     "id": "crown-mimic",
     "title": "Mimic",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/mimic-6d599bd0.svg",
+    "thumbnail": "assets/thumbs/web-logos/mimic.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mimic-https-sites-google-com-lindberghschools-ws-crown-official-mimic.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -10493,12 +10493,12 @@ window.CROWN_GAMES = [
     "id": "crown-mini-world-cup",
     "title": "Mini World Cup",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/mini-world-cup-3a8baa5c.svg",
+    "thumbnail": "assets/thumbs/web-logos/mini-world-cup.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mini-world-cup-https-sites-google-com-lindberghschools-ws-crown-official-mini-wo.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -10595,24 +10595,24 @@ window.CROWN_GAMES = [
     "id": "crown-modern-warfare",
     "title": "Modern Warfare",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/modern-warfare-7f1b3af.svg",
+    "thumbnail": "assets/thumbs/web-logos/modern-warfare.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/modern-warfare-https-sites-google-com-lindberghschools-ws-crown-official-call-of.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-modern-warfare-3",
     "title": "Modern Warfare 3",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/modern-warfare-3-13b2798f.svg",
+    "thumbnail": "assets/thumbs/web-logos/modern-warfare-3.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/modern-warfare-3-https-sites-google-com-lindberghschools-ws-crown-official-call-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -11151,12 +11151,12 @@ window.CROWN_GAMES = [
     "id": "crown-my-friend-pedro",
     "title": "My Friend Pedro",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/my-friend-pedro-b5ba06ff.svg",
+    "thumbnail": "assets/thumbs/web-logos/my-friend-pedro.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/my-friend-pedro-https-sites-google-com-lindberghschools-ws-crown-official-my-fri.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -11274,12 +11274,12 @@ window.CROWN_GAMES = [
     "id": "crown-new-super-mario-bros",
     "title": "New Super Mario Bros",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/new-super-mario-bros-dbe89f1d.svg",
+    "thumbnail": "assets/thumbs/class6x/class6x-super-mario-bros.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/new-super-mario-bros-https-sites-google-com-lindberghschools-ws-crown-official-n.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -11875,12 +11875,12 @@ window.CROWN_GAMES = [
     "id": "crown-omega-nugget-clicker",
     "title": "Omega Nugget Clicker",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/omega-nugget-clicker-f56e23e9.svg",
+    "thumbnail": "assets/thumbs/web-logos/omega-nugget-clicker.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/omega-nugget-clicker-https-sites-google-com-lindberghschools-ws-crown-official-o.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -11918,12 +11918,12 @@ window.CROWN_GAMES = [
     "id": "crown-one-piece",
     "title": "One Piece",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/one-piece-1d6318d2.svg",
+    "thumbnail": "assets/thumbs/web-logos/one-piece.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/one-piece-https-sites-google-com-lindberghschools-ws-crown-official-one-piece.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -12795,12 +12795,12 @@ window.CROWN_GAMES = [
     "id": "crown-pixel-gun",
     "title": "Pixel Gun",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/pixel-gun-cc63ed7a.svg",
+    "thumbnail": "assets/thumbs/class6x/class6x-pixel-gun-survival.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pixel-gun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-gun.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -12851,12 +12851,12 @@ window.CROWN_GAMES = [
     "id": "crown-pixel-speedrun",
     "title": "Pixel Speedrun",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/pixel-speedrun-1fd5afec.svg",
+    "thumbnail": "assets/thumbs/web-logos/pixel-speedrun.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pixel-speedrun-https-sites-google-com-lindberghschools-ws-crown-official-pixel-s.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -12939,12 +12939,12 @@ window.CROWN_GAMES = [
     "id": "crown-plants-vs-zombies",
     "title": "Plants VS Zombies",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/plants-vs-zombies-bd311c51.svg",
+    "thumbnail": "assets/thumbs/web-logos/plants-vs-zombies.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/plants-vs-zombies-https-sites-google-com-lindberghschools-ws-crown-official-plan.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -12993,12 +12993,12 @@ window.CROWN_GAMES = [
     "id": "crown-pokemon-emerald",
     "title": "Pokemon Emerald",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/pokemon-emerald-697bbf6d.svg",
+    "thumbnail": "assets/thumbs/web-logos/pokemon-emerald.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pokemon-emerald-https-sites-google-com-lindberghschools-ws-crown-official-pokemo.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -13017,12 +13017,12 @@ window.CROWN_GAMES = [
     "id": "crown-pokemon-randomizer",
     "title": "Pokemon Randomizer",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/pokemon-randomizer-3e92e5c4.svg",
+    "thumbnail": "assets/thumbs/web-logos/pokemon-randomizer.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pokemon-randomizer-https-sites-google-com-lindberghschools-ws-crown-official-pok.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -13215,12 +13215,12 @@ window.CROWN_GAMES = [
     "id": "crown-prank-call-tung-tung-tung-sahur-clicker",
     "title": "Prank Call Tung Tung Tung Sahur Clicker",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/prank-call-tung-tung-tung-sahur-clicker-b71d9873.svg",
+    "thumbnail": "assets/thumbs/captures/prank-call-tung-tung-tung-sahur-clicker-https-sites-google-com-lindberghschools.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/prank-call-tung-tung-tung-sahur-clicker-https-sites-google-com-lindberghschools-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -13348,12 +13348,12 @@ window.CROWN_GAMES = [
     "id": "crown-quake-arena",
     "title": "Quake Arena",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/quake-arena-5bce3a26.svg",
+    "thumbnail": "assets/thumbs/web-logos/quake-arena.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/quake-arena-https-sites-google-com-lindberghschools-ws-crown-official-quake-aren.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -13436,12 +13436,12 @@ window.CROWN_GAMES = [
     "id": "crown-ragdoll-archers",
     "title": "Ragdoll Archers",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ragdoll-archers-2377331b.svg",
+    "thumbnail": "assets/thumbs/embedded/ragdoll-archers-https-sites-google-com-lindberghschools-ws-crown-official-ragdol.jpeg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ragdoll-archers-https-sites-google-com-lindberghschools-ws-crown-official-ragdol.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -14044,12 +14044,12 @@ window.CROWN_GAMES = [
     "id": "crown-rocket-league",
     "title": "Rocket League",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/rocket-league-4711e977.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/2d-rocket-league.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/rocket-league-https-sites-google-com-lindberghschools-ws-crown-official-rocket-l.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -14362,12 +14362,12 @@ window.CROWN_GAMES = [
     "id": "crown-russian-car-driver",
     "title": "Russian Car Driver",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/russian-car-driver-901dbcf4.svg",
+    "thumbnail": "assets/thumbs/web-logos/russian-car-driver.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/russian-car-driver-https-sites-google-com-lindberghschools-ws-crown-official-rus.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -14703,12 +14703,12 @@ window.CROWN_GAMES = [
     "id": "crown-skate-it",
     "title": "Skate It",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/skate-it-c0870e13.svg",
+    "thumbnail": "assets/thumbs/web-logos/skate-it.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/skate-it-https-sites-google-com-lindberghschools-ws-crown-official-skate-it.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -14761,12 +14761,12 @@ window.CROWN_GAMES = [
     "id": "crown-skibidi-in-the-backround",
     "title": "Skibidi In The Backround",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/skibidi-in-the-backround-9a4692c8.svg",
+    "thumbnail": "assets/thumbs/web-logos/skibidi-in-the-backround.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/skibidi-in-the-backround-https-sites-google-com-lindberghschools-ws-crown-offici.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -14788,12 +14788,12 @@ window.CROWN_GAMES = [
     "id": "crown-skibidi-toilet-sim",
     "title": "Skibidi Toilet Sim",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/skibidi-toilet-sim-aa3ca336.svg",
+    "thumbnail": "assets/thumbs/web-logos/skibidi-toilet-sim.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/skibidi-toilet-sim-https-sites-google-com-lindberghschools-ws-crown-official-ski.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -15109,12 +15109,12 @@ window.CROWN_GAMES = [
     "id": "crown-slow-roads",
     "title": "Slow Roads",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/slow-roads-a1bf5144.svg",
+    "thumbnail": "assets/thumbs/web-logos/slow-roads.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/slow-roads-https-sites-google-com-lindberghschools-ws-crown-official-slow-roads.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -15276,12 +15276,12 @@ window.CROWN_GAMES = [
     "id": "crown-sniper-shot",
     "title": "Sniper Shot",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/sniper-shot-d99cd783.svg",
+    "thumbnail": "assets/thumbs/web-logos/sniper-shot.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/sniper-shot-https-sites-google-com-lindberghschools-ws-crown-official-sniper-sho.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -15329,12 +15329,12 @@ window.CROWN_GAMES = [
     "id": "crown-soccer-legends",
     "title": "Soccer Legends",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/soccer-legends-2a15a383.svg",
+    "thumbnail": "assets/thumbs/captures/soccer-legends-https-sites-google-com-lindberghschools-ws-crown-official-soccer.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/soccer-legends-https-sites-google-com-lindberghschools-ws-crown-official-soccer-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -15462,36 +15462,36 @@ window.CROWN_GAMES = [
     "id": "crown-sonic",
     "title": "Sonic",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/sonic-46877e45.svg",
+    "thumbnail": "assets/thumbs/web-logos/sonic.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/sonic-https-sites-google-com-lindberghschools-ws-crown-official-sonic.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-sonic-r",
     "title": "Sonic R",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/sonic-r-fea084fe.svg",
+    "thumbnail": "assets/thumbs/web-logos/sonic-r.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/sonic-r-https-sites-google-com-lindberghschools-ws-crown-official-sonic-r.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
     "id": "crown-space-bar-clicker",
     "title": "Space Bar Clicker",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/space-bar-clicker-853fed05.svg",
+    "thumbnail": "assets/thumbs/web-logos/space-bar-clicker.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/space-bar-clicker-https-sites-google-com-lindberghschools-ws-crown-official-spac.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -15647,12 +15647,12 @@ window.CROWN_GAMES = [
     "id": "crown-spunky-remixed",
     "title": "Spunky Remixed",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/spunky-remixed-b8f0d892.svg",
+    "thumbnail": "assets/thumbs/web-logos/spunky-remixed.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/spunky-remixed-https-sites-google-com-lindberghschools-ws-crown-official-spunky-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -15923,12 +15923,12 @@ window.CROWN_GAMES = [
     "id": "crown-stick-man-duel",
     "title": "Stick Man Duel",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/stick-man-duel-5bc06c5d.svg",
+    "thumbnail": "assets/thumbs/web-logos/stick-man-duel.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/stick-man-duel-https-sites-google-com-lindberghschools-ws-crown-official-stick-m.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -15951,12 +15951,12 @@ window.CROWN_GAMES = [
     "id": "crown-stick-war",
     "title": "Stick War",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/stick-war-5c00be0e.svg",
+    "thumbnail": "assets/thumbs/captures/stick-war-https-sites-google-com-lindberghschools-ws-crown-official-stick-war.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/stick-war-https-sites-google-com-lindberghschools-ws-crown-official-stick-war.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -16445,12 +16445,12 @@ window.CROWN_GAMES = [
     "id": "crown-stunt-cars",
     "title": "Stunt Cars",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/stunt-cars-6545c217.svg",
+    "thumbnail": "assets/thumbs/class6x/class6x-madalin-stunt-cars-2.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/stunt-cars-https-sites-google-com-lindberghschools-ws-crown-official-stunt-cars.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -16610,12 +16610,12 @@ window.CROWN_GAMES = [
     "id": "crown-subways-surfers-beijing",
     "title": "Subways Surfers Beijing",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/subways-surfers-beijing-f20d0965.svg",
+    "thumbnail": "assets/thumbs/embedded/subways-surfers-beijing-https-sites-google-com-lindberghschools-ws-crown-officia.png",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/subways-surfers-beijing-https-sites-google-com-lindberghschools-ws-crown-officia.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -17503,12 +17503,12 @@ window.CROWN_GAMES = [
     "id": "crown-the-impossible-quiz-2",
     "title": "The Impossible Quiz 2",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/the-impossible-quiz-2-10bd99a5.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/the-impossible-quiz-book-2.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/the-impossible-quiz-2-https-sites-google-com-lindberghschools-ws-crown-official-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -18141,12 +18141,12 @@ window.CROWN_GAMES = [
     "id": "crown-trigger-ralley",
     "title": "Trigger Ralley",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/trigger-ralley-9ec342f.svg",
+    "thumbnail": "assets/thumbs/captures/trigger-ralley-https-sites-google-com-lindberghschools-ws-crown-official-trigger.png",
     "embedType": "iframe",
     "embedUrl": "https://codeartemis.github.io/TriggerRally/server/public/",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown",
+    "thumbnailSource": "local-logo",
     "source": "crown"
   },
   {
@@ -18527,12 +18527,12 @@ window.CROWN_GAMES = [
     "id": "crown-ultimate-mortal-combat",
     "title": "Ultimate Mortal Combat",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/ultimate-mortal-combat-e013d917.svg",
+    "thumbnail": "assets/thumbs/web-logos/ultimate-mortal-combat.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ultimate-mortal-combat-https-sites-google-com-lindberghschools-ws-crown-official.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -18554,7 +18554,7 @@ window.CROWN_GAMES = [
     "id": "crown-ultimate-tic-tac-toe",
     "title": "Ultimate Tic Tac Toe",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/crown-covers/ultimate-tic-tac-toe-df99dd75.svg",
+    "thumbnail": "assets/thumbs/class6x/class6x-ultimate-tic-tac-toe.jpg",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/ultimate-tic-tac-toe/",
     "playable": true,
@@ -18563,7 +18563,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "crown"
+    "thumbnailSource": "local-logo"
   },
   {
     "id": "crown-unicycle-hero",
@@ -19088,12 +19088,12 @@ window.CROWN_GAMES = [
     "id": "crown-wolf-enstien",
     "title": "WOLF Enstien",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/wolf-enstien-cd32fea6.svg",
+    "thumbnail": "assets/thumbs/web-logos/wolf-enstien.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/wolf-enstien-https-sites-google-com-lindberghschools-ws-crown-official-wolf-enst.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -19266,12 +19266,12 @@ window.CROWN_GAMES = [
     "id": "crown-world-at-war",
     "title": "World at War",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/world-at-war-3319776a.svg",
+    "thumbnail": "assets/thumbs/web-logos/world-at-war.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/world-at-war-https-sites-google-com-lindberghschools-ws-crown-official-call-of-d.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -19452,12 +19452,12 @@ window.CROWN_GAMES = [
     "id": "crown-zelda-ocarino-of-time",
     "title": "Zelda Ocarino Of Time",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/zelda-ocarino-of-time-83ac5c27.svg",
+    "thumbnail": "assets/thumbs/web-logos/zelda-ocarino-of-time.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/zelda-ocarino-of-time-https-sites-google-com-lindberghschools-ws-crown-official-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
