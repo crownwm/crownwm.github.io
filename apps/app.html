@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Crown Apps</title>
   <meta name="theme-color" content="#0b0a12">
-  <link rel="icon" href="../favicon.ico?v=20260517-logo-fix" sizes="any">
-  <link rel="stylesheet" href="../styles.css?v=20260517-logo-fix">
+  <link rel="icon" href="../favicon.ico?v=20260517-mobile-wip" sizes="any">
+  <link rel="stylesheet" href="../styles.css?v=20260517-mobile-wip">
   <style>
     body.app-page {
       min-height: 100vh;
@@ -168,6 +168,36 @@
       line-height: 1.35;
     }
 
+    .wip-panel {
+      display: grid;
+      gap: 12px;
+      border: 1px solid rgba(255, 212, 71, .22);
+      border-radius: 20px;
+      background:
+        linear-gradient(135deg, rgba(255, 212, 71, .14), rgba(139, 92, 246, .12)),
+        rgba(255,255,255,.05);
+      padding: 18px;
+    }
+
+    .wip-panel strong {
+      color: #ffd447;
+      font-size: clamp(24px, 8vw, 42px);
+      line-height: .95;
+    }
+
+    .wip-panel p {
+      margin: 0;
+      color: #efeaff;
+      font-weight: 900;
+      line-height: 1.35;
+    }
+
+    .wip-panel code {
+      overflow-wrap: anywhere;
+      color: #c4b5fd;
+      font-weight: 900;
+    }
+
     .timer-display {
       font-size: clamp(42px, 14vw, 108px);
       font-weight: 1000;
@@ -206,7 +236,7 @@
     </section>
   </main>
 
-  <script src="catalog.js?v=20260517-logo-fix"></script>
+  <script src="catalog.js?v=20260517-mobile-wip"></script>
   <script>
     const CUSTOM_APPS_KEY = "crownCustomAppsV1";
     const NOTES_KEY = "crownNotesV1";
@@ -261,7 +291,7 @@
       heroIcon.textContent = "";
       if (logo) {
         const image = document.createElement("img");
-        image.src = logo + (logo.includes("?") ? "&" : "?") + "v=20260517-logo-fix";
+        image.src = logo + (logo.includes("?") ? "&" : "?") + "v=20260517-mobile-wip";
         image.alt = "";
         heroIcon.appendChild(image);
       } else {
@@ -436,18 +466,13 @@
         tool.innerHTML = '<div class="result">This app URL is not available.</div>';
         return;
       }
-      const frameSrc = "../embeds/crown-frame.html?src=" + encodeURIComponent(url.href) + "&title=" + encodeURIComponent(app.title || "Crown App");
       tool.innerHTML =
-        '<div class="web-frame-wrap">' +
-        '<div class="tool-row"><button id="reloadWebApp" type="button">Reload App</button></div>' +
-        '<p class="app-warning">Crown keeps this inside the app shell. Some services block embedded mode themselves, so if a panel stays blank, that service is refusing iframe loading.</p>' +
-        '<iframe id="webAppFrame" class="web-app-frame" title="' + safeHtml(app.title) + '" src="' + safeHtml(frameSrc) + '" loading="eager" referrerpolicy="no-referrer-when-downgrade" allow="autoplay; fullscreen; clipboard-write; encrypted-media; gamepad; pointer-lock; accelerometer; gyroscope; magnetometer" allowfullscreen webkitallowfullscreen sandbox="allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-orientation-lock allow-presentation"></iframe>' +
+        '<div class="wip-panel">' +
+        '<strong>WIP</strong>' +
+        '<p>This app card is set up with the real app icon, but the launcher is WIP because most app websites block being loaded inside another site on mobile.</p>' +
+        '<p>Target: <code>' + safeHtml(url.hostname) + '</code></p>' +
+        '<p class="app-warning">The local Crown tools and game player still work. This keeps the page from showing a broken black iframe and makes the app state honest.</p>' +
         "</div>";
-      document.getElementById("reloadWebApp").addEventListener("click", () => {
-        const frame = document.getElementById("webAppFrame");
-        frame.src = "about:blank";
-        setTimeout(() => frame.src = frameSrc, 80);
-      });
     }
 
     function renderCustom(app) {

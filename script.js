@@ -2,7 +2,7 @@ const allGames = (window.CROWN_GAMES || []).filter(
   (game) => game.playable && (game.embedPath || game.embedUrl)
 );
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-logo-fix";
+const THUMB_VERSION = "20260517-mobile-wip";
 const LAUNCH_FADE_MS = 520;
 const hotSearches = [
   "Roblox",
@@ -175,9 +175,14 @@ function loadCustomApps() {
   }
 }
 
+function appSearchText(app) {
+  return [app.title, app.description, app.status, ...(app.categories || [])].join(" ").toLowerCase();
+}
+
 function appCard(app) {
   const title = escapeHtml(app.title || "Crown App");
   const description = escapeHtml(app.description || "Saved Crown app.");
+  const status = escapeHtml(app.status || "WIP");
   const icon = escapeHtml(String(app.icon || title.slice(0, 1) || "C").slice(0, 2).toUpperCase());
   const logo = app.logo ? versionedAsset(app.logo) : "";
   const appId = encodeURIComponent(app.id || app.title || "create");
@@ -194,17 +199,29 @@ function appCard(app) {
     (logo ? '<img class="app-logo" src="' + escapeHtml(logo) + '" alt="" loading="lazy" decoding="async">' : icon) +
     "</span><span><strong>" +
     title +
-    "</strong><small>" +
+    '</strong><span class="app-status">' +
+    status +
+    "</span><small>" +
     description +
     "</small></span></a>"
   );
 }
 
-function buildApps() {
+function renderApps(query = "") {
   const holder = $("#appsGrid");
   if (!holder) return;
+  const section = $("#appsSection");
   const catalogApps = Array.isArray(window.CROWN_APPS) ? window.CROWN_APPS : fallbackCrownApps;
-  holder.innerHTML = [...catalogApps, ...loadCustomApps()].map(appCard).join("");
+  const allApps = [...catalogApps, ...loadCustomApps()];
+  const trimmed = query.trim().toLowerCase();
+  if (!trimmed) {
+    holder.innerHTML = "";
+    if (section) section.hidden = true;
+    return;
+  }
+  const matches = allApps.filter((app) => appSearchText(app).includes(trimmed));
+  if (section) section.hidden = !matches.length;
+  holder.innerHTML = matches.map(appCard).join("");
 }
 
 function card(game, index = 0) {
@@ -327,6 +344,7 @@ function render() {
     renderGrid($("#latestGrid"), fresh);
   }
   renderGrid($("#allGrid"), list);
+  renderApps(query);
 
   $("#resultsTitle").textContent = isFiltering
     ? query
@@ -482,5 +500,4 @@ $("#search").addEventListener("input", () => {
 buildTrendChips();
 buildHeroGallery();
 buildNav();
-buildApps();
 render();

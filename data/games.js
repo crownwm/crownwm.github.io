@@ -1,5 +1,19 @@
 window.CROWN_GAMES = [
   {
+    "id": "crown-1",
+    "title": "1",
+    "category": "Local",
+    "thumbnail": "assets/thumbs/interstellar-icons/1.webp",
+    "embedType": "iframe",
+    "embedUrl": "/e/1/1/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Local"
+    ]
+  },
+  {
     "id": "crown-1-on-1-soccer",
     "title": "1 On 1 Soccer",
     "category": "Bonus Games",
@@ -18,13 +32,13 @@ window.CROWN_GAMES = [
     "id": "crown-1-v-1-lol",
     "title": "1 V 1 .lol",
     "category": "Shooting",
-    "thumbnail": "assets/thumbs/class6x/class6x-1v1-lol.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/1v1-lol.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/1v1-lol/",
+    "embedUrl": "https://1v1.lol",
     "class6xPage": "https://class6x.gitlab.io/game/1v1-lol.html"
   },
   {
@@ -199,11 +213,11 @@ window.CROWN_GAMES = [
     "id": "crown-2048",
     "title": "2048",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/class6x/class6x-2048.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/2048.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/2048/",
     "class6xPage": "https://class6x.gitlab.io/game/2048.html"
@@ -224,12 +238,26 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-2048-multitasking",
+    "title": "2048 Multitasking",
+    "category": "Local",
+    "thumbnail": "assets/thumbs/interstellar-icons/2048-multitasking.webp",
+    "embedType": "iframe",
+    "embedUrl": "/e/1/2048-multitask/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Local"
+    ]
+  },
+  {
     "id": "crown-2d-rocket-league",
     "title": "2D Rocket League",
     "category": "Racing",
-    "thumbnail": "assets/thumbs/pizzaedition/2d-rocket-league.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/2d-rocket-league.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/2drocketleague.html",
+    "embedUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/3325334/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -237,7 +265,7 @@ window.CROWN_GAMES = [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-2d-shooting",
@@ -330,6 +358,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown"
   },
   {
+    "id": "crown-3-slices",
+    "title": "3 Slices",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/3-slices.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2F3-slices.xml",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-3-slices-2",
     "title": "3 Slices 2",
     "category": "Bonus Games",
@@ -391,6 +431,18 @@ window.CROWN_GAMES = [
     "driveFileId": "14fwtngK-vE6fT3LBmcmyAhpTPruyLkpB",
     "driveFileName": "cl3dasheditor.html",
     "thumbnailSource": "crown"
+  },
+  {
+    "id": "crown-3d-dino-game",
+    "title": "3D Dino Game",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/3d-dino-game.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://lagged.com/api/play2/t-rex-3d2/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-3d-monster-truck-skyroads",
@@ -489,6 +541,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-60-sec-burger-run",
+    "title": "60 Sec. Burger Run",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/60-sec-burger-run.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/0-60-second-burger-run/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-60-second-burger-run",
     "title": "60 Second Burger Run",
     "category": "Action",
@@ -515,6 +579,18 @@ window.CROWN_GAMES = [
     "tags": [
       "Sports"
     ]
+  },
+  {
+    "id": "crown-8-ball-pool",
+    "title": "8 Ball Pool",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/8-ball-pool.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://8ball-pool.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-8bit-fiesta",
@@ -579,6 +655,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-a-dark-room",
+    "title": "A Dark Room",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/a-dark-room.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://adarkroom.doublespeakgames.com",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-a-pretty-odd-bunny",
     "title": "A Pretty Odd Bunny",
     "category": "Puzzle",
@@ -625,6 +713,30 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-ac-wild-world",
+    "title": "AC - Wild World",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/ac-wild-world.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/10/animal-crossing-wild-world1.zip",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-ace-attorney",
+    "title": "Ace Attorney",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/ace-attorney.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.kbhgames.com/r/gba/?r=ace-attorney",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-achievement-unlocked",
     "title": "Achievement Unlocked",
     "category": "Skill",
@@ -657,19 +769,31 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-addicting-games",
+    "title": "Addicting Games",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/addicting-games.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.addictinggames.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-adventure-capitalist",
     "title": "Adventure Capitalist",
     "category": "Games",
-    "thumbnail": "assets/thumbs/pizzaedition/adventure-capitalist.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/adventure-capitalist.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/adventurecapitalist.html",
+    "embedUrl": "https://than1089.github.io/adventure-capitalist/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Games"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-adventure-drivers",
@@ -689,12 +813,24 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-agar-io",
+    "title": "Agar.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/agar-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://agar.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-age-of-war",
     "title": "Age Of War",
     "category": "Action",
-    "thumbnail": "assets/thumbs/pizzaedition/age-of-war.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/age-of-war.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/ageofwar.html",
+    "embedUrl": "https://age-of-war.game-files.crazygames.com/ruffle/ageofwar.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -702,7 +838,7 @@ window.CROWN_GAMES = [
       "Action",
       "Strategy"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-age-of-war-2",
@@ -734,6 +870,21 @@ window.CROWN_GAMES = [
       "Sports"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-akinator",
+    "title": "Akinator",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/akinator.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.digidust.elokence.akinator.freemium&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-aliens-nest",
@@ -781,6 +932,30 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-amazon-luna",
+    "title": "Amazon Luna",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/amazon-luna.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://luna.amazon.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-among-us-scratch",
+    "title": "Among Us (Scratch)",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/among-us-scratch.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://turbowarp.org/523967150/fullscreen",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-amongus",
     "title": "Amongus",
     "category": "Puzzle",
@@ -792,6 +967,21 @@ window.CROWN_GAMES = [
     "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/among-us/",
     "class6xPage": "https://class6x.gitlab.io/game/among-us.html"
+  },
+  {
+    "id": "crown-android",
+    "title": "Android",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/android.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-angry-birds",
@@ -834,6 +1024,20 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-antwar-io",
+    "title": "AntWar.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/antwar-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://antwar.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-ape-sling",
     "title": "Ape Sling",
     "category": "Skill",
@@ -847,6 +1051,33 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-apex-legends",
+    "title": "Apex Legends",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/apex-legends.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://play.geforcenow.com/games?game-id=cb2b1b5f-54ba-45fd-9839-96bbfe1376cd&lang=en_US&asset-id=01_c6efce00-e91e-402a-8b72-f4971f89c528",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-aptoide",
+    "title": "Aptoide",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/aptoide.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-aqua-thrills",
@@ -930,6 +1161,20 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-arras-io",
+    "title": "Arras.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/arras-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://arras.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
   },
   {
     "id": "crown-arrow-pathway",
@@ -1246,6 +1491,20 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-bandit-rip",
+    "title": "Bandit.RIP",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/bandit-rip.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://bandit.rip/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-bank-robbery",
     "title": "Bank Robbery",
     "category": "Bonus Games",
@@ -1343,9 +1602,9 @@ window.CROWN_GAMES = [
     "id": "crown-basket-random",
     "title": "Basket Random",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/class6x/class6x-basket-random.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/basket-random.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/basket-random/",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/bf1268dccb5d43e7970bb3edaa54afc8/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -1354,7 +1613,7 @@ window.CROWN_GAMES = [
       "2 Player",
       "Sports"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-basket-swooshes",
@@ -1378,14 +1637,26 @@ window.CROWN_GAMES = [
     "id": "crown-basket-ball-stars",
     "title": "Basket-Ball Stars",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/class6x/class6x-basketball-stars.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/basketball-stars.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/basketball-stars/",
+    "embedUrl": "https://html5.gamedistribution.com/69d78d071f704fa183d75b4114ae40ec/",
     "class6xPage": "https://class6x.gitlab.io/game/basketball-stars.html"
+  },
+  {
+    "id": "crown-basketball-bros",
+    "title": "Basketball Bros",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/basketball-bros.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.basketbros.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-basketball-frvr",
@@ -1407,9 +1678,9 @@ window.CROWN_GAMES = [
     "id": "crown-basketball-legends",
     "title": "Basketball Legends",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/class6x/class6x-basketball-legends.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/basketball-legends.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/basketball-legends/",
+    "embedUrl": "https://www.basketballlegends.fun/gamedata/basketball-legends-2020",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -1418,7 +1689,7 @@ window.CROWN_GAMES = [
       "Sports",
       "Featured"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-battle-golf",
@@ -1615,9 +1886,9 @@ window.CROWN_GAMES = [
     "id": "crown-big-tower-tiny-square",
     "title": "Big Tower Tiny Square",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/pizzaedition/big-tower-tiny-square.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/big-tower-tiny-square.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/bigtowertinysquare2.html",
+    "embedUrl": "https://www.coolmathgames.com/0-big-tower-tiny-square/play",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -1625,7 +1896,19 @@ window.CROWN_GAMES = [
       "Skill",
       "Adventure"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-biggie-cheese-fight",
+    "title": "Biggie Cheese Fight",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/biggie-cheese-fight.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://scratch.mit.edu/projects/163771748/fullscreen",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-bike-obby",
@@ -1723,16 +2006,16 @@ window.CROWN_GAMES = [
     "id": "crown-bitlife",
     "title": "Bitlife",
     "category": "Featured",
-    "thumbnail": "assets/thumbs/class6x/class6x-bitlife.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/bitlife.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/bitlife/",
+    "embedUrl": "https://xlegends.github.io/bitlife/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Featured"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-bitlife-1-chance-of-loading",
@@ -1860,6 +2143,36 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-bloons-td-battles",
+    "title": "Bloons TD Battles",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/bloons-td-battles.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.ninjakiwi.bloonstdbattles&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "crown-bloons-td-battles-2",
+    "title": "Bloons TD Battles 2",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/bloons-td-battles-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.ninjakiwi.bloonstdbattles2&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
     "id": "crown-bloons-tower-defense-4",
     "title": "Bloons Tower Defense 4",
     "category": "Games",
@@ -1875,13 +2188,13 @@ window.CROWN_GAMES = [
     "id": "crown-bloxd-io",
     "title": "Bloxd.io",
     "category": "Multiplayer",
-    "thumbnail": "assets/thumbs/crown-covers/bloxd-io-dc41774d.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/bloxd-io.webp",
     "embedType": "iframe",
-    "embedUrl": "https://bloxd.io/",
+    "embedUrl": "https://bloxd.io",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-blue",
@@ -2069,6 +2382,21 @@ window.CROWN_GAMES = [
       "Puzzle"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-bomb-party",
+    "title": "Bomb Party",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/bomb-party.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://jklm.fun",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "2 Player"
+    ]
   },
   {
     "id": "crown-bomber-royale",
@@ -2319,16 +2647,28 @@ window.CROWN_GAMES = [
     "id": "crown-brain-test",
     "title": "Brain Test",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/pizzaedition/brain-test.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/brain-test.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/braintest.html",
+    "embedUrl": "https://0322484b-7a58-4454-9667-f805afffded5.poki-gdn.com/2e6b68d3-0f43-4b84-9c14-ab59f94e566c/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-v3.132.1&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fbrain-test-tricky-puzzles&gdhoist=yes&nonPersonalized=n&familyFriendly=n&categories=7%2C16%2C37%2C72%2C96%2C400%2C832%2C843%2C1140%2C1150%2C1159&special_condition=landing&game_id=0322484b-7a58-4454-9667-f805afffded5&game_version_id=2e6b68d3-0f43-4b84-9c14-ab59f94e566c",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-brain-test-2",
+    "title": "Brain Test 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/brain-test-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://games.poki.com/458768/df221093-aae9-4c0d-b458-efb16ae8e3ab",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-brain-test-2-tricky-stories",
@@ -2344,6 +2684,18 @@ window.CROWN_GAMES = [
       "Puzzle"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-brain-test-3",
+    "title": "Brain Test 3",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/brain-test-3.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://games.poki.com/458768/1f3ae540-a95f-4f20-a000-29512612e341",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-brain-test-3-tricky-quests",
@@ -2405,6 +2757,18 @@ window.CROWN_GAMES = [
       "Stickman"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-btd-4",
+    "title": "BTD 4",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/btd-4.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://en.gameslol.net/data/bloons-td-4/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-bubble-shooter",
@@ -2469,6 +2833,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-buckshot-roulette",
+    "title": "Buckshot Roulette",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/buckshot-roulette.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://buckshotroulette.online/game/v11/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-building-mods-for-minecraft",
     "title": "Building Mods For Minecraft",
     "category": "Roblox-Style",
@@ -2486,6 +2862,18 @@ window.CROWN_GAMES = [
       "parkour",
       "crown"
     ]
+  },
+  {
+    "id": "crown-buildnow-gg",
+    "title": "BuildNow.GG",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/buildnow-gg.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://games.crazygames.com/en_US/buildnow-gg/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-bullet-bro",
@@ -2525,13 +2913,13 @@ window.CROWN_GAMES = [
     "id": "crown-bullet-force-multiplayer",
     "title": "Bullet Force Multiplayer",
     "category": "Shooting",
-    "thumbnail": "assets/thumbs/crown-covers/bullet-force-multiplayer-9cdcde20.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/bullet-force-multiplayer.webp",
     "embedType": "iframe",
     "embedUrl": "https://www.crazygames.com/game/bullet-force-multiplayer",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-bumper-cars-soccer",
@@ -2668,29 +3056,41 @@ window.CROWN_GAMES = [
     "id": "crown-burrito-bison",
     "title": "Burrito Bison",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/class6x/class6x-burrito-bison.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/burrito-bison.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/burrito-bison/",
+    "embedUrl": "https://f.silvergames.com/awayfl/index.html?swf=burrito-bison.swf",
     "class6xPage": "https://class6x.gitlab.io/game/burrito-bison.html"
+  },
+  {
+    "id": "crown-candy-box",
+    "title": "Candy Box",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/candy-box.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://candybox2.net",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-candy-jump",
     "title": "Candy Jump",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/class6x/class6x-candy-jump.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/candy-jump.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/candy-jump/",
+    "embedUrl": "https://candyjump.games235.com/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-cappybara-clicker",
@@ -2879,6 +3279,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-cat-ninja",
+    "title": "Cat Ninja",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/cat-ninja.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://4iapq88o5f3gc1dij3it0mp5jojnm3jr-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%252Fcat-ninja.xml",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-cat-room-blast",
     "title": "Cat Room Blast",
     "category": "3D",
@@ -3002,6 +3414,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-celeste-pico-8",
+    "title": "Celeste PICO-8",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/celeste-pico-8.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://exok.com/minigames/celeste.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-cell-machine",
     "title": "Cell Machine",
     "category": "Puzzle",
@@ -3016,6 +3440,21 @@ window.CROWN_GAMES = [
       "Games"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-character-ai",
+    "title": "Character AI",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/character-ai.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-cheese-rolling",
@@ -3063,6 +3502,18 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-chess-com",
+    "title": "Chess.com",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/chess-com.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://chess.com",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-chicken-sword-ninja-master",
@@ -3267,14 +3718,26 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-clicker-heros",
+    "title": "Clicker Heros",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/clicker-heros.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.clickerheroes.com/play.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-cluster-rush",
     "title": "Cluster rush",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-cluster-rush.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/cluster-rush.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/cluster-rush/",
     "class6xPage": "https://class6x.gitlab.io/game/cluster-rush.html"
@@ -3388,19 +3851,58 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-connections",
+    "title": "Connections",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/connections.png",
+    "embedType": "iframe",
+    "embedUrl": "https://www.nytimes.com/games/connections",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-connections-unlimited",
+    "title": "Connections Unlimited",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/connections-unlimited.png",
+    "embedType": "iframe",
+    "embedUrl": "https://1games.io/game/connections-game/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-cookie-clicker",
     "title": "Cookie Clicker",
     "category": "Featured",
-    "thumbnail": "assets/thumbs/class6x/class6x-cookie-clicker.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/cookie-clicker.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/cookie-clicker/",
+    "embedUrl": "https://orteil.dashnet.org/cookieclicker/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Featured"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-cookie-run-kingdom",
+    "title": "Cookie Run Kingdom",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/cookie-run-kingdom.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.devsisters.ck&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-cooking-fast-halloween",
@@ -3416,6 +3918,20 @@ window.CROWN_GAMES = [
       "Adventure"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-cooking-mama",
+    "title": "Cooking Mama",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/cooking-mama.jpg",
+    "embedType": "iframe",
+    "embedUrl": "https://seraph.reveriestudios.online/games/cookingmama/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator"
+    ]
   },
   {
     "id": "crown-core-ball",
@@ -3443,6 +3959,18 @@ window.CROWN_GAMES = [
       "Puzzle"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-counter-strike-1-6",
+    "title": "Counter Strike 1.6",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/counter-strike-1-6.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://play-cs.com/en/servers",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-court-kings-3d",
@@ -3599,6 +4127,24 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-crazy-games",
+    "title": "Crazy Games",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/crazy-games.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.crazygames.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "Emu,",
+      "2P,",
+      "Sports,",
+      "Flash"
+    ]
+  },
+  {
     "id": "crown-crazy-motorcycle",
     "title": "Crazy Motorcycle",
     "category": "Roblox-Style",
@@ -3672,9 +4218,9 @@ window.CROWN_GAMES = [
     "id": "crown-crossy-road",
     "title": "Crossy Road",
     "category": "Running",
-    "thumbnail": "assets/thumbs/class6x/class6x-crossy-road.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/crossy-road.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/crossy-road/",
+    "embedUrl": "https://5dd2e1e3-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/169dc11d-e718-4b36-9e60-d5ed5bc07a31/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -3682,7 +4228,19 @@ window.CROWN_GAMES = [
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-cryzen",
+    "title": "Cryzen",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/cryzen.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://cryzen.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-csgo-clicker",
@@ -3695,6 +4253,18 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/csgo-clicker-https-sites-google-com-lindberghschools-ws-crown-official-csgo-clic.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-csgo-parkour",
+    "title": "CSGO Parkour",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/csgo-parkour.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://yandex.com/games/app/203069?flags={%22adv_sticky_banner_disabled%22:true}",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-cubefeild",
@@ -3715,13 +4285,13 @@ window.CROWN_GAMES = [
     "id": "crown-cubes-2048",
     "title": "Cubes 2048",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/crown-covers/cubes-2048-505a3f3c.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/cubes-2048.webp",
     "embedType": "iframe",
     "embedUrl": "https://www.crazygames.com/game/cubes-2048-io",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-cubes-king",
@@ -4043,19 +4613,31 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-deadshot",
+    "title": "Deadshot",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/deadshot.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://deadshot.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-deal-or-no-deal",
     "title": "Deal Or No Deal",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/pizzaedition/deal-or-no-deal.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/deal-or-no-deal.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/dealornodeal.html",
+    "embedUrl": "https://f.kbhgames.com/RS/game.php?r=//f.kbhgames.com/2018/swf/dondeal2.swf&w=640&h=480&warnsupport=true",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-death-chase",
@@ -4090,19 +4672,33 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-deeeep-io",
+    "title": "Deeeep.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/deeeep-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://beta.deeeep.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-deepest-sword",
     "title": "Deepest Sword",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-deepest-sword.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/deepest-sword.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/deepest-sword/",
+    "embedUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/4017918/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-deer-simulator",
@@ -4219,6 +4815,18 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-diep-io",
+    "title": "Diep.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/diep-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://diep.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-dig-to-china",
     "title": "Dig To China",
     "category": "Games",
@@ -4229,6 +4837,20 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/dig-to-china-https-sites-google-com-lindberghschools-ws-crown-official-dig-to-ch.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-digdig-io",
+    "title": "digdig.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/digdig-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://digdig.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
   },
   {
     "id": "crown-dino-bros",
@@ -4323,7 +4945,7 @@ window.CROWN_GAMES = [
     "id": "crown-doge-miner",
     "title": "Doge Miner",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/class6x/class6x-doge-miner.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/doge-miner.webp",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/doge-miner/",
     "playable": true,
@@ -4332,7 +4954,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-dogeminer-2",
@@ -4348,6 +4970,18 @@ window.CROWN_GAMES = [
       "Games"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-donitz-itch-io",
+    "title": "Donitz - itch.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/donitz-itch-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://donitz.itch.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-doodle-champion-island",
@@ -4368,20 +5002,20 @@ window.CROWN_GAMES = [
     "id": "crown-doodle-jump",
     "title": "Doodle Jump",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/class6x/class6x-doodle-jump.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/doodle-jump.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/doodle-jump/",
+    "embedUrl": "https://doodlejump.pro/",
     "class6xPage": "https://class6x.gitlab.io/game/doodle-jump.html"
   },
   {
     "id": "crown-doom",
     "title": "Doom",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/crown-covers/doom-c9debb8e.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/doom.webp",
     "embedType": "html",
     "embedPath": "embeds/drive/doom-1vfeu3gp.html",
     "playable": true,
@@ -4390,7 +5024,31 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1vfeu3GpafbQBfrv_l_ql72qDlT26OXj1",
     "driveFileName": "cl2doom.html",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-doom-1",
+    "title": "Doom 1",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/doom-1.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://browncha023.github.io/GBA/launcher.html#dm",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-doom-2",
+    "title": "Doom 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/doom-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://browncha023.github.io/GBA/launcher.html#dm2",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-doom-64",
@@ -4454,6 +5112,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-dreader",
+    "title": "Dreader",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/dreader.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://donitz.itch.io/dreader",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-dreadhead-parkour",
     "title": "Dreadhead Parkour",
     "category": "Skill",
@@ -4473,22 +5143,22 @@ window.CROWN_GAMES = [
     "id": "crown-drift-boss",
     "title": "Drift Boss",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-drift-boss.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/drift-boss.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/drift-boss/",
+    "embedUrl": "https://watchdocumentaries.com/wp-content/uploads/games/drift-boss/",
     "class6xPage": "https://class6x.gitlab.io/game/drift-boss.html"
   },
   {
     "id": "crown-drift-hunters",
     "title": "Drift Hunters",
     "category": "Racing",
-    "thumbnail": "assets/thumbs/class6x/class6x-drift-hunters.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/drift-hunters.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/drift-hunters/",
+    "embedUrl": "https://webglmath.github.io/drift-hunters/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -4496,7 +5166,7 @@ window.CROWN_GAMES = [
       "Featured",
       "Racing"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-driftwave",
@@ -4520,13 +5190,13 @@ window.CROWN_GAMES = [
     "id": "crown-drive-mad",
     "title": "Drive Mad",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-drive-mad.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/drive-mad.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/drive-mad/",
+    "embedUrl": "https://raw.githack.com/3kh0/3kh0-assets/main/drive-mad/index.html",
     "class6xPage": "https://class6x.gitlab.io/game/drive-mad.html"
   },
   {
@@ -4573,29 +5243,41 @@ window.CROWN_GAMES = [
     "class6xPage": "https://class6x.gitlab.io/game/duck-life.html"
   },
   {
+    "id": "crown-duck-life-1",
+    "title": "Duck Life 1",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/duck-life-1.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.hoodamath.com/mobile/games/duck-life/game.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-duck-life-2",
     "title": "Duck Life 2",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-duck-life-2.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/duck-life-2.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/duck-life-2/",
+    "embedUrl": "https://www.hoodamath.com/mobile/games/duck-life-2-world-champion/game.html",
     "class6xPage": "https://class6x.gitlab.io/game/duck-life-2.html"
   },
   {
     "id": "crown-duck-life-3",
     "title": "Duck Life 3",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-duck-life-3-evolution.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/duck-life-3.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/duck-life-3-evolution/",
+    "embedUrl": "https://www.hoodamath.com/mobile/games/duck-life-3-evolution/game.html",
     "class6xPage": "https://class6x.gitlab.io/game/duck-life-3-evolution.html",
     "tags": [
       "Adventure",
@@ -4606,11 +5288,11 @@ window.CROWN_GAMES = [
     "id": "crown-duck-life-4",
     "title": "Duck Life 4",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-duck-life-4.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/duck-life-4.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/duck-life-4/",
     "class6xPage": "https://class6x.gitlab.io/game/duck-life-4.html"
@@ -4832,6 +5514,48 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-dynast-io",
+    "title": "Dynast.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/dynast-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://dynast.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-ea-sports-fc-mobile-24-soccer",
+    "title": "EA SPORTS FC™ MOBILE 24 SOCCER",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/ea-sports-fc-mobile-24-soccer.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.ea.gp.fifamobile&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "crown-ea-sports-ufc-mobile-2",
+    "title": "EA SPORTS™ UFC® Mobile 2",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/ea-sports-ufc-mobile-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.ea.gp.easportsufc2&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
     "id": "crown-earn-to-die",
     "title": "Earn To Die",
     "category": "Racing",
@@ -4846,6 +5570,18 @@ window.CROWN_GAMES = [
       "Racing"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-earn-to-die-2012-part-2",
+    "title": "Earn to Die 2012 Part 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/earn-to-die-2012-part-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://games-online.io/game/EarnToDie/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-edge-surf",
@@ -5017,16 +5753,30 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-ev-io",
+    "title": "ev.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/ev-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://ev.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-evades",
     "title": "Evades",
     "category": "Multiplayer",
-    "thumbnail": "assets/thumbs/crown-covers/evades-bd08de29.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/evades.webp",
     "embedType": "iframe",
-    "embedUrl": "https://evades.io/",
+    "embedUrl": "https://evades.io",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-evo-city-driving",
@@ -5118,6 +5868,18 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-fallout-2",
+    "title": "Fallout 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/fallout-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://jonasz-o.itch.io/fallout2remake3d",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-fancade",
     "title": "Fancade",
     "category": "Games",
@@ -5179,6 +5941,30 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-fancy-pants-adventure",
+    "title": "Fancy Pants Adventure",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/fancy-pants-adventure.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://games.crazygames.com/en_US/fancy-pants-adventure-world/index.html?v=1.273",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-fancy-pants-adventure-2",
+    "title": "Fancy Pants Adventure 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/fancy-pants-adventure-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://games.crazygames.com/en_US/fancy-pants-adventure-world/index.html?v=1.273",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-farm-battles",
     "title": "Farm Battles",
     "category": "2 Player",
@@ -5222,6 +6008,18 @@ window.CROWN_GAMES = [
       "Adventure"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-feedvid",
+    "title": "FeedVid",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/feedvid.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/4941980-683813/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-fifa-2k",
@@ -5305,13 +6103,13 @@ window.CROWN_GAMES = [
     "id": "crown-fireboy-and-watergirl-2-in-the-light-temple",
     "title": "Fireboy And Watergirl 2 In The Light Temple",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/crown-covers/fireboy-and-watergirl-2-in-the-light-temple-5cf78e67.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fireboy-and-watergirl-2-in-the-light-temple.webp",
     "embedType": "iframe",
     "embedUrl": "https://www.coolmathgames.com/sites/default/files/public_games/40210/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-fireboy-and-watergirl-2-light-temple",
@@ -5351,13 +6149,13 @@ window.CROWN_GAMES = [
     "id": "crown-fireboy-and-watergirl-4-in-the-crystal-temple",
     "title": "Fireboy And Watergirl 4 In The Crystal Temple",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/crown-covers/fireboy-and-watergirl-4-in-the-crystal-temple-2bef260f.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fireboy-and-watergirl-4-in-the-crystal-temple.webp",
     "embedType": "iframe",
     "embedUrl": "https://www.coolmathgames.com/sites/default/files/public_games/40212/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-fireboy-and-watergirl-4-crystal-temple",
@@ -5380,9 +6178,9 @@ window.CROWN_GAMES = [
     "id": "crown-fireboy-and-watergirl-5-elements",
     "title": "Fireboy and Watergirl 5: Elements",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/class6x/class6x-fireboy-and-watergirl-5-elements.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fireboy-and-watergirl-5-elements.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/fireboy-and-watergirl-5-elements/",
+    "embedUrl": "https://www.coolmathgames.com/sites/default/files/public_games/40218",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -5390,15 +6188,15 @@ window.CROWN_GAMES = [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-fireboy-and-watergirl-6-fairy-tales",
     "title": "Fireboy and Watergirl 6: Fairy Tales",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/class6x/class6x-fireboy-and-watergirl-6-fairy-tales.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fireboy-and-watergirl-6-fairy-tales.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/fireboy-and-watergirl-6-fairy-tales/",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/be3cff113c4e4f069b7614851825ffe9/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -5406,19 +6204,19 @@ window.CROWN_GAMES = [
       "2 Player",
       "Puzzle"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-fireboy-and-watergirl-in-the-forest-temple",
     "title": "Fireboy And Watergirl In The Forest Temple",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/crown-covers/fireboy-and-watergirl-in-the-forest-temple-408855ff.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fireboy-and-watergirl-in-the-forest-temple.webp",
     "embedType": "iframe",
     "embedUrl": "https://www.coolmathgames.com/sites/default/files/public_games/40034/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-five-nights-at-freedy-s",
@@ -5431,6 +6229,20 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/five-nights-at-freedy-s-https-sites-google-com-lindberghschools-ws-crown-officia.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-five-nights-at-winston-s",
+    "title": "Five Nights at Winston's",
+    "category": "Game Sites",
+    "thumbnail": "assets/thumbs/interstellar-icons/five-nights-at-winston-s.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://g.deev.is/fnaw/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Game Sites"
+    ]
   },
   {
     "id": "crown-flags-maniac",
@@ -5527,6 +6339,20 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-florr-io",
+    "title": "florr.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/florr-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://florr.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-flying-car-simulator",
     "title": "Flying Car Simulator",
     "category": "3D",
@@ -5569,6 +6395,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown"
   },
   {
+    "id": "crown-fnaf-2-scratch",
+    "title": "FNAF 2 (Scratch)",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnaf-2-scratch.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://scratch.mit.edu/projects/469219637/embed/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-fnaf-3",
     "title": "FNAF 3",
     "category": "Horror",
@@ -5584,43 +6422,43 @@ window.CROWN_GAMES = [
     "id": "crown-fnaf-web",
     "title": "FNAF Web",
     "category": "Horror",
-    "thumbnail": "assets/thumbs/crown-covers/fnaf-web-37f2555b.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnaf-web.webp",
     "embedType": "iframe",
     "embedUrl": "https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-fnaf2",
     "title": "FNAF2",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/pizzaedition/fnaf2.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnaf-2.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/fnaf2.html",
+    "embedUrl": "https://sussygamedeveloper.github.io/FNAF2/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-fnaf3",
     "title": "FNAF3",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/pizzaedition/fnaf3.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnaf-3.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/fnaf3.html",
+    "embedUrl": "https://sussygamedeveloper.github.io/fnaf3/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Adventure"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-fnaf4",
@@ -5663,6 +6501,30 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/fnf-https-sites-google-com-lindberghschools-ws-crown-official-fnf.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-fnf-lofi-mod",
+    "title": "FNF - Lofi Mod",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnf-lofi-mod.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://fnf.kdata1.com/lofi-funkin/2/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-fnf-vs-snorlax",
+    "title": "FNF VS. Snorlax",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/fnf-vs-snorlax.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://fnf.kdata1.com/snorlax/1/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-foot-chinko",
@@ -5803,6 +6665,33 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-fortnite-geforce-now",
+    "title": "Fortnite (Geforce NOW)",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/fortnite-geforce-now.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://play.geforcenow.com/mall/#/deeplink?game-id=46bfab06-d864-465d-9e56-2d9e45cdee0a",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-fortnite-now-gg",
+    "title": "Fortnite (Now.GG)",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/fortnite-now-gg.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.epicgames.fortnite&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
     "id": "crown-fortride-open-world",
     "title": "Fortride: Open World",
     "category": "Racing",
@@ -5865,6 +6754,21 @@ window.CROWN_GAMES = [
       "3D"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-free-fire",
+    "title": "Free Fire",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/free-fire.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.dts.freefireth&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-free-kick-shooter",
@@ -6003,6 +6907,18 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-friday-night-funkin",
+    "title": "Friday Night Funkin'",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/friday-night-funkin.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-fruit-merge",
@@ -6157,9 +7073,9 @@ window.CROWN_GAMES = [
     "id": "crown-g-switch-3",
     "title": "G Switch 3",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/class6x/class6x-g-switch-3.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/g-switch-3.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/g-switch-3/",
+    "embedUrl": "https://5dd2b395-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/120fdec6-7eeb-470f-a43c-9bcdace0dacb/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -6169,7 +7085,31 @@ window.CROWN_GAMES = [
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-g-switch",
+    "title": "G-Switch",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/g-switch.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://5dd24442-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/4f2c69b4-3edc-4cd7-a078-efd3d1ea9fb5/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-g-switch-2",
+    "title": "G-Switch 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/g-switch-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://5dd27095-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/e0e70ee4-fdd4-4de8-931d-fde7d1cb408b/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-g-switch-4",
@@ -6208,13 +7148,64 @@ window.CROWN_GAMES = [
     "id": "crown-gartic-phone",
     "title": "Gartic Phone",
     "category": "Multiplayer",
-    "thumbnail": "assets/thumbs/crown-covers/gartic-phone-fcde2834.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/gartic-phone.webp",
     "embedType": "iframe",
-    "embedUrl": "https://garticphone.com/",
+    "embedUrl": "https://garticphone.com",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-gba-emulator",
+    "title": "GBA Emulator",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/gba-emulator.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://ds.44670.org/gba/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "Emulator"
+    ]
+  },
+  {
+    "id": "crown-gba-games",
+    "title": "GBA Games",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/gba-games.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://real-sgs.vercel.app/Tools/GBA-Emulator",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-gba-games-2",
+    "title": "GBA Games 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/gba-games-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://cattn.github.io/gba/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-geforce-now",
+    "title": "Geforce NOW",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/geforce-now.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://play.geforcenow.com",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-gem-11",
@@ -6245,6 +7236,21 @@ window.CROWN_GAMES = [
       "Puzzle"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-genshin-impact",
+    "title": "Genshin Impact",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/genshin-impact.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.miHoYo.GenshinImpact&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-geometry-dash",
@@ -6288,6 +7294,20 @@ window.CROWN_GAMES = [
     "class6xPage": "https://class6x.gitlab.io/game/getaway-shootout.html"
   },
   {
+    "id": "crown-getaway-s",
+    "title": "Getaway S.",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/getaway-s.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.twoplayergames.org/embed/getaway-shootout",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-gladiator-true-story",
     "title": "Gladiator True Story",
     "category": "3D",
@@ -6306,9 +7326,9 @@ window.CROWN_GAMES = [
     "id": "crown-gladihoppers",
     "title": "Gladihoppers",
     "category": "Action",
-    "thumbnail": "assets/thumbs/pizzaedition/gladihoppers.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/gladihoppers.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/gladihoppers.html",
+    "embedUrl": "https://bonbang.github.io/store99/gladihoppers/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -6317,7 +7337,19 @@ window.CROWN_GAMES = [
       "2 Player",
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-globle",
+    "title": "Globle",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/globle.png",
+    "embedType": "iframe",
+    "embedUrl": "https://globle.org/?",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-go-kart-go-ultra",
@@ -6397,6 +7429,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-golden-eye-007",
+    "title": "Golden Eye 007",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/golden-eye-007.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.kbhgames.com/r/n64/game.php?file=007-golden-eye.zip",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-golf-champions",
     "title": "Golf Champions",
     "category": "3D",
@@ -6446,6 +7490,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-google-baseball",
+    "title": "Google Baseball",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/google-baseball.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.google.com/logos/2019/july4th19/r6/july4th19.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-google-dino",
     "title": "Google Dino",
     "category": "Running",
@@ -6466,16 +7522,40 @@ window.CROWN_GAMES = [
     "id": "crown-google-feud",
     "title": "Google Feud",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/class6x/class6x-google-feud.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/google-feud.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/google-feud/",
+    "embedUrl": "https://googlefeud.com/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-google-snake-modded",
+    "title": "Google Snake Modded",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/google-snake-modded.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://googlesnakemods.com/v/current/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-goomy-clicker-2",
+    "title": "Goomy Clicker 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/goomy-clicker-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://idle-js-games.github.io/goomyClicker2/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-goose-game",
@@ -6637,13 +7717,13 @@ window.CROWN_GAMES = [
     "id": "crown-gun-spin",
     "title": "Gun Spin",
     "category": "Shooting",
-    "thumbnail": "assets/thumbs/class6x/class6x-gunspin.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/gunspin.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/gunspin/",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/917cce8c44c44638a8cdc2a1794b65c8/index.html",
     "class6xPage": "https://class6x.gitlab.io/game/gunspin.html"
   },
   {
@@ -6661,6 +7741,18 @@ window.CROWN_GAMES = [
       "Action"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-half-life",
+    "title": "Half-Life",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/half-life.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://x8bitrain.github.io/webXash/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-hammer-2-reloaded",
@@ -6712,12 +7804,12 @@ window.CROWN_GAMES = [
     "id": "crown-happy-wheels",
     "title": "Happy Wheels",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/happy-wheels-7533413a.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/happy-wheels.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/happy-wheels-https-sites-google-com-lindberghschools-ws-crown-official-happy-whe.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -6735,6 +7827,18 @@ window.CROWN_GAMES = [
       "Racing"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-haunted-school-1",
+    "title": "Haunted School 1",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/haunted-school-1.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://games.crazygames.com/en_US/haunted-school---horror-game/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-head-soccer-2023",
@@ -6789,12 +7893,12 @@ window.CROWN_GAMES = [
     "id": "crown-helix-jump",
     "title": "Helix Jump",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/helix-jump-69158a64.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/helix-jump.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/helix-jump-https-sites-google-com-lindberghschools-ws-crown-official-helix-jump.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -6893,6 +7997,18 @@ window.CROWN_GAMES = [
       "parkour",
       "crown"
     ]
+  },
+  {
+    "id": "crown-hexarena",
+    "title": "HexArena",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/hexarena.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://hexarena.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-hexgl",
@@ -7054,12 +8170,12 @@ window.CROWN_GAMES = [
     "id": "crown-hole-io",
     "title": "Hole.io",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/hole-io-6c064a38.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/hole-io.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/hole-io-https-sites-google-com-lindberghschools-ws-crown-official-hole-io.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -7134,6 +8250,18 @@ window.CROWN_GAMES = [
       "Shooting"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-hordes",
+    "title": "Hordes",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/hordes.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://hordes.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-horse-shoeing",
@@ -7277,7 +8405,7 @@ window.CROWN_GAMES = [
     "id": "crown-idle-breakout",
     "title": "Idle Breakout",
     "category": "Games",
-    "thumbnail": "assets/thumbs/pizzaedition/idle-breakout.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/idle-breakout.webp",
     "embedType": "iframe",
     "embedUrl": "https://pizzaedition.win/assets/mainstorage/idle-breakout.html",
     "playable": true,
@@ -7286,7 +8414,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Games"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-idle-dices",
@@ -7378,6 +8506,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-idle-startup-tycoon",
+    "title": "Idle Startup Tycoon",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/idle-startup-tycoon.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.mortgagecalculator.org/money-games/idle-startup-tycoon/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-iidle-cowshed",
     "title": "Iidle Cowshed",
     "category": "Featured",
@@ -7427,9 +8567,9 @@ window.CROWN_GAMES = [
     "id": "crown-impossible-quiz",
     "title": "Impossible Quiz",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/pizzaedition/impossible-quiz.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/the-impossible-quiz.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/theimpossiblequiz.html",
+    "embedUrl": "https://the-impossible-quiz.game-files.crazygames.com/ruffle/theimpossiblequiz.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -7437,7 +8577,7 @@ window.CROWN_GAMES = [
       "Puzzle",
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-impossible-tic-tac-toe",
@@ -7519,6 +8659,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown"
   },
   {
+    "id": "crown-interactive-buddy",
+    "title": "Interactive Buddy",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/interactive-buddy.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/ruffle/player.php?id=204",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-into-the-pit",
     "title": "Into The Pit",
     "category": "Adventure",
@@ -7553,6 +8705,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-isleward",
+    "title": "Isleward",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/isleward.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://play.isleward.com",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-italian-brainrot-obby-parkour",
     "title": "Italian Brainrot Obby Parkour",
     "category": "Roblox-Style",
@@ -7572,6 +8736,22 @@ window.CROWN_GAMES = [
     ]
   },
   {
+    "id": "crown-itch-io",
+    "title": "Itch.io",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/itch-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://itch.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "Emu,",
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-its-story-time",
     "title": "Its Story Time",
     "category": "Puzzle",
@@ -7586,6 +8766,18 @@ window.CROWN_GAMES = [
       "Racing"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-jacksmith",
+    "title": "Jacksmith",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/jacksmith.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/0-jacksmith/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-jailbreak-escape-from-prison",
@@ -7640,6 +8832,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-jelly-mario",
+    "title": "Jelly Mario",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/jelly-mario.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://jellymar.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-jelly-truck",
     "title": "Jelly Truck",
     "category": "Racing",
@@ -7659,7 +8863,7 @@ window.CROWN_GAMES = [
     "id": "crown-jetpack-joyride",
     "title": "Jetpack Joyride",
     "category": "Shooting",
-    "thumbnail": "assets/thumbs/class6x/class6x-jetpack-joyride.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/jetpack-joyride.webp",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/jetpack-joyride/",
     "playable": true,
@@ -7668,7 +8872,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-jigsaw-photo-puzzle-christmas",
@@ -7741,13 +8945,13 @@ window.CROWN_GAMES = [
     "id": "crown-johnny-upgrade",
     "title": "Johnny Upgrade",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/johnny-upgrade-2c7c1996.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/johnny-upgrade.webp",
     "embedType": "iframe",
     "embedUrl": "https://lagged.com/api/play2/johnny-upgrade3/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-jollyworld",
@@ -7863,9 +9067,9 @@ window.CROWN_GAMES = [
     "id": "crown-justfall-lol",
     "title": "Justfall.LOL",
     "category": "Multiplayer",
-    "thumbnail": "assets/thumbs/pizzaedition/justfall-lol.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/justfall-lol.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/justfalllol.html",
+    "embedUrl": "https://justfall.lol",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -7874,7 +9078,7 @@ window.CROWN_GAMES = [
       "Action",
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-kart-race-3d",
@@ -7909,6 +9113,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-kiomet",
+    "title": "Kiomet",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/kiomet.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://kiomet.com",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-kirby-64",
     "title": "Kirby 64",
     "category": "Games",
@@ -7933,6 +9149,18 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-kirby-mirror-gba",
+    "title": "Kirby Mirror (GBA)",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/kirby-mirror-gba.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.retrogames.onl/gba/kirby-mirror-gba.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-kirby-squeak-squad",
     "title": "Kirby Squeak Squad",
     "category": "Games",
@@ -7943,6 +9171,18 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/kirby-squeak-squad-https-sites-google-com-lindberghschools-ws-crown-official-kir.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-kirka",
+    "title": "Kirka",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/kirka.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://kirka.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-kiwi-clicker",
@@ -8031,6 +9271,18 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/koopas-revenge-2-https-sites-google-com-lindberghschools-ws-crown-official-koopa.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-krunker",
+    "title": "Krunker",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/krunker.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://krunker.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-kubi-pets",
@@ -8178,9 +9430,9 @@ window.CROWN_GAMES = [
     "id": "crown-learn-to-fly-3",
     "title": "Learn To Fly 3",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/pizzaedition/learn-to-fly-3.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/learn-to-fly-3.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/learntofly3.html",
+    "embedUrl": "https://www.silvergames.com/en/learn-to-fly-3/iframe",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -8188,18 +9440,18 @@ window.CROWN_GAMES = [
       "Skill",
       "Games"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-learn-to-fly-idle",
     "title": "Learn To Fly Idle",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/learn-to-fly-idle-5f160df8.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/learn-to-fly-idle.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/learn-to-fly-idle-https-sites-google-com-lindberghschools-ws-crown-official-lear.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -8442,6 +9694,32 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-lordz-io",
+    "title": "Lordz.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/lordz-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://lordz.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-lostgamer",
+    "title": "Lostgamer",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/lostgamer.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://lostgamer.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-low-knight",
     "title": "Low Knight",
     "category": "Games",
@@ -8551,9 +9829,9 @@ window.CROWN_GAMES = [
     "id": "crown-madalin-stunt-cars-2",
     "title": "Madalin Stunt Cars 2",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-madalin-stunt-cars-2.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/madalin-stunt-cars-2.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/madalin-stunt-cars-2/",
+    "embedUrl": "https://games.crazygames.com/en_US/madalin-stunt-cars-2/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -8562,15 +9840,15 @@ window.CROWN_GAMES = [
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-madalin-stunt-cars-3",
     "title": "Madalin Stunt Cars 3",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-madalin-stunt-cars-3.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/madalin-stunt-cars-3.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/madalin-stunt-cars-3/",
+    "embedUrl": "https://games.crazygames.com/en_US/madalin-stunt-cars-3/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -8579,7 +9857,36 @@ window.CROWN_GAMES = [
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-madalin-stunt-cars-multiplayer",
+    "title": "Madalin Stunt Cars Multiplayer",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/madalin-stunt-cars-multiplayer.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://games.crazygames.com/en_US/madalin-cars-multiplayer/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
+    "id": "crown-madden-nfl-24",
+    "title": "Madden NFL 24",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/madden-nfl-24.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.ea.gp.maddennfl21mobile&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-madelyn-stunt-cars",
@@ -8701,27 +10008,39 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-marbles-garden",
+    "title": "Marbles Garden",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/marbles-garden.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/0-marbles-garden/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-mario-kart-64",
     "title": "Mario Kart 64",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/mario-kart-64-45cc8357.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/mario-kart-64.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mario-kart-64-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
     "id": "crown-mario-kart-ds",
     "title": "Mario Kart DS",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/mario-kart-ds-738d2d30.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/mario-kart-ds.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/mario-kart-ds-https-sites-google-com-lindberghschools-ws-crown-official-mario-ka.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -8753,6 +10072,18 @@ window.CROWN_GAMES = [
       "Shooting"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-masked-io",
+    "title": "Masked IO",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/masked-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://unblocked-games.s3.amazonaws.com/games/masked-io/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-master-checkers",
@@ -8873,12 +10204,12 @@ window.CROWN_GAMES = [
     "id": "crown-melon-playground",
     "title": "Melon Playground",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/melon-playground-352a4fd4.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/melon-playground.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/melon-playground-https-sites-google-com-lindberghschools-ws-crown-official-melon.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -8896,6 +10227,18 @@ window.CROWN_GAMES = [
       "Racing"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-merge-fruit",
+    "title": "Merge Fruit",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/merge-fruit.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/2dee9d404697435aa76111eb4015e1d5/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-merge-round-racers",
@@ -9024,6 +10367,54 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-minecraft-1-5-2-eaglercraft",
+    "title": "Minecraft 1.5.2 (Eaglercraft)",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/minecraft-1-5-2-eaglercraft.webp",
+    "embedType": "iframe",
+    "embedUrl": "/e/2/eag15/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player",
+      "Emulator",
+      "Local"
+    ]
+  },
+  {
+    "id": "crown-minecraft-1-8-eagler-wasm",
+    "title": "Minecraft 1.8 (Eagler WASM)",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/minecraft-1-8-eagler-wasm.webp",
+    "embedType": "iframe",
+    "embedUrl": "/e/2/eag18/wasm.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player",
+      "Emulator",
+      "Local"
+    ]
+  },
+  {
+    "id": "crown-minecraft-1-8-eaglercraft",
+    "title": "Minecraft 1.8 (Eaglercraft)",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/minecraft-1-8-eaglercraft.webp",
+    "embedType": "iframe",
+    "embedUrl": "/e/2/eag18/offline.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player",
+      "Emulator",
+      "Local"
+    ]
+  },
+  {
     "id": "crown-minecraft-builder",
     "title": "Minecraft Builder",
     "category": "Skill",
@@ -9037,6 +10428,20 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-minecraft-classic",
+    "title": "Minecraft Classic",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/minecraft-classic.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://classic.minecraft.net",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
   },
   {
     "id": "crown-minesweeper",
@@ -9145,6 +10550,20 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-mk48-io",
+    "title": "mk48.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/mk48-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://mk48.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-mob-city",
     "title": "Mob City",
     "category": "Shooting",
@@ -9159,6 +10578,18 @@ window.CROWN_GAMES = [
       "Trending"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-mobs-inc",
+    "title": "Mobs Inc",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/mobs-inc.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://overboy.itch.io/mobs-inc",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-modern-warfare",
@@ -9188,12 +10619,12 @@ window.CROWN_GAMES = [
     "id": "crown-monkey-mart",
     "title": "Monkey Mart",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/monkey-mart-dfbac921.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/monkey-mart.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/monkey-mart-https-sites-google-com-lindberghschools-ws-crown-official-monkey-mar.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -9320,6 +10751,44 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-moomoo-io",
+    "title": "MooMoo.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/moomoo-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://moomoo.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-mope-io",
+    "title": "mope.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/mope-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://thelast.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
+    "id": "crown-mortal-kombat-4",
+    "title": "Mortal Kombat 4",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/mortal-kombat-4.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.kbhgames.com/r/n64/game.php?file=Mortal-Kombat-4-U.zip",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-mosaic-puzzle-art",
     "title": "Mosaic Puzzle Art",
     "category": "Puzzle",
@@ -9422,9 +10891,9 @@ window.CROWN_GAMES = [
     "id": "crown-moto-x3m",
     "title": "Moto X3m",
     "category": "Racing",
-    "thumbnail": "assets/thumbs/class6x/class6x-moto-x3m.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/moto-x3m.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/moto-x3m/",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/5b0abd4c0faa4f5eb190a9a16d5a1b4c/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -9434,7 +10903,7 @@ window.CROWN_GAMES = [
       "Skill",
       "Trending"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-moto-x3m-2",
@@ -9600,6 +11069,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-mr-mine",
+    "title": "Mr. Mine",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/mr-mine.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/0-mr-mine/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-mummys-path-deluxe",
     "title": "Mummys Path Deluxe",
     "category": "Puzzle",
@@ -9629,6 +11110,42 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-mx3m-pool-party",
+    "title": "MX3M: Pool Party",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/mx3m-pool-party.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://h0jokl1egt0fd4oc8qv3j0tltl9jbqhn-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://649025137-174029463385024710.preview.editmysite.com/uploads/b/139890129-767696982876512205/files/mx3mpp.xml",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-mx3m-spooky-land",
+    "title": "MX3M: Spooky Land",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/mx3m-spooky-land.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/b8a342904608470a9f3382337aca3558/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-mx3m-winter",
+    "title": "MX3M: Winter",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/mx3m-winter.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/s017q3e/moto-x3m-4-winter.xml",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-my-friend-pedro",
@@ -9678,9 +11195,9 @@ window.CROWN_GAMES = [
     "id": "crown-n-gon",
     "title": "N Gon",
     "category": "Racing",
-    "thumbnail": "assets/thumbs/class6x/class6x-n-gon.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/n-gon.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/n-gon/",
+    "embedUrl": "https://landgreen.github.io/sidescroller/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -9688,15 +11205,15 @@ window.CROWN_GAMES = [
       "Racing",
       "Sports"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-narrow-one",
     "title": "Narrow one",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-narrow-one.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/narrow-one.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/narrow-one/",
+    "embedUrl": "https://narrow.one",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -9705,7 +11222,7 @@ window.CROWN_GAMES = [
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-natural-disaster-survival-obby",
@@ -9725,6 +11242,18 @@ window.CROWN_GAMES = [
       "parkour",
       "crown"
     ]
+  },
+  {
+    "id": "crown-neal-fun",
+    "title": "Neal.Fun",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/neal-fun.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://neal.fun",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-neon-swing",
@@ -9752,6 +11281,72 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/new-super-mario-bros-https-sites-google-com-lindberghschools-ws-crown-official-n.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-newgrounds",
+    "title": "Newgrounds",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/newgrounds.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://newgrounds.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-ngu-idle",
+    "title": "NGU Idle",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/ngu-idle.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://cache.armorgames.com/files/games/ngu-idle-18444/index.html?v=1559319416",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-ninja-cat-exploit",
+    "title": "Ninja Cat Exploit",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/ninja-cat-exploit.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/903ba9346b9d437e9c7e81d672cead44/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-nintendo-64-emulator",
+    "title": "Nintendo 64 Emulator",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/nintendo-64-emulator.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.neilb.net/n64wasm/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "Emulator"
+    ]
+  },
+  {
+    "id": "crown-nintendo-ds-emulator",
+    "title": "Nintendo DS Emulator",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/nintendo-ds-emulator.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://ds.44670.org/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "Emulator"
+    ]
   },
   {
     "id": "crown-noob-drive",
@@ -9991,6 +11586,36 @@ window.CROWN_GAMES = [
       "blocky",
       "parkour",
       "crown"
+    ]
+  },
+  {
+    "id": "crown-now-gg",
+    "title": "Now.GG",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/now-gg.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "crown-now-gg-nowgg-me-working",
+    "title": "Now.GG (NowGG.me) [Working]",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/now-gg-nowgg-me-working.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://nowgg.me",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
     ]
   },
   {
@@ -10333,6 +11958,30 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-online-racing-game",
+    "title": "Online Racing Game!",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/online-racing-game.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://jchabin.github.io/cars/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-online-soccer-m",
+    "title": "Online Soccer M.",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/online-soccer-m.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.onlinesoccermanager.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-only-up",
     "title": "Only Up",
     "category": "Roblox-Style",
@@ -10421,13 +12070,13 @@ window.CROWN_GAMES = [
     "id": "crown-ovo",
     "title": "OVO",
     "category": "Running",
-    "thumbnail": "assets/thumbs/class6x/class6x-ovo.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/ovo.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/ovo/",
+    "embedUrl": "https://8rlfg0ch3417et18dp8lvps6uo7c3b2c-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://427396048-642845047394716217.preview.editmysite.com/uploads/b/139890129-761103484729797659/files/ovo.xml",
     "class6xPage": "https://class6x.gitlab.io/game/ovo.html"
   },
   {
@@ -10508,16 +12157,160 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-papa-louie-1",
+    "title": "Papa Louie 1",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-louie-1.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/ruffle/player.php?id=1373",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-louie-2",
+    "title": "Papa Louie 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-louie-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/emu/waffle/?id=3042",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-louie-3",
+    "title": "Papa Louie 3",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-louie-3.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/emu/waffle/?id=4693",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-s-bakeria",
+    "title": "Papa's Bakeria",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-bakeria.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/emu/waffle/?id=5458",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-s-burgeria",
+    "title": "Papa's Burgeria",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-burgeria.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/0-papas-burgeria/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-s-cheeseria",
+    "title": "Papa's Cheeseria",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-cheeseria.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/0-papas-cheeseria/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-s-cupcakeria",
+    "title": "Papa's Cupcakeria",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-cupcakeria.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/emu/waffle/?id=3246",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-papa-s-freezeria",
     "title": "Papa's Freezeria",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/papa-s-freezeria-eafd0747.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-freezeria.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/papa-s-freezeria-https-sites-google-com-lindberghschools-ws-crown-official-papas.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
+  },
+  {
+    "id": "crown-papa-s-pancakeria",
+    "title": "Papa's Pancakeria",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-pancakeria.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/0-papas-pancakeria/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-s-pizzeria",
+    "title": "Papa's Pizzeria",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-pizzeria.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/ruffle/player.php?id=1360",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-s-scooperia",
+    "title": "Papa's Scooperia",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-scooperia.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://files.crazygames.com/ruffle/papasscooperia.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-s-sushiria",
+    "title": "Papa's Sushiria",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-sushiria.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://files.crazygames.com/ruffle/papassushiria.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-papa-s-wingeria",
+    "title": "Papa's Wingeria",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/papa-s-wingeria.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/0-papas-wingeria/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-paper-fighter-3d",
@@ -10552,6 +12345,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-paper-mario-64",
+    "title": "Paper Mario 64",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/paper-mario-64.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.kbhgames.com/r/n64/game.php?file=Paper%20Mario%20(USA).zip",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-paper-minecraft",
     "title": "Paper Minecraft",
     "category": "Skill",
@@ -10580,6 +12385,32 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-paper-io",
+    "title": "Paper.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/paper-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://paper-io.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-parappa-the-rapper",
+    "title": "Parappa the Rapper",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/parappa-the-rapper.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://retrogamesonline.io/parappa-the-rapper.embed",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator"
+    ]
   },
   {
     "id": "crown-parking-fury",
@@ -10703,16 +12534,16 @@ window.CROWN_GAMES = [
     "id": "crown-parkour-block-3d",
     "title": "Parkour Block 3d",
     "category": "Running",
-    "thumbnail": "assets/thumbs/class6x/class6x-parkour-block-3d.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/parkour-block-3d.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/parkour-block-3d/",
+    "embedUrl": "https://html5.gamedistribution.com/1461d40bb77f48e6be72489959a1ac04/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Running"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-parkour-block-5",
@@ -10803,6 +12634,21 @@ window.CROWN_GAMES = [
       "blocky",
       "parkour",
       "crown"
+    ]
+  },
+  {
+    "id": "crown-particle-clicker",
+    "title": "Particle Clicker",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/particle-clicker.png",
+    "embedType": "iframe",
+    "embedUrl": "/e/1/particle-clicker/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "Local"
     ]
   },
   {
@@ -10990,6 +12836,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-pixel-shooter",
+    "title": "Pixel Shooter",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/pixel-shooter.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://94bfktj403i6m18as4vkvtreqd0ohci4-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://274019683-173520394482650759.preview.editmysite.com/uploads/b/139890129-131715539788281629/files/ps.xml",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-pixel-speedrun",
     "title": "Pixel Speedrun",
     "category": "Action",
@@ -11022,12 +12880,12 @@ window.CROWN_GAMES = [
     "id": "crown-pizza-tower",
     "title": "Pizza Tower",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/pizza-tower-4d277cbf.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/pizza-tower.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/pizza-tower-https-sites-google-com-lindberghschools-ws-crown-official-pizza-towe.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -11105,6 +12963,33 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-playstation-2-emulator",
+    "title": "Playstation 2 Emulator",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/playstation-2-emulator.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://playjs.purei.org/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "Emulator"
+    ]
+  },
+  {
+    "id": "crown-pm-light-platinum",
+    "title": "PM: Light Platinum",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/pm-light-platinum.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://browncha023.github.io/GBA/launcher.html#pokemonlp",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-pokemon-emerald",
     "title": "Pokemon Emerald",
     "category": "Games",
@@ -11117,6 +13002,18 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-pokemon-heart-gold",
+    "title": "Pokemon Heart Gold",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/pokemon-heart-gold.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/10/pokemon-heartgold-version1.zip",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-pokemon-randomizer",
     "title": "Pokemon Randomizer",
     "category": "Games",
@@ -11127,6 +13024,18 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/pokemon-randomizer-https-sites-google-com-lindberghschools-ws-crown-official-pok.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-pokemon-showdown",
+    "title": "Pokemon Showdown",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/pokemon-showdown.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://play.pokemonshowdown.com",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-police-chase",
@@ -11289,6 +13198,20 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-powerline-io",
+    "title": "Powerline.IO",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/powerline-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://powerline.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-prank-call-tung-tung-tung-sahur-clicker",
     "title": "Prank Call Tung Tung Tung Sahur Clicker",
     "category": "Games",
@@ -11299,6 +13222,30 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/prank-call-tung-tung-tung-sahur-clicker-https-sites-google-com-lindberghschools-.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-pranx",
+    "title": "Pranx",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/pranx.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://pranx.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-precision-client",
+    "title": "Precision Client",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/precision-client.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://glcdn.githack.com/3kh0/3kh0-assets/-/raw/main/precision-client/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-princess-room-cleaning",
@@ -11530,6 +13477,32 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-rainbow-obby",
+    "title": "Rainbow Obby",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/rainbow-obby.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://785a4295-96c4-43e5-b237-fb07fc3ef44d.poki-gdn.com/f1d39f75-7a25-41de-86cf-ba00804737b5/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
+    "id": "crown-rainbow-six-siege",
+    "title": "Rainbow Six Siege",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/rainbow-six-siege.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://play.geforcenow.com/games?game-id=1dd07d47-6601-42f7-80e9-e4d8db08ea1b&lang=en_US&asset-id=01_44417-48c3d8e642e2",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-rainbow-star-pinball",
     "title": "Rainbow Star Pinball",
     "category": "Skill",
@@ -11548,12 +13521,12 @@ window.CROWN_GAMES = [
     "id": "crown-rainbow-tower",
     "title": "Rainbow Tower",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/rainbow-tower-eee1aab7.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/rainbow-tower.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/rainbow-tower-https-sites-google-com-lindberghschools-ws-crown-official-rainbow-.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -11730,19 +13703,67 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-red-ball-1",
+    "title": "Red Ball 1",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/red-ball-1.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.algebrashelper.com/redball",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-red-ball-2",
+    "title": "Red Ball 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/red-ball-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.algebrashelper.com/redball-2",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-red-ball-4",
     "title": "Red Ball 4",
     "category": "Games",
-    "thumbnail": "assets/thumbs/class6x/class6x-red-ball-4.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/red-ball-4.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/red-ball-4/",
+    "embedUrl": "https://www.algebrashelper.com/redball-4",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Trending"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-red-ball-4-vol-2",
+    "title": "Red Ball 4 Vol. 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/red-ball-4-vol-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.algebrashelper.com/read-ball-4v2",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-red-ball-4-vol-3",
+    "title": "Red Ball 4 Vol. 3",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/red-ball-4-vol-3.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.algebrashelper.com/red-ball-4v3",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-red-stickman-vs-monster-school",
@@ -11815,11 +13836,11 @@ window.CROWN_GAMES = [
     "id": "crown-retro-bowl",
     "title": "Retro Bowl",
     "category": "Sports",
-    "thumbnail": "assets/thumbs/class6x/class6x-retro-bowl.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/retro-bowl.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
     "embedUrl": "https://class6x.gitlab.io/retro-bowl/",
     "class6xPage": "https://class6x.gitlab.io/game/retro-bowl.html"
@@ -11888,28 +13909,64 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-riddle-school-1",
+    "title": "Riddle School 1",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/riddle-school-1.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://uploads.ungrounded.net/ruffle_wrapper/ruffleembed.html?v=1.0.67&browsermode=default&props=%7B%22ruffle%22%3A%22%2Fruffle_wrapper%2Flib%2Fruffle.js%3F1695474658%22%2C%22public_path%22%3A%22%2Fruffle_wrapper%2Flib%2F%22%2C%22swf%22%3A%22https%3A%2F%2Fuploads.ungrounded.net%2F314000%2F314680_Riddle_School.swf%3F1148577264%22%2C%22vars%22%3A%7B%22NewgroundsAPI_PublisherID%22%3A1%2C%22NewgroundsAPI_SandboxID%22%3A%2265103f0745c96%22%2C%22NewgroundsAPI_SessionID%22%3A%22%22%2C%22NewgroundsAPI_UserName%22%3A%22%26lt%3Bdeleted%26gt%3B%22%2C%22NewgroundsAPI_UserID%22%3A0%2C%22ng_username%22%3A%22%26lt%3Bdeleted%26gt%3B%22%7D%2C%22width%22%3A550%2C%22height%22%3A400%2C%22icon%22%3A%22https%3A%2F%2Fpicon.ngfiles.com%2F314000%2Fflash_314680_card.webp%3Ff1607914286%22%2C%22warnOnUnsupportedContent%22%3Afalse%7D",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-riddle-school-2",
+    "title": "Riddle School 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/riddle-school-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/ruffle/player.php?id=8564",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-riddle-school-3",
+    "title": "Riddle School 3",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/riddle-school-3.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://riddle-school-3.game-files.crazygames.com/ruffle/riddleschool3.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-riddle-school-4",
     "title": "Riddle School 4",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/crown-covers/riddle-school-4-6be425e5.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/riddle-school-4.webp",
     "embedType": "iframe",
     "embedUrl": "https://riddle-school-4.game-files.crazygames.com/ruffle/riddleschool4.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-riddle-school-5",
     "title": "Riddle School 5",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/crown-covers/riddle-school-5-6ae42452.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/riddle-school-5.webp",
     "embedType": "iframe",
     "embedUrl": "https://riddle-school-5.game-files.crazygames.com/ruffle/riddleschool5.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-rio-rex",
@@ -11942,6 +13999,48 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-roblox-now-gg",
+    "title": "Roblox (Now.GG)",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/roblox-now-gg.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.roblox.client&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "crown-roblox-nowgg-me-working",
+    "title": "Roblox (NowGG.me) [Working]",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/roblox-nowgg-me-working.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://nowgg.me/apps/roblox-corporation/5349/roblox.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "crown-rocket-bot-royale",
+    "title": "Rocket Bot Royale",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/rocket-bot-royale.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://rocketbotroyale2.winterpixel.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-rocket-league",
     "title": "Rocket League",
     "category": "Games",
@@ -11957,9 +14056,9 @@ window.CROWN_GAMES = [
     "id": "crown-rocket-pult",
     "title": "Rocket Pult",
     "category": "Racing",
-    "thumbnail": "assets/thumbs/class6x/class6x-rocket-pult.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/rocket-pult.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/rocket-pult/",
+    "embedUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/565140/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -11968,7 +14067,7 @@ window.CROWN_GAMES = [
       "Racing",
       "Latest"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-rocket-soccer-derby",
@@ -12054,9 +14153,9 @@ window.CROWN_GAMES = [
     "id": "crown-rooftop-snipers",
     "title": "Rooftop Snipers",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-rooftop-snipers.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/rooftop-snipers.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/rooftop-snipers/",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/c3a70ae98547407a92ebedca8b79fdfa/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -12066,15 +14165,15 @@ window.CROWN_GAMES = [
       "Multiplayer",
       "Shooting"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-rooftop-snipers-2",
     "title": "Rooftop Snipers 2",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/class6x/class6x-rooftop-snipers-2.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/rooftop-snipers-2.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/rooftop-snipers-2/",
+    "embedUrl": "https://h5cdn.github.io/s6/rooftop-snipers-2/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -12084,7 +14183,7 @@ window.CROWN_GAMES = [
       "Shooting",
       "Featured"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-roper",
@@ -12167,9 +14266,9 @@ window.CROWN_GAMES = [
     "id": "crown-run-3",
     "title": "Run 3",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/pizzaedition/run-3.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/run-3.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/run3.html",
+    "embedUrl": "https://www.coolmathgames.com/0-run-3/play",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -12177,7 +14276,7 @@ window.CROWN_GAMES = [
       "Skill",
       "Adventure"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-run-3-editor",
@@ -12270,6 +14369,54 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/russian-car-driver-https-sites-google-com-lindberghschools-ws-crown-official-rus.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-sand-spiel",
+    "title": "Sand Spiel",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/sand-spiel.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://sandspiel.club/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-sandboxels",
+    "title": "Sandboxels",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/sandboxels.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/5808591/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-sandtrix",
+    "title": "Sandtrix",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/sandtrix.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://files.crazygames.com/sandtrix/16/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-saul-run",
+    "title": "Saul Run",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/saul-run.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://complex-ify.itch.io/saul-goodman",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-sausage-flip",
@@ -12401,6 +14548,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-shapez-io",
+    "title": "Shapez.IO",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/shapez-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://shapez.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-sharkio",
     "title": "Sharkio",
     "category": "Multiplayer",
@@ -12414,6 +14573,18 @@ window.CROWN_GAMES = [
       "Multiplayer"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-shell-shockers",
+    "title": "Shell Shockers",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/shell-shockers.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://shellshock.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-shoot-stickman",
@@ -12643,6 +14814,20 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-skribbl",
+    "title": "skribbl",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/skribbl.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://skribbl.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-sky-mad",
     "title": "Sky Mad",
     "category": "Racing",
@@ -12787,25 +14972,25 @@ window.CROWN_GAMES = [
     "id": "crown-slither-io",
     "title": "Slither.io",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/slither-io-96acaf2b.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/slither-io.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/slither-io-https-sites-google-com-lindberghschools-ws-crown-official-slither-io.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
     "id": "crown-slope",
     "title": "Slope",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-slope.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/slope.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/slope/",
+    "embedUrl": "https://watchdocumentaries.com/wp-content/uploads/games/slope/",
     "class6xPage": "https://class6x.gitlab.io/game/slope.html"
   },
   {
@@ -12933,6 +15118,18 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-smash-bros-64",
+    "title": "Smash Bros 64",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/smash-bros-64.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://emulatorgames.online/games/n64/super-smash-bros",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-smash-it",
     "title": "Smash It",
     "category": "Skill",
@@ -12952,9 +15149,9 @@ window.CROWN_GAMES = [
     "id": "crown-smash-karts",
     "title": "Smash Karts",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-smash-karts-.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/smash-karts.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/smash-karts/",
+    "embedUrl": "https://smashkarts.io/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -12963,7 +15160,7 @@ window.CROWN_GAMES = [
       "Racing",
       "Featured"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-snail-bob-6",
@@ -13091,25 +15288,25 @@ window.CROWN_GAMES = [
     "id": "crown-snow-rider-3d",
     "title": "Snow Rider 3D",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/class6x/class6x-snow-rider-3d.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/snow-rider-3d.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/snow-rider-3d/",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/3b79a8537ebc414fb4f9672a9b8c68c8/index.html?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3Nub3dyaWRlcjNkLmNvbS8iLCJwYXJlbnREb21haW4iOiJzbm93cmlkZXIzZC5jb20iLCJ0b3BEb21haW4iOiJzbm93cmlkZXIzZC5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNiJ9",
     "class6xPage": "https://class6x.gitlab.io/game/snow-rider-3d.html"
   },
   {
     "id": "crown-snowball-io",
     "title": "SnowBall.io",
     "category": "Games",
-    "thumbnail": "assets/thumbs/crown-covers/snowball-io-d1457cf0.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/snowball-io.webp",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/snowball-io-https-sites-google-com-lindberghschools-ws-crown-official-snowball-i.html",
-    "thumbnailSource": "crown",
+    "thumbnailSource": "interstellar-local",
     "source": "crown"
   },
   {
@@ -13216,6 +15413,21 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-solar-smash",
+    "title": "Solar Smash",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/solar-smash.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.paradyme.solarsmash&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
     "id": "crown-solitaire",
     "title": "Solitaire",
     "category": "Racing",
@@ -13283,6 +15495,20 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-space-company",
+    "title": "Space Company",
+    "category": "Local",
+    "thumbnail": "assets/thumbs/interstellar-icons/space-company.png",
+    "embedType": "iframe",
+    "embedUrl": "/e/1/space-company/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Local"
+    ]
+  },
+  {
     "id": "crown-space-major-miner",
     "title": "Space Major Miner",
     "category": "Shooting",
@@ -13296,6 +15522,18 @@ window.CROWN_GAMES = [
       "Shooting"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-space-plan",
+    "title": "Space Plan",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/space-plan.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://jhollands.co.uk/spaceplan/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-space-thing",
@@ -13452,6 +15690,20 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-stabfish-io",
+    "title": "Stabfish.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/stabfish-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://stabfish.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-stack",
     "title": "Stack",
     "category": "Skill",
@@ -13559,6 +15811,20 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-starblast",
+    "title": "Starblast",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/starblast.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://starblast.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-steal-a-brainrot",
     "title": "Steal A Brainrot",
     "category": "Puzzle",
@@ -13589,6 +15855,18 @@ window.CROWN_GAMES = [
       "Stickman"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-steam",
+    "title": "Steam",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/steam.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://steampowered.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-steel-hills",
@@ -13685,16 +15963,16 @@ window.CROWN_GAMES = [
     "id": "crown-stickman-archero-fight",
     "title": "Stickman Archero Fight",
     "category": "Games",
-    "thumbnail": "assets/thumbs/class6x/class6x-stickman-archero-fight.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/stickman-archero-fight.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/stickman-archero-fight/",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/3f4c166817ad4fd4b5b05d9adba22fcd/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Stickman"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-stickman-army-team-battle",
@@ -13916,7 +16194,7 @@ window.CROWN_GAMES = [
     "id": "crown-stickman-hook",
     "title": "Stickman Hook",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/class6x/class6x-stickman-hook.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/stickman-hook.webp",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/stickman-hook/",
     "playable": true,
@@ -13927,7 +16205,7 @@ window.CROWN_GAMES = [
       "Skill",
       "Stickman"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-stickman-parkour-3",
@@ -14032,6 +16310,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-stomped-io",
+    "title": "Stomped.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/stomped-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://stomped.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-street-ball-jam",
     "title": "Street Ball Jam",
     "category": "Skill",
@@ -14063,6 +16353,45 @@ window.CROWN_GAMES = [
       "Trending"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-stumble-guys",
+    "title": "Stumble Guys",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/stumble-guys.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.stumbleguys.com/play",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-stumble-guys-android",
+    "title": "Stumble Guys (Android)",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/stumble-guys-android.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.kitkagames.fallbuddies&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "crown-stumble-guys-clone",
+    "title": "Stumble Guys Clone",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/stumble-guys-clone.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://stumble-guys.io/stumble-guys.embed",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-stunt-bike-extreme",
@@ -14254,13 +16583,13 @@ window.CROWN_GAMES = [
     "id": "crown-subway-surfers-san-francisco",
     "title": "Subway Surfers San Francisco",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/crown-covers/subway-surfers-san-francisco-b0819673.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/subway-surfers-san-francisco.webp",
     "embedType": "iframe",
     "embedUrl": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-subway-surfers-sanfransisco",
@@ -14335,6 +16664,18 @@ window.CROWN_GAMES = [
       "Latest"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-sugar-sugar-html5",
+    "title": "Sugar Sugar HTML5",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/sugar-sugar-html5.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://66564262-37c6-4095-a731-535342e4bbe4.poki-gdn.com/5bd6e8c6-381d-4de5-9823-96662d29afaf/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-sumo-party",
@@ -14469,6 +16810,30 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-super-mario-63",
+    "title": "Super Mario 63",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/super-mario-63.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.numuki.com/gameframe/super-mario-63",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-super-mario-64",
+    "title": "Super Mario 64",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/super-mario-64.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.kbhgames.com/r/n64/game.php?file=32112_super-mario-64-usa.zip",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-super-mario-bros",
     "title": "Super Mario Bros",
     "category": "Running",
@@ -14515,6 +16880,18 @@ window.CROWN_GAMES = [
       "Racing"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-super-smash-flash",
+    "title": "Super Smash Flash",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/super-smash-flash.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.kbhgames.com/RS/game.php?r=//f.kbhgames.com/2018/swf/smashflash.swf&w=1521&h=753",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-super-speeder",
@@ -14636,6 +17013,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-supply-chain-idle",
+    "title": "Supply Chain Idle",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/supply-chain-idle.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://chat.kongregate.com/gamez/0027/1653/live/index.html?kongregate_game_version=1554392772",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-survival-express",
     "title": "Survival Express",
     "category": "Adventure",
@@ -14655,13 +17044,13 @@ window.CROWN_GAMES = [
     "id": "crown-survivor-io",
     "title": "Survivor.io",
     "category": "Action",
-    "thumbnail": "assets/thumbs/crown-covers/survivor-io-54a5ee00.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/survivor-io.webp",
     "embedType": "iframe",
     "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/f1c451e586c04b4c8cba01b0c50d9090/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "crown"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-sweety-mahjong",
@@ -14693,6 +17082,20 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-swordbattle-io",
+    "title": "Swordbattle.io",
+    "category": "2D",
+    "thumbnail": "assets/thumbs/interstellar-icons/swordbattle-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://swordbattle.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2D"
+    ]
   },
   {
     "id": "crown-tabletennis",
@@ -14767,6 +17170,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-taming-io",
+    "title": "Taming.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/taming-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://taming.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-tank-ball-monster-battle",
     "title": "Tank Ball: Monster Battle",
     "category": "Games",
@@ -14800,13 +17215,13 @@ window.CROWN_GAMES = [
     "id": "crown-tanuki-sunset",
     "title": "Tanuki Sunset",
     "category": "3D",
-    "thumbnail": "assets/thumbs/class6x/class6x-tanuki-sunset.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/tanuki-sunset.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/tanuki-sunset/",
+    "embedUrl": "https://watchdocumentaries.com/wp-content/uploads/games/tanuki-sunset",
     "class6xPage": "https://class6x.gitlab.io/game/tanuki-sunset.html"
   },
   {
@@ -14829,9 +17244,9 @@ window.CROWN_GAMES = [
     "id": "crown-temple-of-boom",
     "title": "Temple Of Boom",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-temple-of-boom.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/temple-of-boom.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/temple-of-boom/",
+    "embedUrl": "https://temple-of-boom.github.io/file/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -14841,15 +17256,15 @@ window.CROWN_GAMES = [
       "Multiplayer",
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-temple-run-2",
     "title": "Temple Run 2",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-temple-run-2.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/temple-run-2.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/temple-run-2/",
+    "embedUrl": "https://watchdocumentaries.com/wp-content/uploads/games/temple-run-2/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -14859,7 +17274,7 @@ window.CROWN_GAMES = [
       "Running",
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-temple-run-2-frozen-festival",
@@ -14946,6 +17361,34 @@ window.CROWN_GAMES = [
       "2 Player"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-territorial-io",
+    "title": "Territorial.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/territorial-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://territorial.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
+    "id": "crown-tetr-io",
+    "title": "Tetr.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/tetr-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://tetr.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
   },
   {
     "id": "crown-tetra-blocks",
@@ -15069,6 +17512,20 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-the-impossible-quiz-book-2",
+    "title": "The Impossible Quiz: Book 2",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/the-impossible-quiz-book-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://f.silvergames.com/ruffle/player.php?id=3742",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator"
+    ]
+  },
+  {
     "id": "crown-the-little-giant",
     "title": "The Little Giant",
     "category": "Skill",
@@ -15084,12 +17541,38 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-the-simpsons",
+    "title": "The Simpsons",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/the-simpsons.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/11/the-simpsons-game.zip",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-thelast-royale",
+    "title": "Thelast Royale",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/thelast-royale.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://thelast.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
+  },
+  {
     "id": "crown-there-is-no-game",
     "title": "There Is No Game",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-there-is-no-game.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/there-is-no-game.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/there-is-no-game/",
+    "embedUrl": "https://5dd2d607-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/38959ae1-110b-49ab-86ae-df425fd7862a/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -15097,7 +17580,19 @@ window.CROWN_GAMES = [
       "Adventure",
       "Puzzle"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-thisissand",
+    "title": "Thisissand",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/thisissand.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://thisissand.com/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-three-goblets",
@@ -15224,6 +17719,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-time-shooter-2",
+    "title": "Time Shooter 2",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/time-shooter-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/62a72f2da7cb4b609579a47653546e6a/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-time-shooter-3",
     "title": "Time Shooter 3",
     "category": "Action",
@@ -15258,13 +17765,13 @@ window.CROWN_GAMES = [
     "id": "crown-tiny-fishing",
     "title": "Tiny Fishing",
     "category": "Sports",
-    "thumbnail": "assets/thumbs/class6x/class6x-tiny-fishing.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/tiny-fishing.webp",
     "embedType": "iframe",
     "playable": true,
     "sourceHadEmbed": true,
-    "thumbnailSource": "crown-local-art",
+    "thumbnailSource": "interstellar-local",
     "source": "crown",
-    "embedUrl": "https://class6x.gitlab.io/tiny-fishing/",
+    "embedUrl": "https://www.dob5.com/d/file/games/tiny-fishing/",
     "class6xPage": "https://class6x.gitlab.io/game/tiny-fishing.html"
   },
   {
@@ -15315,6 +17822,51 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-toca-hair-salon-4",
+    "title": "Toca Hair Salon 4",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/toca-hair-salon-4.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocahairsalon4&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "crown-toca-kitchen-2",
+    "title": "Toca Kitchen 2",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/toca-kitchen-2.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocakitchen2&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "crown-toca-life-world",
+    "title": "Toca Life World",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/toca-life-world.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocalifeworld&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "crown-tomb-of-the-mask",
@@ -15557,6 +18109,18 @@ window.CROWN_GAMES = [
     ]
   },
   {
+    "id": "crown-tribals-io",
+    "title": "Tribals.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/tribals-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://tribals.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-tricks",
     "title": "Tricks",
     "category": "3D",
@@ -15686,9 +18250,9 @@ window.CROWN_GAMES = [
     "id": "crown-tube-jumpers",
     "title": "Tube Jumpers",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-tube-jumpers.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/tube-jumpers.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/tube-jumpers/",
+    "embedUrl": "https://unblocked76.github.io/tube-jumpers/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -15697,7 +18261,7 @@ window.CROWN_GAMES = [
       "2 Player",
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-tumble-wrestling",
@@ -15757,31 +18321,31 @@ window.CROWN_GAMES = [
     "id": "crown-tunnel-rush",
     "title": "Tunnel Rush",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/class6x/class6x-tunnel-rush.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/tunnel-rush.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/tunnel-rush/",
+    "embedUrl": "https://5dd2e8e4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/5627efae-e960-407d-82a5-3da708eb4e68/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-tunnel-rush-2",
     "title": "Tunnel Rush 2",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/pizzaedition/tunnel-rush-2.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/tunnel-rush-2.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/tunnelrush2.html",
+    "embedUrl": "https://a7e6d137-c3c1-46e6-a3db-04c2d33c98a8.poki-gdn.com/71e6bddd-9b0e-4621-a11a-9503086f69d5/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-turbo-moto-racer",
@@ -15829,6 +18393,30 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-twisted-cooking-mama",
+    "title": "Twisted Cooking Mama",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/twisted-cooking-mama.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://twisted-cooking-mama.game-files.crazygames.com/ruffle/twisted-cooking-mama/1/twistedcookingmama.html?v=1.273",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-twitch-tetris",
+    "title": "Twitch Tetris",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/twitch-tetris.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.rossipotti.de/ausgabe28/tetris/controls.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-two-ball-3d-dark",
@@ -15879,6 +18467,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-two-player-games",
+    "title": "Two Player Games",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/two-player-games.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://www.twoplayergames.org/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-typing-fighter",
     "title": "Typing Fighter",
     "category": "Skill",
@@ -15892,6 +18492,20 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-tyran-io",
+    "title": "Tyran.io",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/tyran-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://tyran.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
   },
   {
     "id": "crown-ultimate-car-driving",
@@ -16037,10 +18651,22 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-venge",
+    "title": "Venge",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/venge.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://venge.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-vex-3",
     "title": "Vex 3",
     "category": "Skill",
-    "thumbnail": "assets/thumbs/pizzaedition/vex-3.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/vex-3.webp",
     "embedType": "iframe",
     "embedUrl": "https://pizzaedition.win/assets/mainstorage/vex3.html",
     "playable": true,
@@ -16049,7 +18675,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Skill"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-vex-3m",
@@ -16070,7 +18696,7 @@ window.CROWN_GAMES = [
     "id": "crown-vex-4",
     "title": "Vex 4",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-vex-4.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/vex-4.webp",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-4/",
     "playable": true,
@@ -16081,13 +18707,13 @@ window.CROWN_GAMES = [
       "Running",
       "Stickman"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-vex-5",
     "title": "Vex 5",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-vex-5.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/vex-5.webp",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-5/",
     "playable": true,
@@ -16098,13 +18724,13 @@ window.CROWN_GAMES = [
       "Running",
       "Stickman"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-vex-6",
     "title": "Vex 6",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-vex-6.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/vex-6.webp",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-6/",
     "playable": true,
@@ -16115,13 +18741,13 @@ window.CROWN_GAMES = [
       "Running",
       "Stickman"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-vex-7",
     "title": "Vex 7",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-vex-7.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/vex-7.webp",
     "embedType": "iframe",
     "embedUrl": "https://class6x.gitlab.io/vex-7/",
     "playable": true,
@@ -16132,7 +18758,7 @@ window.CROWN_GAMES = [
       "Running",
       "Stickman"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-vex-8",
@@ -16230,6 +18856,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-voxiom-io",
+    "title": "Voxiom.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/voxiom-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://voxiom.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
     "id": "crown-war-of-caribbean-pirates",
     "title": "War of Caribbean Pirates",
     "category": "Adventure",
@@ -16309,6 +18947,22 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-web-retro",
+    "title": "Web Retro",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/web-retro.webp",
+    "embedType": "iframe",
+    "embedUrl": "/e/index.html",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "Emulator",
+      "Local"
+    ]
+  },
+  {
     "id": "crown-webgl-fluid",
     "title": "Webgl Fluid",
     "category": "Games",
@@ -16386,6 +19040,32 @@ window.CROWN_GAMES = [
       "Puzzle"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-windows-96",
+    "title": "Windows 96",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/windows-96.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://windows96.net",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
+  },
+  {
+    "id": "crown-wings",
+    "title": "Wings!",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/interstellar-icons/wings.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://wings.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "2 Player"
+    ]
   },
   {
     "id": "crown-wizard-mike",
@@ -16498,31 +19178,43 @@ window.CROWN_GAMES = [
     "id": "crown-wordle",
     "title": "Wordle",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/pizzaedition/wordle.svg",
+    "thumbnail": "assets/thumbs/interstellar-icons/wordle.webp",
     "embedType": "iframe",
-    "embedUrl": "https://pizzaedition.win/assets/mainstorage/wordle.html",
+    "embedUrl": "https://www.nytimes.com/games/wordle/index.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-wordle-unlimited",
     "title": "Wordle Unlimited",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/class6x/class6x-wordle-unlimited.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/wordle-unlimited.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/wordle-unlimited/",
+    "embedUrl": "https://wordleunlimited.org/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
+  },
+  {
+    "id": "crown-wordly",
+    "title": "Wordly",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/wordly.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://wordly.org/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-wordoku",
@@ -16583,6 +19275,21 @@ window.CROWN_GAMES = [
     "source": "crown"
   },
   {
+    "id": "crown-worldbox",
+    "title": "WorldBox",
+    "category": "Emulator",
+    "thumbnail": "assets/thumbs/interstellar-icons/worldbox.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://now.gg/iframe/snippet?app_pkg=com.mkarpenko.worldbox&partner=interstellar",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
     "id": "crown-worlds-hardest-game",
     "title": "Worlds Hardest Game",
     "category": "Skill",
@@ -16632,9 +19339,9 @@ window.CROWN_GAMES = [
     "id": "crown-wrassling",
     "title": "Wrassling",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/class6x/class6x-wrassling.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/wrassling.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/wrassling/",
+    "embedUrl": "https://games.poki.com/458768/wrassling",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -16643,7 +19350,7 @@ window.CROWN_GAMES = [
       "Multiplayer",
       "Sports"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-xx142-b2-exe",
@@ -16681,9 +19388,9 @@ window.CROWN_GAMES = [
     "id": "crown-yohoho-io",
     "title": "Yohoho.io",
     "category": "Adventure",
-    "thumbnail": "assets/thumbs/class6x/class6x-yohoho-io.jpg",
+    "thumbnail": "assets/thumbs/interstellar-icons/yohoho-io.webp",
     "embedType": "iframe",
-    "embedUrl": "https://class6x.gitlab.io/yohohoio/",
+    "embedUrl": "https://yohoho.io/",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
@@ -16691,7 +19398,7 @@ window.CROWN_GAMES = [
       "Adventure",
       "Multiplayer"
     ],
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "interstellar-local"
   },
   {
     "id": "crown-yokai-dungeon",
@@ -16835,6 +19542,33 @@ window.CROWN_GAMES = [
       "Trending"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-zombs-royale",
+    "title": "Zombs Royale",
+    "category": "All,",
+    "thumbnail": "assets/thumbs/interstellar-icons/zombs-royale.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://zombsroyale.io",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": [
+      "All,",
+      "2 Player"
+    ]
+  },
+  {
+    "id": "crown-zombs-io",
+    "title": "Zombs.io",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/interstellar-icons/zombs-io.webp",
+    "embedType": "iframe",
+    "embedUrl": "https://zombs.io/",
+    "playable": true,
+    "source": "crown",
+    "thumbnailSource": "interstellar-local",
+    "tags": []
   },
   {
     "id": "crown-zoom-be",

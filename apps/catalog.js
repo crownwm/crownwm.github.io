@@ -3,876 +3,1311 @@ window.CROWN_APPS = [
     "id": "create",
     "title": "Create Custom App",
     "description": "Build a local Crown app card on this device.",
-    "icon": "+",
+    "icon": "CR",
     "colors": [
       "#2f2f2f",
       "#555555"
     ],
-    "localTool": "create",
-    "logo": "assets/app-icons/create-custom-app.svg"
+    "status": "Ready",
+    "logo": "assets/interstellar-app-icons/create-custom-app.webp",
+    "localTool": "create"
   },
   {
     "id": "amazon",
     "title": "Amazon",
-    "description": "Shopping and Amazon account access.",
-    "icon": "a",
-    "colors": [
-      "#ffffff",
-      "#ff9900"
-    ],
-    "url": "https://www.amazon.com/",
-    "logo": "assets/app-icons/amazon.svg"
-  },
-  {
-    "id": "amazon-luna",
-    "title": "Amazon Luna",
-    "description": "Cloud gaming from Amazon Luna.",
-    "icon": "L",
-    "colors": [
-      "#6d35ff",
-      "#9b5cff"
-    ],
-    "url": "https://luna.amazon.com/",
-    "logo": "assets/app-icons/amazon-luna.svg"
-  },
-  {
-    "id": "android",
-    "title": "Android",
-    "description": "Android home and app info.",
-    "icon": "A",
-    "colors": [
-      "#ffffff",
-      "#3ddc84"
-    ],
-    "url": "https://www.android.com/",
-    "logo": "assets/app-icons/android.svg"
-  },
-  {
-    "id": "aptoide",
-    "title": "Aptoide",
-    "description": "Aptoide app store web launcher.",
-    "icon": "A",
-    "colors": [
-      "#ff8a1f",
-      "#ff5c3a"
-    ],
-    "url": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
-    "logo": "assets/app-icons/aptoide.svg"
-  },
-  {
-    "id": "blooket",
-    "title": "Blooket",
-    "description": "Blooket study game launcher.",
-    "icon": "B",
-    "colors": [
-      "#11c5ca",
-      "#1f8fff"
-    ],
-    "url": "https://www.blooket.com/",
-    "logo": "assets/app-icons/blooket.svg"
-  },
-  {
-    "id": "buzzfeed-quizzes",
-    "title": "BuzzFeed Quizzes",
-    "description": "Quizzes and trivia.",
-    "icon": "B",
-    "colors": [
-      "#ffffff",
-      "#ee3322"
-    ],
-    "url": "https://www.buzzfeed.com/quizzes",
-    "logo": "assets/app-icons/buzzfeed-quizzes.svg"
-  },
-  {
-    "id": "canva",
-    "title": "Canva",
-    "description": "Design editor and templates.",
-    "icon": "C",
-    "colors": [
-      "#00c4cc",
-      "#7d2ae8"
-    ],
-    "url": "https://www.canva.com/",
-    "logo": "assets/app-icons/canva.svg"
-  },
-  {
-    "id": "character-ai",
-    "title": "Character AI",
-    "description": "Character AI chat.",
-    "icon": "c.ai",
-    "colors": [
-      "#111111",
-      "#f5f5f5"
-    ],
-    "url": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
-    "logo": "assets/app-icons/character-ai.svg"
-  },
-  {
-    "id": "chatgpt",
-    "title": "ChatGPT",
-    "description": "AI chat launcher.",
-    "icon": "AI",
-    "colors": [
-      "#050505",
-      "#ffffff"
-    ],
-    "url": "https://chatgpt.com/",
-    "logo": "assets/app-icons/chatgpt.svg"
-  },
-  {
-    "id": "chess",
-    "title": "Chess.com",
-    "description": "Play chess online.",
-    "icon": "♟",
-    "colors": [
-      "#2b2b2b",
-      "#81b64c"
-    ],
-    "url": "https://www.chess.com/play",
-    "logo": "assets/app-icons/chess-com.svg"
-  },
-  {
-    "id": "cool-math-games",
-    "title": "Cool Math Games",
-    "description": "Puzzle and skill games.",
-    "icon": "C",
-    "colors": [
-      "#1947a3",
-      "#f2d400"
-    ],
-    "url": "https://www.coolmathgames.com/",
-    "logo": "assets/app-icons/cool-math-games.svg"
-  },
-  {
-    "id": "copyleaks",
-    "title": "CopyLeaks.com",
-    "description": "AI and plagiarism checker.",
-    "icon": "C",
-    "colors": [
-      "#ffffff",
-      "#2574db"
-    ],
-    "url": "https://copyleaks.com/",
-    "logo": "assets/app-icons/copyleaks-com.svg"
-  },
-  {
-    "id": "deepai",
-    "title": "DeepAI.org",
-    "description": "AI tools and image helpers.",
-    "icon": "D",
-    "colors": [
-      "#ffffff",
-      "#11102a"
-    ],
-    "url": "https://deepai.org/",
-    "logo": "assets/app-icons/deepai-org.svg"
-  },
-  {
-    "id": "discord",
-    "title": "Discord",
-    "description": "Discord web app.",
-    "icon": "D",
-    "colors": [
-      "#5865f2",
-      "#4752c4"
-    ],
-    "url": "https://discord.com/app",
-    "logo": "assets/app-icons/discord.svg"
-  },
-  {
-    "id": "discord-login",
-    "title": "Discord - Login",
-    "description": "Discord login page.",
-    "icon": "D",
-    "colors": [
-      "#5865f2",
-      "#4752c4"
-    ],
-    "url": "https://discord.com/login",
-    "logo": "assets/app-icons/discord-login.svg"
-  },
-  {
-    "id": "edpuzzle",
-    "title": "Edpuzzle",
-    "description": "Edpuzzle learning videos.",
-    "icon": "E",
+    "description": "WIP App launcher.",
+    "icon": "AM",
     "colors": [
       "#2f2f2f",
-      "#f7c948"
+      "#555555"
     ],
-    "url": "https://edpuzzle.com/",
-    "logo": "assets/app-icons/edpuzzle.svg"
-  },
-  {
-    "id": "espn",
-    "title": "ESPN",
-    "description": "Sports scores and news.",
-    "icon": "E",
-    "colors": [
-      "#ffffff",
-      "#e4002b"
-    ],
-    "url": "https://www.espn.com/",
-    "logo": "assets/app-icons/espn.svg"
-  },
-  {
-    "id": "fifa-rosters",
-    "title": "Fifa Rosters",
-    "description": "Football roster info.",
-    "icon": "FR",
-    "colors": [
-      "#dadada",
-      "#1f2937"
-    ],
-    "url": "https://www.fifaratings.com/",
-    "logo": "assets/app-icons/fifa-rosters.svg"
-  },
-  {
-    "id": "firefox",
-    "title": "Firefox Web Browser",
-    "description": "Firefox web info.",
-    "icon": "F",
-    "colors": [
-      "#ff7139",
-      "#7c3aed"
-    ],
-    "url": "https://www.mozilla.org/firefox/",
-    "logo": "assets/app-icons/firefox-web-browser.svg"
-  },
-  {
-    "id": "github",
-    "title": "Github",
-    "description": "Code hosting and repos.",
-    "icon": "GH",
-    "colors": [
-      "#000000",
-      "#ffffff"
-    ],
-    "url": "https://github.com/",
-    "logo": "assets/app-icons/github.svg"
-  },
-  {
-    "id": "goal",
-    "title": "GOAL",
-    "description": "Soccer news and scores.",
-    "icon": "GOAL",
-    "colors": [
-      "#fa705f",
-      "#111111"
-    ],
-    "url": "https://www.goal.com/",
-    "logo": "assets/app-icons/goal.svg"
-  },
-  {
-    "id": "google",
-    "title": "Google",
-    "description": "Google search.",
-    "icon": "G",
-    "colors": [
-      "#ffffff",
-      "#4285f4"
-    ],
-    "url": "https://www.google.com/",
-    "logo": "assets/app-icons/google.svg"
-  },
-  {
-    "id": "google-gemini",
-    "title": "Google Gemini",
-    "description": "Gemini AI assistant.",
-    "icon": "Gem",
-    "colors": [
-      "#050505",
-      "#8ab4f8"
-    ],
-    "url": "https://gemini.google.com/",
-    "logo": "assets/app-icons/google-gemini.svg"
-  },
-  {
-    "id": "gmail",
-    "title": "Google Mail (Gmail)",
-    "description": "Gmail web app.",
-    "icon": "M",
-    "colors": [
-      "#ffffff",
-      "#ea4335"
-    ],
-    "url": "https://mail.google.com/",
-    "logo": "assets/app-icons/google-mail-gmail.svg"
-  },
-  {
-    "id": "gptzero",
-    "title": "GPTZero.me",
-    "description": "AI detector.",
-    "icon": "G0",
-    "colors": [
-      "#111827",
-      "#2f80ed"
-    ],
-    "url": "https://gptzero.me/",
-    "logo": "assets/app-icons/gptzero-me.svg"
-  },
-  {
-    "id": "grammarly",
-    "title": "Grammarly Plagiarism Checker",
-    "description": "Writing checker tools.",
-    "icon": "G",
-    "colors": [
-      "#ffffff",
-      "#15c39a"
-    ],
-    "url": "https://www.grammarly.com/plagiarism-checker",
-    "logo": "assets/app-icons/grammarly-plagiarism-checker.svg"
-  },
-  {
-    "id": "guilded",
-    "title": "Guilded",
-    "description": "Community chat platform.",
-    "icon": "G",
-    "colors": [
-      "#f5c518",
-      "#111111"
-    ],
-    "url": "https://www.guilded.gg/",
-    "logo": "assets/app-icons/guilded.svg"
-  },
-  {
-    "id": "hbo-max",
-    "title": "HBO MAX",
-    "description": "Max streaming launcher.",
-    "icon": "MAX",
-    "colors": [
-      "#6236ff",
-      "#2a0f93"
-    ],
-    "url": "https://www.max.com/",
-    "logo": "assets/app-icons/hbo-max.svg"
-  },
-  {
-    "id": "instagram",
-    "title": "Instagram",
-    "description": "Instagram web app.",
-    "icon": "IG",
-    "colors": [
-      "#f58529",
-      "#dd2a7b"
-    ],
-    "url": "https://www.instagram.com/",
-    "logo": "assets/app-icons/instagram.svg"
-  },
-  {
-    "id": "kome-transcript",
-    "title": "Kome.ai YouTube Transcript",
-    "description": "YouTube transcript tool.",
-    "icon": "K",
-    "colors": [
-      "#09090b",
-      "#f8fafc"
-    ],
-    "url": "https://kome.ai/tools/youtube-transcript-generator",
-    "logo": "assets/app-icons/kome-ai-youtube-transcript.svg"
-  },
-  {
-    "id": "messenger",
-    "title": "Messenger",
-    "description": "Messenger web app.",
-    "icon": "M",
-    "colors": [
-      "#a855f7",
-      "#38bdf8"
-    ],
-    "url": "https://www.messenger.com/",
-    "logo": "assets/app-icons/messenger.svg"
-  },
-  {
-    "id": "mlb",
-    "title": "MLB",
-    "description": "Baseball news and scores.",
-    "icon": "MLB",
-    "colors": [
-      "#0c2340",
-      "#c8102e"
-    ],
-    "url": "https://www.mlb.com/",
-    "logo": "assets/app-icons/mlb.svg"
-  },
-  {
-    "id": "nba",
-    "title": "NBA",
-    "description": "NBA news and scores.",
-    "icon": "NBA",
-    "colors": [
-      "#1d428a",
-      "#c8102e"
-    ],
-    "url": "https://www.nba.com/",
-    "logo": "assets/app-icons/nba.svg"
-  },
-  {
-    "id": "newgrounds",
-    "title": "Newgrounds",
-    "description": "Games and animations.",
-    "icon": "NG",
-    "colors": [
-      "#f7b500",
-      "#111111"
-    ],
-    "url": "https://www.newgrounds.com/",
-    "logo": "assets/app-icons/newgrounds.svg"
-  },
-  {
-    "id": "nfl",
-    "title": "NFL",
-    "description": "NFL news and scores.",
-    "icon": "NFL",
-    "colors": [
-      "#013369",
-      "#d50a0a"
-    ],
-    "url": "https://www.nfl.com/",
-    "logo": "assets/app-icons/nfl.svg"
-  },
-  {
-    "id": "notegpt",
-    "title": "NoteGPT.io YouTube Transcript",
-    "description": "YouTube transcript generator.",
-    "icon": "N",
-    "colors": [
-      "#ffffff",
-      "#3b82f6"
-    ],
-    "url": "https://notegpt.io/youtube-transcript-generator",
-    "logo": "assets/app-icons/notegpt-io-youtube-transcript.svg"
-  },
-  {
-    "id": "nowgg",
-    "title": "Now.GG",
-    "description": "Cloud app launcher.",
-    "icon": "NG",
-    "colors": [
-      "#ffffff",
-      "#6ee7b7"
-    ],
-    "url": "https://now.gg/",
-    "logo": "assets/app-icons/now-gg.svg"
-  },
-  {
-    "id": "nowgg-working",
-    "title": "Now.GG (NowGG.me)",
-    "description": "Alternate Now.GG launcher.",
-    "icon": "🚀",
-    "colors": [
-      "#000000",
-      "#ffffff"
-    ],
-    "url": "https://nowgg.me/",
-    "logo": "assets/app-icons/now-gg-nowgg-me.svg"
-  },
-  {
-    "id": "outlook",
-    "title": "Outlook",
-    "description": "Outlook web mail.",
-    "icon": "O",
-    "colors": [
-      "#ffffff",
-      "#0078d4"
-    ],
-    "url": "https://outlook.live.com/",
-    "logo": "assets/app-icons/outlook.svg"
-  },
-  {
-    "id": "paramount-plus",
-    "title": "Paramount Plus",
-    "description": "Paramount Plus launcher.",
-    "icon": "P+",
-    "colors": [
-      "#0064ff",
-      "#ffffff"
-    ],
-    "url": "https://www.paramountplus.com/",
-    "logo": "assets/app-icons/paramount-plus.svg"
-  },
-  {
-    "id": "pinterest",
-    "title": "Pinterest",
-    "description": "Pinterest web app.",
-    "icon": "P",
-    "colors": [
-      "#e60023",
-      "#ffffff"
-    ],
-    "url": "https://www.pinterest.com/",
-    "logo": "assets/app-icons/pinterest.svg"
-  },
-  {
-    "id": "pixlr",
-    "title": "Pixlr",
-    "description": "Online image editor.",
-    "icon": "P",
-    "colors": [
-      "#000000",
-      "#22d3ee"
-    ],
-    "url": "https://pixlr.com/",
-    "logo": "assets/app-icons/pixlr.svg"
-  },
-  {
-    "id": "plagiarism-detector",
-    "title": "Plagiarism Detector",
-    "description": "Plagiarism detector tools.",
-    "icon": "PD",
-    "colors": [
-      "#ffffff",
-      "#2563eb"
-    ],
-    "url": "https://plagiarismdetector.net/",
-    "logo": "assets/app-icons/plagiarism-detector.svg"
-  },
-  {
-    "id": "poki",
-    "title": "Poki",
-    "description": "Poki games launcher.",
-    "icon": "P",
-    "colors": [
-      "#009df8",
-      "#ffffff"
-    ],
-    "url": "https://poki.com/",
-    "logo": "assets/app-icons/poki.svg"
-  },
-  {
-    "id": "premier-league",
-    "title": "Premier League",
-    "description": "Premier League scores and news.",
-    "icon": "PL",
-    "colors": [
-      "#c6ff00",
-      "#3d195b"
-    ],
-    "url": "https://www.premierleague.com/",
-    "logo": "assets/app-icons/premier-league.svg"
-  },
-  {
-    "id": "proton-mail",
-    "title": "Proton Mail",
-    "description": "Secure email web app.",
-    "icon": "PM",
-    "colors": [
-      "#ffffff",
-      "#6d4aff"
-    ],
-    "url": "https://mail.proton.me/",
-    "logo": "assets/app-icons/proton-mail.svg"
-  },
-  {
-    "id": "quillbot-ai-detector",
-    "title": "Quillbot.com AI Detector",
-    "description": "AI writing detector.",
-    "icon": "Q",
-    "colors": [
-      "#15803d",
-      "#ffffff"
-    ],
-    "url": "https://quillbot.com/ai-content-detector",
-    "logo": "assets/app-icons/quillbot-com-ai-detector.svg"
-  },
-  {
-    "id": "scratch",
-    "title": "Scratch",
-    "description": "Scratch coding projects.",
-    "icon": "S",
-    "colors": [
-      "#ffffff",
-      "#ff9f1c"
-    ],
-    "url": "https://scratch.mit.edu/",
-    "logo": "assets/app-icons/scratch.svg"
-  },
-  {
-    "id": "snapchat",
-    "title": "Snapchat",
-    "description": "Snapchat web app.",
-    "icon": "S",
-    "colors": [
-      "#fffc00",
-      "#111111"
-    ],
-    "url": "https://web.snapchat.com/",
-    "logo": "assets/app-icons/snapchat.svg"
-  },
-  {
-    "id": "soundcloud",
-    "title": "Soundcloud",
-    "description": "Music and audio.",
-    "icon": "SC",
-    "colors": [
-      "#ff5500",
-      "#ffffff"
-    ],
-    "url": "https://soundcloud.com/",
-    "logo": "assets/app-icons/soundcloud.svg"
-  },
-  {
-    "id": "spacehey",
-    "title": "SpaceHey",
-    "description": "Retro social network.",
-    "icon": "SH",
-    "colors": [
-      "#4263eb",
-      "#ffffff"
-    ],
-    "url": "https://spacehey.com/",
-    "logo": "assets/app-icons/spacehey.svg"
-  },
-  {
-    "id": "spotify",
-    "title": "Spotify",
-    "description": "Spotify web player.",
-    "icon": "S",
-    "colors": [
-      "#1db954",
-      "#ffffff"
-    ],
-    "url": "https://open.spotify.com/",
-    "logo": "assets/app-icons/spotify.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/amazon.webp",
+    "url": "https://amazon.com/",
+    "categories": []
   },
   {
     "id": "steam",
     "title": "Steam",
-    "description": "Steam store and community.",
+    "description": "WIP App launcher.",
     "icon": "ST",
     "colors": [
-      "#12395b",
-      "#ffffff"
+      "#2f2f2f",
+      "#555555"
     ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/steam.webp",
     "url": "https://store.steampowered.com/",
-    "logo": "assets/app-icons/steam.svg"
+    "categories": []
   },
   {
-    "id": "talkai",
-    "title": "TalkAI.info",
-    "description": "AI chat launcher.",
-    "icon": "AI",
+    "id": "buzzfeed-quizzes",
+    "title": "BuzzFeed Quizzes",
+    "description": "WIP App launcher.",
+    "icon": "BU",
     "colors": [
-      "#164e63",
-      "#67e8f9"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://talkai.info/",
-    "logo": "assets/app-icons/talkai-info.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/buzzfeed-quizzes.webp",
+    "url": "https://www.buzzfeed.com/quizzes",
+    "categories": []
   },
   {
-    "id": "telegram",
-    "title": "Telegram",
-    "description": "Telegram web app.",
-    "icon": "TG",
+    "id": "guilded",
+    "title": "Guilded",
+    "description": "WIP Social launcher.",
+    "icon": "GU",
     "colors": [
-      "#229ed9",
-      "#ffffff"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://web.telegram.org/",
-    "logo": "assets/app-icons/telegram.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/guilded.webp",
+    "url": "https://www.guilded.gg/",
+    "categories": [
+      "Social"
+    ]
+  },
+  {
+    "id": "android",
+    "title": "Android",
+    "description": "WIP Emulator / Android launcher.",
+    "icon": "AN",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/android.webp",
+    "url": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
+    "categories": [
+      "Emulator",
+      "Android"
+    ]
   },
   {
     "id": "temu",
     "title": "Temu",
-    "description": "Temu shopping launcher.",
-    "icon": "T",
+    "description": "WIP App launcher.",
+    "icon": "TE",
     "colors": [
-      "#ff6a00",
-      "#ffffff"
+      "#2f2f2f",
+      "#555555"
     ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/temu.webp",
     "url": "https://www.temu.com/",
-    "logo": "assets/app-icons/temu.svg"
+    "categories": []
+  },
+  {
+    "id": "character-ai",
+    "title": "Character AI",
+    "description": "WIP Emulator / Android launcher.",
+    "icon": "CH",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/character-ai.webp",
+    "url": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
+    "categories": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "aptoide",
+    "title": "Aptoide",
+    "description": "WIP Emulator / Android launcher.",
+    "icon": "AP",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/aptoide.webp",
+    "url": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
+    "categories": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "scratch",
+    "title": "Scratch",
+    "description": "WIP Social / Game Sites launcher.",
+    "icon": "SC",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/scratch.webp",
+    "url": "https://scratch.mit.edu",
+    "categories": [
+      "Social",
+      "Game Sites"
+    ]
+  },
+  {
+    "id": "chess-com",
+    "title": "Chess.com",
+    "description": "WIP Game Sites launcher.",
+    "icon": "CH",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/chess-com.webp",
+    "url": "https://www.chess.com/",
+    "categories": [
+      "Game Sites"
+    ]
+  },
+  {
+    "id": "cool-math-games",
+    "title": "Cool Math Games",
+    "description": "WIP Game Sites launcher.",
+    "icon": "CO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/cool-math-games.webp",
+    "url": "https://www.coolmathgames.com/",
+    "categories": [
+      "Game Sites"
+    ]
+  },
+  {
+    "id": "discord",
+    "title": "Discord",
+    "description": "WIP Social launcher.",
+    "icon": "DI",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/discord.jpg",
+    "url": "https://discord.com",
+    "categories": [
+      "Social"
+    ]
+  },
+  {
+    "id": "espn",
+    "title": "ESPN",
+    "description": "WIP App launcher.",
+    "icon": "ES",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/espn.webp",
+    "url": "https://www.espn.com/watch/",
+    "categories": []
+  },
+  {
+    "id": "fifa-rosters",
+    "title": "Fifa Rosters",
+    "description": "WIP App launcher.",
+    "icon": "FI",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/fifa-rosters.webp",
+    "url": "https://fifarosters.com/",
+    "categories": []
+  },
+  {
+    "id": "firefox-web-browser",
+    "title": "Firefox Web Browser",
+    "description": "WIP App launcher.",
+    "icon": "FI",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/firefox-web-browser.webp",
+    "url": "https://replit.com/@cooleddie001/Firefox-Legacy?v=1",
+    "categories": []
+  },
+  {
+    "id": "flix-hq",
+    "title": "Flix HQ",
+    "description": "WIP Media launcher.",
+    "icon": "FL",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/flix-hq.webp",
+    "url": "https://flixhq.to",
+    "categories": [
+      "Media"
+    ]
+  },
+  {
+    "id": "geforce-now",
+    "title": "Geforce NOW",
+    "description": "WIP Streaming / Cloud launcher.",
+    "icon": "GE",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/geforce-now.webp",
+    "url": "https://play.geforcenow.com",
+    "categories": [
+      "Streaming",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "github",
+    "title": "Github",
+    "description": "WIP App launcher.",
+    "icon": "GI",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/github.webp",
+    "url": "https://github.com",
+    "categories": []
+  },
+  {
+    "id": "google",
+    "title": "Google",
+    "description": "WIP App launcher.",
+    "icon": "GO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/google.webp",
+    "url": "https://google.com",
+    "categories": []
+  },
+  {
+    "id": "hbo-max",
+    "title": "HBO MAX",
+    "description": "WIP Streaming launcher.",
+    "icon": "HB",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/hbo-max.webp",
+    "url": "https://www.hbomax.com/",
+    "categories": [
+      "Streaming"
+    ]
+  },
+  {
+    "id": "messenger",
+    "title": "Messenger",
+    "description": "WIP Social / Message launcher.",
+    "icon": "ME",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/messenger.webp",
+    "url": "https://messenger.com/",
+    "categories": [
+      "Social",
+      "Message"
+    ]
+  },
+  {
+    "id": "mlb",
+    "title": "MLB",
+    "description": "WIP App launcher.",
+    "icon": "ML",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/mlb.webp",
+    "url": "https://mlb.com",
+    "categories": []
+  },
+  {
+    "id": "nfl",
+    "title": "NFL",
+    "description": "WIP App launcher.",
+    "icon": "NF",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/nfl.webp",
+    "url": "https://nfl.com",
+    "categories": []
+  },
+  {
+    "id": "nba",
+    "title": "NBA",
+    "description": "WIP App launcher.",
+    "icon": "NB",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/nba.webp",
+    "url": "https://nba.com",
+    "categories": []
+  },
+  {
+    "id": "paramount-plus",
+    "title": "Paramount Plus",
+    "description": "WIP Streaming launcher.",
+    "icon": "PA",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/paramount-plus.webp",
+    "url": "https://paramountplus.com",
+    "categories": [
+      "Streaming"
+    ]
+  },
+  {
+    "id": "pinterest",
+    "title": "Pinterest",
+    "description": "WIP App launcher.",
+    "icon": "PI",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/pinterest.webp",
+    "url": "https://pinterest.com",
+    "categories": []
+  },
+  {
+    "id": "pixlr",
+    "title": "Pixlr",
+    "description": "WIP App launcher.",
+    "icon": "PI",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/pixlr.webp",
+    "url": "https://pixlr.com/",
+    "categories": []
+  },
+  {
+    "id": "poki",
+    "title": "Poki",
+    "description": "WIP Game Sites launcher.",
+    "icon": "PO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/poki.webp",
+    "url": "https://poki.com",
+    "categories": [
+      "Game Sites"
+    ]
+  },
+  {
+    "id": "premier-league",
+    "title": "Premier League",
+    "description": "WIP App launcher.",
+    "icon": "PR",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/premier-league.webp",
+    "url": "https://premierleague.com",
+    "categories": []
+  },
+  {
+    "id": "soundcloud",
+    "title": "Soundcloud",
+    "description": "WIP App launcher.",
+    "icon": "SO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/soundcloud.webp",
+    "url": "https://soundcloud.com",
+    "categories": []
+  },
+  {
+    "id": "spotify",
+    "title": "Spotify",
+    "description": "WIP App launcher.",
+    "icon": "SP",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/spotify.webp",
+    "url": "",
+    "categories": []
+  },
+  {
+    "id": "telegram",
+    "title": "Telegram",
+    "description": "WIP Social launcher.",
+    "icon": "TE",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/telegram.webp",
+    "url": "https://web.telegram.org/",
+    "categories": [
+      "Social"
+    ]
   },
   {
     "id": "tiktok",
     "title": "Tiktok",
-    "description": "TikTok web app.",
-    "icon": "TT",
+    "description": "WIP Social launcher.",
+    "icon": "TI",
     "colors": [
-      "#000000",
-      "#00f2ea"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://www.tiktok.com/",
-    "logo": "assets/app-icons/tiktok.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/tiktok.webp",
+    "url": "https://tiktok.com",
+    "categories": [
+      "Social"
+    ]
   },
   {
-    "id": "trello",
-    "title": "Trello",
-    "description": "Boards and task lists.",
-    "icon": "T",
+    "id": "free-media-heck-yeah",
+    "title": "Free Media Heck Yeah",
+    "description": "WIP Media launcher.",
+    "icon": "FR",
     "colors": [
-      "#2684ff",
-      "#ffffff"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://trello.com/",
-    "logo": "assets/app-icons/trello.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/free-media-heck-yeah.webp",
+    "url": "https://fmhy.pages.dev",
+    "categories": [
+      "Media"
+    ]
   },
   {
-    "id": "tumblr",
-    "title": "Tumblr",
-    "description": "Tumblr web app.",
-    "icon": "t",
+    "id": "canva",
+    "title": "Canva",
+    "description": "WIP App launcher.",
+    "icon": "CA",
     "colors": [
-      "#001935",
-      "#ffffff"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://www.tumblr.com/",
-    "logo": "assets/app-icons/tumblr.svg"
-  },
-  {
-    "id": "twitch",
-    "title": "Twitch",
-    "description": "Twitch streams.",
-    "icon": "T",
-    "colors": [
-      "#9146ff",
-      "#ffffff"
-    ],
-    "url": "https://www.twitch.tv/",
-    "logo": "assets/app-icons/twitch.svg"
-  },
-  {
-    "id": "twitter",
-    "title": "Twitter",
-    "description": "Twitter/X web app.",
-    "icon": "X",
-    "colors": [
-      "#1da1f2",
-      "#ffffff"
-    ],
-    "url": "https://x.com/",
-    "logo": "assets/app-icons/twitter.svg"
-  },
-  {
-    "id": "vercel",
-    "title": "Vercel",
-    "description": "Vercel dashboard and deploys.",
-    "icon": "▲",
-    "colors": [
-      "#000000",
-      "#ffffff"
-    ],
-    "url": "https://vercel.com/",
-    "logo": "assets/app-icons/vercel.svg"
-  },
-  {
-    "id": "vs-code",
-    "title": "VS Code",
-    "description": "VS Code for web.",
-    "icon": "VS",
-    "colors": [
-      "#1f6feb",
-      "#111827"
-    ],
-    "url": "https://vscode.dev/",
-    "logo": "assets/app-icons/vs-code.svg"
-  },
-  {
-    "id": "w3schools",
-    "title": "W3Schools",
-    "description": "Coding tutorials.",
-    "icon": "W3",
-    "colors": [
-      "#04aa6d",
-      "#111827"
-    ],
-    "url": "https://www.w3schools.com/",
-    "logo": "assets/app-icons/w3schools.svg"
-  },
-  {
-    "id": "wattpad",
-    "title": "Wattpad",
-    "description": "Stories and reading.",
-    "icon": "W",
-    "colors": [
-      "#ff5f00",
-      "#ffffff"
-    ],
-    "url": "https://www.wattpad.com/",
-    "logo": "assets/app-icons/wattpad.svg"
-  },
-  {
-    "id": "whatsapp",
-    "title": "Whatsapp",
-    "description": "WhatsApp web app.",
-    "icon": "WA",
-    "colors": [
-      "#25d366",
-      "#ffffff"
-    ],
-    "url": "https://web.whatsapp.com/",
-    "logo": "assets/app-icons/whatsapp.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/canva.webp",
+    "url": "https://canva.com",
+    "categories": []
   },
   {
     "id": "wikipedia",
     "title": "Wikipedia",
-    "description": "The free encyclopedia.",
-    "icon": "W",
+    "description": "WIP App launcher.",
+    "icon": "WI",
     "colors": [
-      "#f8f9fa",
-      "#202122"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://www.wikipedia.org/",
-    "logo": "assets/app-icons/wikipedia.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/wikipedia.webp",
+    "url": "https://en.wikipedia.org",
+    "categories": []
   },
   {
-    "id": "writer",
-    "title": "Writer.com",
-    "description": "AI writing tools.",
-    "icon": "W",
+    "id": "goal",
+    "title": "GOAL",
+    "description": "WIP App launcher.",
+    "icon": "GO",
     "colors": [
-      "#000000",
-      "#ffffff"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://writer.com/",
-    "logo": "assets/app-icons/writer-com.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/goal.webp",
+    "url": "https://goal.com",
+    "categories": []
+  },
+  {
+    "id": "trello",
+    "title": "Trello",
+    "description": "WIP App launcher.",
+    "icon": "TR",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/trello.webp",
+    "url": "https://trello.com",
+    "categories": []
+  },
+  {
+    "id": "gidd-io-games",
+    "title": "Gidd.io Games",
+    "description": "WIP App launcher.",
+    "icon": "GI",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/gidd-io-games.webp",
+    "url": "https://gidd.io",
+    "categories": []
+  },
+  {
+    "id": "tumblr",
+    "title": "Tumblr",
+    "description": "WIP Social launcher.",
+    "icon": "TU",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/tumblr.webp",
+    "url": "https://tumblr.com/",
+    "categories": [
+      "Social"
+    ]
+  },
+  {
+    "id": "twitch",
+    "title": "Twitch",
+    "description": "WIP Streaming launcher.",
+    "icon": "TW",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/twitch.webp",
+    "url": "https://twitch.tv",
+    "categories": [
+      "Streaming"
+    ]
+  },
+  {
+    "id": "twitter",
+    "title": "Twitter",
+    "description": "WIP Social launcher.",
+    "icon": "TW",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/twitter.webp",
+    "url": "https://twitter.com",
+    "categories": [
+      "Social"
+    ]
+  },
+  {
+    "id": "vs-code",
+    "title": "VS Code",
+    "description": "WIP Tools launcher.",
+    "icon": "VS",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/vs-code.webp",
+    "url": "https://vscode.dev",
+    "categories": [
+      "Tools"
+    ]
   },
   {
     "id": "y8-games",
     "title": "Y8 Games",
-    "description": "Y8 games launcher.",
+    "description": "WIP Game Sites launcher.",
     "icon": "Y8",
     "colors": [
-      "#ffffff",
-      "#e11d48"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://www.y8.com/",
-    "logo": "assets/app-icons/y8-games.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/y8-games.webp",
+    "url": "https://y8.com/",
+    "categories": [
+      "Game Sites"
+    ]
   },
   {
     "id": "youtube",
     "title": "YouTube",
-    "description": "YouTube web app.",
-    "icon": "YT",
+    "description": "WIP Social / Streaming launcher.",
+    "icon": "YO",
     "colors": [
-      "#ffffff",
-      "#ff0000"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://www.youtube.com/",
-    "logo": "assets/app-icons/youtube.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/youtube.webp",
+    "url": "https://youtube.com",
+    "categories": [
+      "Social",
+      "Streaming"
+    ]
   },
   {
-    "id": "youtube-invidious",
+    "id": "youtube-alternative-invidious",
     "title": "YouTube Alternative (Invidious)",
-    "description": "Alternative YouTube front end.",
-    "icon": "YT",
+    "description": "WIP Social / Streaming launcher.",
+    "icon": "YO",
     "colors": [
-      "#ffffff",
-      "#ff0000"
+      "#2f2f2f",
+      "#555555"
     ],
-    "url": "https://yewtu.be/",
-    "logo": "assets/app-icons/youtube-alternative-invidious.svg"
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/youtube-alternative-invidious.webp",
+    "url": "https://vid.puffyan.us/",
+    "categories": [
+      "Social",
+      "Streaming"
+    ]
   },
   {
-    "id": "zerogpt",
-    "title": "ZeroGPT.com",
-    "description": "AI detector.",
-    "icon": "ZG",
+    "id": "whatsapp",
+    "title": "Whatsapp",
+    "description": "WIP Message / Social launcher.",
+    "icon": "WH",
     "colors": [
-      "#075985",
-      "#bae6fd"
+      "#2f2f2f",
+      "#555555"
     ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/whatsapp.webp",
+    "url": "",
+    "categories": [
+      "Message",
+      "Social"
+    ]
+  },
+  {
+    "id": "wattpad",
+    "title": "Wattpad",
+    "description": "WIP Social launcher.",
+    "icon": "WA",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/wattpad.webp",
+    "url": "https://www.wattpad.com/",
+    "categories": [
+      "Social"
+    ]
+  },
+  {
+    "id": "discord-login",
+    "title": "Discord - Login",
+    "description": "WIP Social launcher.",
+    "icon": "DI",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/discord-login.jpg",
+    "url": "https://discord.com/login",
+    "categories": [
+      "Social"
+    ]
+  },
+  {
+    "id": "hd-today",
+    "title": "HD Today",
+    "description": "WIP Streaming / Media launcher.",
+    "icon": "HD",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/hd-today.webp",
+    "url": "https://hdtoday.tv",
+    "categories": [
+      "Streaming",
+      "Media"
+    ]
+  },
+  {
+    "id": "now-gg",
+    "title": "Now.GG",
+    "description": "WIP Emulator / Android launcher.",
+    "icon": "NO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/now-gg.webp",
+    "url": "https://now.gg",
+    "categories": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "now-gg-nowgg-me-working",
+    "title": "Now.GG (NowGG.me) [Working]",
+    "description": "WIP Emulator / Android launcher.",
+    "icon": "NO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/now-gg-nowgg-me-working.webp",
+    "url": "https://nowgg.me",
+    "categories": [
+      "Emulator",
+      "Android"
+    ]
+  },
+  {
+    "id": "vercel",
+    "title": "Vercel",
+    "description": "WIP Tools launcher.",
+    "icon": "VE",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/vercel.webp",
+    "url": "https://vercel.com",
+    "categories": [
+      "Tools"
+    ]
+  },
+  {
+    "id": "amazon-luna",
+    "title": "Amazon Luna",
+    "description": "WIP Game Sites / Cloud launcher.",
+    "icon": "AM",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/amazon-luna.webp",
+    "url": "https://luna.amazon.com/",
+    "categories": [
+      "Game Sites",
+      "Cloud"
+    ]
+  },
+  {
+    "id": "google-gemini",
+    "title": "Google Gemini",
+    "description": "WIP AI launcher.",
+    "icon": "GO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/google-gemini.webp",
+    "url": "https://gemini.google.com",
+    "categories": [
+      "AI"
+    ]
+  },
+  {
+    "id": "google-mail-gmail",
+    "title": "Google Mail (Gmail)",
+    "description": "WIP Mail launcher.",
+    "icon": "GO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/google-mail-gmail.webp",
+    "url": "https://mail.google.com/",
+    "categories": [
+      "Mail"
+    ]
+  },
+  {
+    "id": "outlook",
+    "title": "Outlook",
+    "description": "WIP Mail launcher.",
+    "icon": "OU",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/outlook.webp",
+    "url": "https://outlook.live.com/",
+    "categories": [
+      "Mail"
+    ]
+  },
+  {
+    "id": "snapchat",
+    "title": "Snapchat",
+    "description": "WIP Social / Message launcher.",
+    "icon": "SN",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/snapchat.webp",
+    "url": "",
+    "categories": [
+      "Social",
+      "Message"
+    ]
+  },
+  {
+    "id": "w3schools",
+    "title": "W3Schools",
+    "description": "WIP App launcher.",
+    "icon": "W3",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/w3schools.webp",
+    "url": "https://www.w3schools.com",
+    "categories": []
+  },
+  {
+    "id": "newgrounds",
+    "title": "Newgrounds",
+    "description": "WIP Social / Game Sites launcher.",
+    "icon": "NE",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/newgrounds.webp",
+    "url": "https://www.newgrounds.com",
+    "categories": [
+      "Social",
+      "Game Sites"
+    ]
+  },
+  {
+    "id": "instagram",
+    "title": "Instagram",
+    "description": "WIP Social / Message launcher.",
+    "icon": "IN",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/instagram.webp",
+    "url": "",
+    "categories": [
+      "Social",
+      "Message"
+    ]
+  },
+  {
+    "id": "proton-mail",
+    "title": "Proton Mail",
+    "description": "WIP App launcher.",
+    "icon": "PR",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/proton-mail.webp",
+    "url": "",
+    "categories": []
+  },
+  {
+    "id": "spacehey",
+    "title": "SpaceHey",
+    "description": "WIP Social launcher.",
+    "icon": "SP",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/spacehey.png",
+    "url": "https://www.spacehey.com",
+    "categories": [
+      "Social"
+    ]
+  },
+  {
+    "id": "fmovies-to",
+    "title": "FMovies.to",
+    "description": "WIP Media launcher.",
+    "icon": "FM",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/fmovies-to.png",
+    "url": "https://fmovies24.to/",
+    "categories": [
+      "Media"
+    ]
+  },
+  {
+    "id": "emovies-si",
+    "title": "EMovies.si",
+    "description": "WIP Media launcher.",
+    "icon": "EM",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/emovies-si.svg",
+    "url": "https://emovies.si",
+    "categories": [
+      "Media"
+    ]
+  },
+  {
+    "id": "movie-web",
+    "title": "Movie Web",
+    "description": "WIP Media launcher.",
+    "icon": "MO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/movie-web.png",
+    "url": "https://movie-web-me.vercel.app/",
+    "categories": [
+      "Media"
+    ]
+  },
+  {
+    "id": "sudo-flix-lol-movie-web-clone",
+    "title": "Sudo-Flix.Lol (Movie Web Clone)",
+    "description": "WIP Media launcher.",
+    "icon": "SU",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/sudo-flix-lol-movie-web-clone.png",
+    "url": "https://sudo-flix.lol/",
+    "categories": [
+      "Media"
+    ]
+  },
+  {
+    "id": "gba-games",
+    "title": "GBA Games",
+    "description": "WIP Emulator launcher.",
+    "icon": "GB",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/gba-games.png",
+    "url": "https://gba.js.org/",
+    "categories": [
+      "Emulator"
+    ]
+  },
+  {
+    "id": "gptzero-me",
+    "title": "GPTZero.me",
+    "description": "WIP Ad launcher.",
+    "icon": "GP",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/gptzero-me.webp",
+    "url": "https://gptzero.me/",
+    "categories": [
+      "Ad"
+    ]
+  },
+  {
+    "id": "zerogpt-com",
+    "title": "ZeroGPT.com",
+    "description": "WIP Ad launcher.",
+    "icon": "ZE",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/zerogpt-com.webp",
     "url": "https://www.zerogpt.com/",
-    "logo": "assets/app-icons/zerogpt-com.svg"
+    "categories": [
+      "Ad"
+    ]
+  },
+  {
+    "id": "chatgpt",
+    "title": "ChatGPT",
+    "description": "WIP AI launcher.",
+    "icon": "CH",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/chatgpt.jpg",
+    "url": "https://chat.openai.com",
+    "categories": [
+      "AI"
+    ]
+  },
+  {
+    "id": "copyleaks-com",
+    "title": "CopyLeaks.com",
+    "description": "WIP Ad launcher.",
+    "icon": "CO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/copyleaks-com.jpg",
+    "url": "https://copyleaks.com/ai-content-detector",
+    "categories": [
+      "Ad"
+    ]
+  },
+  {
+    "id": "writer-com",
+    "title": "Writer.com",
+    "description": "WIP Ad launcher.",
+    "icon": "WR",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/writer-com.png",
+    "url": "https://writer.com/ai-content-detector/",
+    "categories": [
+      "Ad"
+    ]
+  },
+  {
+    "id": "quillbot-com-ai-detector",
+    "title": "Quillbot.com AI Detector",
+    "description": "WIP Ad launcher.",
+    "icon": "QU",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/quillbot-com-ai-detector.jpg",
+    "url": "https://quillbot.com/ai-content-detector",
+    "categories": [
+      "Ad"
+    ]
+  },
+  {
+    "id": "kome-ai-youtube-transcript",
+    "title": "Kome.ai YouTube Transcript",
+    "description": "WIP Ts launcher.",
+    "icon": "KO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/kome-ai-youtube-transcript.webp",
+    "url": "https://kome.ai/tools/youtube-transcript-generator",
+    "categories": [
+      "Ts"
+    ]
+  },
+  {
+    "id": "notegpt-io-youtube-transcript",
+    "title": "NoteGPT.io YouTube Transcript",
+    "description": "WIP Ts launcher.",
+    "icon": "NO",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/notegpt-io-youtube-transcript.jpg",
+    "url": "https://notegpt.io/youtube-transcript-generator",
+    "categories": [
+      "Ts"
+    ]
+  },
+  {
+    "id": "grammarly-plagiarism-checker",
+    "title": "Grammarly Plagiarism Checker",
+    "description": "WIP Pc launcher.",
+    "icon": "GR",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/grammarly-plagiarism-checker.png",
+    "url": "https://www.grammarly.com/plagiarism-checker",
+    "categories": [
+      "Pc"
+    ]
+  },
+  {
+    "id": "plagiarism-detector",
+    "title": "Plagiarism Detector",
+    "description": "WIP Pc launcher.",
+    "icon": "PL",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/plagiarism-detector.png",
+    "url": "https://plagiarismdetector.net/",
+    "categories": [
+      "Pc"
+    ]
+  },
+  {
+    "id": "blooket-cheats",
+    "title": "Blooket Cheats",
+    "description": "WIP Bl / Cs launcher.",
+    "icon": "BL",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/blooket-cheats.webp",
+    "url": "https://github.com/005konz/Blooket-Cheats",
+    "categories": [
+      "Bl",
+      "Cs"
+    ]
+  },
+  {
+    "id": "edpuzzle-cheats",
+    "title": "Edpuzzle Cheats",
+    "description": "WIP Ep / Cs launcher.",
+    "icon": "ED",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/edpuzzle-cheats.png",
+    "url": "https://github.com/ading2210/edpuzzle-answers",
+    "categories": [
+      "Ep",
+      "Cs"
+    ]
+  },
+  {
+    "id": "deepai-org",
+    "title": "DeepAI.org",
+    "description": "WIP AI launcher.",
+    "icon": "DE",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/deepai-org.webp",
+    "url": "https://deepai.org/",
+    "categories": [
+      "AI"
+    ]
+  },
+  {
+    "id": "freedomgpt",
+    "title": "FreedomGPT",
+    "description": "WIP AI launcher.",
+    "icon": "FR",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/freedomgpt.svg",
+    "url": "https://chat.freedomgpt.com/",
+    "categories": [
+      "AI"
+    ]
+  },
+  {
+    "id": "talkai-info",
+    "title": "TalkAI.info",
+    "description": "WIP AI launcher.",
+    "icon": "TA",
+    "colors": [
+      "#2f2f2f",
+      "#555555"
+    ],
+    "status": "WIP",
+    "logo": "assets/interstellar-app-icons/talkai-info.webp",
+    "url": "https://talkai.info/chat/",
+    "categories": [
+      "AI"
+    ]
   }
 ];

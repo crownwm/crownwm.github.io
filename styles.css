@@ -2510,6 +2510,10 @@ html[data-theme="classic"] .section-block h2 .section-marker {
   gap: 10px;
 }
 
+.apps-section[hidden] {
+  display: none;
+}
+
 .app-card {
   display: flex;
   align-items: center;
@@ -2548,9 +2552,9 @@ html[data-theme="classic"] .section-block h2 .section-marker {
 
 .app-logo {
   display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  width: 88%;
+  height: 88%;
+  object-fit: contain;
 }
 
 .app-card strong,
@@ -2561,6 +2565,20 @@ html[data-theme="classic"] .section-block h2 .section-marker {
 .app-card strong {
   font-size: 17px;
   line-height: 1.05;
+}
+
+.app-status {
+  display: inline-flex;
+  width: max-content;
+  margin-top: 6px;
+  border-radius: 999px;
+  background: rgba(255, 212, 71, .16);
+  color: #ffd447;
+  font-size: 10px;
+  font-weight: 1000;
+  letter-spacing: .08em;
+  padding: 4px 7px;
+  text-transform: uppercase;
 }
 
 .app-card small {
@@ -2635,16 +2653,49 @@ html[data-motion="calm"] .theme-weather::after {
   }
 
   html[data-theme="classic"] .hero-gallery {
-    height: 260px;
+    display: flex;
+    order: -1;
+    height: 190px;
     max-width: none;
+    transform: none;
+    gap: 8px;
   }
 
   html[data-theme="classic"] .hero-column {
-    height: 260px;
-    min-width: 190px;
+    height: 190px;
+    min-width: 128px;
+    border-radius: 12px;
+  }
+
+  html[data-theme="classic"] .hero-track {
+    gap: 8px;
+    animation-duration: 22s;
+  }
+
+  html[data-theme="classic"] .hero-tile {
+    padding: 3px;
+    border-radius: 12px;
+  }
+
+  html[data-theme="classic"] .hero-tile img {
+    border-radius: 9px;
+  }
+
+  html[data-theme="classic"] .hero-copy {
+    flex-basis: auto;
+    text-align: center;
+  }
+
+  html[data-theme="classic"] .hero-copy .start-button {
+    justify-content: center;
+    width: 100%;
   }
 
   .app-grid {
     grid-template-columns: 1fr;
+  }
+
+  .app-card {
+    min-height: 84px;
   }
 }

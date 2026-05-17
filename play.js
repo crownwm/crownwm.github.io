@@ -2,7 +2,7 @@ const games = (window.CROWN_GAMES || []).filter(
   (entry) => entry.playable && (entry.embedPath || entry.embedUrl)
 );
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-logo-fix";
+const THUMB_VERSION = "20260517-mobile-wip";
 const MIN_LOADER_MS = 3500;
 const LOADER_FADE_MS = 680;
 const params = new URLSearchParams(location.search);
@@ -195,12 +195,7 @@ function reloadFrame(iframe, src) {
 }
 
 function wrappedEmbedSrc(src) {
-  if (!/^https?:/i.test(src)) return src;
-  const params = new URLSearchParams({
-    src,
-    title: game ? game.title : "Crown game",
-  });
-  return "embeds/crown-frame.html?" + params.toString();
+  return src;
 }
 
 function loadScript(src) {
@@ -232,7 +227,7 @@ function frame(src) {
   iframe.allow = frameAllow;
   iframe.allowFullscreen = true;
   iframe.loading = "eager";
-  iframe.referrerPolicy = /^https:\/\/pizzaedition\.win/i.test(src) ? "origin" : "no-referrer-when-downgrade";
+  iframe.referrerPolicy = /^https?:/i.test(src) ? "origin" : "no-referrer-when-downgrade";
   iframe.sandbox =
     "allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-orientation-lock allow-presentation";
   iframe.setAttribute("allowfullscreen", "");
