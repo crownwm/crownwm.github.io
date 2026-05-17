@@ -6647,7 +6647,7 @@ window.CROWN_GAMES = [
     "id": "crown-1-on-1-soccer",
     "title": "1 On 1 Soccer",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/1-on-1-soccer-1cxoawvu.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-1-on-1-soccer.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/1-on-1-soccer-1cxoawvu.html",
     "playable": true,
@@ -6656,14 +6656,14 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1cXOAwvU-ylOtdf1KrDNDHWqEGKWgGSJC",
     "driveFileName": "cl1on1soccer.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "crown-title-logo",
     "requiresRuffle": true
   },
   {
     "id": "crown-1v1-tennis",
     "title": "1v1 Tennis",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/1v1-tennis-1zp9a0jg.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-1v1-tennis.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/1v1-tennis-1zp9a0jg.html",
     "playable": false,
@@ -6672,7 +6672,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1zp9A0jghV7xZKlAcNhP4uFwR-dAuBWW1",
     "driveFileName": "cl1v1tennis.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "crown-title-logo",
     "mobileReady": false,
     "unsupportedReason": "Flash file missing",
     "requiresRuffle": true
@@ -6681,7 +6681,7 @@ window.CROWN_GAMES = [
     "id": "crown-2d-shooting",
     "title": "2D Shooting",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/2d-shooting-1d4qxvdo.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-2d-shooting.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/2d-shooting-1d4qxvdo.html",
     "playable": true,
@@ -6690,13 +6690,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1d4qxVdowbLnJ34kLE_u0r9Rnxj_ijsYV",
     "driveFileName": "cl2Dshooting.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-3-pandas",
     "title": "3 Pandas",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3-pandas-166vn2n4.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3-pandas.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-166vn2n4.html",
     "playable": true,
@@ -6705,14 +6705,14 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "166vN2N4eK9rO5tPzMqv9qFVpTivcaVX9",
     "driveFileName": "cl3pandas.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "crown-title-logo",
     "requiresRuffle": true
   },
   {
     "id": "crown-3-pandas-brazil",
     "title": "3 Pandas Brazil",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3-pandas-brazil-1o7jdlmh.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3-pandas-brazil.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-brazil-1o7jdlmh.html",
     "playable": true,
@@ -6721,14 +6721,14 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1O7JDlmh3G-4bt7yxoUdUJUjIwMCA2MO4",
     "driveFileName": "cl3pandasbrazil.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "crown-title-logo",
     "requiresRuffle": true
   },
   {
     "id": "crown-3-pandas-fantasy",
     "title": "3 Pandas Fantasy",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3-pandas-fantasy-1mho2syj.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3-pandas-fantasy.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-fantasy-1mho2syj.html",
     "playable": true,
@@ -6737,14 +6737,14 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1mho2syJYRIn2wZZZPkjV_mQfJ_p-Y-n4",
     "driveFileName": "cl3pandasfantasy.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "crown-title-logo",
     "requiresRuffle": true
   },
   {
     "id": "crown-3-pandas-japan",
     "title": "3 Pandas Japan",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3-pandas-japan-1gvfnfy4.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3-pandas-japan.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-japan-1gvfnfy4.html",
     "playable": true,
@@ -6753,14 +6753,14 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1GvfnFY4iCDU6KOj13hzODHQK2bDPWfHw",
     "driveFileName": "cl3pandasjapan.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "crown-title-logo",
     "requiresRuffle": true
   },
   {
     "id": "crown-3-pandas-night",
     "title": "3 Pandas Night",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3-pandas-night-1phl-3yo.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3-pandas-night.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-pandas-night-1phl-3yo.html",
     "playable": true,
@@ -6769,14 +6769,14 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1phl_3yofGgiDdT6-y2hbJ4Wk3mMXE-ox",
     "driveFileName": "cl3pandasnight.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "crown-title-logo",
     "requiresRuffle": true
   },
   {
     "id": "crown-3-slices-2",
     "title": "3 Slices 2",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3-slices-2-1857d3ar.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3-slices-2.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3-slices-2-1857d3ar.html",
     "playable": true,
@@ -6785,14 +6785,14 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1857d3Ar39g8qcn4iM21XCV6_KCEV5Ilr",
     "driveFileName": "cl3slices2.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "crown-title-logo",
     "requiresRuffle": true
   },
   {
     "id": "crown-3d-dash",
     "title": "3D Dash",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3d-dash-1yqclrmi.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3d-dash.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3d-dash-1yqclrmi.html",
     "playable": true,
@@ -6801,13 +6801,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1yQclRMII5l-C_8hKY1W2EjdlYkyasm9N",
     "driveFileName": "cl3dash.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-3d-dash-editor",
     "title": "3D Dash Editor",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3d-dash-editor-14fwtngk.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3d-dash-editor.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3d-dash-editor-14fwtngk.html",
     "playable": true,
@@ -6816,13 +6816,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "14fwtngK-vE6fT3LBmcmyAhpTPruyLkpB",
     "driveFileName": "cl3dasheditor.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-3d-pinball-space-cadet",
     "title": "3D Pinball Space Cadet",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/3d-pinball-space-cadet-11vimxj.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-3d-pinball-space-cadet.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/3d-pinball-space-cadet-11vimxj.html",
     "playable": true,
@@ -6831,13 +6831,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "11Vimxj_TcyjiPu4AOXCEZ5WH6KuFU7Bo",
     "driveFileName": "cl3dpinballspacecadet.html",
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-4th-and-goal",
     "title": "4th and Goal",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/4th-and-goal-1thh-pow.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-4th-and-goal.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/4th-and-goal-1thh-pow.html",
     "playable": true,
@@ -6846,13 +6846,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1ThH-powjmyAQ82qHSYr-u13NiEEuud2a",
     "driveFileName": "cl4thandgoal.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-bank-robbery",
     "title": "Bank Robbery",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/bank-robbery-16y-r-x5.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-bank-robbery.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/bank-robbery-16y-r-x5.html",
     "playable": true,
@@ -6861,13 +6861,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "16Y-r_X5wxD8gSvxX6esXOAVnQTaJb361",
     "driveFileName": "Bank Robbery.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-cheese-rolling",
     "title": "Cheese Rolling",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/cheese-rolling-18unkdrz.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-cheese-rolling.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/cheese-rolling-18unkdrz.html",
     "playable": true,
@@ -6876,13 +6876,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "18UnKdrZ6zeqHynTRefXtIIaoLji2Ig7r",
     "driveFileName": "cheeserolling.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-cl-1",
     "title": "CL 1",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/cl-1-19ra-g4u.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-cl-1.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-1-19ra-g4u.html",
     "playable": true,
@@ -6891,13 +6891,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "19ra_g4UHw5HAsZKjcP1jyG5CqoAnMp-o",
     "driveFileName": "cl1.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-cl-3",
     "title": "CL 3",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/cl-3-1euee1bc.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-cl-3.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-3-1euee1bc.html",
     "playable": true,
@@ -6906,13 +6906,13 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1EuEe1bCm9nzgvRBkGbO8i-8gwsmH-K6a",
     "driveFileName": "cl-3.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-cl-b",
     "title": "CL B",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/cl-b-1vnphevh.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-cl-b.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/cl-b-1vnphevh.html",
     "playable": true,
@@ -6921,7 +6921,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1vnpHevhDDNNiVbJx0m75dMBE5s015lgC",
     "driveFileName": "cl-b.html",
-    "thumbnailSource": "local-logo"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-doom",
@@ -6942,7 +6942,7 @@ window.CROWN_GAMES = [
     "id": "crown-mixed-with-files-altsingle",
     "title": "Mixed With Files Altsingle",
     "category": "Bonus Games",
-    "thumbnail": "assets/thumbs/drive/mixed-with-files-altsingle-1bsflpix.jpg",
+    "thumbnail": "assets/thumbs/title-logos/crown-mixed-with-files-altsingle.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/mixed-with-files-altsingle-1bsflpix.html",
     "playable": true,
@@ -6951,14 +6951,14 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1BsflPIXTnFDycvbS56Oa_rElBTMq9wyo",
     "driveFileName": "Mixed with files altsingle.html",
-    "thumbnailSource": "crown-local-art"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "drive-1v1-lol-16svhf4x",
     "title": "1v1.lol",
     "category": "Drive Imports",
     "originalPage": "https://drive.google.com/file/d/16SVHF4XRFjv5WCqlLHJZhF6nkBM7q4ex/view",
-    "thumbnail": "assets/thumbs/drive/1v1-lol-16svhf4x.jpg",
+    "thumbnail": "assets/thumbs/title-logos/drive-1v1-lol-16svhf4x.svg",
     "embedType": "html",
     "embedPath": "embeds/drive/1v1-lol-16svhf4x.html",
     "playable": true,
@@ -6967,7 +6967,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "16SVHF4XRFjv5WCqlLHJZhF6nkBM7q4ex",
     "driveFileName": "cl1v1lol.html",
-    "thumbnailSource": "drive"
+    "thumbnailSource": "crown-title-logo"
   },
   {
     "id": "crown-akinator",
