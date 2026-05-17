@@ -3,42 +3,14 @@ function isIpadReadyGame(game) {
     game.playable &&
       game.mobileReady !== false &&
       !game.unsupportedReason &&
-      ((game.embedType === "html" && game.embedPath) ||
-        (game.embedType === "iframe" &&
-          game.embedUrl &&
-          (isClassroom6xGame(game) || isMobileFriendlyExternalGame(game))))
-  );
-}
-
-function isClassroom6xGame(game) {
-  return Boolean(
-    game.classrom6xPage ||
-      game.classroom6xPage ||
-      /^https:\/\/(?:classrom6x|ubgwtf)\.gitlab\.io\//i.test(game.embedUrl || "") ||
-      /^https:\/\/classroom-6x\.io\//i.test(game.embedUrl || "")
+      game.embedType === "html" &&
+      game.embedPath
   );
 }
 
 function isRobloxStyleGame(game) {
   return /roblox|obby|minecraft|eagler|noob|block|parkour|monster school|herobrine|mine/i.test(
     [game.title, game.category, ...(game.tags || [])].join(" ")
-  );
-}
-
-function isMobileFriendlyExternalGame(game) {
-  if (!isRobloxStyleGame(game)) return false;
-  let host = "";
-  try {
-    host = new URL(game.embedUrl).hostname.toLowerCase();
-  } catch (error) {
-    return false;
-  }
-
-  return (
-    host === "html5.gamedistribution.com" ||
-    host === "cdn.freegames.com" ||
-    host === "www.kidsgame.com" ||
-    host === "pizzaedition.win"
   );
 }
 
@@ -53,7 +25,7 @@ fullGameCatalog.filter((game) => !isIpadReadyGame(game)).forEach((game) => hidde
 const hiddenExternalCount = hiddenGameIds.size;
 const allGames = fullGameCatalog.filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-classrom-repair";
+const THUMB_VERSION = "20260517-local-only";
 const APPLE_TOUCH_DEVICE = /iPad|iPhone|iPod/i.test(navigator.userAgent) ||
   (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
 const LAUNCH_FADE_MS = APPLE_TOUCH_DEVICE ? 180 : 360;
@@ -411,7 +383,7 @@ function render() {
   if (modeNote) {
     modeNote.textContent =
       hiddenExternalCount > 0
-        ? hiddenExternalCount + " broken or unsupported games are hidden so players do not hit dead pages."
+        ? hiddenExternalCount + " remote-only games are hidden until they have Crown-local launch files."
         : "All Crown games are loading from Crown-local launch files.";
   }
   updateFavoriteNavCount();

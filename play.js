@@ -3,48 +3,14 @@ function isIpadReadyGame(entry) {
     entry.playable &&
       entry.mobileReady !== false &&
       !entry.unsupportedReason &&
-      ((entry.embedType === "html" && entry.embedPath) ||
-        (entry.embedType === "iframe" &&
-          entry.embedUrl &&
-          (isClassroom6xGame(entry) || isMobileFriendlyExternalGame(entry))))
-  );
-}
-
-function isClassroom6xGame(entry) {
-  return Boolean(
-    entry.classrom6xPage ||
-      entry.classroom6xPage ||
-      /^https:\/\/(?:classrom6x|ubgwtf)\.gitlab\.io\//i.test(entry.embedUrl || "") ||
-      /^https:\/\/classroom-6x\.io\//i.test(entry.embedUrl || "")
-  );
-}
-
-function isRobloxStyleGame(entry) {
-  return /roblox|obby|minecraft|eagler|noob|block|parkour|monster school|herobrine|mine/i.test(
-    [entry.title, entry.category, ...(entry.tags || [])].join(" ")
-  );
-}
-
-function isMobileFriendlyExternalGame(entry) {
-  if (!isRobloxStyleGame(entry)) return false;
-  let host = "";
-  try {
-    host = new URL(entry.embedUrl).hostname.toLowerCase();
-  } catch (error) {
-    return false;
-  }
-
-  return (
-    host === "html5.gamedistribution.com" ||
-    host === "cdn.freegames.com" ||
-    host === "www.kidsgame.com" ||
-    host === "pizzaedition.win"
+      entry.embedType === "html" &&
+      entry.embedPath
   );
 }
 
 const games = (window.CROWN_GAMES || []).filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-classrom-repair";
+const THUMB_VERSION = "20260517-local-only";
 const APPLE_TOUCH_DEVICE = /iPad|iPhone|iPod/i.test(navigator.userAgent) ||
   (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
 const MIN_LOADER_MS = 3500;
@@ -303,12 +269,6 @@ function loadCurrentGame() {
     notice('Game not found. <a href="index.html">Back to Crown Games</a>');
   } else if (game.embedType === "html" && game.embedPath) {
     frame(game.embedPath);
-  } else if (
-    game.embedType === "iframe" &&
-    game.embedUrl &&
-    (isClassroom6xGame(game) || isMobileFriendlyExternalGame(game))
-  ) {
-    frame(game.embedUrl);
   } else if (game.embedUrl) {
     notice(
       'This game still needs a Crown-local iPad build before it can run here. <a href="index.html">Back to Crown Games</a>'

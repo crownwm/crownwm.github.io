@@ -10,12 +10,12 @@ Upload the live site files from this folder or the deployment zip to any approve
 
 ## What Is Included
 
-- Visible Crown games: 731
-- Visible Classroom 6x games/embeds: 529
-- Visible Roblox/block/obby-style games: 393
+- Visible Crown-local games: 140
+- Remote mirror iframe games: removed from the live catalog
+- Visible Roblox/block/obby-style games: 2
 - Working local Ruffle games: 26
-- Catalog entries with thumbnails: 1092
-- Hidden broken/unsupported entries: 361
+- Catalog entries with thumbnails: 140
+- Hidden broken/unsupported entries: 0
 - Saved favorites: yes, stored in the visitor's browser
 - Player controls: loading screen, favorite, reload, fullscreen, fill/fit
 - Settings: saved themes, compact grid, calm motion, player sizing
@@ -23,6 +23,7 @@ Upload the live site files from this folder or the deployment zip to any approve
 - Missing thumbnails: 0
 - Cards that open away from Crown: 0
 - Offsite-navigation games removed: yes
+- Remote iframe catalog entries: 0
 
 ## Deployment Package
 
@@ -32,6 +33,7 @@ The upload zip includes only live site files. Developer tools stay local.
 
 Use the scripts in the `tools` folder if you want to refresh the catalog later.
 `finalize-catalog.js` removes broken/offsite launchers, cleans categories, and deduplicates titles.
+`remove-remote-iframe-games.js` keeps the public catalog local-only when a mirror/source stops being usable.
 
 ## Adding UGS Files
 
