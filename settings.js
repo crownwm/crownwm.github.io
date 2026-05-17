@@ -11,13 +11,13 @@ const settingGroups = [
   {
     id: "theme",
     title: "Atmosphere",
-    help: "Changes the whole site mood.",
+    help: "Adds a background effect without changing the layout.",
     options: [
-      ["classic", "Crown Edition", "Pizza-style dark Crown home."],
-      ["snow", "Snowfall", "Black background with falling snow."],
-      ["rain", "Rain Loop", "Rain video-style overlay on repeat."],
-      ["neon", "Neon Arcade", "Dark arcade glow."],
-      ["sunset", "Sunset", "Orange sky and softer cards."],
+      ["classic", "Crown Edition", "Clean dark Crown background."],
+      ["snow", "Snowfall", "Adds falling snow over the same site."],
+      ["rain", "Rain Loop", "Adds a rain overlay over the same site."],
+      ["neon", "Neon Arcade", "Adds an arcade glow over the same site."],
+      ["sunset", "Sunset", "Adds a warm haze over the same site."],
     ],
   },
   {
@@ -71,7 +71,8 @@ function saveCrownSettings() {
 
 function applyCrownSettings() {
   const root = document.documentElement;
-  root.dataset.theme = crownSettings.theme;
+  root.dataset.theme = "classic";
+  root.dataset.atmosphere = crownSettings.theme;
   root.dataset.density = crownSettings.density;
   root.dataset.motion = crownSettings.motion;
   root.dataset.playerMode = crownSettings.playerMode;

@@ -2,7 +2,7 @@ const games = (window.CROWN_GAMES || []).filter(
   (entry) => entry.playable && (entry.embedPath || entry.embedUrl)
 );
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260516-cover-icons";
+const THUMB_VERSION = "20260517-mobile-shell";
 const MIN_LOADER_MS = 3500;
 const LOADER_FADE_MS = 680;
 const params = new URLSearchParams(location.search);
@@ -162,7 +162,14 @@ function notice(message) {
 
 function setViewportHeight() {
   const height = window.visualViewport?.height || window.innerHeight;
+  const playbar = document.querySelector(".playbar");
   document.documentElement.style.setProperty("--app-height", height + "px");
+  if (playbar) {
+    document.documentElement.style.setProperty(
+      "--actual-playbar-height",
+      Math.ceil(playbar.getBoundingClientRect().height) + "px"
+    );
+  }
 }
 
 function setPlayerMode(fill) {
@@ -185,6 +192,15 @@ function reloadFrame(iframe, src) {
   window.setTimeout(() => {
     iframe.src = src;
   }, 80);
+}
+
+function wrappedEmbedSrc(src) {
+  if (!/^https?:/i.test(src)) return src;
+  const params = new URLSearchParams({
+    src,
+    title: game ? game.title : "Crown game",
+  });
+  return "embeds/crown-frame.html?" + params.toString();
 }
 
 function loadScript(src) {
@@ -287,7 +303,7 @@ function loadCurrentGame() {
         notice("Ruffle could not load on this device. Try another Crown game.");
       });
   } else if (game.embedUrl) {
-    frame(game.embedUrl);
+    frame(wrappedEmbedSrc(game.embedUrl));
   } else {
     notice('This game does not have a usable embed. <a href="index.html">Back to Crown Games</a>');
   }

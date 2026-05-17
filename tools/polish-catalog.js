@@ -38,10 +38,19 @@ function sourceScore(game) {
   return score;
 }
 
+function isBlockedTarget(game) {
+  const target = String(game.embedUrl || game.embedPath || "");
+  return /(^|\/\/)(?:www\.)?playhop\.com\//i.test(target);
+}
+
 function dedupe(games) {
   const chosen = new Map();
   const removed = [];
   for (const game of games) {
+    if (isBlockedTarget(game)) {
+      removed.push(game);
+      continue;
+    }
     const key = normalizeTitle(game.title);
     if (!key) continue;
     const current = chosen.get(key);
@@ -82,6 +91,21 @@ function slugify(value = "") {
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "")
     .slice(0, 72) || "game";
+}
+
+function localFileExists(relativePath = "") {
+  return Boolean(relativePath) && fs.existsSync(path.join(root, relativePath.replace(/\//g, path.sep)));
+}
+
+function hasUsableThumbnail(game) {
+  const thumbnail = String(game.thumbnail || "");
+  return (
+    thumbnail &&
+    !/assets\/thumbs\/logos\//i.test(thumbnail) &&
+    !/assets\/thumbs\/crown-covers\//i.test(thumbnail) &&
+    !/^https?:/i.test(thumbnail) &&
+    localFileExists(thumbnail)
+  );
 }
 
 const palettes = [
@@ -178,6 +202,7 @@ function svgFor(game) {
 function refreshAllCovers(games) {
   let updated = 0;
   for (const game of games) {
+    if (hasUsableThumbnail(game)) continue;
     const coverPath = path
       .join(
         "assets",

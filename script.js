@@ -2,7 +2,7 @@ const allGames = (window.CROWN_GAMES || []).filter(
   (game) => game.playable && (game.embedPath || game.embedUrl)
 );
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260516-cover-icons";
+const THUMB_VERSION = "20260517-mobile-shell";
 const LAUNCH_FADE_MS = 520;
 const hotSearches = [
   "Roblox",
@@ -15,6 +15,45 @@ const hotSearches = [
   "2 Player",
   "Driving",
   "Clicker",
+];
+const CUSTOM_APPS_KEY = "crownCustomAppsV1";
+const crownApps = [
+  {
+    id: "create",
+    title: "Create an App",
+    description: "Make your own Crown app shortcut on this device.",
+    icon: "+",
+  },
+  {
+    id: "notes",
+    title: "Notes",
+    description: "A quick saved notes pad.",
+    icon: "N",
+  },
+  {
+    id: "calculator",
+    title: "Calculator",
+    description: "Simple calculator for fast math.",
+    icon: "C",
+  },
+  {
+    id: "draw",
+    title: "Draw",
+    description: "Sketch pad with touch support.",
+    icon: "D",
+  },
+  {
+    id: "timer",
+    title: "Timer",
+    description: "Stopwatch and timer controls.",
+    icon: "T",
+  },
+  {
+    id: "checklist",
+    title: "Checklist",
+    description: "Save small task lists locally.",
+    icon: "L",
+  },
 ];
 
 const categoryPriority = [
@@ -119,6 +158,40 @@ function favoriteButton(game) {
     escapeHtml((pressed ? "Remove " : "Add ") + game.title + (pressed ? " from favorites" : " to favorites")) +
     '"><span>&#9733;</span></button>'
   );
+}
+
+function loadCustomApps() {
+  try {
+    const apps = JSON.parse(localStorage.getItem(CUSTOM_APPS_KEY) || "[]");
+    return Array.isArray(apps) ? apps : [];
+  } catch (error) {
+    return [];
+  }
+}
+
+function appCard(app) {
+  const title = escapeHtml(app.title || "Crown App");
+  const description = escapeHtml(app.description || "Saved Crown app.");
+  const icon = escapeHtml(String(app.icon || title.slice(0, 1) || "C").slice(0, 2).toUpperCase());
+  const appId = encodeURIComponent(app.id || app.title || "create");
+  return (
+    '<a class="app-card" href="apps/app.html?app=' +
+    appId +
+    '">' +
+    '<span class="app-icon">' +
+    icon +
+    "</span><span><strong>" +
+    title +
+    "</strong><small>" +
+    description +
+    "</small></span></a>"
+  );
+}
+
+function buildApps() {
+  const holder = $("#appsGrid");
+  if (!holder) return;
+  holder.innerHTML = [...crownApps, ...loadCustomApps()].map(appCard).join("");
 }
 
 function card(game, index = 0) {
@@ -396,4 +469,5 @@ $("#search").addEventListener("input", () => {
 buildTrendChips();
 buildHeroGallery();
 buildNav();
+buildApps();
 render();
