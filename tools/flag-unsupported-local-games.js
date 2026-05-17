@@ -15,10 +15,6 @@ function writeGames(games) {
   fs.writeFileSync(dataFile, `window.CROWN_GAMES = ${JSON.stringify(games, null, 2)};\n`, "utf8");
 }
 
-function hasRuffleOrFlash(html) {
-  return /@ruffle-rs|RufflePlayer|\.swf\b|shockwave-flash|application\/x-shockwave-flash/i.test(html);
-}
-
 function isExternalShell(html) {
   const bodyText = html.replace(/<script[\s\S]*?<\/script>/gi, "").replace(/<style[\s\S]*?<\/style>/gi, "");
   const iframeMatch = bodyText.match(/<iframe[^>]+src=["'](https?:\/\/[^"']+)/i);
@@ -45,7 +41,6 @@ for (const game of games) {
 
   const html = fs.readFileSync(file, "utf8");
   const reasons = [];
-  if (hasRuffleOrFlash(html)) reasons.push("uses Flash/Ruffle");
   if (isExternalShell(html)) reasons.push("external-only iframe shell");
 
   if (reasons.length) {
@@ -53,7 +48,7 @@ for (const game of games) {
     game.playable = false;
     game.unsupportedReason = reasons.join("; ");
     flagged.push({ title: game.title, reason: game.unsupportedReason });
-  } else if (game.unsupportedReason || game.mobileReady === false) {
+  } else if (game.unsupportedReason === "external-only iframe shell" || game.mobileReady === false && !game.requiresRuffle) {
     delete game.unsupportedReason;
     delete game.mobileReady;
     unflagged.push(game.title);

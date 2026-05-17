@@ -10,9 +10,11 @@ Upload the live site files from this folder or the deployment zip to any approve
 
 ## What Is Included
 
-- Visible iPad-ready games: 113
-- Catalog entries with thumbnails: 1305
-- Hidden external/Flash/unsupported entries: 1192
+- Visible Crown games: 918
+- Visible Class6x games/embeds: 778
+- Working local Ruffle games: 26
+- Catalog entries with thumbnails: 1341
+- Hidden broken/unsupported entries: 423
 - Saved favorites: yes, stored in the visitor's browser
 - Player controls: loading screen, favorite, reload, fullscreen, fill/fit
 - Settings: saved themes, compact grid, calm motion, player sizing
@@ -36,6 +38,7 @@ Save the UGS list as `data/ugs-files.txt`, put the real standalone `.html` files
 
 ```powershell
 node tools/import-ugs-local-files.js
+node tools/restore-working-ruffle-games.js
 node tools/flag-unsupported-local-games.js
 node tools/fill-web-logo-thumbnails.js
 node tools/audit-local-playability.js

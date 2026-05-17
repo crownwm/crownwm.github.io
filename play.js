@@ -1,11 +1,15 @@
 function isIpadReadyGame(entry) {
   return Boolean(
     entry.playable &&
-      entry.embedType === "html" &&
-      entry.embedPath &&
       entry.mobileReady !== false &&
-      !entry.unsupportedReason
+      !entry.unsupportedReason &&
+      ((entry.embedType === "html" && entry.embedPath) ||
+        (entry.embedType === "iframe" && entry.embedUrl && isClass6xGame(entry)))
   );
+}
+
+function isClass6xGame(entry) {
+  return Boolean(entry.class6xPage || /^https:\/\/class6x\.gitlab\.io\//i.test(entry.embedUrl || ""));
 }
 
 const games = (window.CROWN_GAMES || []).filter(isIpadReadyGame);
@@ -262,6 +266,8 @@ function loadCurrentGame() {
     notice('Game not found. <a href="index.html">Back to Crown Games</a>');
   } else if (game.embedType === "html" && game.embedPath) {
     frame(game.embedPath);
+  } else if (game.embedType === "iframe" && game.embedUrl && isClass6xGame(game)) {
+    frame(game.embedUrl);
   } else if (game.embedUrl) {
     notice(
       'This game still needs a Crown-local iPad build before it can run here. <a href="index.html">Back to Crown Games</a>'

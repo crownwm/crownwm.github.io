@@ -9,20 +9,33 @@ const sandbox = { window: {} };
 vm.runInNewContext(fs.readFileSync(dataFile, "utf8"), sandbox);
 
 const games = Array.isArray(sandbox.window.CROWN_GAMES) ? sandbox.window.CROWN_GAMES : [];
-const playable = games.filter(
+function isVisibleGame(game) {
+  return Boolean(
+    game.playable &&
+    game.mobileReady !== false &&
+    !game.unsupportedReason &&
+    ((game.embedType === "html" && game.embedPath) ||
+      (game.embedType === "iframe" && game.embedUrl && isClass6xGame(game)))
+  );
+}
+
+function isClass6xGame(game) {
+  return Boolean(game.class6xPage || /^https:\/\/class6x\.gitlab\.io\//i.test(game.embedUrl || ""));
+}
+
+const playable = games.filter(isVisibleGame);
+const hiddenIds = new Set();
+games
+  .filter((game) => game.mobileReady === false || game.unsupportedReason)
+  .forEach((game) => hiddenIds.add(game.id));
+games
+  .filter(
   (game) =>
     game.playable &&
-    game.embedType === "html" &&
-    game.embedPath &&
-    game.mobileReady !== false &&
-    !game.unsupportedReason,
-);
-const hidden = games.filter(
-  (game) =>
-    (game.playable && !(game.embedType === "html" && game.embedPath)) ||
-    game.mobileReady === false ||
-    game.unsupportedReason,
-);
+    !isVisibleGame(game) &&
+    (game.embedPath || game.embedUrl),
+  )
+  .forEach((game) => hiddenIds.add(game.id));
 const missingEmbedFiles = [];
 const ruffleOrFlash = [];
 const externalShells = [];
@@ -60,7 +73,7 @@ function looksLikeExternalShell(html) {
   return Boolean(iframeMatch && shortShell && !hasCanvas && !hasLocalScript);
 }
 
-for (const game of playable) {
+for (const game of playable.filter((entry) => entry.embedType === "html" && entry.embedPath)) {
   if (!fileExists(game.embedPath)) {
     missingEmbedFiles.push({ title: game.title, embedPath: game.embedPath });
     continue;
@@ -89,7 +102,7 @@ console.log(
     {
       totalCatalogGames: games.length,
       visibleIpadReadyGames: playable.length,
-      hiddenExternalOrUnsupportedGames: hidden.length,
+      hiddenExternalOrUnsupportedGames: hiddenIds.size,
       missingEmbedFiles: missingEmbedFiles.length,
       ruffleOrFlashGames: ruffleOrFlash.length,
       externalShells: externalShells.length,

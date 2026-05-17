@@ -1,11 +1,15 @@
 function isIpadReadyGame(game) {
   return Boolean(
     game.playable &&
-      game.embedType === "html" &&
-      game.embedPath &&
       game.mobileReady !== false &&
-      !game.unsupportedReason
+      !game.unsupportedReason &&
+      ((game.embedType === "html" && game.embedPath) ||
+        (game.embedType === "iframe" && game.embedUrl && isClass6xGame(game)))
   );
+}
+
+function isClass6xGame(game) {
+  return Boolean(game.class6xPage || /^https:\/\/class6x\.gitlab\.io\//i.test(game.embedUrl || ""));
 }
 
 const rawGameCatalog = window.CROWN_GAMES || [];
@@ -375,7 +379,7 @@ function render() {
   if (modeNote) {
     modeNote.textContent =
       hiddenExternalCount > 0
-        ? hiddenExternalCount + " external-only or unsupported games are hidden so iPad players do not hit blocked/broken pages."
+        ? hiddenExternalCount + " broken or unsupported games are hidden so players do not hit dead pages."
         : "All Crown games are loading from Crown-local launch files.";
   }
   updateFavoriteNavCount();
