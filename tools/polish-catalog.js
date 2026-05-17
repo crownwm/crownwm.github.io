@@ -136,6 +136,67 @@ function wrapTitle(title) {
   return lines.slice(0, 3);
 }
 
+function initials(title = "") {
+  const words = String(title)
+    .replace(/[^a-z0-9 ]/gi, " ")
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean);
+  if (!words.length) return "CG";
+  if (words.length === 1) return words[0].slice(0, 3).toUpperCase();
+  return words.slice(0, 3).map((word) => word[0]).join("").toUpperCase();
+}
+
+function motifFor(title = "") {
+  const text = String(title).toLowerCase();
+  if (/angry birds?/.test(text)) {
+    return '<circle cx="330" cy="148" r="76" fill="#ef2424" stroke="#111827" stroke-width="12"/><path d="M258 136c34-22 72-27 111-14" stroke="#111827" stroke-width="14" stroke-linecap="round"/><circle cx="306" cy="134" r="13" fill="#fff"/><circle cx="362" cy="134" r="13" fill="#fff"/><circle cx="310" cy="136" r="6" fill="#111827"/><circle cx="358" cy="136" r="6" fill="#111827"/><path d="M327 154l58 18-58 24z" fill="#facc15" stroke="#111827" stroke-width="9" stroke-linejoin="round"/><path d="M292 79l-26-39 47 23" fill="#ef2424" stroke="#111827" stroke-width="9" stroke-linejoin="round"/>';
+  }
+  if (/fnaf|five nights|freddy/.test(text)) {
+    return '<circle cx="318" cy="156" r="80" fill="#7c3f1d" stroke="#111827" stroke-width="12"/><circle cx="258" cy="92" r="33" fill="#7c3f1d" stroke="#111827" stroke-width="10"/><circle cx="378" cy="92" r="33" fill="#7c3f1d" stroke="#111827" stroke-width="10"/><circle cx="290" cy="147" r="14" fill="#fff"/><circle cx="346" cy="147" r="14" fill="#fff"/><circle cx="290" cy="149" r="6" fill="#111827"/><circle cx="346" cy="149" r="6" fill="#111827"/><ellipse cx="318" cy="188" rx="40" ry="27" fill="#f7d7a8" stroke="#111827" stroke-width="8"/><path d="M302 194h32" stroke="#111827" stroke-width="8" stroke-linecap="round"/><rect x="285" y="64" width="66" height="18" rx="6" fill="#111827"/>';
+  }
+  if (/mario|koopa|luigi/.test(text)) {
+    return '<circle cx="318" cy="153" r="78" fill="#f8d8b7" stroke="#111827" stroke-width="12"/><path d="M245 121c22-70 122-74 151 0z" fill="#ef2424" stroke="#111827" stroke-width="12"/><circle cx="318" cy="99" r="31" fill="#fff" stroke="#111827" stroke-width="8"/><text x="318" y="111" text-anchor="middle" font-size="34" font-family="Arial Black, Arial" fill="#ef2424">M</text><path d="M278 176c34 24 72 24 107 0" stroke="#111827" stroke-width="12" stroke-linecap="round"/><path d="M278 145h80" stroke="#111827" stroke-width="13" stroke-linecap="round"/>';
+  }
+  if (/sonic/.test(text)) {
+    return '<circle cx="318" cy="151" r="85" fill="#2563eb" stroke="#111827" stroke-width="12"/><path d="M247 132c58-22 107-58 153-104-3 57-25 102-66 135 37 2 69 15 96 42-56 14-107 10-153-13z" fill="#38bdf8" stroke="#111827" stroke-width="9" stroke-linejoin="round"/><ellipse cx="328" cy="181" rx="49" ry="25" fill="#fef3c7" stroke="#111827" stroke-width="8"/><circle cx="294" cy="132" r="11" fill="#fff"/><circle cx="337" cy="128" r="11" fill="#fff"/><circle cx="298" cy="134" r="5" fill="#111827"/><circle cx="341" cy="130" r="5" fill="#111827"/>';
+  }
+  if (/kirby/.test(text)) {
+    return '<circle cx="318" cy="151" r="82" fill="#fb8fc6" stroke="#111827" stroke-width="12"/><ellipse cx="251" cy="199" rx="45" ry="22" fill="#ef4444" stroke="#111827" stroke-width="9" transform="rotate(-16 251 199)"/><ellipse cx="386" cy="199" rx="45" ry="22" fill="#ef4444" stroke="#111827" stroke-width="9" transform="rotate(16 386 199)"/><ellipse cx="292" cy="135" rx="13" ry="24" fill="#111827"/><ellipse cx="344" cy="135" rx="13" ry="24" fill="#111827"/><path d="M297 186c15 11 29 11 44 0" stroke="#111827" stroke-width="9" stroke-linecap="round"/>';
+  }
+  if (/pokemon|pok[eé]mon/.test(text)) {
+    return '<circle cx="318" cy="150" r="88" fill="#fff" stroke="#111827" stroke-width="13"/><path d="M231 150a88 88 0 0 1 176 0z" fill="#ef4444"/><path d="M230 150h176" stroke="#111827" stroke-width="14"/><circle cx="318" cy="150" r="29" fill="#fff" stroke="#111827" stroke-width="12"/><circle cx="318" cy="150" r="10" fill="#111827"/>';
+  }
+  if (/zelda/.test(text)) {
+    return '<path d="M318 45l75 138H243z" fill="#facc15" stroke="#111827" stroke-width="11" stroke-linejoin="round"/><path d="M245 232l73-134 74 134z" fill="#facc15" stroke="#111827" stroke-width="11" stroke-linejoin="round"/><path d="M196 232l73-134 74 134zM293 232l73-134 74 134z" fill="#fde68a" stroke="#111827" stroke-width="10" stroke-linejoin="round"/>';
+  }
+  if (/bloons|balloon/.test(text)) {
+    return '<ellipse cx="263" cy="124" rx="42" ry="55" fill="#ef4444" stroke="#111827" stroke-width="9"/><ellipse cx="326" cy="102" rx="42" ry="55" fill="#2563eb" stroke="#111827" stroke-width="9"/><ellipse cx="377" cy="143" rx="42" ry="55" fill="#22c55e" stroke="#111827" stroke-width="9"/><path d="M263 181c-10 34-21 59-33 75M326 159c-6 38-8 66-6 90M377 200c12 29 24 51 36 67" stroke="#111827" stroke-width="8" stroke-linecap="round"/>';
+  }
+  if (/baldi|baldy/.test(text)) {
+    return '<rect x="238" y="70" width="168" height="150" rx="18" fill="#f8fafc" stroke="#111827" stroke-width="11"/><path d="M270 106h100M270 139h82M270 172h112" stroke="#22c55e" stroke-width="11" stroke-linecap="round"/><rect x="222" y="213" width="197" height="30" rx="10" fill="#facc15" stroke="#111827" stroke-width="9" transform="rotate(-8 320 228)"/>';
+  }
+  if (/geometry|dash/.test(text)) {
+    return '<rect x="255" y="82" width="128" height="128" rx="18" fill="#7c3aed" stroke="#111827" stroke-width="12" transform="rotate(10 319 146)"/><circle cx="296" cy="128" r="13" fill="#fff"/><circle cx="348" cy="128" r="13" fill="#fff"/><path d="M281 168h78" stroke="#fff" stroke-width="12" stroke-linecap="round"/><path d="M213 237l35-59 36 59zM352 237l35-59 36 59z" fill="#facc15" stroke="#111827" stroke-width="9" stroke-linejoin="round"/>';
+  }
+  if (/duck/.test(text)) {
+    return '<ellipse cx="323" cy="160" rx="88" ry="68" fill="#facc15" stroke="#111827" stroke-width="12"/><circle cx="265" cy="109" r="45" fill="#facc15" stroke="#111827" stroke-width="11"/><circle cx="276" cy="99" r="9" fill="#111827"/><path d="M220 122l-58 19 58 21z" fill="#f97316" stroke="#111827" stroke-width="9" stroke-linejoin="round"/><path d="M347 221c14 23 31 33 52 31" stroke="#111827" stroke-width="11" stroke-linecap="round"/>';
+  }
+  if (/minecraft|noob|miner|dig/.test(text)) {
+    return '<rect x="244" y="74" width="150" height="150" rx="14" fill="#22c55e" stroke="#111827" stroke-width="12"/><path d="M244 148h150M319 74v150" stroke="#14532d" stroke-width="12" opacity=".55"/><rect x="271" y="126" width="30" height="28" fill="#111827"/><rect x="336" y="126" width="30" height="28" fill="#111827"/><path d="M279 182h80" stroke="#111827" stroke-width="13" stroke-linecap="round"/><path d="M389 74l51 51" stroke="#f8fafc" stroke-width="18" stroke-linecap="round"/><path d="M410 86l36-36" stroke="#facc15" stroke-width="18" stroke-linecap="round"/>';
+  }
+  if (/pizza/.test(text)) {
+    return '<path d="M241 58l166 62-118 128z" fill="#facc15" stroke="#111827" stroke-width="12" stroke-linejoin="round"/><path d="M241 58c54 8 108 29 166 62" stroke="#f97316" stroke-width="20" stroke-linecap="round"/><circle cx="312" cy="139" r="14" fill="#ef4444"/><circle cx="347" cy="170" r="14" fill="#ef4444"/><circle cx="296" cy="191" r="14" fill="#ef4444"/>';
+  }
+  if (/plants|zombies/.test(text)) {
+    return '<circle cx="276" cy="142" r="60" fill="#22c55e" stroke="#111827" stroke-width="11"/><path d="M252 111c39-50 90-62 155-35-14 62-51 97-110 106" fill="#16a34a" stroke="#111827" stroke-width="9" stroke-linejoin="round"/><circle cx="260" cy="134" r="9" fill="#111827"/><circle cx="297" cy="134" r="9" fill="#111827"/><path d="M279 203v55" stroke="#14532d" stroke-width="16" stroke-linecap="round"/>';
+  }
+  if (/tetris|2048|sudoku|word|quiz|trivia/.test(text)) {
+    return '<rect x="242" y="78" width="56" height="56" rx="9" fill="#ef4444" stroke="#111827" stroke-width="8"/><rect x="298" y="78" width="56" height="56" rx="9" fill="#facc15" stroke="#111827" stroke-width="8"/><rect x="354" y="78" width="56" height="56" rx="9" fill="#22c55e" stroke="#111827" stroke-width="8"/><rect x="298" y="134" width="56" height="56" rx="9" fill="#3b82f6" stroke="#111827" stroke-width="8"/><rect x="298" y="190" width="56" height="56" rx="9" fill="#a855f7" stroke="#111827" stroke-width="8"/>';
+  }
+  return "";
+}
+
 function categoryIcon(category = "", title = "") {
   const text = (category + " " + title).toLowerCase();
   if (/roblox|obby|simulator|blox|brookhaven|steal|brainrot|tycoon/.test(text)) {
@@ -163,7 +224,9 @@ function svgFor(game) {
   const id = "g" + hash(game.id || game.title);
   const palette = palettes[hash(game.title) % palettes.length];
   const lines = wrapTitle(game.title);
-  const baseSize = lines.length === 1 ? 58 : lines.length === 2 ? 45 : 34;
+  const baseSize = lines.length === 1 ? 62 : lines.length === 2 ? 47 : 35;
+  const logoText = escapeXml(initials(game.title));
+  const motif = motifFor(game.title) || categoryIcon(game.category, game.title);
   const lineSvg = lines
     .map((line, index) => {
       const y = 188 + index * (baseSize + 3);
@@ -190,10 +253,12 @@ function svgFor(game) {
   <circle cx="430" cy="12" r="138" fill="#fff" opacity=".16"/>
   <circle cx="64" cy="298" r="166" fill="#000" opacity=".2"/>
   <g filter="url(#${id}shadow)" transform="translate(18 -6) scale(.9)">
-    ${categoryIcon(game.category, game.title)}
+    ${motif}
   </g>
-  <rect x="25" y="26" width="151" height="34" rx="17" fill="#111827" opacity=".82"/>
-  <text x="43" y="49" font-size="18" font-family="Arial Black, Arial, sans-serif" fill="#fef3c7" letter-spacing="1.5">CROWN GAMES</text>
+  <rect x="25" y="24" width="168" height="38" rx="19" fill="#111827" opacity=".86"/>
+  <text x="43" y="50" font-size="18" font-family="Arial Black, Arial, sans-serif" fill="#fef3c7" letter-spacing="1.5">CROWN GAMES</text>
+  <rect x="32" y="78" width="130" height="72" rx="18" fill="#f8fafc" stroke="#111827" stroke-width="8" opacity=".92"/>
+  <text x="97" y="126" text-anchor="middle" font-size="${logoText.length > 2 ? 34 : 42}" font-family="Arial Black, Arial, sans-serif" fill="#111827">${logoText}</text>
   ${lineSvg}
 </svg>
 `;

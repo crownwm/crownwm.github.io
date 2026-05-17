@@ -2,7 +2,7 @@ const allGames = (window.CROWN_GAMES || []).filter(
   (game) => game.playable && (game.embedPath || game.embedUrl)
 );
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-mobile-shell";
+const THUMB_VERSION = "20260517-logo-fix";
 const LAUNCH_FADE_MS = 520;
 const hotSearches = [
   "Roblox",
@@ -138,12 +138,18 @@ function toggleFavorite(id) {
 }
 
 function logoFallback(title = "") {
-  const initial = escapeHtml(title.slice(0, 1).toUpperCase() || "C");
+  const words = String(title).replace(/[^a-z0-9 ]/gi, " ").trim().split(/\s+/).filter(Boolean);
+  const initial = escapeHtml(
+    (words.length > 1 ? words.slice(0, 3).map((word) => word[0]).join("") : (words[0] || "C").slice(0, 3)).toUpperCase()
+  );
+  const label = escapeHtml(title);
   return (
     '<span class="thumb-fallback" aria-hidden="true">' +
     "<b>" +
     initial +
-    "</b></span>"
+    "</b><em>" +
+    label +
+    "</em></span>"
   );
 }
 
@@ -173,6 +179,7 @@ function appCard(app) {
   const title = escapeHtml(app.title || "Crown App");
   const description = escapeHtml(app.description || "Saved Crown app.");
   const icon = escapeHtml(String(app.icon || title.slice(0, 1) || "C").slice(0, 2).toUpperCase());
+  const logo = app.logo ? versionedAsset(app.logo) : "";
   const appId = encodeURIComponent(app.id || app.title || "create");
   const colors = app.colors || ["#8b5cf6", "#ffd447"];
   const style =
@@ -184,7 +191,7 @@ function appCard(app) {
     appId +
     '">' +
     '<span class="app-icon">' +
-    icon +
+    (logo ? '<img class="app-logo" src="' + escapeHtml(logo) + '" alt="" loading="lazy" decoding="async">' : icon) +
     "</span><span><strong>" +
     title +
     "</strong><small>" +

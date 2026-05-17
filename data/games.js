@@ -12,7 +12,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1cXOAwvU-ylOtdf1KrDNDHWqEGKWgGSJC",
     "driveFileName": "cl1on1soccer.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-1-v-1-lol",
@@ -175,7 +175,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1zp9A0jghV7xZKlAcNhP4uFwR-dAuBWW1",
     "driveFileName": "cl1v1tennis.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-2-minute-football",
@@ -252,7 +252,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1d4qxVdowbLnJ34kLE_u0r9Rnxj_ijsYV",
     "driveFileName": "cl2Dshooting.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3-pandas",
@@ -267,7 +267,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "166vN2N4eK9rO5tPzMqv9qFVpTivcaVX9",
     "driveFileName": "cl3pandas.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3-pandas-brazil",
@@ -282,7 +282,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1O7JDlmh3G-4bt7yxoUdUJUjIwMCA2MO4",
     "driveFileName": "cl3pandasbrazil.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3-pandas-fantasy",
@@ -297,7 +297,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1mho2syJYRIn2wZZZPkjV_mQfJ_p-Y-n4",
     "driveFileName": "cl3pandasfantasy.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3-pandas-japan",
@@ -312,7 +312,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1GvfnFY4iCDU6KOj13hzODHQK2bDPWfHw",
     "driveFileName": "cl3pandasjapan.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3-pandas-night",
@@ -327,7 +327,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1phl_3yofGgiDdT6-y2hbJ4Wk3mMXE-ox",
     "driveFileName": "cl3pandasnight.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3-slices-2",
@@ -342,7 +342,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1857d3Ar39g8qcn4iM21XCV6_KCEV5Ilr",
     "driveFileName": "cl3slices2.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3d-car-simulator",
@@ -375,7 +375,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1yQclRMII5l-C_8hKY1W2EjdlYkyasm9N",
     "driveFileName": "cl3dash.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3d-dash-editor",
@@ -390,7 +390,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "14fwtngK-vE6fT3LBmcmyAhpTPruyLkpB",
     "driveFileName": "cl3dasheditor.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-3d-monster-truck-skyroads",
@@ -456,7 +456,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1ThH-powjmyAQ82qHSYr-u13NiEEuud2a",
     "driveFileName": "cl4thandgoal.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-4th-and-goal-2022",
@@ -1258,7 +1258,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "16Y-r_X5wxD8gSvxX6esXOAVnQTaJb361",
     "driveFileName": "Bank Robbery.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-barry-prison-hide-and-seek",
@@ -1870,6 +1870,18 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/bloons-tower-defense-4-https-sites-google-com-lindberghschools-ws-crown-official.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-bloxd-io",
+    "title": "Bloxd.io",
+    "category": "Multiplayer",
+    "thumbnail": "assets/thumbs/crown-covers/bloxd-io-dc41774d.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://bloxd.io/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-blue",
@@ -2510,6 +2522,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-bullet-force-multiplayer",
+    "title": "Bullet Force Multiplayer",
+    "category": "Shooting",
+    "thumbnail": "assets/thumbs/crown-covers/bullet-force-multiplayer-9cdcde20.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://www.crazygames.com/game/bullet-force-multiplayer",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
     "id": "crown-bumper-cars-soccer",
     "title": "Bumper Cars Soccer",
     "category": "2 Player",
@@ -3006,7 +3030,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "18UnKdrZ6zeqHynTRefXtIIaoLji2Ig7r",
     "driveFileName": "cheeserolling.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-chess",
@@ -3180,7 +3204,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "19ra_g4UHw5HAsZKjcP1jyG5CqoAnMp-o",
     "driveFileName": "cl1.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-cl-3",
@@ -3195,7 +3219,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1EuEe1bCm9nzgvRBkGbO8i-8gwsmH-K6a",
     "driveFileName": "cl-3.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-cl-b",
@@ -3210,7 +3234,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1vnpHevhDDNNiVbJx0m75dMBE5s015lgC",
     "driveFileName": "cl-b.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-clash-of-tanks",
@@ -3688,6 +3712,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-cubes-2048",
+    "title": "Cubes 2048",
+    "category": "Puzzle",
+    "thumbnail": "assets/thumbs/crown-covers/cubes-2048-505a3f3c.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://www.crazygames.com/game/cubes-2048-io",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
     "id": "crown-cubes-king",
     "title": "Cubes King",
     "category": "Puzzle",
@@ -3747,7 +3783,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Shooting"
     ],
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-curve-ball-3d",
@@ -4354,7 +4390,7 @@ window.CROWN_GAMES = [
     "driveFolderId": "1ou3mI5xJVQv8Vt_MvwejPtf7zStSnU-s",
     "driveFileId": "1vfeu3GpafbQBfrv_l_ql72qDlT26OXj1",
     "driveFileName": "cl2doom.html",
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-doom-64",
@@ -4981,6 +5017,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-evades",
+    "title": "Evades",
+    "category": "Multiplayer",
+    "thumbnail": "assets/thumbs/crown-covers/evades-bd08de29.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://evades.io/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
     "id": "crown-evo-city-driving",
     "title": "Evo City Driving",
     "category": "Racing",
@@ -5068,6 +5116,18 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/fallout-https-sites-google-com-lindberghschools-ws-crown-official-fallout.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-fancade",
+    "title": "Fancade",
+    "category": "Games",
+    "thumbnail": "assets/thumbs/crown-covers/fancade-e9a2e4fb.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://play.fancade.com/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-fancy-pants",
@@ -5242,6 +5302,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-fireboy-and-watergirl-2-in-the-light-temple",
+    "title": "Fireboy And Watergirl 2 In The Light Temple",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/crown-covers/fireboy-and-watergirl-2-in-the-light-temple-5cf78e67.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/sites/default/files/public_games/40210/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
     "id": "crown-fireboy-and-watergirl-2-light-temple",
     "title": "Fireboy and Watergirl 2: Light Temple",
     "category": "2 Player",
@@ -5274,6 +5346,18 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-fireboy-and-watergirl-4-in-the-crystal-temple",
+    "title": "Fireboy And Watergirl 4 In The Crystal Temple",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/crown-covers/fireboy-and-watergirl-4-in-the-crystal-temple-2bef260f.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/sites/default/files/public_games/40212/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-fireboy-and-watergirl-4-crystal-temple",
@@ -5323,6 +5407,18 @@ window.CROWN_GAMES = [
       "Puzzle"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-fireboy-and-watergirl-in-the-forest-temple",
+    "title": "Fireboy And Watergirl In The Forest Temple",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/crown-covers/fireboy-and-watergirl-in-the-forest-temple-408855ff.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://www.coolmathgames.com/sites/default/files/public_games/40034/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-five-nights-at-freedy-s",
@@ -5459,6 +5555,42 @@ window.CROWN_GAMES = [
     "embedPath": "embeds/fnaf-https-sites-google-com-lindberghschools-ws-crown-official-fnaf.html",
     "thumbnailSource": "crown",
     "source": "crown"
+  },
+  {
+    "id": "crown-fnaf-2",
+    "title": "FNAF 2",
+    "category": "Horror",
+    "thumbnail": "assets/thumbs/crown-covers/fnaf-2-40e38aa3.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://sussygamedeveloper.github.io/FNAF2/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
+    "id": "crown-fnaf-3",
+    "title": "FNAF 3",
+    "category": "Horror",
+    "thumbnail": "assets/thumbs/crown-covers/fnaf-3-3fe38910.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://sussygamedeveloper.github.io/fnaf3/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
+    "id": "crown-fnaf-web",
+    "title": "FNAF Web",
+    "category": "Horror",
+    "thumbnail": "assets/thumbs/crown-covers/fnaf-web-37f2555b.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-fnaf2",
@@ -6071,6 +6203,18 @@ window.CROWN_GAMES = [
       "Shooting"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-gartic-phone",
+    "title": "Gartic Phone",
+    "category": "Multiplayer",
+    "thumbnail": "assets/thumbs/crown-covers/gartic-phone-fcde2834.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://garticphone.com/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-gem-11",
@@ -7372,7 +7516,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-into-the-pit",
@@ -7592,6 +7736,18 @@ window.CROWN_GAMES = [
       "parkour",
       "crown"
     ]
+  },
+  {
+    "id": "crown-johnny-upgrade",
+    "title": "Johnny Upgrade",
+    "category": "Action",
+    "thumbnail": "assets/thumbs/crown-covers/johnny-upgrade-2c7c1996.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://lagged.com/api/play2/johnny-upgrade3/",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-jollyworld",
@@ -11732,6 +11888,30 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-riddle-school-4",
+    "title": "Riddle School 4",
+    "category": "Puzzle",
+    "thumbnail": "assets/thumbs/crown-covers/riddle-school-4-6be425e5.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://riddle-school-4.game-files.crazygames.com/ruffle/riddleschool4.html",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
+    "id": "crown-riddle-school-5",
+    "title": "Riddle School 5",
+    "category": "Puzzle",
+    "thumbnail": "assets/thumbs/crown-covers/riddle-school-5-6ae42452.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://riddle-school-5.game-files.crazygames.com/ruffle/riddleschool5.html",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
     "id": "crown-rio-rex",
     "title": "Rio Rex",
     "category": "Games",
@@ -14071,6 +14251,18 @@ window.CROWN_GAMES = [
     "thumbnailSource": "crown-local-art"
   },
   {
+    "id": "crown-subway-surfers-san-francisco",
+    "title": "Subway Surfers San Francisco",
+    "category": "Skill",
+    "thumbnail": "assets/thumbs/crown-covers/subway-surfers-san-francisco-b0819673.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
+  },
+  {
     "id": "crown-subway-surfers-sanfransisco",
     "title": "Subway Surfers Sanfransisco",
     "category": "Running",
@@ -14458,6 +14650,18 @@ window.CROWN_GAMES = [
       "Skill"
     ],
     "thumbnailSource": "crown-local-art"
+  },
+  {
+    "id": "crown-survivor-io",
+    "title": "Survivor.io",
+    "category": "Action",
+    "thumbnail": "assets/thumbs/crown-covers/survivor-io-54a5ee00.svg",
+    "embedType": "iframe",
+    "embedUrl": "https://html5.gamedistribution.com/rvvASMiM/f1c451e586c04b4c8cba01b0c50d9090/index.html",
+    "playable": true,
+    "sourceHadEmbed": true,
+    "source": "crown",
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-sweety-mahjong",
@@ -15745,7 +15949,7 @@ window.CROWN_GAMES = [
     "tags": [
       "Puzzle"
     ],
-    "thumbnailSource": "crown-generated-clean"
+    "thumbnailSource": "crown"
   },
   {
     "id": "crown-unicycle-hero",

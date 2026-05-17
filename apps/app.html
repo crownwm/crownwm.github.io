@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Crown Apps</title>
   <meta name="theme-color" content="#0b0a12">
-  <link rel="icon" href="../favicon.ico?v=20260517-mobile-shell" sizes="any">
-  <link rel="stylesheet" href="../styles.css?v=20260517-mobile-shell">
+  <link rel="icon" href="../favicon.ico?v=20260517-logo-fix" sizes="any">
+  <link rel="stylesheet" href="../styles.css?v=20260517-logo-fix">
   <style>
     body.app-page {
       min-height: 100vh;
@@ -76,6 +76,13 @@
       font-size: 32px;
       font-weight: 1000;
       box-shadow: inset 0 0 0 2px rgba(255,255,255,.36);
+      overflow: hidden;
+    }
+
+    .app-hero-icon img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
 
     .app-hero h1 {
@@ -151,6 +158,7 @@
       border: 1px solid rgba(255,255,255,.14);
       border-radius: 18px;
       background: #050505;
+      display: block;
     }
 
     .app-warning {
@@ -198,7 +206,7 @@
     </section>
   </main>
 
-  <script src="catalog.js?v=20260517-apps"></script>
+  <script src="catalog.js?v=20260517-logo-fix"></script>
   <script>
     const CUSTOM_APPS_KEY = "crownCustomAppsV1";
     const NOTES_KEY = "crownNotesV1";
@@ -249,7 +257,16 @@
       const title = app.title || "Crown App";
       const description = app.description || "A local Crown utility.";
       const heroIcon = document.getElementById("heroIcon");
-      heroIcon.textContent = String(icon).slice(0, 4).toUpperCase();
+      const logo = app.logo ? (app.logo.startsWith("http") ? app.logo : "../" + app.logo.replace(/^\/+/, "")) : "";
+      heroIcon.textContent = "";
+      if (logo) {
+        const image = document.createElement("img");
+        image.src = logo + (logo.includes("?") ? "&" : "?") + "v=20260517-logo-fix";
+        image.alt = "";
+        heroIcon.appendChild(image);
+      } else {
+        heroIcon.textContent = String(icon).slice(0, 4).toUpperCase();
+      }
       heroIcon.style.background = "linear-gradient(135deg, " + colors[0] + ", " + (colors[1] || colors[0]) + ")";
       document.getElementById("appTitle").textContent = title;
       document.getElementById("appDescription").textContent = description;
@@ -419,16 +436,17 @@
         tool.innerHTML = '<div class="result">This app URL is not available.</div>';
         return;
       }
+      const frameSrc = "../embeds/crown-frame.html?src=" + encodeURIComponent(url.href) + "&title=" + encodeURIComponent(app.title || "Crown App");
       tool.innerHTML =
         '<div class="web-frame-wrap">' +
         '<div class="tool-row"><button id="reloadWebApp" type="button">Reload App</button></div>' +
         '<p class="app-warning">Crown keeps this inside the app shell. Some services block embedded mode themselves, so if a panel stays blank, that service is refusing iframe loading.</p>' +
-        '<iframe id="webAppFrame" class="web-app-frame" title="' + safeHtml(app.title) + '" src="' + safeHtml(url.href) + '" allow="autoplay; fullscreen; clipboard-write; encrypted-media; gamepad; pointer-lock" sandbox="allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-orientation-lock allow-presentation"></iframe>' +
+        '<iframe id="webAppFrame" class="web-app-frame" title="' + safeHtml(app.title) + '" src="' + safeHtml(frameSrc) + '" loading="eager" referrerpolicy="no-referrer-when-downgrade" allow="autoplay; fullscreen; clipboard-write; encrypted-media; gamepad; pointer-lock; accelerometer; gyroscope; magnetometer" allowfullscreen webkitallowfullscreen sandbox="allow-scripts allow-same-origin allow-forms allow-pointer-lock allow-orientation-lock allow-presentation"></iframe>' +
         "</div>";
       document.getElementById("reloadWebApp").addEventListener("click", () => {
         const frame = document.getElementById("webAppFrame");
         frame.src = "about:blank";
-        setTimeout(() => frame.src = url.href, 80);
+        setTimeout(() => frame.src = frameSrc, 80);
       });
     }
 

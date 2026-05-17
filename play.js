@@ -2,7 +2,7 @@ const games = (window.CROWN_GAMES || []).filter(
   (entry) => entry.playable && (entry.embedPath || entry.embedUrl)
 );
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-mobile-shell";
+const THUMB_VERSION = "20260517-logo-fix";
 const MIN_LOADER_MS = 3500;
 const LOADER_FADE_MS = 680;
 const params = new URLSearchParams(location.search);
