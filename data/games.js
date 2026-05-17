@@ -1542,12 +1542,12 @@ window.CROWN_GAMES = [
     "id": "crown-baseball-bros",
     "title": "BaseBall Bros",
     "category": "Games",
-    "thumbnail": "assets/thumbs/embedded/baseball-bros-https-sites-google-com-lindberghschools-ws-crown-official-baseball.png",
+    "thumbnail": "assets/thumbs/web-logos/baseball-bros.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/baseball-bros-https-sites-google-com-lindberghschools-ws-crown-official-baseball.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -3937,12 +3937,12 @@ window.CROWN_GAMES = [
     "id": "crown-core-ball",
     "title": "Core Ball",
     "category": "Games",
-    "thumbnail": "assets/thumbs/embedded/core-ball-https-sites-google-com-lindberghschools-ws-crown-official-core-ball.png",
+    "thumbnail": "assets/thumbs/web-logos/core-ball.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/core-ball-https-sites-google-com-lindberghschools-ws-crown-official-core-ball.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -4399,12 +4399,12 @@ window.CROWN_GAMES = [
     "id": "crown-cut-the-rope",
     "title": "Cut the Rope",
     "category": "Games",
-    "thumbnail": "assets/thumbs/embedded/cut-the-rope-https-sites-google-com-lindberghschools-ws-crown-official-cut-the-r.png",
+    "thumbnail": "assets/thumbs/web-logos/cut-the-rope.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/cut-the-rope-https-sites-google-com-lindberghschools-ws-crown-official-cut-the-r.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -5711,12 +5711,12 @@ window.CROWN_GAMES = [
     "id": "crown-escape-road",
     "title": "Escape Road",
     "category": "Games",
-    "thumbnail": "assets/thumbs/embedded/escape-road-https-sites-google-com-lindberghschools-ws-crown-official-escape-roa.png",
+    "thumbnail": "assets/thumbs/web-logos/escape-road.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/escape-road-https-sites-google-com-lindberghschools-ws-crown-official-escape-roa.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -13436,12 +13436,12 @@ window.CROWN_GAMES = [
     "id": "crown-ragdoll-archers",
     "title": "Ragdoll Archers",
     "category": "Games",
-    "thumbnail": "assets/thumbs/embedded/ragdoll-archers-https-sites-google-com-lindberghschools-ws-crown-official-ragdol.jpeg",
+    "thumbnail": "assets/thumbs/web-logos/ragdoll-archers.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/ragdoll-archers-https-sites-google-com-lindberghschools-ws-crown-official-ragdol.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -13960,13 +13960,13 @@ window.CROWN_GAMES = [
     "id": "crown-riddle-school-5",
     "title": "Riddle School 5",
     "category": "Puzzle",
-    "thumbnail": "assets/thumbs/interstellar-icons/riddle-school-5.webp",
+    "thumbnail": "assets/thumbs/web-logos/riddle-school-5.jpg",
     "embedType": "iframe",
     "embedUrl": "https://riddle-school-5.game-files.crazygames.com/ruffle/riddleschool5.html",
     "playable": true,
     "sourceHadEmbed": true,
     "source": "crown",
-    "thumbnailSource": "interstellar-local"
+    "thumbnailSource": "web-logo-local"
   },
   {
     "id": "crown-rio-rex",
@@ -15860,12 +15860,12 @@ window.CROWN_GAMES = [
     "id": "crown-steam",
     "title": "Steam",
     "category": "Games",
-    "thumbnail": "assets/thumbs/interstellar-icons/steam.webp",
+    "thumbnail": "assets/thumbs/web-logos/steam.jpg",
     "embedType": "iframe",
     "embedUrl": "https://steampowered.com/",
     "playable": true,
     "source": "crown",
-    "thumbnailSource": "interstellar-local",
+    "thumbnailSource": "web-logo-local",
     "tags": []
   },
   {
@@ -16610,12 +16610,12 @@ window.CROWN_GAMES = [
     "id": "crown-subways-surfers-beijing",
     "title": "Subways Surfers Beijing",
     "category": "Games",
-    "thumbnail": "assets/thumbs/embedded/subways-surfers-beijing-https-sites-google-com-lindberghschools-ws-crown-officia.png",
+    "thumbnail": "assets/thumbs/web-logos/subways-surfers-beijing.jpg",
     "embedType": "html",
     "playable": true,
     "sourceHadEmbed": true,
     "embedPath": "embeds/subways-surfers-beijing-https-sites-google-com-lindberghschools-ws-crown-officia.html",
-    "thumbnailSource": "local-logo",
+    "thumbnailSource": "web-logo-local",
     "source": "crown"
   },
   {
@@ -17380,12 +17380,12 @@ window.CROWN_GAMES = [
     "id": "crown-tetr-io",
     "title": "Tetr.io",
     "category": "2 Player",
-    "thumbnail": "assets/thumbs/interstellar-icons/tetr-io.webp",
+    "thumbnail": "assets/thumbs/web-logos/tetr-io.jpg",
     "embedType": "iframe",
     "embedUrl": "https://tetr.io/",
     "playable": true,
     "source": "crown",
-    "thumbnailSource": "interstellar-local",
+    "thumbnailSource": "web-logo-local",
     "tags": [
       "2 Player"
     ]

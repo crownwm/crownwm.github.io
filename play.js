@@ -1,8 +1,10 @@
-const games = (window.CROWN_GAMES || []).filter(
-  (entry) => entry.playable && (entry.embedPath || entry.embedUrl)
-);
+function isIpadReadyGame(entry) {
+  return Boolean(entry.playable && entry.embedType === "html" && entry.embedPath);
+}
+
+const games = (window.CROWN_GAMES || []).filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-mobile-wip";
+const THUMB_VERSION = "20260517-ipad-local";
 const MIN_LOADER_MS = 3500;
 const LOADER_FADE_MS = 680;
 const params = new URLSearchParams(location.search);
@@ -298,7 +300,9 @@ function loadCurrentGame() {
         notice("Ruffle could not load on this device. Try another Crown game.");
       });
   } else if (game.embedUrl) {
-    frame(wrappedEmbedSrc(game.embedUrl));
+    notice(
+      'This game still needs a Crown-local iPad build before it can run here. <a href="index.html">Back to Crown Games</a>'
+    );
   } else {
     notice('This game does not have a usable embed. <a href="index.html">Back to Crown Games</a>');
   }

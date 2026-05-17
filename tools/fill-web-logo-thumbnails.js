@@ -27,6 +27,21 @@ function saveGames(games) {
   fs.writeFileSync(gamesPath, `window.CROWN_GAMES = ${JSON.stringify(games, null, 2)};\n`);
 }
 
+function isValidImageFile(assetPath) {
+  const fullPath = path.join(repoRoot, assetPath);
+  if (!fs.existsSync(fullPath)) return false;
+  const buffer = fs.readFileSync(fullPath);
+  if (buffer.length < 8) return false;
+  const head = buffer.slice(0, 16).toString("hex");
+  const textHead = buffer.slice(0, 64).toString("utf8").trim().toLowerCase();
+  return (
+    head.startsWith("ffd8ff") ||
+    head.startsWith("89504e470d0a1a0a") ||
+    head.startsWith("52494646") ||
+    textHead.startsWith("<svg")
+  );
+}
+
 function download(url, target) {
   return new Promise((resolve, reject) => {
     const request = https.get(
@@ -73,9 +88,12 @@ function download(url, target) {
 async function main() {
   fs.mkdirSync(outputDir, { recursive: true });
   const games = loadGames();
-  const unresolved = games.filter(
-    (game) => game.thumbnailSource === "crown" || String(game.thumbnail || "").includes("crown-covers"),
-  );
+  const unresolved = games.filter((game) => {
+    const thumbnail = String(game.thumbnail || "");
+    if (game.thumbnailSource === "crown" || thumbnail.includes("crown-covers")) return true;
+    if (!thumbnail || /^https?:/i.test(thumbnail)) return false;
+    return !isValidImageFile(thumbnail);
+  });
 
   const results = [];
   for (const game of unresolved) {
@@ -103,9 +121,12 @@ async function main() {
 
   saveGames(games);
 
-  const stillUnresolved = games.filter(
-    (game) => game.thumbnailSource === "crown" || String(game.thumbnail || "").includes("crown-covers"),
-  );
+  const stillUnresolved = games.filter((game) => {
+    const thumbnail = String(game.thumbnail || "");
+    if (game.thumbnailSource === "crown" || thumbnail.includes("crown-covers")) return true;
+    if (!thumbnail || /^https?:/i.test(thumbnail)) return false;
+    return !isValidImageFile(thumbnail);
+  });
 
   console.log(
     JSON.stringify(

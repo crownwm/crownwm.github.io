@@ -422,6 +422,18 @@ html[data-theme="sunset"] .hero {
   font-size: 17px;
 }
 
+.mode-note {
+  display: inline-flex;
+  max-width: 680px;
+  padding: 10px 13px;
+  border: 1px solid rgba(255,255,255,0.18);
+  border-radius: 14px;
+  background: rgba(0,0,0,0.24);
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 800;
+}
+
 .stats {
   position: relative;
   z-index: 1;
@@ -2011,6 +2023,12 @@ html[data-theme="classic"] .hero p {
   color: #d7d2e4;
   font-size: 28px;
   line-height: 1.14;
+}
+
+html[data-theme="classic"] .hero .mode-note {
+  color: #f7f1ff;
+  font-size: 15px;
+  line-height: 1.35;
 }
 
 html[data-theme="classic"] .start-button {

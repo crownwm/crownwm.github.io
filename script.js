@@ -1,8 +1,12 @@
-const allGames = (window.CROWN_GAMES || []).filter(
-  (game) => game.playable && (game.embedPath || game.embedUrl)
-);
+function isIpadReadyGame(game) {
+  return Boolean(game.playable && game.embedType === "html" && game.embedPath);
+}
+
+const fullGameCatalog = (window.CROWN_GAMES || []).filter((game) => game.playable && (game.embedPath || game.embedUrl));
+const hiddenExternalCount = fullGameCatalog.filter((game) => !isIpadReadyGame(game)).length;
+const allGames = fullGameCatalog.filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-mobile-wip";
+const THUMB_VERSION = "20260517-ipad-local";
 const LAUNCH_FADE_MS = 520;
 const hotSearches = [
   "Roblox",
@@ -353,6 +357,13 @@ function render() {
     : "All Games";
   $("#gameCount").textContent = allGames.length;
   $("#search").placeholder = "Search " + allGames.length + " games...";
+  const modeNote = $("#modeNote");
+  if (modeNote) {
+    modeNote.textContent =
+      hiddenExternalCount > 0
+        ? hiddenExternalCount + " external-only games are hidden so iPad players do not hit blocked game-site pages."
+        : "All Crown games are loading from Crown-local launch files.";
+  }
   updateFavoriteNavCount();
 }
 

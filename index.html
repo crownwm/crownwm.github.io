@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Crown Games</title>
-  <meta name="description" content="Crown Games, a fast mobile-first game vault with Crown-branded launch pages.">
+  <meta name="description" content="Crown Games, a fast mobile-first game vault with Crown-local launch pages.">
   <meta name="theme-color" content="#15120d">
   <meta name="application-name" content="Crown Games">
   <meta name="apple-mobile-web-app-title" content="Crown Games">
@@ -15,11 +15,7 @@
   <link rel="icon" href="favicon.png?v=20260516-favicon" sizes="32x32" type="image/png">
   <link rel="apple-touch-icon" href="assets/site-icon-180.png?v=20260516-favicon">
   <link rel="manifest" href="site.webmanifest?v=20260516-favicon">
-  <link rel="preconnect" href="https://class6x.gitlab.io">
-  <link rel="preconnect" href="https://pizzaedition.win">
-  <link rel="dns-prefetch" href="//class6x.gitlab.io">
-  <link rel="dns-prefetch" href="//pizzaedition.win">
-  <link rel="stylesheet" href="styles.css?v=20260517-mobile-wip">
+  <link rel="stylesheet" href="styles.css?v=20260517-ipad-local">
 </head>
 <body>
   <header class="topbar">
@@ -45,7 +41,8 @@
       <div class="hero-copy">
         <p class="eyebrow">Crown Official</p>
         <h1>Crown <span>Games</span></h1>
-        <p>Play a huge mobile-first game vault instantly. Every game stays inside Crown with fast controls, favorites, fullscreen, and cleaner loading.</p>
+        <p>Play Crown-local games instantly on mobile. External-only game-site links are hidden so iPad players do not hit blocked pages.</p>
+        <p class="mode-note" id="modeNote">Checking iPad-ready games...</p>
         <a class="start-button" href="#allGamesSection">Start Playing</a>
       </div>
       <div class="hero-gallery" aria-hidden="true">
@@ -53,7 +50,7 @@
         <div class="hero-column"><div class="hero-track reverse" data-track="1"></div></div>
         <div class="hero-column"><div class="hero-track" data-track="2"></div></div>
       </div>
-      <div class="stats"><strong id="gameCount">1075</strong><span>playable games</span></div>
+      <div class="stats"><strong id="gameCount">0</strong><span>iPad-ready games</span></div>
     </section>
 
     <section class="section-block" id="trendingBlock">
@@ -92,9 +89,9 @@
     </div>
   </div>
 
-  <script src="settings.js?v=20260517-mobile-wip"></script>
-  <script src="apps/catalog.js?v=20260517-mobile-wip"></script>
-  <script src="data/games.js?v=20260517-mobile-wip"></script>
-  <script src="script.js?v=20260517-mobile-wip"></script>
+  <script src="settings.js?v=20260517-ipad-local"></script>
+  <script src="apps/catalog.js?v=20260517-ipad-local"></script>
+  <script src="data/games.js?v=20260517-ipad-local"></script>
+  <script src="script.js?v=20260517-ipad-local"></script>
 </body>
 </html>

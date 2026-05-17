@@ -9,8 +9,22 @@ vm.runInNewContext(fs.readFileSync(path.join(root, "data", "games.js"), "utf8"),
 const games = sandbox.window.CROWN_GAMES;
 const missing = [];
 const placeholders = [];
+const invalidImages = [];
 const dirs = {};
 const sources = {};
+
+function isValidImageFile(file) {
+  const buffer = fs.readFileSync(file);
+  if (buffer.length < 8) return false;
+  const head = buffer.slice(0, 16).toString("hex");
+  const textHead = buffer.slice(0, 64).toString("utf8").trim().toLowerCase();
+  return (
+    head.startsWith("ffd8ff") ||
+    head.startsWith("89504e470d0a1a0a") ||
+    head.startsWith("52494646") ||
+    textHead.startsWith("<svg")
+  );
+}
 
 for (const game of games) {
   const thumbnail = game.thumbnail || "";
@@ -22,8 +36,13 @@ for (const game of games) {
 
   if (!thumbnail) {
     missing.push({ title: game.title, reason: "empty" });
-  } else if (!/^https?:/i.test(thumbnail) && !fs.existsSync(path.join(root, thumbnail))) {
-    missing.push({ title: game.title, thumbnail, reason: "file missing" });
+  } else if (!/^https?:/i.test(thumbnail)) {
+    const file = path.join(root, thumbnail);
+    if (!fs.existsSync(file)) {
+      missing.push({ title: game.title, thumbnail, reason: "file missing" });
+    } else if (!isValidImageFile(file)) {
+      invalidImages.push({ title: game.title, thumbnail, reason: "not a browser-safe image" });
+    }
   }
 
   if (
@@ -41,10 +60,12 @@ console.log(
       total: games.length,
       missing: missing.length,
       placeholders: placeholders.length,
+      invalidImages: invalidImages.length,
       sources,
       dirs,
       missingSamples: missing.slice(0, 20),
       placeholderSamples: placeholders.slice(0, 20),
+      invalidImageSamples: invalidImages.slice(0, 20),
     },
     null,
     2,
