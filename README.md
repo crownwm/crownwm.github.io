@@ -10,8 +10,9 @@ Upload the live site files from this folder or the deployment zip to any approve
 
 ## What Is Included
 
-- Playable games: 972
-- Crown game cards: 972
+- Visible iPad-ready games: 113
+- Catalog entries with thumbnails: 1305
+- Hidden external/Flash/unsupported entries: 1192
 - Saved favorites: yes, stored in the visitor's browser
 - Player controls: loading screen, favorite, reload, fullscreen, fill/fit
 - Settings: saved themes, compact grid, calm motion, player sizing
@@ -28,3 +29,16 @@ The upload zip includes only live site files. Developer tools stay local.
 
 Use the scripts in the `tools` folder if you want to refresh the catalog later.
 `finalize-catalog.js` removes broken/offsite launchers, cleans categories, and deduplicates titles.
+
+## Adding UGS Files
+
+Save the UGS list as `data/ugs-files.txt`, put the real standalone `.html` files in `UGS Files` or `embeds/ugs-source`, then run:
+
+```powershell
+node tools/import-ugs-local-files.js
+node tools/flag-unsupported-local-games.js
+node tools/fill-web-logo-thumbnails.js
+node tools/audit-local-playability.js
+```
+
+The importer only adds games when the actual local HTML exists. It skips missing files, external-only iframe shells, and Ruffle/Flash entries by default so mobile players do not get broken games.

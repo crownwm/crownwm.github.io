@@ -1,9 +1,22 @@
 function isIpadReadyGame(game) {
-  return Boolean(game.playable && game.embedType === "html" && game.embedPath);
+  return Boolean(
+    game.playable &&
+      game.embedType === "html" &&
+      game.embedPath &&
+      game.mobileReady !== false &&
+      !game.unsupportedReason
+  );
 }
 
-const fullGameCatalog = (window.CROWN_GAMES || []).filter((game) => game.playable && (game.embedPath || game.embedUrl));
-const hiddenExternalCount = fullGameCatalog.filter((game) => !isIpadReadyGame(game)).length;
+const rawGameCatalog = window.CROWN_GAMES || [];
+const fullGameCatalog = rawGameCatalog.filter((game) => game.playable && (game.embedPath || game.embedUrl));
+const hiddenGameIds = new Set(
+  rawGameCatalog
+    .filter((game) => game.mobileReady === false || game.unsupportedReason)
+    .map((game) => game.id)
+);
+fullGameCatalog.filter((game) => !isIpadReadyGame(game)).forEach((game) => hiddenGameIds.add(game.id));
+const hiddenExternalCount = hiddenGameIds.size;
 const allGames = fullGameCatalog.filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
 const THUMB_VERSION = "20260517-ipad-local";
@@ -242,6 +255,7 @@ function card(game, index = 0) {
       '" alt="' +
       title +
       ' cover"' +
+      ' onerror="this.remove()"'+
       (eager ? ' fetchpriority="high"' : "") +
       ">"
     : "";
@@ -361,7 +375,7 @@ function render() {
   if (modeNote) {
     modeNote.textContent =
       hiddenExternalCount > 0
-        ? hiddenExternalCount + " external-only games are hidden so iPad players do not hit blocked game-site pages."
+        ? hiddenExternalCount + " external-only or unsupported games are hidden so iPad players do not hit blocked/broken pages."
         : "All Crown games are loading from Crown-local launch files.";
   }
   updateFavoriteNavCount();

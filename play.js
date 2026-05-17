@@ -1,5 +1,11 @@
 function isIpadReadyGame(entry) {
-  return Boolean(entry.playable && entry.embedType === "html" && entry.embedPath);
+  return Boolean(
+    entry.playable &&
+      entry.embedType === "html" &&
+      entry.embedPath &&
+      entry.mobileReady !== false &&
+      !entry.unsupportedReason
+  );
 }
 
 const games = (window.CROWN_GAMES || []).filter(isIpadReadyGame);
@@ -196,25 +202,6 @@ function reloadFrame(iframe, src) {
   }, 80);
 }
 
-function wrappedEmbedSrc(src) {
-  return src;
-}
-
-function loadScript(src) {
-  return new Promise((resolve, reject) => {
-    const script = document.createElement("script");
-    script.src = src;
-    script.onload = resolve;
-    script.onerror = reject;
-    document.head.appendChild(script);
-  });
-}
-
-function loadRuffle() {
-  if (window.RufflePlayer) return Promise.resolve();
-  return loadScript("https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@latest/ruffle.min.js");
-}
-
 function frame(src) {
   let loaded = false;
   const iframe = document.createElement("iframe");
@@ -275,30 +262,6 @@ function loadCurrentGame() {
     notice('Game not found. <a href="index.html">Back to Crown Games</a>');
   } else if (game.embedType === "html" && game.embedPath) {
     frame(game.embedPath);
-  } else if (game.embedType === "swf" && game.embedUrl) {
-    loadRuffle()
-      .then(() => {
-        const ruffle = window.RufflePlayer?.newest?.();
-        if (!ruffle) {
-          notice("Ruffle did not load yet. Refresh once, or try another game.");
-          return;
-        }
-        const rufflePlayer = ruffle.createPlayer();
-        activeFrame = rufflePlayer;
-        activeSrc = game.embedUrl;
-        player.innerHTML = "";
-        player.appendChild(rufflePlayer);
-        armLoaderFallback();
-        rufflePlayer
-          .load(game.embedUrl)
-          .then(() => hideLoader(120))
-          .catch(() => {
-            notice("This Flash game failed to load in Ruffle. The rest of Crown is still fine.");
-          });
-      })
-      .catch(() => {
-        notice("Ruffle could not load on this device. Try another Crown game.");
-      });
   } else if (game.embedUrl) {
     notice(
       'This game still needs a Crown-local iPad build before it can run here. <a href="index.html">Back to Crown Games</a>'
