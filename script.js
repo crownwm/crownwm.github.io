@@ -6,12 +6,12 @@ function isIpadReadyGame(game) {
       ((game.embedType === "html" && game.embedPath) ||
         (game.embedType === "iframe" &&
           game.embedUrl &&
-          (isClass6xGame(game) || isMobileFriendlyExternalGame(game))))
+          (isClassroom6xGame(game) || isMobileFriendlyExternalGame(game))))
   );
 }
 
-function isClass6xGame(game) {
-  return Boolean(game.class6xPage || /^https:\/\/class6x\.gitlab\.io\//i.test(game.embedUrl || ""));
+function isClassroom6xGame(game) {
+  return Boolean(game.classroom6xPage || /^https:\/\/classroom-6x\.io\//i.test(game.embedUrl || ""));
 }
 
 function isRobloxStyleGame(game) {

@@ -6,12 +6,12 @@ function isIpadReadyGame(entry) {
       ((entry.embedType === "html" && entry.embedPath) ||
         (entry.embedType === "iframe" &&
           entry.embedUrl &&
-          (isClass6xGame(entry) || isMobileFriendlyExternalGame(entry))))
+          (isClassroom6xGame(entry) || isMobileFriendlyExternalGame(entry))))
   );
 }
 
-function isClass6xGame(entry) {
-  return Boolean(entry.class6xPage || /^https:\/\/class6x\.gitlab\.io\//i.test(entry.embedUrl || ""));
+function isClassroom6xGame(entry) {
+  return Boolean(entry.classroom6xPage || /^https:\/\/classroom-6x\.io\//i.test(entry.embedUrl || ""));
 }
 
 function isRobloxStyleGame(entry) {
@@ -301,7 +301,7 @@ function loadCurrentGame() {
   } else if (
     game.embedType === "iframe" &&
     game.embedUrl &&
-    (isClass6xGame(game) || isMobileFriendlyExternalGame(game))
+    (isClassroom6xGame(game) || isMobileFriendlyExternalGame(game))
   ) {
     frame(game.embedUrl);
   } else if (game.embedUrl) {

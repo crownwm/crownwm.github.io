@@ -10,11 +10,11 @@ Upload the live site files from this folder or the deployment zip to any approve
 
 ## What Is Included
 
-- Visible Crown games: 980
-- Visible Class6x games/embeds: 777
-- Visible Roblox/block/obby-style games: 115
+- Visible Crown games: 731
+- Visible Classroom 6x games/embeds: 529
+- Visible Roblox/block/obby-style games: 393
 - Working local Ruffle games: 26
-- Catalog entries with thumbnails: 1341
+- Catalog entries with thumbnails: 1092
 - Hidden broken/unsupported entries: 361
 - Saved favorites: yes, stored in the visitor's browser
 - Player controls: loading screen, favorite, reload, fullscreen, fill/fit

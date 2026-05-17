@@ -8,8 +8,8 @@ vm.runInNewContext(fs.readFileSync(path.join(root, "data", "games.js"), "utf8"),
 
 const games = Array.isArray(sandbox.window.CROWN_GAMES) ? sandbox.window.CROWN_GAMES : [];
 
-function isClass6xGame(game) {
-  return Boolean(game.class6xPage || /^https:\/\/class6x\.gitlab\.io\//i.test(game.embedUrl || ""));
+function isClassroom6xGame(game) {
+  return Boolean(game.classroom6xPage || /^https:\/\/classroom-6x\.io\//i.test(game.embedUrl || ""));
 }
 
 function isRobloxStyleGame(game) {
@@ -43,7 +43,7 @@ function isVisibleGame(game) {
       ((game.embedType === "html" && game.embedPath) ||
         (game.embedType === "iframe" &&
           game.embedUrl &&
-          (isClass6xGame(game) || isMobileFriendlyExternalGame(game))))
+          (isClassroom6xGame(game) || isMobileFriendlyExternalGame(game))))
   );
 }
 
