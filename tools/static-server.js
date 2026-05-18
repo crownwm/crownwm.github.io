@@ -14,6 +14,9 @@ const mime = {
   ".json": "application/json",
   ".png": "image/png",
   ".svg": "image/svg+xml",
+  ".unityweb": "application/octet-stream",
+  ".wasm": "application/wasm",
+  ".webm": "video/webm",
   ".webp": "image/webp",
 };
 

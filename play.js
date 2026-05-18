@@ -10,7 +10,7 @@ function isIpadReadyGame(entry) {
 
 const games = (window.CROWN_GAMES || []).filter(isIpadReadyGame);
 const FAVORITES_KEY = "crownFavoritesV1";
-const THUMB_VERSION = "20260517-local-only";
+const THUMB_VERSION = "20260518-mobile-final";
 const APPLE_TOUCH_DEVICE = /iPad|iPhone|iPod/i.test(navigator.userAgent) ||
   (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
 const MIN_LOADER_MS = 3500;
@@ -205,6 +205,18 @@ function reloadFrame(iframe, src) {
   }, 80);
 }
 
+function frameStayedOnCrown(iframe, src) {
+  try {
+    const href = iframe.contentWindow?.location?.href || "";
+    if (!href || href === "about:blank") return true;
+    const current = new URL(href, location.href);
+    const expected = new URL(src, location.href);
+    return current.origin === location.origin && current.pathname.startsWith(expected.pathname.replace(/\/[^/]*$/, "/"));
+  } catch (error) {
+    return false;
+  }
+}
+
 function frame(src) {
   let loaded = false;
   const iframe = document.createElement("iframe");
@@ -243,6 +255,10 @@ function frame(src) {
 
   iframe.addEventListener("load", () => {
     if (iframe.getAttribute("src") === "about:blank") return;
+    if (!frameStayedOnCrown(iframe, src)) {
+      reloadFrame(iframe, src);
+      return;
+    }
     loaded = true;
     player.classList.remove("load-slow");
     hideLoader(120);

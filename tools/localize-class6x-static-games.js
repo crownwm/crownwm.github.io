@@ -135,7 +135,12 @@ function isTextUrl(urlString) {
 function safeLocalRel(basePath, urlString) {
   const url = new URL(urlString);
   const cleanBase = basePath.endsWith("/") ? basePath : `${basePath}/`;
-  let pathname = decodeURIComponent(url.pathname);
+  let pathname = url.pathname;
+  try {
+    pathname = decodeURIComponent(pathname);
+  } catch (error) {
+    pathname = pathname.replace(/%/g, "%25");
+  }
   if (pathname === cleanBase || pathname.endsWith("/")) pathname += "index.html";
   if (pathname.startsWith(cleanBase)) {
     return pathname.slice(cleanBase.length).replace(/^\/+/, "") || "index.html";
@@ -145,7 +150,11 @@ function safeLocalRel(basePath, urlString) {
 
 function toFilePath(gameDir, relPath) {
   const normalized = relPath.replace(/\?.*$/, "").replace(/#/g, "");
-  return path.join(gameDir, ...normalized.split("/").filter(Boolean));
+  const parts = normalized
+    .split("/")
+    .filter(Boolean)
+    .map((part) => part.replace(/[<>:"|?*\x00-\x1f]/g, "_").slice(0, 120));
+  return path.join(gameDir, ...parts);
 }
 
 function relativeWebPath(fromRel, toRel) {
@@ -159,6 +168,14 @@ function isSkippableUrl(value) {
     !value ||
     /^(?:data:|blob:|javascript:|mailto:|tel:|about:)/i.test(value) ||
     /(?:googletagmanager|google-analytics|googlesyndication|doubleclick|cloudflareinsights|adsbygoogle)/i.test(value)
+  );
+}
+
+function looksLikeCodeInsteadOfAsset(value) {
+  return (
+    value.length > 240 ||
+    /(?:function\s*\(|=>|typeof\s+|return\s+|const\s+|let\s+|var\s+|new\s+|\\\^)/i.test(value) ||
+    /[{}<>|]/.test(value)
   );
 }
 
@@ -179,7 +196,7 @@ function discoverResources(text, currentUrl, baseUrl) {
   for (const pattern of [attrPattern, urlPattern, importPattern, quotedPattern]) {
     for (const match of source.matchAll(pattern)) {
       const raw = match[1].trim();
-      if (isSkippableUrl(raw)) continue;
+      if (isSkippableUrl(raw) || looksLikeCodeInsteadOfAsset(raw)) continue;
       for (const anchor of [currentUrl, baseUrl]) {
         try {
           found.add(new URL(raw, anchor).href);
@@ -225,7 +242,7 @@ async function mirrorGame(entry, args) {
     if (remoteUrl.href !== startUrl.href && !remoteUrl.pathname.startsWith(basePath)) continue;
 
     seen.add(remote);
-    const localRel = safeLocalRel(basePath, remote);
+    const localRel = remoteUrl.href === startUrl.href ? "index.html" : safeLocalRel(basePath, remote);
     localByUrl.set(remoteUrl.href, localRel);
     const filePath = toFilePath(gameDir, localRel);
     fs.mkdirSync(path.dirname(filePath), { recursive: true });
