@@ -179,6 +179,35 @@ window.CROWN_GAMES = [
     "sourceNote": "Crown-local launch file"
   },
   {
+    "id": "class6x-local-3d-car-simulator",
+    "title": "3D Car Simulator",
+    "category": "Racing",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-3d-car-simulator.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/3d-car-simulator/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "Racing",
+      "Unblocked Games Online",
+      "Car",
+      "3d",
+      "Action",
+      "Boys",
+      "Driving",
+      "Single Player",
+      "Stunt Driving",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
+  },
+  {
     "id": "crown-3d-dash",
     "title": "3D Dash",
     "category": "Bonus Games",
@@ -405,6 +434,33 @@ window.CROWN_GAMES = [
     "sourceNote": "Crown-local launch file"
   },
   {
+    "id": "class6x-local-bad-ice-cream-3",
+    "title": "Bad Ice Cream 3",
+    "category": "Puzzle",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-bad-ice-cream-3.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/bad-ice-cream-3/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "Puzzle",
+      "2 Player",
+      "Girls",
+      "Arcade",
+      "Logic",
+      "Pixel",
+      "Strategy",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
+  },
+  {
     "id": "crown-baldie-caesoh",
     "title": "Baldie Caesoh",
     "category": "Games",
@@ -485,6 +541,33 @@ window.CROWN_GAMES = [
     "thumbnailSource": "web-logo-local",
     "source": "crown",
     "sourceNote": "Crown-local launch file"
+  },
+  {
+    "id": "class6x-local-basketball-stars",
+    "title": "Basketball Stars",
+    "category": "Sports",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-basketball-stars.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/basketball-stars/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "Sports",
+      "2 Player",
+      "Skill",
+      "Ball",
+      "Basketball",
+      "Boys",
+      "Physics",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
   },
   {
     "id": "crown-ben-10-alien-force",
@@ -604,6 +687,33 @@ window.CROWN_GAMES = [
     "thumbnailSource": "web-logo-local",
     "source": "crown",
     "sourceNote": "Crown-local launch file"
+  },
+  {
+    "id": "class6x-local-boxing-physics-2",
+    "title": "Boxing Physics 2",
+    "category": "Sports",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-boxing-physics-2.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/boxing-physics-2/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "Sports",
+      "2 Player",
+      "Arcade",
+      "Boys",
+      "Fighting",
+      "Funny",
+      "Physics",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
   },
   {
     "id": "crown-car-king-arena-best-car-game",
@@ -896,6 +1006,33 @@ window.CROWN_GAMES = [
     "sourceNote": "Crown-local launch file"
   },
   {
+    "id": "class6x-local-drunken-boxing-2",
+    "title": "Drunken Boxing 2",
+    "category": "Sports",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-drunken-boxing-2.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/drunken-boxing-2/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "Sports",
+      "2 Player",
+      "Arcade",
+      "Boys",
+      "Fighting",
+      "Funny",
+      "Physics",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
+  },
+  {
     "id": "crown-escape-road",
     "title": "Escape Road",
     "category": "Games",
@@ -972,6 +1109,60 @@ window.CROWN_GAMES = [
     "thumbnailSource": "local-logo",
     "source": "crown",
     "sourceNote": "Crown-local launch file"
+  },
+  {
+    "id": "class6x-local-football-masters",
+    "title": "Football Masters",
+    "category": "Sports",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-football-masters.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/football-masters/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "Sports",
+      "2 Player",
+      "Skill",
+      "Ball",
+      "Boys",
+      "Physics",
+      "Soccer",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
+  },
+  {
+    "id": "class6x-local-g-switch-4",
+    "title": "G-Switch 4",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-g-switch-4.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/g-switch-4/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "2 Player",
+      "Unblocked Games Online",
+      "Skill",
+      "Action",
+      "Physics",
+      "Platform",
+      "Running",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
   },
   {
     "id": "crown-gorilla-tag",
@@ -1750,6 +1941,34 @@ window.CROWN_GAMES = [
     "sourceNote": "Crown-local launch file"
   },
   {
+    "id": "class6x-local-soccer-random",
+    "title": "Soccer Random",
+    "category": "Sports",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-soccer-random.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/soccer-random/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "Sports",
+      "2 Player",
+      "Skill",
+      "Action",
+      "Arcade",
+      "Ball",
+      "Boys",
+      "Football",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
+  },
+  {
     "id": "crown-sonic",
     "title": "Sonic",
     "category": "Games",
@@ -1800,6 +2019,34 @@ window.CROWN_GAMES = [
     "thumbnailSource": "web-logo-local",
     "source": "crown",
     "sourceNote": "Crown-local launch file"
+  },
+  {
+    "id": "class6x-local-stick-fighter",
+    "title": "Stick Fighter",
+    "category": "2 Player",
+    "thumbnail": "assets/thumbs/classrom6x/classroom6x-stick-fighter.webp",
+    "embedType": "html",
+    "embedPath": "embeds/class6x-local/stick-fighter/index.html",
+    "playable": true,
+    "source": "crown",
+    "sourceNote": "Crown-local launch file",
+    "thumbnailSource": "classrom6x-local",
+    "tags": [
+      "Crown Local",
+      "2 Player",
+      "Unblocked Games Online",
+      "Skill",
+      "Action",
+      "Arcade",
+      "Boys",
+      "Fighting",
+      "Ragdoll",
+      "Trending",
+      "New",
+      "Featured",
+      "Adventure"
+    ],
+    "originalSource": "static mirror"
   },
   {
     "id": "crown-stick-man-duel",
